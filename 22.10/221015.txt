@@ -1,0 +1,77 @@
+1. it turns out 原来是 被证明是  turn out 意思很多
+	It turns out the answer to this question is much more complicated than one might imagine and can teach us quite a bit about the subtle interaction among congestion-aware senders at the network’s edge and the network core!
+
+
+2. backbone 骨干 脊柱
+	In core networks, where a large number of TCP flows typically pass through large backbone router links, the value of N can be large, with the decrease in needed buffer size becoming quite significant.
+
+
+3. incipient 刚开始的 早期的 词源同起初创立  absorb 动 吸收 承受  inedible 不能吃的  edible 可食用的
+	Increased RTTs also make TCP senders less responsive and slower to respond to incipient congestion and/ or packet loss. These delay-based considerations show that buffering is a double-edged sword—buffering can be used to absorb short-term statistical fluctuations in traffic but can also lead to increased delay and the attendant concerns. Buffering is a bit like salt—just the right amount of salt makes food better, but too much makes it inedible!
+
+
+4. refugee 名 难民 词源自避难所 很奇怪为什么不是词根  refuge 名 避难所 庇护  renovate 动 翻新 修补 感觉和创新有不可分割的关系  renovation 革新 翻新  scholar 名 学者 奖学金获得者  bachelor 学士 单身汉  sector 部门 扇区 部分  shelter 名 庇护所 动 遮蔽  spark 火花  spite 恶意  in spite of 不管  steer 动 驾驶 引导  sting 刺 刺痛  surgery 手术 外科手术  surgeon 外科医生  
+
+
+5. tackle 处理 索具  tissue 名 组织 纸巾  transaction 交易 数据处理  transact 动 商议 处理  tunnel 隧道  venture 冒险 企业  venturesome 冒险的 大胆的  vessel 容器 船  vice 恶习 缺点 和同字母开头的另一个单词组成反之亦然  volcano 火山
+
+
+6. ballet 芭蕾  bullet 子弹  bonus 奖金 红利  colony 殖民地 群体  compel 强迫  constitute 构成 形成  convict 名 囚犯 动 判决  conviction 名 确信 深信不疑  cruise 动 巡航 乘船游览  devil 魔鬼  donkey 驴  
+
+
+7. emit 发出 散发  evil 邪恶的 邪恶 坏事  excel 擅长 胜过  fancy 幻想 想要  fanciful 幻想的 稀奇的  frustrate 挫败 阻挠  gamble 赌博 冒险  garble 使错乱   genuine 真正的 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it turns out  backbone  incipient  absorb  inedible  edible 
+
+
+6
+
+
+
+
+refugee  refuge  renovate  scholar  sector  shelter  spark  spite  steer  sting  surgery
+tackle  tissue  transaction  tunnel  venture  vessel  vice  volcano  ballet  bullet  bonus
+colony  compel  constitute  convict  cruise  devil  donkey  emit  evil  excel  fancy  
+frustrate  gamble  genuine  garble  renovation  bachelor  surgeon  fanciful  transact
+conviction  venturesome
+
+
+41
+
+
+sum  47
+
+
+
+
+
+
+
+

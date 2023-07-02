@@ -1,0 +1,41 @@
+1. mantra 咒语 口头禅
+	The social engineer’s mantra is, “I am only as good as the information I gather.”
+
+
+2. target 目标 靶   crux 关键 难点  intimate 详尽的 亲密的  initiate 开始 传授  imitate 模仿
+	A social engineer can possess all the skills in the world, but if he or she doesn’t know about the target, if the social engineer hasn’t outlined every intimate detail, then the chance of failure is more likely to occur. Information gathering is the crux of every social engineering engagement, although people skills and the ability to think on your feet can help you get out of a sticky situation. 
+
+
+3. elicitation 引出 诱出 引诱出
+	Chapter 3 covers elicitation, the next logical step in the framework. 
+
+
+4. readily 乐意地 容易的  (ready)  unravel 解开 弄清  ravel 纠结 纠缠 使更复杂  ravel out 解决 解开  elicitor 诱导者  elicit 引出 诱出 通过一些行动从某人那里获得一些东西
+	Chapter 3 also covers the important topic of preloading the target’s mind with information to make your questions more readily accepted. As you unravel this section you will clearly see how important it is to become an excellent elicitor. 
+
+
+5. realistic 切实可行的   pretexting 假托 通过欺诈获得信息的方法  pretext 借口
+	Will the social engineer be a customer, vendor, tech support, new hire, or something equally realistic and believable? Pretexting involves not just coming up with the storyline but also developing the way your persona would look, act, talk, walk; deciding what tools and knowledge they would have;
+
+
+6. confrontational 对抗的  confrontation 对抗 冲突  confront 面对 对抗  cue 暗示 提示  varying 变化的   implication 暗示  implicit 含蓄的  implicate 牵连 使牵连 涉及 引申义 词源同暗示 自身也有说明的意思在从句形式中  imply  暗示 意味  no-holds-barred 无拘无束的  bar 酒吧 禁止  barred 被禁止的
+	Chapter 5 is a no-holds-barred discussion on some very confrontational topics, including that of eye cues. For example, what are the varying opinions of some professionals about eye cues, and how can a social engineer use them? The chapter also delves into the fascinating science of microexpressions and its implications on social engineering.
+
+
+7. 
+	Can people train themselves to learn how to pick up on microexpressions automatically?
+
+
+8. controversy 争论  controversial 有争议的
+	Chapter 5 presents a brief history of NLP as well as what makes NLP such a controversy.
+
+
+9. interrogation 审问  (interrogate)  enforcement 强制实施  (enforce)  confess 坦白 认罪 承认  confession 坦白 供认 承认
+	Interrogation and interviewing are two methods that law enforcement has used for years to manipulate criminals to confess as well as to solve the hardest cases. 
+
+
+10. rapport 融洽关系  report
+	In addition, Chapter 5 discusses how to build instant rapport—a skill you can use in everyday life.
+
+
+

@@ -1,0 +1,59 @@
+1. arcane 神秘的 晦涩难懂的
+	ELF defines 32 different relocation types, many quite arcane. We are concerned with only the two most basic relocation types:
+
+
+2. chemo 化疗  chemotherapy 化疗 化学疗法 和它的前五个字母一样  therapy 名 治疗  melt 融化  meal 一餐  invade 入侵 侵略  tumor 肿瘤
+	And as the chemo melted the cancer my thoughts again went to my immune cells invading the dying tumors and eating them up one cell after another.
+
+
+3. unsettling 令人不安的  unsettle 使不安  integral 必需的 完整的 积分 词根
+	Disease and sickness are scary and unsettling and I’ve had plenty of that in my life. But knowing how my cells, my immune system, this integral and personal part of myself, defended the entity that is me, how it fought and died and healed and restored this body I inhabit, always gave me a lot of comfort.
+
+
+4. alleviate 减轻  put things in perspective 正确看待  perspective 观点 透视法  prospect 希望 前景
+	Learning about the immune system made my life better and more interesting and it alleviated a lot of the anxiety that comes with being sick. Knowing about the immune system always put things in perspective.
+
+
+5. ongoing 持续的  outgoing 外向的  communicator 交流者
+	So because of this positive effect and just because of the fun of learning and reading about the immune system, it became an ongoing hobby, as I eventually became a science communicator and explaining complex things became my purpose in life.
+
+
+6. in a nutshell 简言之  nutshell 坚果外壳
+	About eight years ago I started Kurzgesagt—In a Nutshell, a YouTube channel dedicated to making information easy to understand and beautiful, while trying to be as true to the science as possible. 
+
+
+7. vision 视力 想象 愿景  horrible 令人恐惧的  hostile 有敌意的  bug 烦扰 虫子
+	In early 2021 the Kurzgesagt team has grown to over forty people working on this vision, while the channel has attracted over fourteen million subscribers and reaches about thirty million viewers each month. So if this large platform exists, why go through the horrible process of writing this book? Well, while some of our most successful videos have been about the immune system, it has always bugged me that I could not explore this wonderful topic in the depth it deserves. 
+
+
+8. tangible 明显的 有形的 可触摸的     entertaining 有趣的 令人愉快的    entertain 使快乐 款待  entertainment 娱乐  stunning 极好的 惊艳的 令人震惊的 英译极度印象深刻吸引人 stun 打昏 使震惊  decade-long 长达十年
+	So this book is a way to turn my decade-long love affair with the immune system into something tangible that will hopefully be a helpful and entertaining way to learn about the stunning and beautiful complexity that makes it possible for you to survive each day.
+
+
+9. Everest 埃佛勒斯峰即珠穆朗玛 来自英国驻印度测绘总长名字  stroll 溜达 散步
+	The immune system is complicated in the sense that climbing Mount Everest is a nice stroll through nature.
+
+
+10. placeholder 占位符
+	The call instruction begins at section offset 0xe and consists of the 1-byte opcode 0xe8, followed by a placeholder for the 32-bit PC-relative reference to the target sum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

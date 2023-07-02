@@ -1,0 +1,96 @@
+1. diagram 示意图  horizontal 水平的  (词根 horizon 地平线)  vertical 垂直的 (词根 vertex 顶点)
+	Since each FSM in Figure 3.9 has just one state, a transition is necessarily from the one state back to itself; we’ll see more complicated state diagrams shortly.) The event causing the transition is shown above the horizontal line labeling the transition, and the actions taken when the event occurs are shown below the horizontal line. 
+
+
+2. dash 破折号 猛冲
+	The initial state of the FSM is indicated by the dashed arrow. 
+
+
+3. propagate 传播 繁殖
+	Such bit errors typically occur in the physical components of a network as a packet is transmitted, propagates, or is buffered. 
+
+
+4. dictate 口述 命令  indicate
+	Consider how you yourself might dictate a long message over the phone.
+
+
+5.  slight 小的 细微的  oversight 疏忽 监视   innocuous 无害的
+	Unfortunately, our slight oversight is not as innocuous as it may seem. 
+
+
+6. alternative 选择 可供替代的
+	A second alternative is to add enough checksum bits to allow the sender not only to detect, but also to recover from, bit errors. 
+
+
+
+7. garble 使...错乱 　garble 错乱的
+	A third approach is for the sender simply to resend the current data packet when it receives a garbled ACK or NAK packet. 
+
+
+8.  suffice 足以  sufficient 充足的  efficient 自己就是词根 效率高的
+	For this simple case of a stop-and-wait protocol, a 1-bit sequence number will suffice, since it will allow the receiver to know whether the sender is resending the previously transmitted packet
+
+
+9. instructor 教师 讲师
+	You know ,it's a practical issue ,like we can't have an instructor when there're only a few students in the class.
+
+
+10. bulletin 公告 新闻简报
+	Well ,there's a room assignment sheet on the bulletin board outside this office.
+
+
+11. enroll 参加 注册
+	Do you know how many people have to be enrolled in order to keep a class from being cancelled?
+
+
+12. receptionist 接待员  (词根 receive ) reception 接待 接待处
+	Listen to a conversation between a student and a receptionist at the Registrar's Office on the first day of the semester.
+
+
+13. junk 垃圾
+	I wonder if I threw it away with all the junk mail by mistake.
+
+ 
+14. go through with 英译 不管困难和不情愿去完成某事  go through 经历 完成 研究 胜出
+	They'll be able to tell you if they're planning to go through with it.
+
+
+15. administration 管理 行政  administer 动词 管理  admin = administration 管理员
+	Well ,and I suppose you haven't changed your mailing address at the administration office.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+diagram  horizontal  horizon  vertical  vertex  dash  propagate  dictate  indicate  slight
+oversight  innocuous  alternative  garble  garbled  suffice  sufficient  efficient  instructor 
+bulletin  enroll  receptionist  reception  junk  go through with  administration  administer  
+admin
+
+
+sum  28
+
+
+

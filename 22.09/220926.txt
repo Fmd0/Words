@@ -1,0 +1,110 @@
+1. henceforth 从此以后  (词根 hence 因此 从现在起)  as opposed to 与...相反  oppose 反对 抵制
+	In order to focus on congestion control (as opposed to flow control), let us henceforth assume that the TCP receive buffer is so large that the receive-window constraint can be ignored; thus, the amount of unacknowledged data at the sender is solely limited by cwnd. 
+
+
+2. roughly 粗略地 大致 粗暴地  rough 粗糙的 粗略的 粗暴的
+	Then, roughly, at the beginning of every RTT, the constraint permits the sender to send cwnd bytes of data into the connection; at the end of the RTT the sender receives acknowledgments for the data.
+
+
+3. coordinate 名词 坐标 动词 协调
+	Are TCP senders explicitly coordinated, or is there a distributed approach in which the TCP senders can set their sending rates based only on local information? 
+
+
+4. probe 探测 调查
+	Bandwidth probing. 
+
+
+5. mandatory 强制的 法定的  mandate 授权 命令
+	Slow start and congestion avoidance are mandatory components of TCP, differing in how they increase the size of cwnd in response to received ACKs. 
+
+
+6.  engine 发动机  mechanic 技工  machine   scarcely 几乎不  scarce 不足的 稀有的  形近词 scare
+	Something was broken in my engine. And as I had with me neither a mechanic nor any passengers, I set myself to attempt the difficult repairs all alone. It was a question of life or death for me: I had scarcely enough drinking water to last a week.
+
+
+7. habitation 名词 居住 住所  (词根 habitat 名词 栖息地)  inhabit 居住于 栖息于
+   shipwreck 海难  wreck 失事 毁坏  sailor 水手 海员  raft 筏子
+	The first night, then, I went to sleep on the sand, a thousand miles from any human habitation. I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean.
+
+
+8. jumped to my feet 一跃而起  thunderstruck 惊呆的 
+   portrait 肖像
+	I jumped to my feet, completely thunderstruck. I blinked my eyes hard. I looked carefully all around me. And I saw a most extraordinary small person, who stood there examining me with great seriousness. Here you may see the best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model.
+
+ 
+9. fault 缺点 过错   faulty 有缺陷的 错的  faultless 无可挑剔的 fatal 致命的
+	That, however, is not my fault.
+
+
+10. apparition 幻影 幽灵  fairly 简直 相当 公正地 
+    region 地区  stray 走失  faint n/v 昏倒 微弱的  fatigue 疲劳
+	I stared at this sudden apparition with my eyes fairly starting out of my head in astonishment. Remember, I had crashed in the desert a thousand miles from any inhabited region. And yet my little man seemed neither to be straying uncertainly among the sands, nor to be fainting from fatigue, or hunger, or thirst, or fear.
+
+ 
+11. overpowering 压倒性的 无法抵抗的  overpower 制服 压倒  overwhelm 淹没 压垮 战胜
+    absurd  荒唐的 怪诞的  absorb 吸收
+	When a mystery is too overpowering, one dare not disobey. Absurd as it might seem to me, a thousand miles from any human habitation and in danger of death, I took out of my pocket a sheet of paper and my fountain pen. But then I remembered how my studies had been concentrated on geography, history, arithmetic, and grammar, and I told the little chap (a little crossly, too) that I did not know how to draw. He answered me:
+
+
+12. astound 使震惊  astonish 使惊奇  fellow 家伙 男人 同胞   creature 生物  (词根 create)
+    cumbersome 笨重的  cumber 阻碍 拖累  hamper 阻碍  hinder 妨碍 后面的
+	And I was astounded to hear the little fellow greet it with, "No, no, no! I do not want an elephant inside a boa constrictor. A boa constrictor is a very dangerous creature, and an elephant is very cumbersome.
+
+
+13. gently 温柔地  gentle 温柔的  indulgently 宽容的  indulge 纵容 沉溺
+    ram 公羊   horn 角  horny
+	My friend smiled gently and indulgently. "You see yourself," he said, "that this is not a sheep. This is a ram. It has horns."
+
+
+14. exhaust 使精疲力尽 耗尽  toss off 草草写好  toss 扔 抛硬币
+	By this time my patience was exhausted, because I was in a hurry to start taking my engine apart. So I tossed off this drawing,
+
+
+15. make the acquaintance of sb  和...相识  acquaint 使了解
+	And that is how I made the acquaintance of the little prince.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+henceforth  hence  as opposed to  oppose  roughly  rough  coordinate  probe 
+mandatory  mandate  engine  mechanic  scarcely  scarce  habitation  habitat  inhabit
+shipwreck  wreck  sailor  raft  jumped to my feet  thunderstruck  portrait
+fault  faulty   faultless  fatal  apparition  fairly  region  stray  faint  fatigue
+overpowering   overpower  overwhelm  absurd  absorb 
+astound  astonish  fellow   creature   cumbersome  cumber   hamper  hinder 
+gently   gentle   indulgently   indulge  ram  horn  horny
+exhaust  toss off  toss  make the acquaintance of sb    acquaint
+
+
+sum  59
+
+
+
+
+
+

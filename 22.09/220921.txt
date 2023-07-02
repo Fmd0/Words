@@ -1,0 +1,81 @@
+1. snippet 片断
+	For TCP with fast retransmit, the following code snippet replaces the ACK received event in Figure 3.33
+
+
+2. striking 惊人的 显著的  英译 吸引注意力以一种不寻常的原因  strike 击打 碰撞
+	But there are some striking differences between TCP and Go- Back-N. 
+
+
+3. generic 普通的  同根词  generally 一般地 普遍地
+	TCP looks a lot like our generic SR protocol. Thus, TCP’s error-recovery mechanism is probably best categorized as a hybrid of GBN and SR protocols.
+
+
+4. stick  粘贴 枝条  every other 所有其他的 每隔一个的  tongue 舌头  mattress 床垫
+	She had accumulated her supply by sticking every other pill under her tongue and taking it out once the nurse was gone and hiding it under the mattress.
+
+
+5. horny  bastard  boob 乳房 蠢蛋 愚蠢的错误
+	All she had to do was show the horny bastard her boobs.
+
+
+6. lounge 客厅 休息室
+	During a few of those hours, she had gone for a walk or eaten a meal in the cafeteria or hung with the other crazies in the lounge.
+
+
+7. bizarre 古怪的  blizzard 暴风雪
+	There were always so many bizarre things happening at Holbrooks, other patients yelling or doing stuff, that very little surprised her now.
+
+
+8. reassess 重新考虑 重新评估
+	Now that she reassessed that short period in her mind, she couldn’t be at all sure that she hadn’t experienced some form of hallucination then.
+
+
+9. rustle 沙沙声 发出沙沙声  wince 龇牙咧嘴 皱眉
+	A rustle somewhere to the left of her made her wince. Another hallucination for sure, she thought, and didn’t bother to turn her head. 
+
+
+10. growl 低声吼叫  screwed-up 紧张的 神经质的  screw 螺丝  unscrew 拧开
+    glance 一瞥 匆匆一看  stare 注视  gaze 凝视
+	She kept moving forward when she heard a low growl, again to her left. Annoyed with herself and her screwed-up brain, she glanced in that general direction only to do a double take.
+
+
+11. slender 苗条的(赛尔号 筷子)  slave 奴隶  chill 寒冷 害怕  spine 脊柱
+    goose bump/goose skin/goose flesh 鸡皮疙瘩  
+    goose 鹅  bump 撞  flesh 肉 皮肤
+	The thick underbrush hid its long, slender legs. A chill ran up her spine and goose bumps developed on her skin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+snippet  striking  generic  generally  stick  every other  tongue  mattress  
+lounge  bizarre  blizzard  reassess  rustle  wince  growl  screwed-up  screw  unscrew
+glance  stare  gaze  slender  slave  chill  spine  goose bump/goose skin/goose flesh
+goose  bump  flesh
+
+
+sum  32
+
+
+
+
+
+
+
+
+
+
+
+
+

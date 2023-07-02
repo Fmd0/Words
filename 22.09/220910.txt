@@ -1,0 +1,71 @@
+1. fundamentally 基础地  (词根 fundament 基础)  fundamental 基础的
+	Indeed, if one had to identify a “top-ten” list of fundamentally important problems in all of networking, this would be a candidate to lead the list. 
+
+
+2. beneath 在...下方
+	More generally, the layer beneath the two reliably communicating end points might consist of a single physical link (as in the case of a link-level data transfer protocol) or a global internetwork (as in the case of a transport-level protocol). 
+
+
+3. incrementally 递增地  (词根 increment 增量)  与increase没有关系
+	In this section, we will incrementally develop the sender and receiver sides of a reliable data transfer protocol, considering increasingly complex models of the underlying channel. 
+
+
+4. adopt 采用 正式通过  adapt 适应
+	One assumption we’ll adopt throughout our discussion here is that packets will be delivered in the order in which they were sent, with some packets possibly being lost; that is, the underlying channel will not reorder packets. 
+
+
+5. unidirectional 单向的  bidirectional 双向的
+	In this section, we consider only the case of unidirectional data transfer, that is, data transfer from the sending to the receiving side. The case of reliable bidirectional (that is, full-duplex) data transfer is conceptually no more difficult but considerably more tedious to explain. 
+
+
+6. seminar 研讨会
+	Um… contemporary literature,English style ,um… the teaching seminar ,and I still have to do my student teaching.
+
+
+7. thesis 论文  	(一个孤独的单词)
+	And I will have to start writing my thesis.
+
+
+8. poetry 诗歌
+	So you are not writing any poetry,I imagine.
+
+
+9. revise 修订 修改 复习   poem 诗
+	No,I was actually thinking about revising some of my poems and sending them into places for publication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fundamentally  beneath  incrementally  adopt  unidirectional  seminar  thesis  poetry  revise
+poem
+
+
+sum  10
+
+

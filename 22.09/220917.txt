@@ -1,0 +1,57 @@
+1. oblivious 未察觉的  (词根 oblivion 无意识状态 被遗忘 )  neglect 忽视
+	In fact, the intermediate routers are completely oblivious to TCP connections; they see datagrams, not connections.
+
+
+2. entrench 使根深蒂固  trench 沟渠 战壕
+	This terminology is confusing, but we have to live with it, as it is well entrenched.
+
+
+3. negotiate 商定 谈判  negotiable 可协商的  neglect 忽视
+	The optional and variable-length options field is used when a sender and receiver negotiate the maximum segment size (MSS) or as a window scaling factor for use in high-speed networks. 
+
+
+4. teardown 拆除
+	The RST ,SYN, and FIN bits are used for connection setup and teardown, as we will discuss at the end of this section. 
+
+
+5. urgent 紧急的 迫切的  urgency 紧迫 紧迫的事
+	Finally, the URG bit is used to indicate that there is data in this segment that the sending-side upper-layer entity has marked as “urgent.” 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oblivious  oblivion  entrench  trench  negotiate  neglect  negotiable  teardown  urgent  urgency
+
+
+sum  10
+
+
+
+

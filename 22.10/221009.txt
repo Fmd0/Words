@@ -1,0 +1,87 @@
+1. termination 名 终止 结束  terminate 动 终止 结束  terminal 名 终端 形 晚期的
+	As just discussed, the input port’s line-termination function and link-layer processing implement the physical and link layers for that individual input link. 
+
+
+2. dashed line 虚线 破折号组成的虚线  dash 猛冲 破折号 
+	The forwarding table is copied from the routing processor to the line cards over a separate bus (e.g., a PCI bus) indicated by the dashed line from the routing processor to the input line cards in Figure 4.4. 
+
+
+3. subtlety 微妙之处 细微  subtle 形 微妙
+	Although this sounds simple enough, there’s a very important subtlety here. 
+
+
+4. embedded 嵌入式的  embed 嵌入
+	Special attention must also be paid to memory access times, resulting in designs with embedded on-chip DRAM and faster SRAM (used as a DRAM cache) memories. 
+
+
+5. temporarily 临时地 暂时地   temporal 时间的 临时的地词根  temporary 临时的 临时工  schedule 日程安排 时刻表
+	In some designs, a packet may be temporarily blocked from entering the switching fabric if packets from other input ports are currently using the fabric. A blocked packet will be queued at the input port and then scheduled to cross the fabric at a later point in time. 
+
+
+6. criteria 名 标准 复数  criterion 名 标准 单数
+	In firewalls (covered in Chapter 8)—devices that filter out selected incoming packets—an incoming packet whose header matches a given criteria may be dropped (action).
+
+
+7. prevalent 流行的 普遍的
+	Indeed, the “match plus action” abstraction [Bosshart 2013] is both powerful and prevalent in network devices today, and is central to the notion of generalized forwarding that we’ll study in Section 4.4.
+
+
+8. costly 昂贵的  faculty 才能 全体教师的  facility 名 场所 设施 才能  garbage 垃圾 废话  gene 基因  justice 公平 正义 
+mayor 市长  proverb 谚语  resolve 决定 决心 解决  resolution 决心 分辨率  romantic 浪漫的 自然和名词浪漫同根  romance 浪漫   
+
+
+9. shed 棚 摆脱  shuttle 名 航天飞机 名动 往返两地  shuffle 洗牌  therapy 治疗  victim 受害者  victory 名 胜利  victor 名 胜利者  artistic 艺术的  cereal 谷物  cite 引用  citation 引用
+
+
+10. dramatic 戏剧的 引人注目的  era 时代  helicopter 直升机  infant 名 婴儿 初期  interfere 干涉 妨碍  liberal 自由的 自由主义者  liberty 名 自由 和自由的同源但不同根  oven 烤箱
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+termination  terminate  dashed line  dash  subtlety  subtle  embedded  embed  temporarily
+temporal  temporary  schedule  criteria  criterion  prevalent
+
+15
+
+
+costly 　faculty  garbage 　gene   
+justice 　 
+mayor 　proverb 　resolve 　resolution 
+romantic 　romance 　shed 
+shuttle 　shuffle 　therapy 　victim 　victory  victor
+artistic 　cereal  
+cite 　citation 　dramatic 　era 　helicopter 　infant 
+interfere 　liberal 　liberty 　oven  
+
+30
+
+
+sum  45
+
+
+
+

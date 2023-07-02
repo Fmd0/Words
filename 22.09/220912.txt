@@ -1,0 +1,71 @@
+1. explore  burden 重担 负担  forthcoming 即将发生的
+	There are many possible approaches toward dealing with packet loss (several more of which are explored in the exercises at the end of the chapter). Here, we’ll put the burden of detecting and recovering from lost packets on the sender. Suppose that the sender transmits a data packet and either that packet, or the receiver’s ACK of that packet, gets lost. In either case, no reply is forthcoming at the sender from the receiver. 
+
+
+2. round-trip 来回的 往返旅程
+	The sender must clearly wait at least as long as a round-trip delay between the sender and receiver (which may include buffering at intermediate routers) plus whatever amount of time is needed to process a packet at the receiver.
+
+
+3.  ideally 理想地 最适合地 (词根 ideal 理想的)  
+    judiciously 审慎地  (词根 judicial 司法的 公正的(词根 judge))
+	Moreover, the protocol should ideally recover from packet loss as soon as possible; waiting for a worst-case delay could mean a long wait until error recovery is initiated. The approach thus adopted in practice is for the sender to judiciously choose a time value such that packet loss is likely, a
+lthough not guaranteed, to have happened. 
+
+
+4. panacea  万应药
+	From the sender’s viewpoint, retransmission is a panacea. 
+
+
+5.  crucial
+	Check- sums, sequence numbers, timers, and positive and negative acknowledgment packets each play a crucial and necessary role in the operation of the protocol. We now have a working reliable data transfer protocol!
+
+
+6. withdraw 收回 离开  chubby  forearm  wrinkle  blink  cautious  lean 斜靠 瘦的
+	NINETY-EIGHT – NINETY-NINE – ONE HUNDRED.” Gloria withdrew her chubby little forearm from before her eyes and stood for a moment, wrinkling her nose and blinking in the sunlight. Then, trying to watch in all directions at once, she withdrew a few cautious steps from the tree against which she had been leaning.
+
+
+7. crane  clump 从  bush  recesses 隐秘处 课间休息
+	She craned her neck to investigate the possibilities of a clump of bushes to the right and then withdrew farther to obtain a better angle for viewing its dark recesses. The quiet was profound except for the incessant buzzing of insects and the occasional chirrup of some hardy bird, braving the midday sun.
+
+
+8. pout  bet 打赌  
+	Gloria pouted, “I bet he went inside the house, and I’ve told him a million times that that’s not fair.”
+
+
+9. lip  tightly  frown 皱眉 (eyebrow 眉毛)  crinkle  story 同 storey 楼层
+	With tiny lips pressed together tightly and a severe frown crinkling her forehead, she moved determinedly toward the two-story building up past the driveway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+explore  burden  forthcoming  round-trip  ideally  ideal  judiciously  panacea  crucial 
+withdraw  chubby  forearm  wrinkle  blink  cautious  lean
+crane  clump  bush  recesses  pout  bet  lip  tightly  frown  
+crinkle  story
+ 
+ 
+sum  27
+

@@ -1,0 +1,59 @@
+1. anew 再一次 重新  threshold 门槛 下限 开端
+	First, if there is a loss event (i.e., congestion) indicated by a timeout, the TCP sender sets the value of cwnd to 1 and begins the slow start process anew. It also sets the value of a second state variable, ssthresh (short-hand for “slow start threshold”) to cwnd/2—half of the value of the congestion window value when congestion was detected. 
+
+
+2. reckless 鲁莽的  reck 顾虑  surpass 胜过 超出
+	Since ssthresh is half the value of cwnd when congestion was last detected, it might be a bit reckless to keep doubling cwnd when it reaches or surpasses the value of ssthresh. 
+
+
+3. entry 入口 进入  around the corner 即将来临
+	On entry to the congestion-avoidance state, the value of cwnd is approximately half its value when congestion was last encountered—congestion could be just around the corner! 
+
+
+4. drastic 极端的 剧烈的
+	So TCP’s behavior to this type of loss event should be less drastic than with a timeout-indicated loss:
+
+
+5. deflate 放气 使泄气 紧缩
+	Eventually, when an ACK arrives for the missing segment, TCP enters the congestion-avoidance state after deflating cwnd.
+
+
+6. inextricably 分不开的  inextricable  extricate 使脱离
+	Although it is important to distinguish between TCP error control/retransmission and TCP congestion control, it’s also important to appreciate how these two aspects of TCP are inextricably linked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+anew  threshold  reckless  reck  surpass  entry  around the corner  drastic  deflate  
+inextricably  inextricable  extricate
+
+
+sum  12
+
+
+
+
+
+
+
+
+
+

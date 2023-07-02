@@ -1,0 +1,90 @@
+1. vendor 卖主 小贩  vend 出售  onset 开始
+	RFC 3168 does not provide a definition of when a router is congested; that decision is a configuration choice made possible by the router vendor, and decided by the network operator. However, the intuition is that the congestion indication bit can be set to signal the onset of congestion to the send before loss actually occurs.
+
+
+2. proactive 积极主动的 前瞻性的
+	A second congestion-avoidance approach takes a delay-based approach to also proactively detect congestion onset before packet loss occurs.
+
+
+3. converge 收敛 相交 汇聚  convert 转换
+	[Chiu 1989] provides an elegant and intuitive explanation of why TCP congestion control converges to provide an equal share of a bottleneck link’s bandwidth among competing TCP connections.
+
+
+4. realize 实现 体现   emanate 发源 散发
+	Figure 3.56 plots the throughput realized by the two TCP connections. If TCP is to share the link bandwidth equally between the two connections, then the realized throughput should fall along the 45-degree arrow (equal bandwidth share) emanating from the origin. 
+
+
+5. intersection 交点 相交 十字路口 (词根 intersect 相交 横断)
+	So the goal should be to have the achieved throughputs fall somewhere near the intersection of the equal bandwidth share line and the full bandwidth utilization line in Figure 3.56.
+
+
+6. joint 联合的 共同的 关节 接合处
+	Thus, the joint throughput of the two connections proceeds along a 45-degree line (equal increase for both connections) starting from point A.
+
+
+7. regulate 控制 调节   同根词 regulation 规定  regular 定期的 有规律的
+	We have just seen how TCP congestion control regulates an application’s transmission rate via the congestion window mechanism. 
+
+
+8. pump 泵 用泵输送
+	When running over UDP, applications can pump their audio and video into the network at a constant rate and occasionally lose packets, rather than reduce their rates to “fair” levels at times of congestion and not lose any packets.
+
+
+9. crowd out 把...排挤  crowd 人群 挤满
+	Because TCP congestion control will decrease its transmission rate in the face of increasing congestion (loss), while UDP sources need not, it is possible for UDP sources to crowd out TCP traffic.
+
+
+10. a grinding halt 逐渐停滞 戛然而止  grinding 磨  grind 磨碎  halt 停止
+	A number of congestion-control mechanisms have been proposed for the Internet that prevent UDP traffic from bringing the Internet’s throughput to a grinding halt [Floyd 1999; Floyd 2000; Kohler 2006; RFC 4340].
+
+
+11. pervasive 普遍的 弥漫的  (词根 pervade 弥漫于 遍及)
+	Because Web traffic is so pervasive in the Internet, multiple parallel connections are not uncommon.
+
+
+12. material 材料 物质的  substance 物质 重要性 东西 individual 单独的 个人的 个人  (词源 in + divide) 
+financial 财政的 金融的  (词根 finance 资金 财政 金融)
+potential 潜在的 潜力  engage 吸引 使参加 从事  engage in  emerge
+bacteria 复数  charge 收费 指控 充电 电荷 以及名词  facility 场所 设施 才能
+policy 政策 原则  是police的词根  
+political 政治的 政府的  politics 政治 政治学 政治活动  (词根 polity 政体 政治组织)
+knit 编织  weave 织  wave 波浪  promote 促进 晋升  panel 板 专家组
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vendor  onset  proactive  converge  convert  realize  emanate  intersection  intersect
+joint  regulate  regulation  regular   pump  crowd out  crowd  
+a grinding halt  grinding  grind  halt  pervasive  pervade
+
+
+material  substance individual  financial  finance  potential  engage 
+bacteria  charge  facility  policy  police  political  politics   polity 
+knit    weave    wave    promote   panel 
+
+sum  42
+
+

@@ -1,0 +1,263 @@
+1. marmot 土拨鼠  meadow 草地 
+	Well ,the Olympic marmots inhabit meadows high in the Olympic Mountains where the weather conditions are much harsher.
+
+
+2. frost 霜冻 霜  impersonal 没有人情味的 客观的  ritual 仪式 惯例习惯  rite 仪式 那啥的词根  mating 名 交配 可能是动词进行时表示名词吧
+	That is when it's not covered in snow and there is no frost covering the grass and ,umm
+And their mating ritual is just so impersonal.
+
+
+3. temperate 温带的 同根词温度
+	They reside throughout the eastern region of North America where there is a temperate climate ,where the growing season lasts for at least five months of the year ,which is when they do all their mating ,playing and eating.
+
+
+4. territorial 领土的 领土保卫者  territory 名 领土  aggressive 攻击性的 好斗的  aggression 侵犯 攻击性
+	Well ,they are really territorial ,and loners ,and just so aggressive even with other Eastern marmots.
+
+
+5. offspring 后代 子女 幼仔
+	Then about six to eight weeks after birth ,the offspring leave their mothers.
+
+
+6. mature 成熟的 成熟  premature 形 过早的 早产的
+	Remember ,they mature quickly and the weather's nice.
+
+
+7. nurture 培养 养育
+	So in that much shorter period of time ,all the Olympic marmots , male and female, eat ,play ,work and nurture the young together.
+
+
+8. rodent 啮齿动物
+	Marmots are rodents
+
+
+9. edible 可食用的  vegetation 植被 植物
+	Also they live in open fields where there is lots of edible vegetation.
+
+10. in that sense 在那种意义上
+	In that sense it's an end to itself.
+
+
+11. intrinsic 内在的 固有的 本质的
+	But teaching's not something that has intrinsic value for all people - and that's true generally.
+
+
+12. ethical 道德的  philosopher 哲学家
+	OK. Another ancient Greek philosopher we need to discuss is Aristotle - Aristotle's ethical theory.
+
+
+13. extrinsic 外在的
+	It's got extrinsic and intrinsic value for me.
+
+
+14. sake 目的 利益 清酒
+	So I desire to engage in exercise and I value exercise extrinsically… … not for its own sake ,but as a means to something beyond it.
+
+
+15. amateur 名 业余星者
+	Well ,like most amateur musicians,I only play because ,well ,I just enjoy it.
+
+
+16. modest 不多的
+	Well ,it brings in a modest income ,but I could make more money doing other things.
+
+
+17. attainment 获得 实现  attain 动 获得  attach 动 附上  ultimate 最终的
+	The attainment of happiness becomes the ultimate or highest good for Aristotle.
+
+
+18. tantalizingly 令人着急的 逗引的  tantalize 逗引
+	In astronomical units — not perfect ,but tantalizingly close.
+
+
+19. validity 名 有效 正确
+	And so then people got really excited about the validity of this thing and finding the missing object between Mars and Jupiter.
+
+
+20. departure 出发 离开 背离
+	Packet arrivals are indicated by numbered arrows above the upper timeline, with the number indicating the order in which the packet arrived. Individual packet departures are shown below the lower timeline. 
+
+
+21. idle 空闲的
+	Under the FIFO discipline, packets leave in the same order in which they arrived. Note that after the departure of packet 4, the link remains idle (since packets 1 through 4 have been transmitted and removed from the queue) until the arrival of packet 5.
+
+
+22. preemptive 先发制人的
+	Packet 4 (a high-priority packet) arrives during the transmission of packet 2 (a low-priority packet). Under a non-preemptive priority queuing discipline, the transmission of a packet is not interrupted once it has begun.
+
+
+23. circular 圆的 循环的  circle 圆
+	As in round robin scheduling, a WFQ scheduler will serve classes in a circular manner—first serving class 1, then serving class 2, then serving class 3, and then (assuming there are three classes) repeating the service pattern. 
+
+
+24. thus far 现在为止
+	Our study of the network layer thus far in Chapter 4—the notion of the data and control plane component of the network layer, our distinction between forwarding and routing, the identification of various network service models, and our look inside a router—have often been without reference to any specific computer network architecture or protocol. 
+
+
+25. remainder 剩余物  remain 保持 剩下
+	These 4 bits specify the IP protocol version of the datagram. By looking at the version number, the router can determine how to interpret the remainder of the IP datagram.
+
+
+26. circulate 动 循环   decrement 减少  increment 名 增加
+	The time-to-live (TTL) field is included to ensure that datagrams do not circulate forever (due to, for example, a long-lived routing loop) in the network. This field is decremented by one each time the datagram is processed by a router. 
+
+
+27. repetition 重复  repeat 动 重复
+	There are several reasons for this repetition.
+
+
+28. treatment 探讨 对待 治疗
+	Although you may be thinking that addressing must be a straightforward topic, hopefully by the end of this section you’ll be convinced that Internet addressing is not only a juicy, subtle, and interesting topic but also one that is of central importance to the Internet. An excellent treatment of IPv4 addressing can be found in the first chapter in [Stewart 1999].
+
+
+29. necessarily 必定 必然地
+	Because a router’s job is to receive a datagram on one link and forward the datagram on some other link, a router necessarily has two or more links to which it is connected. 
+
+
+30. equivalent 名 相等物 形 相等的  decimal 形 十进制的 名 小数
+	For example, consider the IP address 193.32.216.9. The 193 is the decimal equivalent of the first 8 bits of the address; the 32 is the decimal equivalent of the second 8 bits of the address, and so on. 
+
+
+31. willy-nilly 随意的 乱糟糟的 不管愿不愿意的
+	These addresses cannot be chosen in a willy-nilly manner, however. 
+
+
+32. recipe 诀窍 食谱
+	For a general interconnected system of routers and hosts, we can use the following recipe to define the subnets in the system:
+
+
+33. detach 分开 词源同附上
+	To determine the subnets, detach each interface from its host or router, creating islands of isolated networks, with interfaces terminating the end points of the isolated networks. Each of these isolated networks is called a subnet.
+
+
+34. contiguous 毗邻的 连续的
+	An organization is typically assigned a block of contiguous addresses, that is, a range of addresses with a common prefix (see the Principles in Practice feature). 
+
+
+35. problematic 造成困难的  accommodate 容纳
+	The requirement that the subnet portion of an IP address be exactly 1, 2, or 3 bytes long turned out to be problematic for supporting the rapidly growing number of organizations with small and medium-sized subnets. A class C (/24) subnet could accommodate only up to 2^8 - 2  = 254 hosts (two of the 2^8 = 256 addresses are reserved for special use)—too small for many organizations.
+
+
+36. depletion 耗尽  deplete 动 耗尽  allocate 分配
+	This led to a rapid depletion of the class B address space and poor utilization of the assigned address space. For example, the organization that used a class B address for its 2,000 hosts was allocated enough of the address space for up to 65,534 interfaces—leaving more than 63,000 addresses that could not be used by other organizations.
+
+
+37. remiss 懈怠的 粗心的
+	We would be remiss if we did not mention yet another type of IP address, the IP broadcast address 255.255.255.255. 
+
+
+38. contentious 有争议的
+	It also has the very contentious job of assigning domain names and resolving domain name disputes. 
+
+
+39. otherwise 否则
+	This capability makes it very attractive to the network administrator who would otherwise have to perform these tasks manually! 
+
+
+40. enviable 令人羡慕的  envy 名动 羡慕 忌妒  transaction 数据处理 办理 交易
+	Since several DHCP servers can be present on the subnet, the client may find itself in the enviable position of being able to choose from among several offers. Each server offer message contains the transaction ID of the received discover message, the proposed IP address for the client, the network mask, and an IP address lease time—the amount of time for which the IP address will be valid. 
+
+
+41. mobility 便携性 词根移动的
+	From a mobility aspect, DHCP does have one very significant shortcoming.
+
+
+42. proliferation 名 激增 扩散  proliferate 动 激增
+	With the proliferation of small office, home office (SOHO) subnets, this would seem to imply that whenever a SOHO wants to install a LAN to connect multiple machines, a range of addresses would need to be allocated by the ISP to cover all of the SOHO’s IP devices (including phones, tablets, gaming devices, IP TVs, printers and more).
+
+
+43. realm 领域 王国
+	The address space 10.0.0.0/8 is one of three portions of the IP address space that is reserved in [RFC 1918] for a private network or a realm with private addresses, such as the home network in Figure 4.25. 
+
+
+44. aside 旁白 向旁边
+	As an aside, you might wonder where the home network computers get their addresses and where the router gets its single IP address. Often, the answer is the same—DHCP! 
+
+
+45. blissfully 极乐地  to be blissfully unaware of 对...不知情
+	The Web server, blissfully unaware that the arriving datagram containing the HTTP request has been manipulated by the NAT router, responds with a datagram whose destination address is the IP address of the NAT router, and whose destination port number is 5001. 
+
+
+46. detractor 诋毁者 贬低者  detract 减损 贬低
+	NAT has enjoyed widespread deployment in recent years. But NAT is not without detractors.
+
+
+47. purist 纯粹主义者 词根纯净
+	More “philosophical” arguments have also been raised against NAT by architectural purists. 
+
+
+48. successor 继任者 替代品  successive 形 连续的 词根成功
+	In the early 1990s, the Internet Engineering Task Force began an effort to develop a successor to the IPv4 protocol. 
+
+
+49. breathtaking 惊人的  tweak 轻微调整 改进 扭 拧  augment 增加
+	A prime motivation for this effort was the realization that the 32-bit IPv4 address space was beginning to be used up, with new subnets and IP nodes being attached to the Internet (and being allocated unique IP addresses) at a breathtaking rate. To respond to this need for a large IP address space, a new IP protocol, IPv6, was developed. The designers of IPv6 also took this opportunity to tweak and augment other aspects of IPv4, based on the accumulated operational experience with IPv4.
+
+
+50. prolong 延长
+	A recent survey of IPv4 address-space exhaustion, and the steps taken to prolong the life of the address space is [Richter 2015]; a recent analysis of IPv4 address use is [Huston 2019].
+
+
+51. envision 想象 展望
+	It was initially envisioned that the ST-2 protocol would become IPv5, but ST-2 was later dropped.) An excellent source of information about IPv6 is [Huitema 1998].
+
+
+52. streamlined 简易高效的 流线型的  streamline 动 使成流线型 提高效率 
+	A streamlined 40-byte header. As discussed below, a number of IPv4 fields have been dropped or made optional. The resulting 40-byte fixed-length header allows for faster processing of the IP datagram by a router. A new encoding of options allows for more flexible options processing.
+
+
+53. elusive 难以抓住的 难以表述的 难懂的  elude 动 逃避
+	IPv6 has an elusive definition of a flow. RFC 2460 states that this allows “labeling of packets belonging to particular flows for which the sender requests special handling, such as a non-default quality of service or real-time service.” 
+
+
+54. foresee 预见  forecast 名动 预报
+	What is clear, however, is that the designers of IPv6 foresaw the eventual need to be able to differentiate among the flows, even if the exact meaning of a flow had yet to be determined.
+
+
+55. squarely 直接 词根确实是正方形广场
+	Fragmentation and reassembly is a time-consuming operation; removing this functionality from the routers and placing it squarely in the end systems considerably speeds up IP forwarding within the network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+marmot  meadow  frost  impersonal  ritual  mating  temperate  territorial  aggressive  offspring
+aggression  territory  nurture  mature  rodent  edible  vegetation  In that sense
+intrinsic  ethical  philosopher  
+
+
+
+
+

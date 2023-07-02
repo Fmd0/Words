@@ -1,0 +1,88 @@
+1. no-frills 只满足基本需求 无装饰的  frill  英译 不必要的额外特征或装饰 (通常写作frills) 褶边
+   bare-bones 最基本的  vacuous 空的 无意义的
+	To motivate our discussion about UDP, suppose you were interested in designing a no-frills, bare-bones transport protocol. How might you go about doing this? You might first consider using a vacuous transport protocol. 
+
+
+2. aside from 除...以外
+	UDP, defined in [RFC 768], does just about as little as a transport protocol can do. Aside from the multiplexing/demultiplexing function and some light error checking, it adds nothing to IP. In fact, if the application developer chooses UDP instead of TCP.
+
+
+3.  preferable 更合适的
+	Isn’t TCP always preferable, since TCP provides a reliable data transfer service, while UDP does not? 
+
+
+4. blast away 连续射击  preliminary 预先活动 预先的  (词根 prelim 预赛)
+	No connection establishment. As we’ll discuss later, TCP uses a three-way handshake before it starts to transfer data. UDP just blasts away without any formal preliminaries. 
+
+
+5. retransmission 重发  retransmit  transmit  nontrivial 重要的 有用的  trivial 不重要的 微不足道的
+	for example, by adding acknowledgment and retransmission mechanisms, such as those we’ll study in the next section). We mentioned earlier that the QUIC protocol implements reliability in an application-layer protocol on top of UDP. But this is a nontrivial task that would keep an application developer busy debugging for a long time. 
+
+
+6.  constraint 限制  (词根 constrain 动词 限制) impose 强制实行
+	That is, application processes can communicate reliably without being subjected to the transmission-rate constraints imposed by TCP’s congestion-control mechanism.
+
+
+7.  introduce 插入 带入
+	An explicit length value is needed since the size of the data field may differ from one UDP segment to the next. The checksum is used by the receiving host to check whether errors have been introduced into the segment. 
+
+
+8.  alter 改变
+	That is, the checksum is used to determine whether bits within the UDP segment have been altered (for example, by noise in the links or while stored in a router) as it moved from source to destination.
+
+
+9. wrap around  回绕  wrap 包装  wrap up 完成或结束 包起来 赢得 集中注意力在
+	Note that this last addition had overflow, which was wrapped around. The 1s complement is obtained by converting all the 0s to 1s and converting all the 1s to 0s. 
+	That wraps up our discussion of UDP. 
+
+
+10.  given that 考虑到 假定 已知
+	Given that neither link-by-link reliability nor in-memory error detection is guaranteed, UDP must provide error detection at the transport layer, on an end-end basis, if the end-end data transfer service is to provide error detection. 
+
+
+11. redundant  多余的 被裁员的
+	functions placed at the lower levels may be redundant or of little value when compared to the cost of providing them at the higher level.
+
+
+12. 1s complement 反码  2s complement 补码  complement 补充 补充物
+
+
+13. only then 直到那时 (后接倒装句) 
+	Only then could she tell it was the voice of one of the guards, Mr. Weber, husky and frightening.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no-frills  frills  bare-bones  vacuous  aside from  preferable  blast away  preliminary
+retransmission  nontrivial  constraint  impose  introduce  alter  wrap  given that
+redundant  only then  1s complement
+
+
+sum  19
+
+
+
+

@@ -1,0 +1,67 @@
+1. inherit 动词 继承 遗传 接手  同根词 inherent 内在的 固有的  inheritance 名词 继承
+	Inheritance between classes
+
+
+2. retain 保留 记住
+	Classes in C++ can be extended, creating new classes which retain characteristics of the base class. This process, known as inheritance, involves a base class and a derived class: The derived class inherits the members of the base class, on top of which it can add its own members.
+
+
+3. gap 空白处 差异
+	the receiver keeps the out-of-order bytes and waits for the missing bytes to fill in the gaps. 
+
+
+4. bulk 大部分 大量  chalk 粉笔
+	Unlike the bulk data transfer applications discussed in Chapter 2, Telnet is an interactive application. 
+
+
+5. eavesdrop 偷听  eave 屋檐  词源 屋檐滴水处 引申为窃听
+	We note that many users now prefer to use the SSH protocol rather than Telnet, since data sent in a Telnet connection (including passwords!) are not encrypted, making Telnet vulnerable to eavesdropping attacks (as discussed in Section 8.7).
+
+
+6. grab a coffee 喝一杯咖啡  grab 抓住 吸引 吃  grasp 紧抓 掌握 理解
+	Now suppose the user types a single letter, ‘C,’ and then grabs a coffee. Let’s examine the TCP segments that are sent between the client and server.
+
+
+7. dual 双重的
+	The second segment is sent from the server to the client. It serves a dual purpose.
+
+
+8. sole 仅有的 唯一的
+	Its sole purpose is to acknowledge the data it has received from the server. 
+
+
+9. odd 奇怪的 古怪的 奇的  even 偶数的 平的
+	You might think it odd that this segment also has a sequence number since the segment contains no data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inherit  inherent  inheritance  retain  gap  bulk  chalk  eavesdrop  eave
+grab a coffee  grab  grasp  dual  sole  odd  even
+
+
+sum  16
+

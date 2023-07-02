@@ -1,0 +1,83 @@
+1. propose 提出
+	Rabin and Karp proposed a string-matching algorithm that performs well in practice and that also generalizes to other algorithms for related problems, such as two-dimensional pattern matching. 
+
+
+2. consecutive 连续的  secure 安全
+	We can then view a string of k consecutive characters as representing a length-k decimal number.
+
+
+3.  subtract 减去
+	Subtracting 10^(m-1)*T[s+1] removes the high-order digit from ts , multiplying the result by 10 shifts the number left by one digit position, and adding T[s+m+1] brings in the appropriate low-order digit. 
+
+
+4.  suffice 足够  sufficient 足够的
+	although for this application a straightforward O(m) time method suffices
+
+
+5. 　overlook 忽视  intentionally 有意的
+	Until now, we have intentionally overlooked one problem
+
+
+6.  reasonably 合理的  arithmetic 算术
+	If P contains m characters, then we cannot reasonably assume that each arithmetic operation on p (which is m digits long) takes “constant time.” 
+
+
+7. modulo 模 以...为模  modulus 模数
+	Fortunately, we can solve this problem easily, as Figure 32.5 shows: compute p and the ts values modulo a suitable modulus q.
+
+
+8.  craft
+	This book is written for programmers who want to get better at their craft by under- standing how these components work and how they affect the correctness and performance of their programs.
+
+
+9. be poised to do/for sth 为(做)某事做好准备  poised 镇定的  (词根 poise 镇定) 
+   dedicate 献出  enlighten 启迪 阐明  enlightenment 启迪 阐明 启蒙运动
+	You are poised for an exciting journey. If you dedicate yourself to learning the concepts in this book then you will be on your way to becoming a rare “power programmer,” enlightened by an understanding of the underlying computer system and its impact on your application programs.
+
+
+10. numerical 数字的 digital  exploit
+	You are going to learn practical skills such as how to avoid strange numerical errors caused by the way that computers represent numbers. You will learn how to optimize your C code by using clever tricks that exploit the designs of modern processors and memory systems. 
+
+
+11.  pitfall 陷阱  trap 陷阱 圈套
+	You will learn the promises and pitfalls of concurrency, a topic of increasing importance as multiple processor cores are integrated onto single chips.
+
+
+12. concert 合作  completion 补充  In a sense 在某种意义上
+	Although hello is a very simple program, every major part of the system must work in concert in order for it to run to completion. In a sense, the goal of this book is to help you understand what happens and why when you run hello on your system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+propose  consecutive  subtract  suffice  overlook  intentionally  reasonable  arithmetic
+modulo  craft  be poised to do/for sth  dedicate  enlighten  enlightenment  numerical 
+pitfall  concert  completion  In a sense
+
+
+sum  19
+
+
+

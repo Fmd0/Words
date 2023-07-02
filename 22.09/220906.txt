@@ -1,0 +1,81 @@
+1. critical 关键的 批判的
+	It has the critical role of providing communication services directly to the application processes running on different hosts.
+
+
+2. pedagogic 教育学的  pedagogy 教育学  alternate 交替 轮流
+	The pedagogic approach we take in this chapter is to alternate between discussions of transport-layer principles and discussions of how these principles are implemented in existing protocols; as usual, particular emphasis will be given to Internet protocols, in particular the TCP and UDP transport-layer protocols.
+
+
+3.  coverage 覆盖范围 新闻报道
+	We’ll illustrate this function in our coverage of the Internet’s connectionless transport protocol, UDP.
+
+
+4. confront 面对  corrupt 使...出错 腐败的 有错误的  scenario 场景 设想的情况 剧本  
+   embody 体现  (corrupt  garble)
+	We’ll then return to principles and confront one of the most fundamental problems in computer networking—how two entities can communicate reliably over a medium that may lose and corrupt data. Through a series of increasingly complicated (and realistic!) scenarios, we’ll build up an array of techniques that transport protocols use to solve this problem. We’ll then show how these principles are embodied in TCP, the Internet’s connection-oriented transport protocol.
+
+
+5.  distinction 差别  subtle 细微的
+	This distinction is subtle but important. Let’s examine this distinction with the aid of a household analogy.
+
+
+6. occasionally 偶然  chew 咀嚼
+	Being younger kids, Susan and Harvey pick up and drop off the mail less frequently and occasionally lose letters (which are sometimes chewed up by the family dog).
+
+
+7.  garble 使...错乱 篡改  duplicate (complicate 使复杂的) 重复 复制  
+    encryption 加密的编码 (词根 encrypt)  confidentiality 机密性  confidential 机密的
+    guarantee 保证 (词根不是 guard)
+	that is, even when the network protocol loses, garbles, or duplicates packets. As another example (which we’ll explore in Chapter 8 when we discuss network security), a transport protocol can use encryption to guarantee that application messages are not read by intruders, even when the network layer cannot guarantee the confidentiality of transport-layer segments.
+
+
+8. proceed 继续 继续进行  (词根 process)
+	Before proceeding with our brief introduction of UDP and TCP, it will be useful to say a few words about the Internet’s network layer. 
+
+
+9. integrity 完整性 诚实  integer (同根词) 整数
+	In particular, it does not guarantee segment delivery, it does not guarantee orderly delivery of segments, and it does not guarantee the integrity of the data in the segments. 
+
+
+10. minimal  adj 最小的  minimum n/adj
+	These two minimal transport-layer services—process-to-process data delivery and error checking—are the only two services that UDP provides! 
+
+
+11.  foremost 最前面的 最重要的
+	First and foremost, it provides reliable data transfer. 
+
+
+12. swamp 淹没 沼泽  strive 努力  traverse 穿过 遍历 
+	Loosely speaking, TCP congestion control prevents any one TCP connection from swamping the links and routers between communicating hosts with an excessive amount of traffic. TCP strives to give each connection traversing a congested link an equal share of the link bandwidth. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+critical  pedagogic  pedagogy  alternate  coverage  confront  corrupt  scenario  embody  distinction  subtle  occasionally  chew  garble  duplicate  complicate  encryption  encrypt
+confidentiality  confidential  guarantee  proceed  integrity  minimal  foremost  swamp  strive
+traverse  traversing
+
+
+sum  29
+
+
+

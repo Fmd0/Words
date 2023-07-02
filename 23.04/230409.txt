@@ -1,0 +1,75 @@
+1. intimately 副 密切地 熟悉地  quirk 名 怪癖  reluctant 形 不情愿的 勉强的
+	Because it was deployed early, network administrators became intimately familiar with Ethernet-its wonders and its quirks—and were reluctant to switch over to other LAN technologies when they came on the scene.
+
+
+2. compelling 形 引人注目的 令人信服的 强制的  compel 动 强迫
+	Third, the most compelling reason to switch to another LAN technology (such as FDDI or ATM) was usually the higher data rate of the new technology; however, Ethernet always fought back, producing versions that operated at equal data rates or higher.
+
+
+3. commodity 名 商品  commerce 名 商业   remarkably 副 非常地 非同寻常地  remark 名动 评论 注意  remarkable 形 非凡的 引人注目的 即值得注意的
+	Finally, because Ethernet has been so popular, Ethernet hardware (in particular, adapters and switches) has become a commodity and is remarkably cheap.
+
+
+4. preamble 名 序言 开场白
+	The Ethernet frame begins with an 8-byte preamble field.
+
+
+5. slant 动 倾斜 名 斜面  sponsor 动 赞助 名 赞助者  liberal 形 自由的 名 自由主义者  liberty 名 自由 同源不同根我不太信
+	Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers. They include materials sponsored by libertarian think-tanks and energy industry associations.
+
+
+6. sympathize 动 同情 赞同  sympathy 名 同情 支持  resist 动 抵抗  proposed 形 提出的
+	Pat Hardy, who sympathized with views of the energy sector, is resisting the proposed change to science standards for pre-teen pupils.
+
+
+7. emphasize 动 强调  primacy 名 首要地位 词根灵长类动物
+	These would emphasize the primacy of human activity in recent climate change and encourage discussion of mitigation measures.
+
+
+8. populous 形 人口众多的 和人口同根  disproportionate 形 不成比例的 不相称的
+	Among the 10 worst performers were some of the most populous states, including Texas, which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere.
+
+
+9. integrate 动 整合 融入  curriculum 名 课程 复数形式去掉末尾二字母家诶或直接加艾斯  prominent 形 重要的 突出的
+	Another issue is that while climate change is well integrated into some subjects and at some ages--such as earth and space sciences in high schools it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. It is also less prominent in many social studies courses.
+
+
+10. exaggerate 动 夸大  panic 名 恐慌 动 使恐慌
+	She exaggerates the existing panic.
+
+
+11. straddle 动 跨 跨越  stride 名 步幅 大步 动 跨越 是跨的词源   neatly 副 整齐地 整洁地
+	In the end, ARP is probably best considered a protocol that straddles the boundary between the link and network layers—not fitting neatly into the simple layered protocol stack we studied in Chapter 1. Such are the complexities of real-world protocols!
+
+
+12. invalidate 动 使无效  invalid 形 无效的
+	Moving the uncles declaration to the end of this list of statements would invalidate the other two initializations because then the value of uncles wouldn’t be known at the time the program tries to initialize the other variables.
+
+
+13. momentary 形 短暂的 片刻的 词根片刻  suspense 名 悬念 焦虑 词根停止
+	If you know what the initial value of a variable should be, initialize it.True, separating the declaring of a variable from assigning it a value can create momentary suspense.
+
+
+14. alternative 形 可供替代的 名 选择  novice 名 新手  odd 形 奇怪的 奇的
+	Why, you may ask with good reason, does the language need more alternatives? As odd as it may seem, the reason is to make using C++ easier for the novice.
+
+
+15. parenthesis 名 园括号  brace 名 大括号
+	C++ added the parentheses form of initialization on to make initializing ordinary variables more like initializing class variables. C++11 makes it possible to use the braces syntax (with or without the =) with all types—a universal initialization syntax.
+
+
+16. trip up 绊倒 使 犯错
+	You’re going to be implementing this logic, and it’s a little detailed, but we don’t want you to be worrying about hidden test cases trying to trip you up or treating this like a word problem on the SAT.
+
+
+17. exponential 形 指数的  exponent 名 指数 倡导者  lousy 形 非常糟糕的 差劲的
+	Double the value of RTO. This is called “exponential backoff” it slows down retransmissions on lousy networks to avoid further gumming up the works.
+
+
+
+
+
+
+
+
+

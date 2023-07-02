@@ -1,0 +1,124 @@
+1. work horses 主力 主要设备
+	Our discussion of specific Internet transport protocols in this chapter has focused on UDP and TCP—the two “work horses” of the Internet transport layer. 
+
+
+2. predecessor 前任 前身 被替代的事物
+	Indeed, measurements in [Yang 2014] indicate that CUBIC (and its predecessor, BIC [Xu 2004]) and CTCP are more widely deployed on Web servers than classic TCP Reno; we also saw that BBR is being deployed in Google’s internal B4 network, as well as on many of Google’s public-facing servers.
+
+
+3. priority 名 优先 优先的事  prior 形 优先的 优先的词根  variation 名 变化  vary 动 变化  variable 名 变量 形 可变的
+	There are versions of TCP that implement different priorities among TCP connections competing for bandwidth at a bottleneck link, and for TCP connections whose segments are being sent over different source-destination paths in parallel. There are also variations of TCP that deal with packet acknowledgment and TCP session establishment/closure differently than we studied in Section 3.5.6.
+
+
+4. culmination 名 终点 结果 巅峰  culminate 动 告终 达到高潮 前者的词根  cumulative 形 累积的
+	Our study of QUIC will also serve as a nice culmination of our study of the transport layer, as QUIC uses many of the approaches for reliable data transfer, congestion control, and connection management that we’ve studied in this chapter.
+
+
+5. imperative 迫切的 必要的 必须服从的 紧迫之事   well-being 康乐  gridlock 交通堵塞 僵局
+	We learned that congestion control is imperative for the well-being of the network. Without congestion control, a network can easily become gridlocked, with little or no data being transported end-to-end. 
+
+
+6. partition 名动 分割 词根是那个最简单的部分
+	In Chapter 1, we said that a computer network can be partitioned into the “network edge” and the “network core.” 
+
+
+7. telescope 望远镜  scope 范围 机会  asteroid 小行星
+	I knew very well that in addition to the great planets - such as the Earth, Jupiter, Mars, Venus - to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time seeing them through the telescope. When an astronomer discovers one of these he does not give it a name, but only a number. He might call it, for example, "Asteroid 325."
+
+
+8. Turkish 土耳其的 时代变了  Turkey 土耳其   turkey 火鸡
+	This asteroid has only once been seen through the telescope. That was by a Turkish astronomer, in 1909.
+
+
+9. congress 代表大会 国会  demonstration 示范 表达  demonstrate 示范 证明 表达  costume 服装  custom 习俗 习惯  customer 顾客 词源少了艾斯的海关  custom 惯例 原指海关 后指买者
+	On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration. But he was in Turkish costume, and so nobody would believe what he said.
+
+
+10. reputation 名声  repute 名 名声 动 被普遍认为 名声词根  reputable 声誉好的  dictator 独裁者 狄克推多  dictate 动 口述 命令 独裁者的词根  under pain of 违者处以  impressive 令人印象深刻的
+	Fortunately, however, for the reputation of Asteroid B-612, a Turkish dictator made a law that his subjects, under pain of death, should change to European costume. So in 1920 the astronomer gave his demonstration all over again, dressed with impressive style and elegance. And this time everybody accepted his report.
+
+
+11. on account of 因为 由于  account 账户 理由  essential 必要的 本质的
+	If I have told you these details about the asteroid, and made a note of its number for you, it is on account of the grown-ups and their ways. When you tell them that you have made a new friend, they never ask you any questions about essential matters.
+
+
+12. figure 数字 人物 身材 图
+	Only from these figures do they think they have learned anything about him.
+
+
+13. rosy 玫瑰色的  brick 砖  dove pigeon 鸽子  roof 屋顶  exclaim 呼喊 惊叫
+	If you were to say to the grown-ups: "I saw a beautiful house made of rosy brick, with geraniums in the windows and doves on the roof," they would not be able to get any idea of that house at all. You would have to say to them: "I saw a house that cost $20,000." Then they would exclaim: "Oh, what a pretty house that is!"
+
+
+14. just so 正是如此  charm 名 魅力 动 迷人  charming 形 迷人的 富有魅力的  shrug 耸肩
+	Just so, you might say to them: "The proof that the little prince existed is that he was charming, that he laughed, and that he was looking for a sheep. If anybody wants a sheep, that is a proof that he exists." And what good would it do to tell them that? They would shrug their shoulders, and treat you like a child.
+
+
+15. forbearance 耐心 宽容  forbear 克制
+	Children should always show great forbearance toward grown-up people.
+
+
+16. indifference 漠不关心
+	But certainly, for us who understand life, figures are a matter of indifference.
+
+
+
+17. grief 悲伤 伤心事  set down 记录 写下 放下
+	I have suffered too much grief in setting down these memories.
+
+
+18. take up 继续 占用 接受
+	It is hard to take up drawing again at my age,
+
+
+19. go along 进行  resemblance 相似  resemble 动 像 类似于  fair-to-middling 中等水平
+	One drawing goes along all right, and another has no resemblance to its subject. I make some errors, too, in the little prince's height: in one place he is too tall and in another too short. And I feel some doubts about the color of his costume. So I fumble along as best I can, now good, now bad, and I hope generally fair-to-middling.
+
+
+20. alas 唉
+	But I, alas, do not know how to see sheep through the walls of boxes. 
+
+
+21. solar 太阳的  lunar 月亮的  calorie 大卡  muscle 肌肉 体力  plastic 塑料的 塑料  poverty 贫穷  property 名 财产 特性  mission 任务 使命  missile 导弹  regulation 规定  
+
+
+22. species 种 物种  expense 费用 代价 昂贵的词根  recession 衰退  recess 名 休息 如课间休息 隐秘处  boost 增加 促进  boot 靴子 启动  conduct 行为 进行 指挥 引导  conductor 指挥家 导体  
+
+
+23. immigrant 移民   migrant 移民 迁徙  migrate 动词 移居  claim 声称 索赔   colleague 同事   spot 点 地点 认出
+
+
+
+
+
+
+
+
+
+
+
+
+
+work horses  predecessor  priority   prior   variation  vary  variable   culmination
+culminate  cumulative  imperative  well-being  gridlock  partition  telescope  asteroid
+Turkish  Turkey   turkey   congress demonstration  demonstrate  costume  custom  customer 
+custom   reputation  repute  reputable   dictator   dictate   under pain of  impressive 
+on account of   account   essential   figure  rosy  brick   dove/pigeon  roof  exclaim 
+just so   charm   charming   shrug   forbearance  forbear   indifference  
+grief   set down   take up  go along  resemblance  resemble  fair-to-middling  alas
+
+
+
+solar  lunar  calorie  muscle  plastic  poverty  mission  regulation  species  expense  
+recession  recess  boost boot  conduct conductor
+immigrant  migrant  migrate  missile
+claim  colleague  essential  spot 
+
+
+sum  83
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+1.  intuitively
+	The “flow” of the material at any point in the system is intuitively the rate at which the material moves.
+
+
+2. conduit 管道
+	We can think of each directed edge in a flow network as a conduit for the material.
+
+
+3. junction 会合处
+	Vertices are conduit junctions, and other than the source and sink, material flows through the vertices without collecting in them. 
+
+
+4.  property
+	We call this property “flow conservation,” and it is equivalent to Kirchhoff’s current law when the material is electrical current.
+
+
+5. violate 违反  violent 暴力的  violence  暴力
+	In the maximum-flow problem, we wish to compute the greatest rate at which we can ship material from the source to the sink without violating any capacity constraints.
+
+
+6. adapt 调整...以适应 适应  
+	Moreover, we can adapt the basic techniques used in maximum-flow algorithms to solve other network-flow problems.
+
+
+7.  formalizes 正式确定 (词根 form) formal 形式的 正式的
+	Section 26.1 formalizes the notions of flow networks and flows, formally defining the maximum-flow problem. 
+
+
+8. properties  notation
+	In this section, we give a graph-theoretic definition of flow networks, discuss their properties, and define the maximum-flow problem precisely. We also introduce some helpful notation.
+
+
+9. significant 重要的 意义重大的 (词根 signify 表示 意味)
+	We include it, however, because when we introduce residual networks later in this chapter, the flow into the source will become significant. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+intuitively  conduit  junction  property  violate  adapt  formalizes  notation  significant 
+
+
+signify
+

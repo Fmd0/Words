@@ -1,0 +1,72 @@
+1. accordance 依照 与...一致 (词根 accord 协议 一致) formula 公式 配方
+	We compute the residual capacity cf(u ,v) in accordance with the formula (26.2).
+
+
+2. pseudocode 伪代码
+	The FORD - FULKERSON algorithm simply expands on the FORD - FULKERSON - METHOD pseudocode given earlier.
+
+
+3.  poorly 不合适的  successive 连续的 (词根竟然是 success)
+	If we choose it poorly, the algorithm might not even terminate: the value of the flow will increase with successive augmentations, but it need not even converge to the maximum flow value.
+
+
+4. monotonically 单调地( 多数学用语)
+	If the Edmonds - Karp algorithm is run on a flow network G=(V ,E) with source s and sink t, then for all vertices v 属于 V - {s ,t}, the shortest-path distance dis(s ,v) in the residual network Gf increases monotonically with each flow augmentation.
+
+
+5. strike 击打  sleeve 袖子
+	Rain struck Yvonne’s face, blocking her view. She used her sleeve to wipe it off, but it was a losing battle; the rain kept coming down. 
+
+
+6. button 纽扣  cotton 棉花  smear 涂抹 
+	Her blue buttoned jacket and light gray cotton pants were soaked, smeared with dirt from the wet ground. 
+
+
+7. squint 斜视  trunk  主干  lounge 懒洋洋地躺
+	She squinted toward the cloud-filled sky above the tree trunk she lounged against. There was no end in sight. 
+
+
+8. speck 斑点  spy 看见 间谍
+	Not a speck of blue anywhere. But then, she could only spy a small part of the sky from her current position.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+accordance  formula  pseudocode  poorly  successive  monotonically  strike  sleeve  button
+cotton  smear  squint  trunk  lounge  speck  spy 
+
+
+sum  16
+
+
+
+
+
+
+
+
+

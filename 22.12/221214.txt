@@ -1,0 +1,23 @@
+1. tricky 困难的 棘手的
+	Resolving references to global symbols, however, is trickier. 
+
+2. cryptic 神秘的
+	If the linker is unable to find a definition for the referenced symbol in any of its input modules, it prints an (often cryptic) error message and terminates.
+
+3. somehow 以某种方式 出于某种原因
+	In this case, the linker must either flag an error or somehow choose one of the definitions and discard the rest. 
+
+4. baffle 使困惑 挡板  baffling 令人困惑的  unwary 不谨慎的 粗心的  wary 谨慎的 警惕的
+	The approach adopted by Linux systems involves cooperation between the compiler, assembler, and linker and can introduce some baffling bugs to the unwary programmer.
+
+
+
+
+
+
+
+
+
+
+
+

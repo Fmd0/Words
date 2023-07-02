@@ -1,0 +1,2 @@
+1. analog 模拟的  analogous 类似的  analogy 类比 类似
+	analog filters (AF)  digital filters (DF)

@@ -1,0 +1,88 @@
+1. merit 优点 价值  miracle 奇迹  moist 湿润的 潮湿的  murder 谋杀  mutual 相互 共同的
+patch 补丁  pave 铺   paw 爪 手   pension 退休金 养老金
+persist 坚持 持续  insist  pigeon 鸽子   pint 品脱
+pitch 音高 场地 沥青   plot 情节 密谋 绘制  portable 便于携带的  postage 邮费 
+qualification 资格  qualify  quantity  quality  notify  railroad 铁路 
+readily 乐意的 容易的  refrain 避免 重复的话 副歌  repay 偿还 报答  restrict 限制
+resume 恢复 继续 简历  rude 粗鲁的 无礼的  sake 利益 清酒 目的  sauce 酱 调味汁  
+scrape 刮  (很复杂的一个词) 
+script 剧本 脚本  slice 切片 薄片 部分  slight 细微的 瘦小的  sorrow 悲伤 
+spelling 拼写  spell 拼写 咒语 一段时间
+spur 激励 马刺  steep 陡峭的
+straw 稻草 吸管  substitute 代替  surge 激增 涌动  surplus 剩余 盈余
+suspicion 怀疑  suspicious  sympathetic 有同情心的  sympathy 同情  
+tangible 有形的 可触摸的  tedious 繁琐的 单调乏味的  terror 恐惧  theft 偷窃  词源自 thief
+thesis 论文  thoughtful 周到的 体贴的 沉思的  triple 三的
+transit 运输  transport 运输  transfer 传输  transmit 传输
+triumph 伟大胜利 成功 凯旋  tube 管  twist 扭曲 转动  twin  typist 打字员
+upright 正直的 直立地 垂直的  utter 完全的 彻底的 极度的 说出  vacant 空着的  
+vacuum 真空  vain 虚荣的 自负的 徒劳的  
+vigorous 有力的 精力充沛的 强健的  (词根 vigor 等于 vigour 精力 力量 )
+visa 签证  weapon 武器  whisper 耳语 低语
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+merit  miracle  moist  murder  mutual  patch  pave  paw  pension  persist  pigeon  pint
+pitch  plot  portable  postage  qualification  railroad  readily  refrain  repay  restrict
+resume  rude  sake  sauce  scrape  script  slice  slight  sorrow  spelling  spur  steep
+straw  substitute  surge  surplus  suspicion  sympathetic  tangible  tedious  terror  theft
+thesis  thoughtful  transit  triple  triumph  tube  twist  typist  upright  utter
+vacant  vacuum  vain  vigorous  visa  weapon  whisper
+suspicious  vigor  spell
+
+
+transport   transfer  transmit  thief  dove (不包括)
+
+
+sum  64
+
+
+
+

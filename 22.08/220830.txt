@@ -1,0 +1,47 @@
+1. alphabet 
+	We further assume that the elements of P and T are characters drawn from a finite alphabet . 
+
+
+2. brute 最基本的 粗野的人  violent 残暴的
+	Except for the naive brute-force algorithm, which we review in Section 32.1, each string-matching algorithm in this chapter performs some preprocessing based on the pattern and then finds all valid shifts; we call this latter phase “matching.”
+
+
+3.  generalize 推广  generate 产生
+	It also generalizes nicely to other pattern-matching problems. 
+
+
+4. notation 标记(词根note)  notion 概念  terminology 专业术语
+	Notation and terminology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alphabet  brute  generalize  generate  notation  notion  terminology
+
+
+sum  7
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+1. mnemonic 帮助记忆的  hierarchically 分层次的 层次的
+	We have just seen that there are two ways to identify a host—by a hostname and by an IP address. People prefer the more mnemonic hostname identifier, while routers prefer fixed-length, hierarchically structured IP addresses. 
+
+
+2. reconcile 调和 使和解
+	In order to reconcile these preferences, we need a directory service that translates hostnames to IP addresses.
+
+
+3. alias 化名 别名
+	Host aliasing. A host with a complicated hostname can have one or more alias names.
+
+
+4. identical 相同的  identity 身份 恒等式
+	In fact, the MX record (see below) permits a company’s mail server and Web server to have identical (aliased) hostnames;
+
+
+5.  replicate 复制  duplicate
+	DNS is also used to perform load distribution among replicated servers, such as replicated Web servers. Busy sites, such as cnn.com, are replicated over multiple servers.
+
+
+6. volume 量 体积 卷
+	Traffic volume. A single DNS server would have to handle all DNS queries (for all the HTTP requests and e-mail messages generated from hundreds of millions of hosts).
+
+
+7. hierarchical 分等级的 层次的  hierarchy 等级制度  scale 规模
+ 	In order to deal with the issue of scale, the DNS uses a large number of servers, organized in a hierarchical fashion and distributed around the world. No single DNS server has all of the mappings for all of the hosts in the Internet. Instead, the mappings are distributed across the DNS servers. 
+
+
+8.  To a first approximation 大致的 近似的 authoritative 权威的 authority 权威 权力 当局 author
+	To a first approximation, there are three classes of DNS servers—root DNS servers, top-level domain (TLD) DNS servers, and authoritative DNS servers—organized in a hierarchy as shown in Figure 2.17.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mnemonic  hierarchically  reconcile  alias  identical  identity  replicate  volume  
+hierarchical  hierarchy  scale  To a first approximation  authoritative  authority
+
+
+sum  14
+
+
+
+
+
+

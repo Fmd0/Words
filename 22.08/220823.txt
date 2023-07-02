@@ -1,0 +1,62 @@
+1.  throttle 节流
+	The TCP congestion-control mechanism throttles a sending process (client or server) when the network is congested between sender and receiver. 
+
+
+2. involve 需要 联系  英译 某种情形或重大事件包括了something作为必要的组成部分或结果
+	Indeed, many of today’s network applications involve communication between client and server programs that have been created by independent developer.
+
+
+3. proprietary 专有的 proprietor 所有者  property 财产  英译 属于某人的东西
+	The other type of network application is a proprietary network application. In this case, the client and server programs employ an application-layer protocol that has not been openly published in an RFC or elsewhere. 
+
+
+4. conversely 相反的  converse 相反之物 交谈  contract  contrast 差异 反面
+	Recall also that when a client or server program implements a protocol defined by an RFC, it should use the well-known port number associated with the protocol; conversely, when developing a proprietary application, the developer must be careful to avoid using such well-known port numbers. 
+
+
+5. demonstrate 示范操作
+	We’ll use the following simple client-server application to demonstrate socket programming for both UDP and TCP:
+
+
+6. auxiliary 辅助的
+	“Good code” would certainly have a few more auxiliary lines, in particular for handling error cases. For this application, we have arbitrarily chosen 12000 for the server port number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+throttle  involve  proprietary  proprietor  conversely  demonstrate  auxiliary
+contract  contrast
+
+
+sum  9
+

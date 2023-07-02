@@ -1,0 +1,77 @@
+1. numerous 许多的 众多
+	Although SMTP has numerous wonderful qualities
+
+
+2. ubiquity 无处不在
+	as evidenced by its ubiquity in the Internet
+
+
+3. invoke 调用
+	Alice invokes her user agent for e-mail, provides Bob’s e-mail address.
+
+
+4. transcript 成绩单 文本记录 抄本  subscript 下标
+	Let ’s next take a look at an example transcript of messages exchanged between an SMTP client and an SMTP server.
+
+
+5. peripheral 次要的 外围的
+	When Alice writes an ordinary snail-mail letter to Bob, she may include all kinds of peripheral header information at the top of the letter.
+
+
+6. precede 先于 优于  precedent 在前的
+	Similarly, when an e-mail message is sent from one person to another, a header containing peripheral information precedes the body of the message itself.
+
+
+7. deposit 存放 放下 存款 押金
+	We just learned that at some point along the path the e-mail message needs to be deposited in Bob’s mail server. 
+
+
+8. relay 传递(信息 新闻)  转播
+	Alice’s mail server uses SMTP to relay the e-mail message to Bob’s mail server.
+
+
+9. procedure 程序 步骤
+	Why the two-step procedure? Primarily because without relaying through Alice’s mail server, Alice’s user agent doesn’t have any recourse to an unreachable destination mail server. 
+
+
+10. operational 运行的 正常运转的
+	By having Alice first deposit the e-mail in her own mail server, Alice’s mail server can repeatedly try to send the message to Bob’s mail server, say every 30 minutes, until Bob’s mail server becomes operational.
+
+
+11. recourse 求助
+	And if Alice’s mail server is down, then she has the recourse of complaining to her system administrator!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numerous  ubiquity  invoke  transcript  subscript  peripheral  precede  precedent  
+deposit  relay  procedure  operational  recourse
+
+
+sum  13
+
+
+

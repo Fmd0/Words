@@ -1,0 +1,72 @@
+1. tear down 拆毁  tear tore torn  tear 过去分词  tear 撕 飞跑
+   thrilling 使兴奋的  thrill 兴奋 使兴奋
+	In this subsection, we take a closer look at how a TCP connection is established and torn down. Although this topic may not seem particularly thrilling, it is important because TCP connection establishment can significantly add to perceived delays (for example, when surfing the Web).
+
+
+2. grant 准许 承认 授予
+	Once the IP datagram containing the TCP SYN segment arrives at the server host (assuming it does arrive!), the server extracts the TCP SYN segment from the datagram, allocates the TCP buffers and variables to the connection, and sends a connection-granted segment to the client TCP. 
+
+
+3. belayer 攀登者的保护者  ascent 上升 登高 提高  ascend  攀登 升高
+	It’s interesting to note that a rock climber and a belayer (who is stationed below the rock climber and whose job it is to handle the climber’s safety rope) use a three-way-handshake communication protocol that is identical to TCP’s to ensure that both sides are ready before the climber begins ascent.
+
+
+4. self-explanatory 不需解释的  explanatory 解释的 说明的  explanation 解释  explain 解释 词根
+   pathological 病态的
+	The transitions are self-explanatory. In these two state-transition diagrams, we have only shown how a TCP connection is normally established and shut down. We have not described what happens in certain pathological scenarios, for example, when both sides of a connection want to initiate or shut down at the same time. 
+
+
+5. ongoing 持续的 持续存在的
+	Let’s consider what happens when a host receives a TCP segment whose port numbers or source IP address do not match with any of the ongoing sockets in the host. 
+
+
+6. destine 指定  (destination 的词根 目的地)
+	But the attacker at least knows that the segments destined to the host at port 6789 are not blocked by any firewall on the path between source and target hosts. 
+
+
+7. intervene 介入 干预 阻碍  intervening 介于中间的
+	This likely means that the SYN segment was blocked by an intervening firewall and never reached the target host.
+
+
+8. configuration 配置 结构 (词根 configure 配置)
+	Nmap is a powerful tool that can “case the joint” not only for open TCP ports, but also for open UDP ports, for firewalls and their configurations, and even for the versions of applications and operating systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+tear down  tear  thrilling  thrill  grant  belayer  ascent  ascend  
+self-explanatory  explanatory  explanation  explain  pathological
+ongoing  destine  intervene  intervening  configuration  configure
+
+
+sum  19
+
+
+

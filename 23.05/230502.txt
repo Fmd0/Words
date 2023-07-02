@@ -1,0 +1,39 @@
+1. directive 名 命令 指示 同根词直接的  wholesale 名动 批发 形副 大规模的 批发的
+	Using a using directive to import all the names from a namespace wholesale is not the same as using multiple using declarations.
+
+
+2. set the stage 做好准备 以及字面意思 为舞台布景
+	To set the stage, let’s first review how C++ handles conversions for its built-in types.
+
+
+3. profusion 名 大量  profuse 形 大量的 丰富的  complicate 动 使复杂化
+	C++’s profusion of types lets you match the type to the need. It also complicates life for the computer. 
+
+
+4. potential 形 潜在的 名 潜力  mishmash 名 混杂物
+	To help deal with this potential mishmash, C++ makes many type conversions automatically
+
+
+5. facility 名 场所 设施 才能  deduce 动 推断
+	C++11 introduces a facility that allows the compiler to deduce a type from the type of an initialization value. 
+
+
+6. redefine 名 重新定义 那个很像的提炼  date back 追溯到  date 动 追溯 过时
+	For this purpose it redefines the meaning of auto, a keyword dating back to C, but one hardly ever used. (Chapter 9 discusses the previous meaning of auto.) 
+
+
+7. linger 动 逗留 留存  practically 副 几乎 实际地  apparatus 名 设备 装置  all this 这一切
+	Practically what all this means is that your TCPConnection has a member variable called linger after streams finish, exposed to the testing apparatus through the state() method.
+
+
+8. upshot 名 结局 结果  feel free 随便 轻松
+	In the next section (5.1), we give the practical upshot for when a clean shutdown happens, so feel free to skip ahead if you like.
+
+
+9. deprive 动 剥夺  deprivation 名 剥夺 贫困 缺乏  derive 动 获得 起源
+	Suppose, for example, that you happen to write the following code when you’re sleep deprived
+
+
+10. ditto 名 同上  hive 名 蜂房 忙碌的场所
+
+

@@ -1,0 +1,91 @@
+1. intervention 名 干涉 词根自然是  manually 副 手动地 用手  manual 名 使用手册 形 手动的
+	In static routing algorithms, routes change very slowly over time, often as a result of human intervention (for example, a human manually editing a link costs).
+
+
+2. transoceanic 形 跨海洋的  short-haul 形 短距离的 短途的  haul 名 旅程 名动 拖 拉  terrestrial 形 陆地陆生的 地球的  monetary 形 货币的
+	For example, a transoceanic link might have a higher cost than a short-haul terrestrial link, the link speed, or the monetary cost associated with a link.
+
+
+3. quench 动 止渴 熄灭 如火和饥渴 抑制
+	Its original purpose was to perform congestion control, to allow a congested router to send an ICMP source quench message to a host to force that host to reduce its transmission rate.
+
+
+4. corporate 名 公司 形 全体的 公司的  incorporated Inc 股份有限公司  perfume 名 香水 动 香气弥漫
+	Bob is surfing the Web and arrives at the Alice Incorporated site, which is selling perfume
+
+
+5. cryptographic 形 密码学的 加密的  cryptography 名 密码学  authentication 名 认证  authentic 形 真实的 真正的
+	In the previous section, we saw how cryptographic techniques can provide confidentiality, data integrity, and end-point authentication to a specific application, namely, e-mail. 
+
+
+6. predate 动 在日期上 早于
+	The SSL protocol was originally designed by Netscape, but the basic ideas behind securing TCP had predated Netscape’s work 
+
+
+7. clockwise 形副 顺时针的  counterclockwise anticlockwise 形副 逆时针的
+	When the LS algorithm is next run, node y determines that the clockwise path to w has a cost of 1, while the counterclockwise path to w has a cost of 1 + e.
+
+
+8. quiescent 形 静止的 词源那个最简单的安静的
+	At time t2, y receives z’s update and updates its distance table. y’s least costs do not change and hence y does not send any message to z. The algorithm comes to a quiescent state.
+
+
+9. albeit 连词 尽管
+	When the cost of the (x, y) link changes from 4 to 60 at time t0, y updates its table and continues to route directly to x, albeit at a higher cost of 60, and informs z of its new cost to x, that is, Dy(x) = 60.
+
+
+10. complementary 形 互补的 补充的  complement 名动 补充
+	The DV and LS algorithms take complementary approaches toward computing routing. 
+
+
+11. malfunction 名动 故障 失灵  backbone 名 脊柱 主干
+	Indeed, in 1997, a malfunctioning router in a small ISP provided national backbone routers with erroneous routing information. 
+
+
+12. homogenous 形 同种族的 生物学专业词 齐次的 所有东西次数相同 数学专业词  simplistic 形 过分简单化的
+	One router was indistinguishable from another in the sense that all routers executed the same routing algorithm to compute routing paths through the entire network. In practice, this model and its view of a homogenous set of routers all executing the same routing algorithm is simplistic for two important reasons
+
+
+13. prohibitive 形 禁止的 过高高昂的 令人望而却步的 因为钱价格  prohibit 动 禁止 阻止
+	As the number of routers becomes large, the overhead involved in communicating, computing, and storing routing information becomes prohibitive.
+
+
+14. gigantic 形 巨大的
+	Some ISPs, however, partition their network into multiple ASs. In particular, some tier-1 ISPs use one gigantic AS for their entire network, whereas others break up their ISP into tens of interconnected ASs. 
+
+
+15. preamble 名 序前言
+	Preamble (8 bytes). The Ethernet frame begins with an 8-byte preamble field. Each of the first 7 bytes of the preamble has a value of 10101010; the last byte is 10101011. 
+
+
+16. drift 名 主旨 大意 名动 漂流 漂移 
+	However, because nothing is absolutely perfect, adapter A will not transmit the frame at exactly the target rate; there will always be some drift from the target rate, a drift which is not known a priori by the other adapters on the LAN.
+
+
+
+17. firsthand 形 第一手的 亲身的 直接的  became exposed to 开始接触到 曝光  forerunner 名 先驱 先行者
+	After completing his PhD and just before beginning a job at Xerox Palo Alto Research Center, he visited Abramson and his University of Hawaii colleagues for three months, getting a firsthand look at ALOHAnet. At Xerox PARC, Metcalfe became exposed to Alto computers, which in many ways were the forerunners of the personal computers of the 1980s.
+
+
+18. alliance 名 联盟 结盟 始终觉得和那啥有关系   ratify 动 批准 认可  commercialize 动 商业化 词根以及相应形容词自然
+	Metcalfe then forged an alliance between Xerox, Digital, and Intel to establish Ethernet as a 10 Mbps Ethernet standard, ratified by the IEEE. Xerox did not show much interest in commercializing Ethernet. 
+
+
+19. immensely 副 极其 非常地  immense 形 巨大的  market 动 销售 名词意思无需多言
+	In particular, 3Com developed and marketed Ethernet cards in the early 1980s for the immensely popular IBM PCs.
+
+
+20. brand-new 形 崭新的
+	Thus, in this sense, Ethernet does retransmit data, although Ethernet is unaware of whether it is transmitting a brand-new datagram with brand-new data, or a datagram that contains data that has already been transmitted at least once.
+
+
+21. warrant 名动 保证 名 许可证  certificate 名 证书  marriage 名 结婚  carriage 名 马车  wretched 形 悲惨的 如感到难过 可怜的 卑鄙的  bunch 名 束 一群人  racket 名 球拍  rocket 名 火箭
+
+
+
+
+
+
+
+
+

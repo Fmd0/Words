@@ -1,0 +1,95 @@
+1. interdisciplinary 跨学科的  discipline 纪律 学科
+	It seems that Mr.Grable has mastered the interdisciplinary approach to teaching ' the way we've been talking about in class.
+
+
+2. mythology 神话  astronomy 天文学  
+	OK ,yeah ,so like when he was teaching them astronomy ,he didn't just teach them the names of the planets ,he used it as a way to teach mythology.
+
+
+3. elementary 小学的 简单的
+	I go over the Johnson Elementary School ,you know ,to watch Mr.Grable teach the children in class.
+
+
+4. None
+	So,I've been reading over your observation notes and I'm quite interested in what's going on ,in particular what's the astronomy unit he's been teaching.
+
+
+5. Greek 希腊  Roman 罗马
+	So , He introduced Greek and Roman mythology as a way of explaining.
+
+
+6. iteratively 迭代 循环
+	The Ford - Fulkerson method iteratively increases the value of the flow. We start with f(u ,v)=0 for all u ,v in V, giving an initial flow of value 0. 
+
+
+7. manipulate 操作
+	As an algorithm manipulates the flow, with the goal of increasing the total flow, it might need to decrease the flow on a particular edge.
+
+
+8. send back 
+	These reverse edges in the residual network allow an algorithm to send back flow it has already sent along an edge. 
+
+
+9. induce 产生 诱导
+	Given a flow network G=(V, E) and a flow f , the residual network of G induced by f is Gf =(V ,Ef)
+
+
+10. intuition 直觉  signify 表示
+	The intuition behind this definition follows the definition of the residual network. We increase the flow on (u ,v) by f'(u ,v) but decrease it by f'(u ,v) because pushing flow on the reverse edge in the residual network signifies decreasing the flow in the original network.
+
+
+11. crucial 至关重要的
+	Cancellation of this type is crucial for any maximum-flow algorithm.
+
+
+12. corollary 推论 必然结果  ensue 接着发生
+	The following corollary shows that if we augment f by fp, we get another flow in G whose value is closer to the maximum. Figure 26.4(c) shows the result of augmenting the flow f from Figure 26.4(a) by the flow fp in Figure 26.4(b), and Figure 26.4(d) shows the ensuing residual network.
+
+
+13. insist 英译 强制要求
+	This definition is similar to the definition of “cut” that we used for minimum spanning trees in Chapter 23, except that here we are cutting a directed graph rather than an undirected graph, and we insist that s in S and t in T.
+
+
+14. bound 限制
+	The value of any flow f in a flow network G is bounded from above by the capacity of any cut of G.
+
+
+15. yield 得出 出产
+	Corollary 26.5 yields the immediate consequence that the value of a maximum flow in a network is bounded from above by the capacity of a minimum cut of the network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interdisciplinary  discipline  mythology  astronomy  elementary  Greek  Roman
+iteratively  manipulate  send back   induce  intuition  signify  crucial  
+corollary  ensue  insist  bound  yield
+
+
+meteorology
+
+
+sum  19
+
+
+
+
+
+

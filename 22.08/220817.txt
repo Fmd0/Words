@@ -1,0 +1,68 @@
+1. instance 实体 例子   scatter 分散 散点图
+	There are more than 1000 root servers instances scattered all over the world, as shown in Figure 2.18. These root servers are copies of 13 different root servers, managed by 12 different organizations, 
+
+
+2. coordinate 协调 调整 坐标
+	and coordinated through the Internet Assigned Numbers Authority [IANA 2020].
+
+
+3. suffix 后缀 词尾  suffice
+	The local DNS server forwards the query message to a root DNS server. The root DNS server takes note of the edu suffix and returns to the local DNS server a list of IP addresses for TLD servers responsible for edu. 
+
+
+4. intermediate 中间的  mediate 调停  media 媒体 媒介  medium 中等的 媒介 
+	In general, this is not always true. Instead, the TLD server may know only of an intermediate DNS server, which in turn knows the authoritative DNS server for the hostname. 
+
+
+5. extensively 大量普遍广泛地 广阔地 extent 程度 范围  extensive
+	In truth, DNS extensively exploits DNS caching in order to improve the delay performance and to reduce the number of DNS messages ricocheting around the Internet. The idea behind DNS caching is very simple.
+
+
+6. by no means 并不  discard 丢弃
+	Because hosts and mappings between hostnames and IP addresses are by no means permanent, DNS servers discard cached information after a period of time (often set to two days).
+
+
+7.  thereby 因此  bypass 绕过 越过
+	A local DNS server can also cache the IP addresses of TLD servers, thereby allowing the local DNS server to bypass the root DNS servers in a query chain. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+instance  scatter  coordinate  suffix  intermediate  mediate  extensively  extent  extensive
+by no means  discard  thereby  bypass  media  medium
+
+
+sum  15
+
+
+

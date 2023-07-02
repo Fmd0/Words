@@ -1,0 +1,108 @@
+1. in-depth 深入的
+	It is structured closely to the in-depth social engineering framework found at a url.
+
+
+2. dissect 剖析  dissection
+	This book takes a “tell and show approach” by first presenting a principle behind a topic then defining, explaining, and dissecting, then showing its application using collections of real stories or case studies. 
+
+
+3. as well as 也 另外 而且
+	Throughout the book you can find many Internet links to stories or accounts as well as links to tools and other aspects of the topics discussed.
+
+
+4. lightly 轻率地 轻轻地
+	As you read this book, I hope to impress upon you that security is not a “part-time” job and is not something to take lightly. 
+
+
+5. from bad to worse 进入一个更坏的情况  intense 强烈的  intensity 强度
+	As criminals and malicious social engineers seem to go from bad to worse in this world, attacks on businesses and personal lives seem to get more intense.
+
+
+6. as evidenced by 正如所证明的  evidence 动词证明 证据  (词根 evident)
+	Naturally, everyone wants to be protected, as evidenced by the increase in sales for personal protection software and devices.
+
+
+7. mentality 心态  (词根 mental 心理的 精神的 疯的)
+	The only true way to reduce the effect of these attacks is to know that they exist, to know how they are done, and to understand the thinking process and mentality of the people who would do such things.
+
+
+8. a light bulb goes off 一个灯泡熄灭了 灵光一现  proverbial 谚语的 众所周知的  (词根 proverb) lurk 潜伏  lurker 潜伏者
+	When you possess this knowledge and you understand how malicious hackers think, a light bulb goes off. That proverbial light will shine upon the once-darkened corners and enable you to clearly see the “bad guys” lurking there. 
+
+
+9. ahead of time 提前  affair 事件 事情  ward off 躲避 防止危害
+	When you can see the way these attacks are used ahead of time, you can prepare your company's and your personal affairs to ward them off.
+
+
+10. contradict 动 反驳 与相矛盾   contradictory 矛盾的
+	Of course, I am not contradicting what I said earlier; I believe there is no way to truly be 100% secure. 
+
+
+11. archive 档案 把...存档
+	Look at the archived story at a url.
+
+
+12. trashcan 垃圾桶  dumpster 垃圾站
+	How did the breach occur? The plans were thrown away, in the trashcan, and someone found them in the dumpster. 
+
+
+13. launch 启动 导弹发射 实施  adhere 坚持 遵守 黏附  adherent 拥护者 粘附的
+	Simple-yet-deadly attacks are launched every day and point to the fact that people need education; need to change the way they adhere to password policies and the way they handle remote access to servers; and need to change the way they handle interviews, deliveries, and employees who are hired or fired. Yet without education the motivation for change just isn’t there.
+
+
+14. disgruntled 不满的 不高兴的  disgruntle 使不高兴
+	In 2003 the Computer Security Institute did a survey along with the FBI and found that 77% of the companies interviewed stated a disgruntled employee as the source of a major security breach.
+
+
+15.  quote 引用
+	Vontu, the data loss prevention section of Symantec ,says that 1 out of every 500 emails contains confidential data. Some of the highlights of that report, quoted from a url, are as follows:
+
+
+16. corporate 公司的 全体的 共同的  incorporate
+	46% say it would be “easy” to “extremely easy” for workers to remove sensitive data from the corporate database.
+
+
+17. stagger 使震惊 蹒跚  staggering 令人震惊的  wrench 名词 痛苦 扳手 名动 猛扭  wrenching 极为痛苦的
+	These are staggering and stomach-wrenching statistics.
+
+
+18. flaw 缺点 缺陷 瑕疵  monetary 货币的  money
+	The numbers show a serious flaw in the way security itself is handled. When there is education, hopefullybefore a breach, then people can make changes that can prevent unwanted loss, pain, and monetary damage.
+
+
+19. handbook 手册 指南
+	This book is most effective used as a handbook or guide through the world of social attacks, social manipulation, and social engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in-depth   dissect   dissection   as well as   lightly   from bad to worse   intense   intensity   as evidenced by   evidence   mentality   mental    a light bulb goes off   proverbial   (proverb)   lurk   ahead of time   affair   ward them off   contradict   archive   trashcan   dumpster   launch   adhere   disgruntled   disgruntle   quote   corporate   incorporate   stagger   staggering   wrench   wrenching   flaw   monetary   money   handbook   
+
+
+

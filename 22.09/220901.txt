@@ -1,0 +1,62 @@
+1. recurrence  再现  current
+	In general, with a d-ary alphabet {0,1,...,d-1} , we choose q so that dq fits within a computer word and adjust the recurrence equation (32.1) to work modulo q, so that it becomes
+
+
+2. /*heuristic*/
+	 We can thus use the test ts 同余 p (mod q) as a fast heuristic test to rule out invalid shifts s. 
+
+
+3. spurious 假的 伪造的
+	Any shift s for which ts 同余 p (mod q) must be tested further to see whether s is really valid or we just have a spurious hit.
+
+
+4. subscript 下标  clarity 清楚  (词根 clarify 澄清 阐明)  charity 慈善
+	The subscripts on t are provided only for clarity; the program works correctly if all the subscripts are dropped. Line 3 initializes h to the value of the high-order digit position of an m-digit window. 
+
+
+5. brevity 简短 简洁
+	From now on, we shall assume that P is a given fixed pattern string; for brevity, we shall not indicate the dependence upon P in our notation.
+
+
+6. specify v具体说明  (词根 spec  同根词 specific 具体的) 和special没关系
+   specification
+	In order to specify the string-matching automaton corresponding to a given pat- tern P[1...m] we first define an auxiliary function F, called the suffix function corresponding to P.
+
+
+7. conceivable 可想到的  conceive 构想 怀孕 (与前者并没有同根关系)
+	The code starts with the largest conceivable value of k, which is min(m,p+1).
+
+
+8.  utilize 利用
+	Much faster procedures exist; by utilizing some cleverly computed information about the pattern P (see Exercise 32.4-8), 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+recurrence  /*heuristic*/  spurious  subscript  clarity  clarify  charity  brevity  specify
+specific  conceivable  conceive  utilize
+
+
+sum  14
+
+

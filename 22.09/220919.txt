@@ -1,0 +1,103 @@
+1. decay 衰减 腐烂  rust 生锈  ruby 红宝石
+	The word “exponential” appears in EWMA because the weight of a given SampleRTT decays exponentially fast as the updates proceed. 
+
+
+2. ratio 比例  proportion 部分 比例  portion 部分
+	We saw earlier that pipelining can greatly improve a session’s throughput when the ratio of the segment size to round-trip delay is small. 
+
+
+3. margin 幅度 边缘部分 外边距
+	It is therefore desirable to set the timeout equal to the EstimatedRTT plus some margin. 
+
+
+4. take into account 考虑
+	All of these considerations are taken into account in TCP’s method for determining the retransmission timeout interval:
+
+
+5. premature 过早的 早产的
+	Also, when a timeout occurs, the value of TimeoutInterval is doubled to avoid a premature timeout occurring for a subsequent segment that will soon be acknowledged. 
+
+
+6. delimit 界定  combination 混合体 组合  combine 结合 合作
+	Expressions such as these, formed by delimiting a list of expressions within parentheses in order to denote procedure application, are called combinations. 
+
+
+7. somewhat 有点  depart 背离 出发  accommodate  容纳 为提供住宿  accommodation 住所
+	The convention of placing the operator to the left of the operands is known as prefix notation, and it may be somewhat confusing at first because it departs significantly from the customary mathematical convention. Prefix notation has several advantages, however. One of them is that it can accommodate procedures that may take an arbitrary number of arguments, as in the following examples:
+
+
+8. ambiguity 歧义  (并没有词根的关系) ambiguous 有歧义的 模棱两可的 
+	No ambiguity can arise, because the operator is always the leftmost element and the entire combination is delimited by the parentheses.
+
+
+9. nest  嵌套 使套叠 窝
+	A second advantage of prefix notation is that it extends in a straightforward way to allow combinations to be nested, that is, to have combinations whose elements are themselves combinations:
+
+
+10. readily 容易的 乐意的  (词根 ready )
+	which the interpreter would readily evaluate to be 57. We can help ourselves by writing such an expression in the form
+
+
+11. format 动词/名词 格式 样式 格式化  formal  align 使成一直线 (形近词 alias 化名) 
+    vertically 垂直地  indentations 缩进  indent
+	following a formatting convention known as pretty-printing, in which each long combination is written so that the operands are aligned vertically. The resulting indentations display clearly the structure of the expression.
+
+
+12. isolate 孤立 分离  a case in point 恰当的例子  in point 相关的 恰当的
+	One of our goals in this chapter is to isolate issues about thinking procedurally. As a case in point, let us consider that, in evaluating combinations, the interpreter is itself following a procedure.
+
+
+13. succinctly 简要地  (词根 succinct 简明的)
+	Notice how succinctly the idea of recursion can be used to express what, in the case of a deeply nested combination, would otherwise be viewed as a rather complicated process. For example, evaluating
+
+
+13.  stem from 起源于  stem 茎 阻止 起源  derive from
+	Each combination is represented by a node with branches corresponding to the operator and the operands of the combination stemming from it. 
+
+
+14. serve as 起...作用 担任  trigger 引发 引发因素
+	with TCP’s fast retransmit mechanism, the receipt of three duplicate ACKs for a given segment serves as an implicit NAK for the following segment, triggering retransmission of that segment before timeout.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+decay  rust  ruby  ratio  margin  take into account  premature  delimit  combination
+somewhat  depart  ambiguity  nest  readily  format  align  vertically  indentations
+isolate  in point succinctly  stem from  serve as  trigger
+
+
+sum  24
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,73 @@
+1. flavor 名 味道 特色 风味  bewilder 动 使迷惑  bewildering 形 令人迷惑的  acronym 名 首字母缩略词
+	But in fact, Ethernet comes in many different flavors, with somewhat bewildering acronyms such as 10BASE-T, 10BASE-2, 100BASE-T, 1000BASE-LX,10GBASE-T and 40GBASE-T.
+
+
+2. common 形 共同的 常见的 普通的
+	Figure 6.21 shows these different standards and the common Ethernet MAC protocol and frame format.
+
+
+3. timeless 形 永恒的 无时间性的  centerpiece 名 中心饰品 最引人注目的事物
+	Perhaps this then is the one true and timeless centerpiece of the Ethernet standard. 
+
+
+4. purge 名动 清除 清洗 如政党中的异类
+	In this manner, if a PC is replaced by another PC (with a different adapter), the MAC address of the original PC will eventually be purged from the switch table.
+
+
+5. aggregate 名 总数
+	As with a router, the maximum aggregate throughput of a switch is the sum of all the switch interface rates. 
+
+
+6. heterogeneous 形 各式各样的
+	Heterogeneous links. Because a switch isolates one link from another, the different links in the LAN can operate at different speeds and can run over different media. 
+
+
+7. jabber 动 喋喋不休说
+	For example, if an adapter malfunctions and continually sends Ethernet frames (called a jabbering adapter), a switch can detect the problem and internally disconnect the malfunctioning adapter. 
+
+
+8. sniff 动 嗅 嗅探
+	SNIFFING A SWITCHED LAN: SWITCH POISONING
+
+
+9. bogus 形 假的 伪造的  legitimate 形 合法的
+	A well-known attack against a switch, called switch poisoning, is to send tons of packets to the switch with many different bogus source MAC addresses, thereby filling the switch table with bogus entries and leaving no room for the MAC addresses of the legitimate hosts. 
+
+
+10. pros and cons 利弊
+	Given that both switches and routers are candidates for interconnection devices, what are the pros and cons of the two approaches?
+
+
+11. haywire 形 出故障 如机械 乱了套 如计划制度  collapse 动 倒塌 崩溃
+	Furthermore, switches are susceptible to broadcast storms—if one host goes haywire and transmits an endless stream of Ethernet broadcast frames, the switches will forward all of these frames, causing the entire network to collapse.
+
+
+12. institutional 形 机构的
+	Given that both switches and routers have their pros and cons, when should an institutional network (for example, a university campus network or a corporate campus network) use switches, and when should it use routers? 
+
+
+13. phase 名 阶段  certificate 名动 证书
+	We now describe these three phases for a communication session between a client (Bob) and a server (Alice), with Alice having a private/public key pair and a certificate that binds her identity to her public key.
+
+
+14. vulgar 形 庸俗的 粗俗的  pristine 形 原始的 如自然区域 崭新的 如设备  leather 名 皮革  feather 名 羽毛  whereby 凭此 因此  vent 名 出口 发泄 动 发泄 排放  yacht 名 游艇  verse 名 诗  authenticate 动 认证 鉴定
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

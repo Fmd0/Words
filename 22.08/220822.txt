@@ -1,0 +1,76 @@
+1. on a daily basis 每天
+	Today, many Internet video companies are distributing on-demand multi-Mbps streams to millions of users on a daily basis. 
+
+
+2. straightforward 简单的
+	For an Internet video company, perhaps the most straightforward approach to providing streaming video service is to build a single massive data center, store all of its videos in the data center, and stream the videos directly from the data center to clients worldwide. 
+
+
+3. continent 大陆 洲
+	First, if the client is far from the data center, server-to-client packets will cross many communication links and likely pass through many ISPs, with some of the ISPs possibly located on different continents. 
+
+
+4.  likelihood 可能性 (词根 like)
+	The likelihood of this happening increases as the number of links in the end-to-end path increases. 
+
+
+5. on behalf of 代表
+	The CDN may alternatively be a third-party CDN that distributes content on behalf of multiple content providers
+
+
+6.  cluster 集群 (clue 线索)
+	One philosophy, pioneered by Akamai, is to enter deep into the access networks of Internet Service Providers, by deploying server clusters in access ISPs all over the world. 
+
+
+7.  strategy 策略
+	In fact, many CDNs do not push videos to their clusters but instead use a simple pull strategy
+
+
+8.  intercept 拦截  disturb 打扰
+	the CDN must intercept the request so that it can (1) determine a suitable CDN server cluster for that client at that time, and (2) redirect the client’s request to a server in that cluster. We’ll shortly discuss how a CDN can determine a suitable cluster. 
+
+
+9. identify 
+	When a browser in a user’s host is instructed to retrieve a specific video (identified by a URL), 
+
+
+10. involve 联系
+	Let’s consider a simple example to illustrate how the DNS is typically involved
+
+
+11. proprietary 专有的
+	CDNs generally employ proprietary cluster selection strategies. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+on a daily basis  straightforward  
+continent  likelihood  on behalf of  cluster  strategy  intercept  disturb  identify  involve 
+proprietary
+
+sum  12
+
+

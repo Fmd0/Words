@@ -1,0 +1,129 @@
+1. stretch 拉长 舒展  at a stretch 勉强的
+	Again, this assumption is a bit of a stretch. 
+
+
+2. appreciate 意识到 理解 感激 欣赏
+	To appreciate what is happening here, consider the case that the offered load, l$in (the rate of original data transmission plus retransmissions), equals R/2.
+
+
+3. compensate 补偿 赔偿
+	We see here another cost of a congested network—the sender must perform retransmissions in order to compensate for dropped (lost) packets due to buffer overflow.
+
+
+4. asymptotic 渐进的 (但不会接触到那个值)
+	Since each packet is forwarded twice, the throughput will have an asymptotic value of R/4 as the offered load approaches R/2.
+
+
+5. overlap 重叠
+	In our final congestion scenario, four hosts transmit packets, each over overlapping two-hop paths, as shown in Figure 3.47. 
+
+
+6. to give rise to 导致  rise 源头  tradeoff 权衡 交易
+	These considerations give rise to the offered load versus throughput tradeoff shown in Figure 3.48.
+
+
+7. eventual 最终的  eventually adv 最终  (词根 event)
+   evident 明显的  evidence 证据 迹象  outline 概述 画轮廓 轮廓
+	The reason for the eventual decrease in throughput with increasing offered load is evident when one considers the amount of wasted work done by the network. In the high-traffic scenario outlined above, whenever a packet is dropped at a second-hop router, the work done by the first-hop router in forwarding a packet to the second-hop router ends up being “wasted.”
+
+
+8. idle 空闲的 懒惰的  idol 偶像
+	The network would have been equally well off (more accurately, equally bad off) if the first router had simply discarded that packet and remained idle.
+
+
+9. More to the point 说的更确切/直白些  profitably 有利地  (词根 profit)
+	More to the point, the transmission capacity used at the first router to forward the packet to the second router could have been much more profitably used to transmit a different packet.
+
+
+10. infer 推断  inference
+	Even the presence of network congestion must be inferred by the end systems based only on observed network behavior (for example, packet loss and delay). 
+
+
+11. sophisticated 
+	More sophisticated feedback is also possible.
+
+
+12. choke 堵塞 窒息 噎住
+	This form of notification typically takes the form of a choke packet (essentially say- ing, “I’m congested!”).
+
+
+13. Upon on的更正式用法  notify 通知 报告  notification
+	Upon receipt of a marked packet, the receiver then notifies the sender of the congestion indication.
+
+
+14. magnificent 宏伟的 壮丽的 极好的  boa constrictor 蟒蛇 巨蟒
+	Once when I was six years old I saw a magnificent picture in a book , called True Stories from Nature, about the primeval forest. It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing.
+
+
+15. prey 猎物 受害者   digestion 消化 领悟  (词根 digest 消化 理解 摘要)
+	In the book it said: "Boa constrictors swallow their prey whole, without chewing it. After that they are not able to move, and they sleep through the six months that they need for digestion. 
+
+
+16. ponder 仔细考虑 琢磨  ponder on/over sth 仔细考虑某事  jungle 热带丛林 
+	I pondered deeply, then, over the adventures of the jungle.
+
+
+17. masterpiece 杰作 代表作  frightened 使惊恐  grown-up 成年人 成熟的 成人的
+	I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.
+
+
+18. dishearten 使沮丧  tiresome 令人厌倦的
+	I had been disheartened by the failure of my Drawing Number One and my Drawing Number
+Two. Grown-ups never understand anything by themselves, and it is tiresome for children to be always and forever explaining things to them.
+
+
+19. profession 职业  pilot 驾驶 飞行员
+	So then I chose another profession, and learned to pilot airplanes.
+
+
+20. encounter 遭遇 偶然碰到 邂逅  matters of consequence  正经事
+    intimately 密切地  (词根 intimate 亲密的 密友) close at hand 近在眼前
+	I have had a great many encounters with a great many people who have been concerned with matters of consequence. I have lived a great deal among grown-ups. I have seen them intimately, close at hand.
+
+
+21.  politics  necktie 领带  sensible 明智的  sensitive 敏感的
+	I would bring myself down to his level. I would talk to him about bridge, and golf, and politics, and neckties. And the grown-up would be greatly pleased to have met such a sensible man.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stretch  at a stretch  appreciate  compensate  asymptotic 　overlap  to give rise to
+tradeoff  eventual  eventually  evident  evidence  outline  idle  idol 
+More to the point   profitably  upon  notify  notification
+magnificent  boa constrictor  prey  digestion  digest  masterpiece  frightened  grown-up
+dishearten  tiresome  profession  pilot  encounter  matters of consequence  intimately
+close at hand  politics  necktie  sensible  sensitive
+
+
+
+sum  41
+
+
+
+
+
+
+
+
+
+

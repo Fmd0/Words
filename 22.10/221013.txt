@@ -1,0 +1,106 @@
+1. intervention 干涉  intervene 动 介入 阻碍
+	In this approach, an input port transfers a packet directly to the output port over a shared bus, without intervention by the routing processor. 
+
+
+2. prepend 头部追加
+	This is typically done by having the input port pre-pend a switch-internal label (header) to the packet indicating the local output port to which this packet is being transferred and transmitting the packet onto the bus. 
+
+
+3. nonetheless 尽管如此 同那啥 nevertheless 尽管如此
+	Nonetheless, switching via a bus is often sufficient for routers that operate in small local area and enterprise networks. 
+
+
+4. intersect 相交
+	Each vertical bus intersects each horizontal bus at a crosspoint, which can be opened or closed at any time by the switch fabric controller (whose logic is part of the switching fabric itself). 
+
+
+5. batch 名 批 批处理
+	This is because even in the worst case, where all N input lines are receiving packets, and all packets are to be forwarded to the same output port, each batch of N packets (one packet per input port) can be cleared through the switch fabric before the next batch arrives.
+
+
+6. contention 名 论点 争论 contend 动 斗争
+	But not only must this darkly shaded packet wait, so too must the lightly shaded packet that is queued behind that packet in the lower-left queue, even though there is no contention for the middle-right output port (the destination for the lightly shaded packet).
+
+
+7. outgoing 外向的 离开的
+	Since the output port can transmit only a single packet in a unit of time (the packet transmission time), the N arriving packets will have to queue (wait) for transmission over the outgoing link. 
+
+
+8. marking 标志   mark 做标记 标志   collectively 集体地
+	This marking could be done using the Explicit Congestion Notification bits that we studied in Section 3.7.2. A number of proactive packet-dropping and -marking policies (which collectively have become known as active queue management (AQM) algorithms)
+
+ 
+9. tone 音调 口气  tragedy 灾难 悲剧  virus 病毒  architect 建筑师 设计师  arrest 逮捕  bay 湾  compromise 妥协  corporation 大公司  crack 名 裂缝 动 裂开 后面加那啥就是黑客  diplomat 外交官  diploma 毕业文凭  dolphin 海豚  drill 名动 钻头 钻 演习 训练 
+
+
+10. energetic 形 精力充沛的 活力的  entitle 使享有权利使有权 题名  entity 名 实体  episode 插曲 一集  eclipse 名 日食 月食 动 使黯然失色  fascinate 迷住  fascination 名 入迷 吸引力  folk 民间 民俗音乐 人们  fry 油煎  genius 天才 天资  grave 名 坟墓 形 严肃的 是重力词根  gravity 名 重力 严重性  gum 口香糖 胶 牙龈  
+
+
+11. initiative 主动性 主动行为  initiate 开始  insurance 保险  insure 投保 确保  keen 渴望的 热心的 敏锐的  luxury 奢华  mask 面罩  mechanic 技工  mill 磨坊 工厂  mislead 误导  nerve 神经 勇气  nervous 紧张的 神经的  
+
+
+12. occasion 场合 某次 时机  outlet 出口  personnel 员工 人事部门  perspective 观点 角度  prospect 名 希望 动 勘探  plunge 动 跳水 骤降  pole 名 杆 地极  radical 激进的 彻底的 根本的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+intervention  prepend  nonetheless  intersect  batch  contention  contend  outgoing  
+marking  mark  collectively
+
+
+11
+
+
+tone  tragedy  virus  architect  arrest  bay  compromise  corporation  crack  diplomat
+diploma  dolphin  drill  energetic  entitle  entity  episode  fascinate  folk  fry  genius
+grave  gravity  gum  initiative  insurance  insure  keen  luxury  mask  mechanic  mill
+mislead  nerve  occasion  outlet  personnel  perspective  prospect  plunge  pole  radical
+
+
+42
+
+
+sum  53 
+
+
+
+

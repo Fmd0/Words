@@ -1,0 +1,93 @@
+1. symptom 症状 征兆  treat 治疗 对待 款待
+	Packet retransmission thus treats a symptom of network congestion (the loss of a specific transport-layer segment) but does not treat the cause of network congestion—too many sources attempting to send data at too high a rate. 
+
+
+2. seek 寻找 追求
+	In this section, we consider the problem of congestion control in a general context, seeking to understand why congestion is a bad thing, how network congestion is manifested in the performance received by upper-layer applications, and various approaches that can be taken to avoid, or react to, network congestion. 
+
+
+3. appropriate 合适的  approximate 大约的
+	This more general study of congestion control is appropriate since, as with reliable data transfer, it is high on our “top-ten” list of fundamentally important problems in network- ing. 
+
+
+4. hop 单跳路由 单脚跳 跳跃
+	We begin by considering perhaps the simplest congestion scenario possible: Two hosts (A and B) each have a connection that shares a single hop between source and destination, as shown in Figure 3.43.
+
+
+5. plot 绘制
+	Figure 3.44 plots the performance of Host A’s connection under this first scenario.
+
+
+6. operate 运转 操作
+	When the sending rate exceeds R/2, the average number of queued packets in the router is unbounded, and the average delay between source and destination becomes infinite (assuming that the connections operate at these sending rates for an infinite period of time and there is an infinite amount of buffering available). 
+
+
+7. from one's standpoint 从某人的立场  standpoint 立场  aggregate 总数 合计 
+	Thus, while operating at an aggregate throughput of near R may be ideal from a throughput standpoint, it is far from ideal from a delay standpoint. Even in this (extremely) idealized scenario, we’ve already found one cost of a congested network—large queuing delays are experienced as the packet-arrival rate nears the link capacity.
+
+
+8. slightly 略微地 纤细的  slight 细微的 瘦小的
+	Let ’s now slightly modify scenario 1 in the following two ways (see Figure 3.45).
+
+
+9. ring 光环 戒指 打电话  lantern 灯笼  lurch 突然倾斜  barrel 桶  snore 打鼾
+	With the ring of light from his lantern dancing from side to side, he lurched across the yard, kicked off his boots at the back door, drew himself a last glass of beer from the barrel in the scullery, and made his way up to bed, where Mrs. Jones was already snoring.
+
+
+10. stirring  stir 搅动  fluttering 鸟不稳定的飞或拍翅膀翱翔   flutter 颤动 振翅而飞
+	As soon as the light in the bedroom went out there was a stirring and a fluttering all through the farm buildings.
+
+
+11. boar 野猪
+	Word had gone round during the day that old Major, the prize Middle White boar.
+
+
+12. barn 谷仓 畜棚  platform 舞台 讲台 平台  ensconce 安置  straw 稻草 吸管  beam 梁 光柱
+    stout 肥胖的 壮实的 顽强的  majestic 雄伟的 威严的  benevolent 仁慈的 慈善的  
+    beneficent 慈善的 善行的
+	At one end of the big barn, on a sort of raised platform, Major was already ensconced on his bed of straw, under a lantern which hung from a beam. He was twelve years old and had lately grown rather stout but he was still a majestic-looking pig, with a wise and benevolent appearance in spite of the fact that his tushes had never been cut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+symptom  treat  seek  appropriate  approximate  hop  plot  operate  from one's standpoint
+aggregate  slightly  slight  ring  lantern  lurch  barrel  snore  
+stirring  stir  fluttering  flutter  boar
+barn  platform   ensconce  straw  beam  stout  majestic  benevolent   
+beneficent 
+
+
+sum  31
+
+
+
+
+
+
+
+

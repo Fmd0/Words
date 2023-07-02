@@ -1,0 +1,67 @@
+1. inhabit  evolve 逐步发展 进化  In effect 实际上  conjure 召唤  spells 咒语
+	We are about to study the idea of a computational process. Computational processes are abstract beings that inhabit computers. As they evolve, processes manipulate other abstract things called data. The evolution of a process is directed by a pattern of rules called a program. People create programs to direct processes. In effect, we conjure the spirits of the computer with our spells.
+
+
+2. disburse 支付  (词源 burse 钱包  dis ..  打开钱包 支付)
+	It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
+
+
+3. precisely (形近词 precious previous) accurately  anticipate 预料  novice 新手  participate 参与
+   apprentice 学徒
+	A computational process, in a correctly working computer, executes programs precisely and accurately. Thus, like the sorcerer's apprentice, novice programmers must learn to understand and to anticipate the consequences of their conjuring. 
+
+
+4. sorcery 巫术  sorcerer 男巫  sorceress 女巫
+	Fortunately, learning to program is considerably less dangerous than learning sorcery , because the spirits we deal with are conveniently contained in a secure way. 
+
+
+5. unanticipated  catastrophic  (catastrophe 大灾难)
+	They know how to structure programs so that unanticipated problems do not lead to catastrophic consequences, and when problems do arise, they can debug their programs. 
+
+
+6. primitive 原始的
+	primitive expressions, which represent the simplest entities the language is concerned with
+
+
+7. compound 复合的 混合物
+	means of combination, by which compound elements are built from simpler ones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inhabit  evolve  In effect  conjure  spells  disburse  precisely  accurately  
+anticipate  participate  novice  apprentice
+sorcery  sorcerer  sorceress  unanticipated  catastrophic  primitive  compound
+
+
+sum  19
+
+
+
+
+
+
+
+

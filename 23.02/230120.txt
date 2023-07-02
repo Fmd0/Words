@@ -1,0 +1,43 @@
+Way back in Section 1.6, we described some of the more prevalent and damaging classes of Internet attacks,
+
+
+This being a networking text, we should remark that Alice and Bob could be two routers that want to exchange routing tables securely, a client and server that want to establish a secure transport connection, or two e-mail applications that want to exchange secure e-mail—all case studies that we will consider later in this chapter. 
+
+
+Love affairs, wartime communication, and business transactions are the commonly cited human needs for secure communications; preferring the first to the latter two, we’re happy to use Alice and Bob as our sender and receiver, and imagine them in this first scenario.
+
+
+As we will see, security (like love) is a manysplendored thing; that is, there are many facets to security. 
+
+
+and that if their communication is tampered with by an eavesdropper, that this tampering is detected.
+
+
+we’ll cover the fundamental cryptography techniques that allow for encrypting communication, authenticating the party with whom one is communicating, and ensuring message integrity.
+
+
+We’ll examine how to secure e-mail, how to secure a TCP connection, how to provide blanket security at the net- work layer, and how to secure a wireless LAN. 
+
+
+ In particular, we’ll take a careful look at how firewalls and intrusion detection systems can enhance the security of an organizational network.
+
+
+
+What precisely does this mean?
+
+
+The HTTP specification defines that all requests are issued with a method, which normally indicates what action the client is asking the server to perform. 
+
+
+This is an extremely useful object that contains all the information that the client included in the HTTP request. Table 2-2 enumerates the most commonly used attributes and methods of the Flask request object.
+
+
+
+
+
+
+
+
+
+
+

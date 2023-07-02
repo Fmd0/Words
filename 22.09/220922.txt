@@ -1,0 +1,64 @@
+1. eliminate 消除 淘汰
+	TCP provides a flow-control service to its applications to eliminate the possibility of the sender overflowing the receiver’s buffer.
+
+
+2. savvy 有见识的
+	Unfortunately, many authors use the terms interchangeably, and the savvy reader would be wise to distinguish between them. 
+
+
+3.  informally 非正式地 不拘礼节地
+	Informally, the receive window is used to give the sender an idea of how much free buffer space is available at the receiver. 
+
+
+4. pull sth off/pull off sth 达成  pull 拉
+	Note that to pull this off, Host B must keep track of several connection-specific variables.
+
+
+5. assure 确保 向保证
+	By keeping the amount of unacknowledged data less than the value of rwnd, Host A is assured that it is not overflowing the receive buffer at Host B.
+
+
+6. advertise 公布 做广告
+	After advertising rwnd = 0 to Host A, also suppose that B has nothing to send to A. 
+
+
+7. block 阻塞 大块 
+	Host A is blocked and can transmit no more data! 
+
+
+8. precede 先于  append 附加
+	UDP will append the segments in a finite-sized buffer that “precedes” the corresponding socket (that is, the door to the process). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eliminate  savvy  informally  pull sth off/pull off sth  assure  advertise
+block  precede  append 
+
+
+sum  9
+
+

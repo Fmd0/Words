@@ -1,0 +1,99 @@
+1. rub 按摩 摩擦
+	She pushed herself to her feet and gave herself a quick hug, rubbing her wet arms.
+
+
+2. downpour 倾盆大雨  sprinkle 撒 稀疏小雨
+	The downpour had transformed into a light sprinkle by now, so she got going, careful not to step on anything that might make her fall. 
+
+
+3. considerably 相当多地  considerable 对应形容词  (词根 consider)
+	It was sure to cool down considerably by then and she wanted to spend the night somewhere warm.
+
+
+4. get to one's feet 站起来
+	She didn’t dare think it was over quite yet, though, so, instead of getting to her feet, all she did was curl up in place; right next to the tree trunk, where fewer raindrops could reach her.
+
+
+5. oriented 面对的  (词根 orient 面对 朝向)
+	Connection-Oriented Multiplexing and Demultiplexing
+
+
+6. inversion 倒转  (词根 invert 动词 倒转)  inverse 形容词 并不同根
+	The inversion of source and destination port numbers
+
+
+7. nothing more than 不过是
+	A connection-establishment request is nothing more than a TCP segment with destination port number 12000 and a special connection-establishment bit set in the TCP header. 
+
+
+8. convention 惯例 大会  自己本身就是词根
+	other ports are used by convention by popular applications (e.g., the Microsoft Windows SQL server listens for requests on UDP port 1434).
+
+
+9.  case the joint  (小偷) 踩点  case 预先探查  joint 接合处 联合的 词源 来自join的过去分词  
+    join 连接
+	But attackers, in order to “case the joint,” also want to know which ports are open on target hosts.
+
+
+10.  flaw 瑕疵 缺陷 flawless 完美的 无瑕的  ripe 成熟的
+	If a host is found to be running an application with a known security flaw (e.g., a SQL server listening on port 1434 was subject to a buffer overflow, allowing a remote user to execute arbitrary code on the vulnerable host, a flaw exploited by the Slammer worm [CERT 2003–04]), then that host is ripe for attack. 
+
+
+11.  sequentially 顺序的  (词根 sequel 续集 结果)  sequence 顺序 次序
+	For TCP, nmap sequentially scans ports, looking for ports that are accepting TCP connections. 
+
+
+12. initiate 开始 传授  词源 非词根 initial 开始的 最初的  initialize 初始化
+	The situation is illustrated in Figure 3.5, in which Host C initiates two HTTP sessions to server B, and Host A initiates one HTTP session to B. 
+
+
+13. instructive 有教益的  (词根 instruct 教授)  instruction 指令 说明书
+	Before closing this discussion, it’s instructive to say a few additional words about Web servers and how they use port numbers. 
+
+
+14. spawn 产卵
+	Figure 3.5 shows a Web server that spawns a new process for each connection. 
+
+
+15.  correspondence 通信 相似  (词根 correspond 动词 相当于 通信)
+	We mention, however, that there is not always a one-to-one correspondence between connection sockets and processes. 
+
+
+16. mitigate 减轻 缓和
+	This frequent creating and closing of sockets can severely impact the performance of a busy Web server (although a number of operating system tricks can be used to mitigate the problem). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rub  downpour  sprinkle  considerably  considerable  get to one's feet  orient 
+inversion  nothing more than  convention  flaw  flawless  ripe  sequentially  sequel
+sequence  initiate  initial  initialize  instructive  instruct  instruction  spawn 
+correspondence  correspond  mitigate  case the joint
+
+
+sum  27
+
+
+

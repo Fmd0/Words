@@ -1,0 +1,71 @@
+1. trivial 不重要的 微不足道的  gratification 满足 满意  词根 gratify 使满足  gratitude
+	This has led to a situation where some may view SE as simply lying to scam trivial free items such as pizza or obtaining sexual gratification; 
+
+
+2. equation 方程 等同  practitioner 从业人员 无词根  illusionist 幻术师  illusion
+	others think SE just refers to the tools used by criminals or con men, or perhaps that it is a science whose theories can be broken down into parts or equations and studied. Or perhaps it’s a long-lost mystical art giving practitioners the ability to use powerful mind tricks like a magician or illusionist.
+
+
+3. get one's own way get one's way 为所欲为  get to one's feet 站起来  aisle 走道  raise 加薪
+	A child trying to get her way in the candy aisle or an employee looking for a raise is using social engineering. 
+
+
+4. the like 类似的东西  evil 邪恶的
+	Unfortunately, it is also present when criminals, con men, and the like trick people into giving away information that makes them vulnerable to crimes. Like any tool, social engineering is not good or evil, but simply a tool that has many different uses.
+
+
+5. drive sth home 使理解
+	Consider some of these questions to drive that point home:
+
+
+6. enthusiast 热衷者  enthusiastic 热情的  penetration 进入 穿透
+	Are you a security enthusiast who reads every bit of the latest information out there?Are you a professional penetration tester who is hired to test the security of your clients?
+
+
+7. fraud 诈骗  consumer 消费者  consume
+	Are you a consumer who fears the dangers of fraud and identity theft?
+
+
+8. peer 仔细看  gain an upper hand 取得上风 取得对...的控制
+	You will also peer into the dark world of social engineering and learn how the “bad guys” use these skills to gain an upper hand. 
+
+
+9.  malicious 怀有恶意的  (词根 malign ) uncover 揭露  disclose 使显露  spy 间谍
+	It takes you into those dark corners of society where the “black hats,” the malicious hackers, live. It uncovers and delves into areas of social engineering that are employed by spies and con men. 
+
+
+10. contractual 合同的  (词根 contract 合同)  contact 接触 联系  moral 道德 道德的  cease 停止  infiltrate 潜入
+	The “bad guys” don’t stop because of a contractual limitation or their own morals. They don’t cease after one failed attempt. Malicious hackers don’t go away because companies don’t like their servers to be infiltrated.
+
+
+11. return on investment ROI 投资回报
+	Their motivation is all about return on investment (ROI); no self-respecting hacker is going to spend 100 hours to get the same results from a simple attack that takes one hour, or less.
+
+
+12. unplug 拔去电源插头 拔下
+	The sad result in the end is that no way exists to be 100% secure— unless you unplug all electronic devices and move to the mountains.
+
+
+13. aware adj 知道的 意识到的  educated 有教养的 受过教育的
+	Because that isn’t too practical, nor is it a lot of fun, this book discusses ways to become more aware and educated about the attacks out there and then outlines methods that you can use to protect against them. 
+
+
+14. motto 座右铭 格言  surefire 万无一失  threat 恐吓  antivirus 反病毒  malware 恶意软件
+	My motto is “security through education.” Being educated is one of the only surefire ways to remain secure against the increasing threats of social engineering and identity theft. Kaspersky Labs, a leading provider of antivirus and protection software, estimated that more than 100,000 malware samples were spread through social networks in 2009.
+
+
+15. adage 格言
+	The old hacker adage, “knowledge is power” does apply here. 
+
+
+16. dissect 解剖  mitigate 缓和
+	The more knowledge and understanding one has of the dangers and threats of social engineering each consumer and business can have and the more each attack scenario is dissected, the easier it will be to protect from, mitigate, and stop these attacks. 
+
+
+17. even with all 即使所有  neat 整齐的 整洁的 灵巧的  nest 鸟巢 嵌套
+	Even with all that the information available, a book was needed that takes social engineering information to the next level and describes these attacks in detail, explaining them from the malicious side of the fence. This book is not merely a collection of cool stories, neat hacks, or wild ideas. 
+
+
+
+
+

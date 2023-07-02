@@ -1,0 +1,40 @@
+1. query  查询   
+	querySelectorAll("code")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+query
+
+
+sum  1
+
+
+
+
+
+
+
+
+
+
+

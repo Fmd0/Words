@@ -1,0 +1,75 @@
+1. versatility 名 多用途性 多才多艺  versatile 形 多才多艺的 多用途的
+	Also the program shows yet another way to use that master of versatility, the cout object.
+
+
+2. capability 名 能力 可以指潜力  capable 形 有能力的 能干的  foolproof 形 万无一失的 不会出错的 
+	Its capability to recognize types reflects a more intelligent and foolproof design.
+
+
+3. relish 名动 享受  accomplish 动 完成 实现
+	And if you relish the fine control printf() provides, you can accomplish the same effects with more advanced uses of cout.
+
+
+4. statement 名 语句 声明 陈述  keystroke 名 按键
+	The cin.get() statement reads the next keystroke, so this statement causes the program to wait until you press the Enter key. 
+
+
+5. by rote 死记硬背  rote 名 死记硬背  inevitably 副 必然的 不可避免的  insight 名 洞察力 洞悉  sight 名 视力 看见 景象  maelstrom 名 混乱 大漩涡
+	Don’t be afraid to make mistakes; usually you can learn more from unraveling an error than by doing something correctly but by rote. (However, don’t assume that a maelstrom of mistakes inevitably leads to incredible insight.)
+
+
+6. sanity 名 精神正常 词根是精神正常的
+	This restriction preserves program sanity, although it may hinder creative accounting.
+
+
+7. make sense 有意义
+	Some other operations make sense for the Time class.
+
+
+8. fancy 动 幻想 想要 形 花哨的
+	A TCP sender could do this, but for purposes of this class, there’s no need to get fancy.
+
+
+9. linger 动 逗留 留存  subtlety 名 微妙
+	The work here is really just about wiring everything up, and dealing with some lingering connection-wide subtleties that can’t easily be factored in to the sender and receiver.
+
+
+10. inimical 形 不友好的 抵触的 有害的
+	But this function, although not inimical to the ostream class, is not a friend to that class.
+
+
+11. quantity 名 数量  magnitude 名 大小 重要性
+	A vector, as the term is used in engineering and physics, is a quantity that has both a magnitude (size) and a direction.
+
+
+12. totter 动 蹒跚  tottering 形 蹒跚的 摇晃的  vase 名 花瓶  hasten 动 加快 赶紧 词根的同根词匆忙的  doom 名 毁灭
+	A push in one direction can save a tottering vase, whereas a push in another direction can hasten its rush to doom.
+
+
+13. displacement 名 位移  displace 动 取代  helicopter 名 直升机  gymnast 名 体操运动员 和体育馆并无特别直接的关系
+	To keep things simple, in this section we’ll implement a two-dimensional vector, such as a screen displacement, instead of a three-dimensional vector, such as might represent movement of a helicopter or a gymnast.
+
+
+14. sidebar 名 侧边栏
+	See the sidebar “Multiple Representations and Classes,” later in this chapter.
+
+
+15. intelligence 名 智力 情报  virtue 名 美德 优点 贞操
+	The ability to build such intelligence into an object is another C++ class virtue.
+
+
+16. coexist 动 共存 同时存在
+	Thus, the fetch in Jack can coexist with the fetch in Jill, and the Hill in Jill can coexist with an external Hill.
+
+
+17. unadorned 形 朴素的 未装饰的  adorn 动 装饰  qualify 动 修饰 有资格 限定
+	An unadorned name, such as pail, is termed the unqualified name, whereas a name with the namespace, as in Jack::pail, is termed a qualified name.
+
+
+18. preclude 动 排除 防止 阻止  directive 名 命令 指示 同根词直接的
+	Because a using declaration adds the name to the local declarative region, this example precludes creating another local variable by the name offetch.
+
+
+
+
+

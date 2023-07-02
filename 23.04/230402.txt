@@ -1,0 +1,74 @@
+1. sophisticated 形 复杂的 精密的 老于世故的 sophisticate 动 使更精确 名 老于世故的人  incur 动 招致 引起
+	Generally, more sophisticated error-detection and -correction techniques (that is, those that have a smaller probability of allowing undetected bit errors) incur a larger overhead—more computation is needed to compute and transmit a larger number of error-detection and -correction bits.
+
+
+2. deprecate 动 反对 轻视  desperate 形 绝望的 不顾一切的
+	C language style type conversion is deprecated (ie using (convert_type)) before variables, and static_cast, reinterpret_cast, const_cast should be used for type conversion.
+
+
+3. evolve 动 进化 逐步发展  elaborate 形 精细的 动 阐述  grace 名 优雅  elegance 名 优雅 
+	As humans, we’ve evolved an elaborate set of protocols for sharing the broadcast channel.
+
+
+4. make any sense 没有任何意义  collide 动 碰撞 冲突 名词冲突同根  inextricably 副 分不开地  tangle 动 纠缠 名 混乱
+	Typically, when there is a collision, none of the receiving nodes can make any sense of any of the frames that were transmitted; in a sense, the signals of the colliding frames become inextricably tangled together.
+
+
+5. dissertation 名 学位论文 
+	Over the past 40 years, thousands of papers and hundreds of PhD dissertations have been written on multiple access protocols; a comprehensive survey of the first 20 years of this body of work.
+
+
+6. slot 名 时隙 插槽 动 插入  revolve 动 旋转 革命的词根
+	Whenever a node has a packet to send, it transmits the packet’s bits during its assigned time slot in the revolving TDM frame.
+
+
+7. drawback 名 缺点
+	A second drawback is that a node must always wait for its turn in the transmission sequence—again, even when it is the only node with a frame to send.
+
+
+8. polling 名 轮询 投票  poll 名 投票  eliminate 动 消除 淘汰  plague 名 瘟疫 动 困扰
+	The polling protocol eliminates the collisions and empty slots that plague random access protocols. 
+
+
+9. refrain 动 忍住 避免 名 重复的话 副歌
+	The second concern is that another fraction of the slots will be empty because all active nodes refrain from transmitting as a result of the probabilistic transmission policy.
+
+
+10. derivation 名 推导 起源  derive 动 获得 衍派生 起源  derive from 源自
+	We now proceed to outline the derivation of the maximum efficiency of slotted ALOHA. 
+
+
+11. cocktail 名 鸡尾酒  boorish 形 粗鲁的  boor 名 粗鲁的人 莽夫  partygoer 名 聚会常客  chatter 动 唠叨 喋喋不休 词源自交谈加了东西表示一直讲
+	In our cocktail party analogy, ALOHA protocols are quite like a boorish partygoer who continues to chatter away regardless of whether other people are talking.
+
+
+12. civility 名 礼貌 词源自公民的教化使得有礼貌 
+	As humans, we have human protocols that allow us not only to behave with more civility, but also to decrease the amount of time spent “colliding” with each other in conversation and, consequently, to increase the amount of data we exchange in our conversations. 
+
+
+13. syntax 名 语法 句法  shed light on 阐明  shed 名 棚 动 摆脱  mechanism 名 机械装置 和机械的同根和机器没关系
+	In addition to describing the syntax and function of the link-layer addresses, in this section we hope to shed some light on why the two layers of addresses are useful and, in fact, indispensable. We’ll also cover the Address Resolution Protocol (ARP), which provides a mechanism to translate IP addresses to link-layer addresses.
+
+
+14. rarely 副 很少  rare 形 稀有的 罕见的  barely 副 仅仅 几乎不  merely 副 仅仅 只不过  squeeze 动 挤 挤压 压榨
+	However, networks rarely make any guarantees about timing, so it is possible these gaps might be squeezed out or other gaps might be inserted during transmission.
+
+
+15. delimiter 名 定界符  delimit 动 划定界限
+	In the past, the starting and ending bytes were different, but in recent years most protocols have used the same byte, called a flag byte, as both the starting and ending delimiter, as shown in Fig. 3-5(a) as FLAG.
+
+
+16. interfere 动 干涉 妨碍  interference 名 干涉 干扰
+	It may easily happen that the flag byte's bit pattern occurs in the data. This situation will usually interfere with the framing.
+
+
+17. as far as something be concerned 就 而言  due 形 到期的 应有的   due to 介词 由于 因为
+	As far as goods transport is concerned, growth is due to a large extent to changes in the European economy and its system of production.
+
+
+18. foreseeable 形 可预见的  foresee 动 预见
+	Today, Ethernet is by far the most prevalent wired LAN technology, and it is likely to remain so for the foreseeable future.
+
+
+
+

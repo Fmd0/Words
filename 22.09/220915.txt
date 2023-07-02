@@ -1,0 +1,84 @@
+1. cooperate 合作  cooper 制桶匠  collaboration 合作
+	The two computers have to cooperate to make sure that each byte in the stream eventually gets delivered, in its proper place in line, to the stream socket on the other side.
+	Collaboration Policy 
+
+
+2. presumably 大概 (词根 presume 推测 假定)  synchronization 同步 同时性 (词根 synchrony 名词 同步) asynchronization
+	The upper layer would presumably then have to try again later. In a real implementation, the sender would more likely have either buffered (but not immediately sent) this data, or would have a synchronization mechanism (for example, a semaphore or a flag) that would allow the upper layer to call rdt_send() only when the window is not full.
+
+
+3. cumulative 累积的  (词根 cumulate 累积)  accumulate 积累 (部分词源是前者) accelerate 加速
+	In our GBN protocol, an acknowledgment for a packet with sequence number n will be taken to be a cumulative acknowledgment, indicating that all packets with a sequence number up to and including n have been correctly received at the receiver. 
+
+
+4. derive  起源于
+	The protocol’s name, “Go-Back-N,” is derived from the sender’s behavior in the presence of lost or overly delayed packets.
+
+
+5. justification 理由 辩解  (词根 justify 是...的正当理由  证明 为...辩解 使齐行)
+	In our GBN protocol, the receiver discards out-of-order packets. Although it may seem silly and wasteful to discard a correctly received (but out-of-order) packet, there is some justification for doing so.
+
+
+6. incorporate 收录 包含 合并  corporate 全体的 公司的 公司
+	We note here that the GBN protocol incorporates almost all of the techniques that we will encounter when we study the reliable data transfer components of TCP in Section 3.5. 
+
+
+7. suck 吸食 吮  brisk 清新的 轻快的  brick 砖  dignity 尊贵 自尊  dignify 使有尊严
+	Sucking in the brisk air through her nose, she felt herself calm down enough not to allow tears to form. She would face them with dignity.
+
+
+8. surrender  surround
+	Mr. Weber?” she called out when she couldn’t take it any longer. “I’m surrendering.
+
+
+10. auditory 听觉的  hallucination 幻觉  illusion 幻想  uptight 拘谨的 紧张不安的  grumpy 脾气坏的 
+	She was having one of her auditory hallucinations. Of course. Mr. Weber, the uptight German-born guard, would hardly talk like he was the grumpy sheriff in an old Western movie.
+
+
+11. chuckle 轻声地笑  anti-psychotics 抗精神病的 (anti 反对 psychotic 精神病患者 精神错乱的)  
+    potent (药)迅速见效的 强大的  thwart 阻挠  dose 一剂  ramification 后果
+	She relaxed and lowered her arms, laughing from relief. But she soon stopped chuckling because the ramifications of the onset of hallucinations dawned on her. She hadn’t experienced one in months, certainly not while being held at Holbrooks. The anti-psychotics they had her on were too potent, the medical staff too skilled not to thwart her illness. That’s why she had gotten fooled. It had felt so real. It must be later in the day than she had thought then. She needed another dose of her anti-psychotic medicine.
+
+
+12. fumble 笨拙地做  bottle 瓶  puddle 水洼  paddle 短桨 用桨划
+	Fumbling with the zipper to her jacket pocket, she pulled it down and retrieved the bottle. She unscrewed the top and popped a pill in her mouth. Sinking down to the ground, she drank some water from a rainwater puddle in a rock; it looked clean enough.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cooperate  cooper  collaboration  presumably  synchronization  asynchronization
+cumulative  accumulate  accelerate  derive  justification  incorporate  
+suck  brisk  dignity  dignify  surrender  
+auditory  hallucination illusion uptight  grumpy 
+chuckle  anti-psychotics  potent  thwart  dose  ramification
+fumble  bottle  puddle  paddle 
+
+
+sum  32
+
+

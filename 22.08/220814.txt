@@ -1,0 +1,62 @@
+1. deployment 部署  substantially 大量地 实质上  substantial 大量的 本质的  substance
+	Web caching has seen deployment in the Internet for two reasons. First, a Web cache can substantially reduce the response time for a client request, particularly if the bottleneck bandwidth between the client and the origin server is much less than the bottleneck bandwidth between the client and the cache.
+
+
+2. institutional 机构的  institution 习俗 机构  institute 机构
+	This figure shows two networks—the institutional network and the rest of the public Internet. 
+
+
+3. globe 地球  global 全球的
+	The origin servers are attached to the Internet but are located all over the globe.
+
+
+4. negligibly small 可忽略的小  (词根 neglect)  negligibly 可忽略地
+	Suppose that the HTTP request messages are negligibly small and thus create no traffic in the networks or in the access link (from institutional router to Internet router). 
+
+
+5. intensity 强度 强烈  intense 激烈的 紧张的 强烈的  intension  intent
+	The traffic intensity on the LAN (see Section 1.4.2) is
+
+6. perceive 感知 察觉  reside 属于 居住  stale 过时的 不新鲜的
+	Although caching can reduce user-perceived response times, it introduces a new problem—the copy of an object residing in the cache may be stale. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deployment  substantially   substantial
+institutional  globe  (global)  negligibly small  neglect  intensity
+intense  intent  perceive  reside  stale
+
+
+sum  13
+
+
+
+
+

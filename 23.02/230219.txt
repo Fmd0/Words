@@ -1,0 +1,108 @@
+1. individual 形 单独的 个人的 名 个人  sidestep 回避 侧跨步躲开
+	An individual program can react to errors by sidestepping the usual stack discipline and making nonlocal jumps to arbitrary locations in other functions.
+
+
+2. pivotal 关键的
+	This chapter is pivotal in the sense that you will begin to learn how your applications interact with the operating system.
+
+
+3. anatomy 剖析 解剖学  anatomical 解剖学的  analogy 类比  dissect 解剖 剖析
+	Anatomy of an exception.
+
+
+4. abort 中止 流产  interrupt 打断 暂停/中断
+	The handler aborts the interrupted program.
+
+
+5. subroutine 子程序 子例程
+	In any case, when the processor detects that the event has occurred, it makes an indirect procedure call (the exception), through a jump table called an exception table, to an operating system subroutine (the exception handler) that is specifically designed to process this particular kind of event. 
+
+
+6. demystify 使明白易懂  mystify 使困惑 使神秘化  mystic 神秘主义者 神秘的  mystical 神秘的 神秘主义的  mystery 神秘/神秘事物
+	Our aim in this section is to give you a general understanding of exceptions and exception handling and to help demystify what is often a confusing aspect of modern computer systems.
+
+
+7. labor 劳动  division 分开 除法  the division of labor 分工
+	Let’s look at the division of labor between hardware and software in more detail.
+
+
+8. akin 类似的
+	An exception is akin to a procedure call, but with some important differences:
+
+
+9. cipher 密码  devise 设计
+	One of the most secure cipher algorithms ever devised ... encrypt cyper
+
+
+10. irrelevant 无关紧要的
+	There's also a paper on extended variants of TEA which addresses a couple of minor weaknesses (irrelevant in almost all real- world applications), and introduces a block variant of the algorithm which can be even faster in some circumstances.
+
+
+11. cryptanalysis 名词密码破译
+	Very. There have been no known successful cryptanalyses of TEA.
+
+
+12. inefficient 效率低的  efficient 效率高的
+	It would be an inefficient use of the address space because portions of the space would be allocated even if a process didn’t use the library. 
+
+
+13. a handful of 少量的 一把
+	The motivation for lazy binding is that a typical application program will call only a handful of the hundreds or thousands of functions exported by a shared library such as libc.so. 
+
+
+14. compact 紧凑的  somewhat 有点
+	Lazy binding is implemented with a compact yet somewhat complex interaction between two data structures: the GOT and the procedure linkage table (PLT).
+
+
+15. interposition 插入 插值
+	Linux linkers support a powerful technique, called library interpositioning, that allows you to intercept calls to shared library functions and execute your own code instead. 
+
+
+16. stumble 绊倒
+	From time to time, when disassembling x86 binaries, I stumble on reference to PLT and GOT, especially when calling procedures from a dynamic library.
+
+
+17. conjunction 结合
+	When used in conjunction with the PLT, GOT[0] and GOT[1] contain information that the dynamic linker uses when it resolves function addresses. 
+
+
+18. opt 选择
+	Unix does not attempt to recover from divide errors, opting instead to abort the program.
+
+
+19. infamous 臭名昭著的 无耻的
+	The infamous general protection fault (exception 13) occurs for many reasons, usually because a program references an undefined area of virtual memory or because the program attempts to write to a read-only text segment. 
+
+
+20. profound 巨大的 深邃的
+	Exceptions are the basic building blocks that allow the operating system kernel to provide the notion of a process, one of the most profound and successful ideas in computer science.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

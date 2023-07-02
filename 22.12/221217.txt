@@ -1,0 +1,14 @@
+1. decouple 分离 解耦   reasonably 合理地 明智地
+	This approach has the advantage that it would decouple the implementation of the standard functions from the implementation of the compiler, and would still be reasonably convenient for programmers. 
+
+
+2. prone 容易...的 有...倾向的
+	However, this approach would require application programmers to explicitly link the appropriate object modules into their executables, a process that would be error prone and time consuming:
+
+
+3. disk 圆盘 硬盘   reference 提及 引用 参考
+	At link time, the linker will only copy the object modules that are referenced by the program, which reduces the size of the executable on disk and in memory. 
+
+
+4. archive 档案 归档
+	An archive is a collection of concatenated relocatable object files, with a header that describes the size and location of each member object file.

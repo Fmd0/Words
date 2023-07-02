@@ -1,0 +1,125 @@
+1. crush 名 热恋 拥挤的人群 动 压 挤  have a crush on 迷恋 
+	When a boy A had a crush on a girl B, he would usually not contact her directly in the first place. 
+
+
+2. redundancy 解雇 冗余 多余  redundant 形 多余的 被裁员的
+	The remote controller might be implemented in a remote data center with high reliability and redundancy, and might be managed by the ISP or some third party. 
+
+
+3. delve 探索
+	Before delving into the network layer’s data plane, let’s wrap up our introduction by taking the broader view and consider the different types of service that might be offered by the network layer. 
+
+
+4. emulate 动 模仿 仿真  simulate 动 模拟 假装  imitate 动 模仿
+	This network-layer service emulates the behavior of a transmission link of a specified bit rate (for example, 1 Mbps) between sending and receiving hosts. 
+
+
+5. euphemism 委婉语
+	It might appear that best-effort service is a euphemism for no service at all—a network that delivered no packets to the destination would satisfy the definition of best-effort delivery service! 
+
+
+6. adequate 足够的 适当的   provision 供给 规定 同根词提供
+	Internet’s basic best-effort service model combined with adequate bandwidth provisioning and bandwidth-adaptive application-level protocols such as the DASH protocol we encountered in Section 2.6.2
+
+
+7. enterprise 企业 事业  enterprising 有事业心的 有创新精神的
+	In practice, the number of ports supported by a router can range from a relatively small number in enterprise routers, to hundreds of 10 Gbps ports in a router at an ISP’s edge, where the number of incoming lines tends to be the greatest. 
+
+
+8. fabric 织物 结构
+	Switching fabric.
+
+
+9. merchant 商人 商业的  silicon 硅  purchased 已购买的  purchase 名动 购买 名 购置物
+	Forwarding hardware can be implemented either using a router vendor’s own hardware designs, or constructed using purchased merchant-silicon chips (for example, as sold by companies such as Intel and Broadcom).
+
+
+10. interchange 交换 公交枢纽  roundabout 环岛 旋转木马  迂回的
+	Before delving into the details of router internals, let’s return to our analogy from the beginning of this chapter, where packet forwarding was compared to cars entering and leaving an interchange. Let’s suppose that the interchange is a roundabout, and that as a car enters the roundabout, a bit of processing is required. 
+
+
+11. ramp 坡道 斜坡 匝道
+	The attendant could also determine the car’s exit ramp on the basis of many other factors besides the destination.
+
+
+12. deem 认为  roadworthy 适合行驶的
+	Or a car not deemed roadworthy might be blocked and not be allowed to pass through the roundabout.
+
+
+13. prescribed 规定的  prescribe 开药 规定  perceive 察觉
+	Once the car enters the roundabout (which may be filled with other cars entering from other input roads and heading to other roundabout exits), it eventually leaves at the prescribed roundabout exit ramp, 
+
+
+14. blazingly 强烈地  blaze 火焰 燃烧 强烈地词根  backup 堵塞 支持 备份
+	What happens if cars arrive blazingly fast (for example, the roundabout is in Germany or Italy!) but the station attendant is slow? How fast must the attendant work to ensure there’s no backup on an entry road?
+
+
+15. entrance 入口 使..着迷   entry 名 进入 条目 词源最简单的进入
+	And what happens if most of the cars entering at all of the roundabout’s entrance ramps all want to leave the roundabout at the same exit ramp—can backups occur at the exit ramp or elsewhere?
+
+
+16. concreteness 具体  concrete 具体的 混凝土
+	For concreteness and simplicity, we’ll initially assume in this section that forwarding decisions are based only on the packet’s destination address, rather than on a generalized set of packet header fields. 
+
+
+17. representative 典型的 代表  spouse 配偶  threat 恐吓 威胁  frighten 使...惊恐  terrify 使恐惧害怕  automate 使自动化   automatic 自动的  heritage 遗产  
+
+
+18. innovative 创新的  innovate 创新  perception 感觉 洞察力  perceive 动 感知 察觉  physician 医生 词源给服药 和物理的很像但是没有关系  physic 名 医学 动 给服药  purse 钱包  wisdom 智慧  wise 明智的  anxiety 焦虑  asset 资产 优势  atmosphere 大气 空气 气氛  
+
+
+19. cope 应付  cope with 应付 承受  crash 碰撞 坠毁  cultivate 耕作 培养  discount 折扣  discrimination 歧视  discriminate 区别对待 区分 歧视  estate 房地产 财产  gesture 姿势 手势  grand 壮观的 傲慢的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crush  have a crush on  redundancy  redundant  delve  emulate  simulate  imitate   euphemism
+adequate  provision  provide  enterprise  enterprising  fabric  merchant  silicon  purchased
+purchase  interchange  roundabout  ramp  deem  roadworthy  prescribed  prescribe
+perceive  blazingly  blaze  backup  entrance  entry  concreteness  concrete  
+
+34
+
+
+representative  spouse  threat  frighten  terrify  automate  automatic  heritage  
+innovative  innovate  perception  perceive  physician  physic  purse  wisdom  wise
+anxiety  asset  atmosphere  cope  cope with  crash  cultivate  discount
+discrimination  discriminate  estate  gesture  grand
+
+29
+
+
+sum  63
+
+
+
+
+

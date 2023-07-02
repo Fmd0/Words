@@ -1,0 +1,76 @@
+1. overhead 经常性的开支 头顶上的
+	While this is great in theory, timer management can require considerable overhead.
+
+
+2. ensue 接着发生
+	In the ensuing discussion, we suppose that data is being sent in only one direction, from Host A to Host B, and that Host A is sending a large file.
+
+
+3. depict 描画
+	Figure 3.34 depicts the first scenario, in which Host A sends one segment to Host B.
+
+
+4. back to back 连续 紧接 背靠背
+	In a second scenario, shown in Figure 3.35, Host A sends two segments back to back.
+
+
+5.  intact 完好无损的
+	Suppose that both segments arrive intact at B, and B sends two separate acknowledgments for each of these segments. 
+
+
+6. swallow 吞下  pill 药片  lean down  俯下身来  lean 倾斜 斜靠
+   lap up 舔食 欣然接受  lap 大腿 舔食  hydrated
+	The liquid helped her swallow the big pill. It didn’t taste bad at all, so she leaned down and lapped up some more water. It was important that she stayed hydrated.
+
+
+7. kick in 开始生效 踢破
+	The pill should kick in within the next 15 minutes.
+
+
+8. medication 药物  medical 医疗的
+	Her doctor had informed her that extreme stress would lessen the effect of the medication.
+
+
+9. at bay 被困住  bay 湾 吠叫
+	To keep the hallucinations at bay, she would have to take a pill every 24 hours at least.
+
+
+10. sigh 叹气 呜咽  underbrush = undergrowth 下层植被  somehow 以某种方式 出于某种原因
+	She sighed as she made her way through the underbrush. She would need to get ahold of more pills somehow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+overhead  ensue  depict  back to back  intact  swallow  pill  lean down  lean
+lap up  lap  kick in  medication  medical  at bay  bay  sigh  underbrush  undergrowth
+somehow
+
+
+sum 18
+
+

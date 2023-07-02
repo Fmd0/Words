@@ -1,0 +1,52 @@
+1. /*amortize*/ 分期偿还 平摊  efficient  sufficient  effect
+	The array pi allows us to compute the transition function F efficiently (in an amortized sense) “on the fly” as needed. 
+
+
+2. loosely speaking 一般来说 大致来说
+	Loosely speaking, for any state q = 0, 1,..., m and any character a 属于字母集,the value pi[q] contains the information we need to compute F(q,a) but that does not depend on a.
+
+
+3. encapsulate 概括 包含 封装  capsule 胶囊
+	The prefix function pi for a pattern encapsulates knowledge about how the pattern matches against shifts of itself. 
+
+
+4. tantamount 无异于 等价的
+	Since s'+k = s+q ,if we are given s and q, then finding the smallest shift s0 is tantamount to finding the longest prefix length k.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*amortized*/  loosely speaking  encapsulate  capsule  tantamount
+
+
+sum  5
+
+
+
+
+ 

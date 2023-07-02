@@ -1,0 +1,71 @@
+1. enormous 庞大的
+	In client-server file distribution, the server must send a copy of the file to each of the peers—-placing an enormous burden on the server and consuming a large amount of server bandwidth.
+
+
+2. redistribute 重新分配
+	In P2P file distribution, each peer can redistribute any portion of the file it has received to any other peers, thereby assisting the server in the distribution process. 
+
+
+3. inherent 内在 固有的  scalability 可扩展性  scale 规模  illustrate 说明
+	To compare client-server architectures with peer-to-peer architectures, and illustrate the inherent self-scalability of P2P, 
+
+
+4. quantitative 定量的 量化的  quantity 量 数量 quality 质量
+	we now consider a simple quantitative model for distributing a file to a fixed set of peers for both architecture types. 
+
+
+5. scheme  方案 体制
+	Thus, the minimum distribution time is at least F/us. (Unlike the client-server scheme,a bit sent once by the server may not have to be sent by the server again, as the peers may redistribute the bit among themselves.)
+
+
+6. sweep 清扫
+	we’ll only describe its most important mechanisms, sweeping some of the details under the rug; this will allow us to see the forest through the trees.
+
+
+7.  evolve 进化 逐步发展  evolution 进化  fluctuate 波动 起伏
+	As time evolves, some of these peers may leave and other peers (outside the initial 50) may attempt to establish TCP connections with Alice. So a peer’s neighboring peers will fluctuate over time.
+
+
+8. reciprocate 回报 回应
+	She then reciprocates by sending chunks to these same four peers. 
+
+
+9. incentive 激励  circumvent 规避  simultaneous 同时的 同时发生的  simulated 仿真的
+	The incentive mechanism for trading just described is often referred to as tit-for-tat [Cohen 2003]. It has been shown that this incentive scheme can be circumvented [Liogkas 2006; Locher 2006; Piatek 2008]. Nevertheless, the BitTorrent ecosystem is wildly successful, with millions of simultaneous peers actively sharing files in hundreds of thousands of torrents.
+
+
+circumstance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+enormous  redistribute  inherent  scalability  scale  illustrate  quantitative  quantity
+quality  scheme  sweep  evolve  evolution  fluctuate  reciprocate  incentive
+circumvent  simultaneous  simulated  circumstance
+
+
+sum  20
+
+
+
+
+

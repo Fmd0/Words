@@ -1,0 +1,27 @@
+1. contiguous 形 连续的 毗邻的
+	Maps contiguous file sections to run-time memory segments
+
+2. omit 动 省略 遗漏
+	It is omitted in most examples for brevity, but you should always be aware of how you’re using untrusted data.
+
+
+3. canonical 形 权威性的  endpoint 名 末端 端点  slash 名 斜杠 动 削减
+	The canonical URL for the projects endpoint has a trailing slash. 
+
+4. abut 动 邻接
+	For simplicity, we’ve drawn the heap, data, and code segments as abutting each other, and we’ve placed the top of the stack at the largest legal user address. 
+
+
+5. address 动 解决 处理
+	The static libraries that we studied in Section 7.6.2 address many of the issues associated with making large collections of related functions available to application programs. 
+
+
+6. scarce 形 稀有的 缺乏的  scarcely 副 几乎不
+	On a typical system that is running hundreds of processes, this can be a significant waste of scarce memory system resources.
+
+
+7. embed 动 嵌入  embody 动 体现
+	The code and data in this .so file are shared by all of the executable object files that reference the library, as opposed to the contents of static libraries, which are copied and embedded in the executables that reference them. 
+
+
+

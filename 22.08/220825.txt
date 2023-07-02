@@ -1,0 +1,109 @@
+1. literature review
+	I'm supposed to do a literature review for my psychology course ,but I'm… having a hard time finding articles.(听力)
+
+
+2. Interpretation
+	So your focus is on … Dream Interpretation.(听力)
+
+
+3. or so  大约  psychology 心理学  journal 期刊  journalist 新闻工作者
+	We have printed versions of twenty year or so psychology journals in the Reference Section.(听力)
+
+
+4. on reserve 保留   preserve 保护  conserve  保留
+	Hmmm… well ,there're a few things… Oh wait… have you checked to see if your professor put any material for you to look at on reserve?(听力)
+
+
+5. in case 同 just in case  英译 作为一种准备防止某事发生成真 如果那是真的话
+   then 英译 at that time 在那时 当时
+	I guess I should try out the electronic search while I'm still here then ,you know ,just in case.(听力)
+
+
+6. skim 英译 read quickly so as to note only the important point   so as to 以致
+	When you go into the databases and electronic sources ,you have the option to display the abstracts on the computer screen ,skimming those to decide whether or not you want to read the whole article should cut down some time.(听力)
+
+
+7. manufacture 大量生产  stock 存货
+	The Lucky Puck Company has a factory (source s) in Vancouver that manufactures hockey pucks, and it has a warehouse (sink t) in Winnipeg that stocks them.
+
+
+8. lease 租  warehouse 仓库  crate 木箱
+	Puck leases space on trucks from another firm to ship the pucks from the factory to the warehouse. Because the trucks travel over specified routes (edges) between cities (vertices) and have a limited capacity, Lucky Puck can ship at most c(u ,v) crates per day between each pair of cities u and v in Figure 26.1(a).
+
+
+9.  alter 改变 (我熟知的 alternative(可选择的)来源于 alternate) alternatively 或
+	Lucky Puck has no control over these routes and capacities, and so the company cannot alter the flow network shown in Figure 26.1(a).
+
+
+10. be subject to  (受影响的 依赖某个条件 受掌控的)
+	We can model the “flow” of shipments with a flow in this network because the number of crates shipped per day from one city to another is subject to a capacity constraint. 
+
+
+11. obey 遵守  conservation 守恒  
+	Additionally, the model must obey flow conservation, for in a steady state, the rate at which pucks enter an intermediate city must equal the rate at which they leave. Otherwise, crates would accumulate at intermediate cities.
+
+
+12.  disallow 不允许  antiparallel 反向平行的
+	It will be convenient to disallow antiparallel edges, however, and so we have a straightforward way to convert a network containing antiparallel edges into an equivalent one with no antiparallel edges.
+
+
+13. vice versa 反之亦然  likewise 同样地
+	Intuitively, any flow in the network in (a) corresponds to a flow in the network in (b), and vice versa. The single source s simply provides as much flow as desired for the multiple sources si , and the single sink t likewise consumes as much flow as desired for the multiple sinks ti . 
+
+
+14.  encompass 包含  transcend 超过  residual 残留的
+	We call it a “method” rather than an “algorithm” because it encompasses several implementations with differing running times. The Ford - Fulkerson method depends on three important ideas that transcend the method and are relevant to many flow algorithms and problems: residual networks, augmenting paths, and cuts.
+
+
+15.  essential 必要的 本质的  characterizes 表征 描述  theorem 定理  
+     in terms of 英译 with regard to the particular aspect(关于特定的领域)
+	These ideas are essential to the important max-flow min-cut theorem (Theorem 26.6), which characterizes the value of a maximum flow in terms of cuts of the flow network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+literature review  Interpretation  or so  psychology  journal  journalist  
+on reserve  preserve  conserve  in case   skim  manufacture  stock  lease  warehouse  crate
+alter  alternative  alternate  alternatively  be subject to 
+obey  conservation  disallow  antiparallel  vice versa  likewise  encompass
+transcend  residual  essential  characterizes  theorem  in terms of
+
+
+sum  35
+
+
+

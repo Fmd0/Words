@@ -1,0 +1,91 @@
+1. hood 防护罩 风帽 即衣服上的帽子  what makes it tick 是什么使他起作用
+	So perhaps you’re now wondering, what’s under the hood of the host-to-host communication service, what makes it tick?
+
+
+2. arguably 可论证地  decompose 分解 腐烂  compose 组成 创作 作曲  composition 构成 作品
+	Since the network layer is arguably the most complex layer in the protocol stack, we’ll have a lot of ground to cover here. Indeed, there is so much to cover that we cover the network layer in two chapters. We’ll see that the network layer can be decomposed into two interacting parts, the data plane and the control plane. In Chapter 4, we’ll first cover the data plane functions of the network layer—the per-router functions in the network layer that determine how a datagram (that is, a network-layer packet) arriving on one of a router’s input links is forwarded to one of that router’s output links. 
+
+
+3. intervene 干涉 介入 阻碍  intervening 介于中间的
+	Let’s suppose that H1 is sending information to H2, and consider the role of the network layer in these hosts and in the intervening routers. 
+
+
+4. ultimately 最终 根本上  ultimate 最终的  truncate 缩短 截断  truncated 缩短了的 被删节的
+	The primary data-plane role of each router is to forward datagrams from its input links to its output links; the primary role of the network control plane is to coordinate these local, per-router forwarding actions so that datagrams are ultimately transferred end-to-end, along paths of routers between source and destination hosts. Note that the routers in Figure 4.1 are shown with a truncated protocol stack, that is, with no upper layers above the network layer, because routers do not run application- and transport-layer protocols such as those we examined in Chapters 2 and 3.
+
+
+5. deceptively 看似 有欺骗性的  deceptive 欺骗性的  deception 欺骗 骗术 
+	The primary role of the network layer is deceptively simple—to move packets from a sending host to a receiving host. 
+
+
+6. albeit 尽管
+	As we will see, forwarding is but one function (albeit the most common and important one!) implemented in the data plane.
+
+
+7. malicious 怀有恶意的  malign 形 恶意的 动 毁谤  margin 名 边缘 外边距
+	In the more general case, which we’ll cover in Section 4.4, a packet might also be blocked from exiting a router (for example, if the packet originated at a known malicious sending host, or if the packet were destined to a forbidden destination host), or might be duplicated and sent over multiple outgoing links.
+
+
+8. internally 在里面 在国内  internal 里面的
+	The router then internally forwards the packet to interface 2. 
+
+
+9. in the first place 首先 起初  interplay 名 相互作用
+	But now you are undoubtedly wondering how a router’s forwarding tables are configured in the first place. This is a crucial issue, one that exposes the important interplay between forwarding (in data plane) and routing (in control plane).
+
+
+10. hypothetical 假设的  hypothesis 假设  feasible 可行的 
+	The distinct and different purposes of the forwarding and routing functions can be further illustrated by considering the hypothetical (and unrealistic, but technically feasible) case of a network in which all forwarding tables are configured directly by human network operators physically present at the routers.
+
+
+11. prone 容易啥的 有倾向的  topology 拓扑学
+	It’s also likely that human configuration would be more error-prone and much slower to respond to changes in the network topology than a routing protocol. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hood  under the hood of  what makes it tick  arguably  decompose  compose  composition
+intervene  intervening  ultimately  ultimate  truncate  truncated  deceptively  
+deceptive  deception  albeit  malicious  malign  margin  internally  internal
+in the first place  interplay   hypothetical  hypothesis  feasible  prone  topology
+
+
+sum  29
+
+
+
+
+
+
+
+
+
+
+
+
+

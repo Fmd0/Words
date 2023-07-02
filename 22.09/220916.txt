@@ -1,0 +1,79 @@
+1. reiterate 重申 反复说  dictation 口述 听写 英译 说得很大声使其被记下  iterate 迭代 重复
+   dictate 口述 命令 (形近字 indicate dedicate)
+	The dictation would be slowed by all of the reiterated words.
+
+
+2. suspect 推测
+	As the name suggests, selective-repeat protocols avoid unnecessary retransmissions by having the sender retransmit only those packets that it suspects were received in error (that is, were lost or corrupted) at the receiver. 
+
+
+3. mimic 模仿 善于模仿的人 (词根 mime 哑剧)  imitate 模仿  simulate 模拟 假装  simultaneous 同时发生的
+	A single hardware timer can be used to mimic the operation of multiple logical timers [Varghese 1997]. 
+
+
+4. coincide 同时发生  coincidence 巧合
+	For SR protocols, this means that the sender and receiver windows will not always coincide.
+
+
+5. figurative 比喻的  (词根 figure )  focus 焦点
+	Now consider the receiver’s viewpoint in Figure 3.27, which has a figurative curtain between the sender and the receiver, since the receiver cannot “see” the actions taken by the sender. 
+
+
+6. as far as 就...而言 直到  it is concerned
+	As far as it is concerned, the two scenarios in Figure 3.27 are identical. 
+
+
+7. animation 动画片 生气(生命的气息) (词根 animate 做动画片 有生命的)
+	At the companion Web site, you will find an animation that illustrates the operation of the SR protocol. 
+
+
+8. manifestation 表现 (词根 manifest 清楚显示 明显的)
+	One manifestation of packet reordering is that old copies of a packet with a sequence or acknowledgment number of x can appear, even though neither the sender’s nor the receiver’s window contains x. 
+
+
+9.  spontaneously 自发地 (词根 spontaneous 自发的)  emit 发出 散发
+	With packet reordering, the channel can be thought of as essentially buffering packets and spontaneously emitting these packets at any point in the future. 
+
+
+10. dilemma 窘境 进退两难
+	SR receiver dilemma with too-large windows: A new packet or a retransmission?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reiterate  dictation  suspect  mimic  mime  coincide  coincidence  figurative  figure
+as far as  animation  animate  manifestation  manifest  spontaneously  spontaneous
+emit  dilemma
+
+
+sum  18
+
+
+
+
+

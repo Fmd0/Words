@@ -1,0 +1,79 @@
+1. pipeline 管道  pipe 管子
+	Pipelined Reliable Data Transfer Protocols.
+
+
+2. emerge 出现
+	Assuming for simplicity that ACK packets are extremely small (so that we can ignore their transmission time) and that the receiver can send an ACK as soon as the last bit of a data packet is received, the ACK emerges back at the sender at t = RTT + L/R = 30.008 msec.
+
+
+3. neglect 疏忽  accentuate 使明显 重读
+	Also, we have neglected lower-layer protocol-processing times at the sender and receiver, as well as the processing and queuing delays that would occur at any intermediate routers between the sender and receiver. Including these effects would serve only to further increase the delay and further accentuate the poor performance.
+
+
+4. interval 区间 间隔
+	then four intervals in the range of sequence numbers can be identified. 
+
+
+5. permissible
+	As suggested by Figure 3.19, the range of permissible sequence numbers for transmitted but not yet acknowledged packets can be viewed as a window of size N over the range of sequence numbers.
+
+
+6. outstanding 未完成的
+	You might be wondering why we would even limit the number of outstanding, unacknowledged packets to a value of N in the first place. 
+
+
+7. rustle  distinctive  rhythmic  metal  whirl  triumph  companion  emerge
+	Too late she heard the rustling sound behind her, followed by the distinctive and rhythmic clump-clump of Robbie’s metal feet. She whirled about to see her triumphing companion emerge from hiding and make for the home-tree at full speed.
+
+
+8. shriek  dismay  stride   merest  crawl  panting  bark
+	Gloria shrieked in dismay. “Wait, Robbie! That wasn’t fair, Robbie! You promised you wouldn’t run until I found you.” Her little feet could make no headway at all against Robbie’s giant strides. Then, within ten feet of the goal, Robbie’s pace slowed suddenly to the merest of crawls, and Gloria, with one final burst of wild speed, dashed pantingly past him to touch the welcome bark of home-tree first.
+
+
+9. Gleefully  faithful  basest  ingratitude  sacrifice  taunt
+   sacrifice (sacri + fice) 词源 (sacred 神圣的 + fact) 献祭 祭品
+	Gleefully, she turned on the faithful Robbie, and with the basest of ingratitude, rewarded him for his sacrifice by taunting him cruelly for a lack of running ability.
+
+
+10. chant  shrill  rhythm
+	“Robbie can’t run,” she shouted at the top of her eight-year-old voice. “I can beat him any day. I can beat him any day.” She chanted the words in a shrill rhythm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pipeline  emerge  neglect  accentuate  interval  permissible  outstanding
+shriek  dismay  stride   merest  crawl  panting  bark
+Gleefully  faithful  basest  ingratitude  sacrifice  taunt
+chant  shrill  rhythm
+
+
+sum  23
+
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+1. hitch 暂时问题 障碍 搭便车
+	then the compiler runs without a hitch, but the linker terminates when it cannot resolve the reference to foo:
+
+
+2. insidious 潜伏的 阴险的  unwary 不谨慎的 粗心的  wary 谨慎的 警惕的
+	The application of rules 2 and 3 can introduce some insidious run-time bugs that are incomprehensible to the unwary programmer, especially if the duplicate symbol definitions have different types. 
+
+3. inadvertently 不经意地  inadvertent 粗心的 无意的 不经意的  advertent 注意的 留意的 词源广告
+	Consider the following example, in which x is inadvertently defined as an int in one module and a double in another:
+
+
+4. nasty 令人难受的  trigger 引发 引起   manifest 形 明显的 动 显现 出现 表现  manifestation 表现 表现形式
+	This is a subtle and nasty bug, especially because it triggers only a warning from the linker, and because it typically manifests itself much later in the execution of the program, far away from where the error occurred.
+
+
+5. defer 推迟 延期
+	So the compiler defers the decision to the linker by assigning x to COMMON. 
+
+
+6. departure 出发 背离  baobab 猴面包树
+	As each day passed I would learn, in our talk, something about the little prince's planet, his departure from it, his journey. The information would come very slowly, as it might chance to fall from his thoughts. It was in this way that I heard, on the third day, about the catastrophe of the baobabs.
+
+
+7. seize 抓住  bush 灌木
+	This time, once more, I had the sheep to thank for it. For the little prince asked me abruptly-as if seized by a grave doubt- "It is true, isn't it, that sheep eat little bushes?"
+
+
+8. point out 指出  castle 城堡  herd 兽群
+	I pointed out to the little prince that baobabs were not little bushes, but, on the contrary, trees as big as castles; and that even if he took a whole herd of elephants away with him, the herd would not eat up one single baobab.
+
+
+9. self-evident 显而易见的  oblige 强迫 帮助  obligation 义务 责任  mental 精神的
+	He answered me at once, "Oh, come, come!", as if he were speaking of something that was self-evident. And I was obliged to make a great mental effort to solve this problem, without any assistance.
+
+
+10. invisible 看不见的  vision 视力  timidly 胆怯地  timid 胆小的 胆怯的  inoffensively  无害的  offensive 名 进攻 形 冒犯的 无礼的  offend 动 冒犯 得罪  offense 名 犯罪 进攻 冒犯  sprig 小枝  (sprig 同源 sprout)  sprout 新芽  radish 萝卜
+	In consequence, there were good seeds from good plants, and bad seeds from bad plants. But seeds are invisible. They sleep deep in the heart of the earth's darkness, until someone among them is seized with the desire to awaken. Then this little seed will stretch itself and begin-timidly at first-to push a charming little sprig inoffensively upward toward the sun. If it is only a sprout of radish or the sprig of a rose-bush, one would let it grow wherever it might wish.
+
+
+11. terrible 可怕的  infest 大批出没于 寄生于   attend to 注意 处理 接待
+	Now there were some terrible seeds on the planet that was the home of the little prince; and these were the seeds of the baobab. The soil of that planet was infested with them. A baobab is something you will never, never be able to get rid of if you attend to it too late. It spreads over the entire planet. It bores clear through it with its roots.
+
+
+12. tedious 单调乏味的
+	It is very tedious work," the little prince added, "but very easy."
+
+
+13. ought 应该
+	You ought to make a beautiful drawing, so that the children where you live can see exactly how all this is.
+
+
+14. catastrophe 灾难
+	But when it is a matter of baobabs, that always means a catastrophe.
+
+
+15. tone 口气 音调  moralist 道德说教者
+	I do not much like to take the tone of a moralist.
+
+
+16. asteroid 小行星  break through 突破 
+	and such considerable risks would be run by anyone who might get lost on an asteroid, that for once I am breaking through my reserve. "Children," I say plainly, "watch out for the baobabs!"
+
+
+17. skirt 动 回避 名 裙子
+	My friends, like myself, have been skirting this danger for a long time, without ever knowing it; and so it is for them that I have worked so hard over this drawing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hitch   insidious   unwary   wary   inadvertently   inadvertent   advertent   nasty   trigger   manifest   defer   departure   baobab   seize   bush   point out   castle   herd   self-evident   oblige   obligation   mental   invisible   vision   timidly   (timid)   inoffensively   (offensive)   sprig   (sprig same etymology sprout)   sprout   radish   terrible   infest   (manifest)   attend to   tedious   ought   catastrophe   tone   moralist   asteroid   break through   skirt   
+
+
+
+
+

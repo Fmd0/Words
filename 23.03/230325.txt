@@ -1,0 +1,26 @@
+1. robustness 名 鲁棒性  robust 形 健壮的  stitch 动 缝 编织
+	TCP robustness against reordering and duplication comes from its ability to stitch arbitrary excerpts of the byte stream back into the original stream.
+
+
+2. inbound 形 进入的 入站的   bound 名 界限
+	In Lab 2, you’ll implement the part of TCP that handles the inbound byte-stream: the TCPReceiver.
+
+
+3. outbound 形 向外的 出站的
+	In Lab 3, you’ll implement the part of TCP that handles the outbound byte-stream: the TCPSender. 
+
+
+4. grossly 副 非常 极度地  gross 形 总的 令人厌恶的 名 总量 　ballpark 名 棒球场 形 大约的
+	Please don’t take this as a challenge to build a grossly space-inefficient or time-inefficient data structure, this data structure will be the foundation of your TCP implementation. A ballpark expectation would be that each of the new Lab 1 tests can complete in less than half a second.
+
+
+5. inconsistent 形 不一致的 前后矛盾的  consistent 形 一致的 始终如一的
+	How should inconsistent substrings be handled?
+
+
+6. excerpt 名 片段 节选 摘录
+	And in Lab 1, you created a StreamReassembler that accepts a sequence of substrings, all excerpted from the same byte stream, and reassembles them back into the original stream.
+
+
+
+

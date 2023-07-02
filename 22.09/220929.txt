@@ -1,0 +1,121 @@
+1. retrospective 回顾 回顾的  (词根 retrospect n/v 回顾)
+	TCP Congestion Control: Retrospective
+
+
+2. delve 深入研究 探索 挖掘 
+	Having delved into the details of slow start, congestion avoidance, and fast recovery, it’s worthwhile to now step back and view the forest from the trees. 
+
+
+3. intuition 直觉  (词根 intuit 凭直觉知道)  give rise to 导致
+	AIMD congestion control gives rise to the “saw tooth” behavior shown in Figure 3.53, which also nicely illustrates our earlier intuition of TCP “probing” for bandwidth—TCP linearly increases its congestion window size (and hence its transmission rate) until a triple duplicate-ACK event occurs.
+
+
+4. tremendous 极大的 极好的  insight 洞察力 洞悉
+	TCP’s AIMD algorithm was developed based on a tremendous amount of engineering insight and experimentation with congestion control in operational networks.
+
+
+5. rather 相当 有点儿 宁愿 而不是 相反
+	Indeed, cutting the sending rate in half (or even worse, cutting the sending rate to one packet per RTT as in an earlier version of TCP known as TCP Tahoe) and then increasing rather slowly over time may be overly cautious. 
+
+
+6.  flavor 味道 特色
+	If the state of the congested link where packet loss occurred hasn’t changed much, then perhaps it’s better to more quickly ramp up the sending rate to get close to the pre-loss sending rate and only then probe cautiously for bandwidth. This insight lies at the heart of a flavor of TCP known as TCP CUBIC [Ha 2008, RFC 8312].
+
+
+7. tunable 可调的  词源 tune 曲调
+	Several tunable CUBIC parameters determine the value K, that is, how quickly the protocol’s congestion window size would reach Wmax.
+
+
+8. appreciably 明显地  (词根 appreciable 明显的)
+	Note that at t3, the congestion level has presumably decreased appreciably, allowing both TCP Reno and TCP CUBIC to achieve sending rates higher than Wmax.
+
+
+9. reveal 揭示 披露 展现
+	It was from words dropped by chance that, little by little, everything was revealed to me.
+
+
+10. peal 响亮的声音 钟声  irritate 使恼怒 刺激  stimulate 刺激 激励
+	And the little prince broke into a lovely peal of laughter, which irritated me very much. I like my misfortunes to be taken seriously.
+
+
+11. gleam 微光  impenetrable 费解的 无法穿透的  
+    penetrable 可进入的 可理解的  (词根 penetrate 穿透 进入)
+	At that moment I caught a gleam of light in the impenetrable mystery of his presence; and I demanded, abruptly:
+
+
+12. reverie 遐想 幻想   contemplation 沉思 凝视  (词根 contemplate 深入思考 沉思 凝视)
+	And he sank into a reverie, which lasted a long time. Then, taking my sheep out of his pocket, he buried himself in the contemplation of his treasure.
+
+
+13. arouse 引起 唤醒  half-confidence  半信半疑
+	You can imagine how my curiosity was aroused by this half-confidence about the "other planets." I made a great effort, therefore, to find out more on this subject.
+
+
+14. reflective 沉思的 反射的 典型的
+	After a reflective silence he answered:
+
+
+15. string 细绳 字符串
+	"That is so. And if you are good I will give you a string, too, so that you can tie him during the day, and a post to tie him to .
+
+
+16. queer 古怪的 
+	"Tie him! What a queer idea!"
+
+
+17. earnestly 认真地 诚挚地  earnest 认真的 诚挚的 认真
+	Then the little prince said, earnestly:
+
+18. accord 一致 协议 与相符  according的词根  essay  disease  decline
+economy  economic       resident  reside为其词根
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+retrospective  retrospect  delve  intuition  intuit  tremendous  insight  rather  flavor  
+tunable  tune  appreciably  appreciable  reveal  peal  irritate  stimulate
+gleam  impenetrable  penetrable  penetrate 
+reverie   contemplation  contemplate  arouse  half-confidence  reflective  string
+queer  earnestly  earnest  accord  according  essay  disease  decline
+economy   economic     resident   reside 
+
+
+
+sum  40
+
+
+
+
+
+
+
+
+
+
+
+
+
