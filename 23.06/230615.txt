@@ -22,7 +22,7 @@
 	Prior to carrying out the experiment, Milgram explained his idea to a group of 39 psychiatrists and asked them to predict the average percentage of people in an ordinary population who would be willing to administer the highest shock level of 450 volts. 
 
 
-7. overwhelm 动 压倒 战胜  virtually 副 实际上  anticipate 动 预料  lunatic 形 疯狂的 名 疯子  fringe 名 边缘
+7. overwhelm 动 压倒 战胜  virtually 副 实际上 虚拟地  anticipate 动 预料  lunatic 形 疯狂的 名 疯子  fringe 名 边缘
 	The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter. The psychiatrists felt that ‘most subjects would not go beyond 150 volts’ and they further anticipated that only four per cent would go up to 300 volts. Furthermore, they thought that only a lunatic fringe of about one in 1,000 would give the highest shock of 450 volts.
 
 
@@ -34,7 +34,7 @@
 	How can we possibly account for this vast discrepancy between what calm, rational, knowledgeable people predict in the comfort of their study and what pressured, flustered, but cooperative ‘teachers’ actually do in the laboratory of real life?
 
 
-10. inclination 名 意愿倾向 词根倾斜  aggression 名 侵犯 敌对情绪攻击性  instinct 名 本能 直觉  discharge 动 排放  pent-up 形 压抑的  primal 形 最初原始的 主要的 自然同根  urge 名 强烈欲望 动 力劝
+10. inclination 名 意愿倾向 词根倾斜  incline 名 斜坡 动 倾斜 倾向   aggression 名 侵犯 敌对情绪攻击性  instinct 名 本能 直觉  discharge 动 排放  pent-up 形 压抑的  primal 形 最初原始的 主要的 自然同根  urge 名 强烈欲望 动 力劝
 	One’s first inclination might be to argue that there must be some sort of built-in animal aggression instinct that was activated by the experiment, and that Milgram’s teacher-subjects were just following a genetic need to discharge this pent-up primal urge onto the pupil by administering the electrical shock. 
 
 
