@@ -14,7 +14,7 @@
 	Such expansion, which was to take the English language west to America and east to India, was supported by scientific developments such as the discovery of magnetism, improvements in cartography and — perhaps the most important scientific revolution of them all — the new theories of astronomy and the movement of the Earth in relation to the planets and stars
 
 
-5. publicise 动 宣传 公布  empirical 形 以经验为依据的
+5. publicise 动 宣传 公布  empirical 形 经验主义的 实证的  empiric 名 经验主义者 江湖医生 形 经验主义的 此时等于前者
 	England was one of the first countries where scientists adopted and publicised Copernican ideas with enthusiasm. Some of these scholars, including two with interests in language — John Wallis and John Wilkins — helped found the Royal Society in 1660 in order to promote empirical scientific research.
 
 
@@ -22,7 +22,7 @@
 	For example, Newton published his mathematical treatise, known as the Principia, in Latin, but published his later work on the properties of light - Opticks in English.
 
 
-7. perversely 副 任性地  perverse 形 
+7. perversely 副 任性地 倔强的 仍旧  perverse 形 任性的 不合常理的 指人或动作是故意的顽固的 表现得不合理或者是无法接受 不管后果
 	A second reason for writing in Latin may, perversely, have been a concern for secrecy.
 
 
@@ -46,7 +46,7 @@
 	Many members of the Royal Society also published monographs in English. One of the first was by Robert Hooke, the society’s first curator of experiments, who described his experiments with microscopes in Micrographia. This work is largely narrative in style, based on a transcript of oral demonstrations and lectures.
 
 
-13. formative 形 形成的 形成的就是关键的
+13. formative 形 形成的 形成的就是关键的 起到形成某事的效果特别是对人有一个巨大且持久的影响 词根格式化
 	The 17th century was thus a formative period in the establishment of scientific English.
 
 
