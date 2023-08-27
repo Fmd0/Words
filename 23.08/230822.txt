@@ -1,8 +1,8 @@
-1. boom 名 隆隆声 繁荣 动 激增 繁荣  as never before 史无前例动  region 名 地带  Arctic 名 北极 形 北极的 首字母小写极冷的
+1. boom 名 隆隆声 繁荣 动 激增 繁荣  as never before 史无前例的 前所未有  region 名 地带  Arctic 名 北极 形 北极的 首字母小写极冷的
 	The market for tourism in remote areas is booming as never before. Countries all across the world are actively promoting their ‘wilderness’ regions — such as mountains, Arctic lands, deserts, small islands and wetland — to high-spending tourists. The attraction of these areas is obvious: by definition, wilderness tourism requires little or no initial investment. 
 
 
-2. fragile 形 易碎的 脆弱的  in terms of 英译关于特定的领域  seasonality 名 季节性  prevail 动 流行 占优势
+2. fragile 形 易碎的 脆弱的  in terms of 英译关于特定的领域  seasonality 名 季节性  prevail 动 流行 占优势  prevailing 形 在某个特定时间存在 现存 流行的
 	As the 1992 United Nations Conference on Environment and Development recognized, these regions are fragile not just in terms of their ecology, but also in terms of the culture of their inhabitants. An important characteristic is their marked seasonality, with harsh conditions prevailing for many months each year.
 
 
@@ -10,19 +10,19 @@
 	Tourists are drawn to these regions by their natural landscape beauty and the unique cultures of their indigenous people. 
 
 
-4. porter 名 行李员 护工  trekker 名 徒步旅行者  field 名 田地  terrace 名 梯田 露台 平台  crop 名 庄稼 作物 收成 动 
+4. porter 名 行李员 护工  trekker 名 徒步旅行者  field 名 田地  terrace 名 梯田 露台 平台  crop 名 庄稼作物 收成 动 修剪 收获
 	When hill-farmers, for example, can make more money in a few weeks working as porters for foreign trekkers than they can in a year working in their fields, it is not surprising that many of them give up their farm-work. In some hill-regions, this has led to a serious decline in farm output and a change in the local diet, because there is insufficient labour to maintain terraces and irrigation systems and tend to crops. 
 
 
-5. culprit 名 罪犯  wage 名 工资  handout 名 捐款 捐赠物 讲义  undermine 动 破坏 暗中破坏   dry up 耗尽 干涸 停止说话
+5. culprit 名 罪犯  wage 名 工资  handout 名 捐款 捐赠物 讲义  undermine 动 破坏 暗中破坏 侵蚀根基   dry up 耗尽 干涸 停止说话
 	Tourism is not always the culprit behind such changes. All kinds of wage labour, or government handouts, tend to undermine traditional survival systems. Whatever the cause, the dilemma is always the same: what happens if these new, external sources of income dry up?
 
 
-6. erosion 名 侵蚀  trail 名 痕迹 踪迹 小径  deforestation 名 砍伐森林  degradation 名 屈辱
+6. erosion 名 侵蚀  trail 名 痕迹 踪迹 小径  deforestation 名 砍伐森林  degradation 名 屈辱 恶化 分解  degrade 动 对待某人蔑视不尊重 使受辱  化学的分解或恶化
 	Much attention has focused on erosion along major trails, but perhaps more important are the deforestation and impacts on water supplies arising from the need to provide tourists with cooked food and hot showers. In both mountains and deserts, slow-growing trees are often the main sources of fuel and water supplies may be limited or vulnerable to degradation through heavy use.
 
 
-7. legion 名 军团 大量 形 大量的  inevitably 副 必然地 不可避免地  be a vehicle for 是表达什么的工具  reinvigorate 动 英译 给予新的力量或者是能量  invigorate 动 英译 给予力量或者是能量
+7. legion 名 军团 大量 形 大量的  inevitably 副 必然地 不可避免地  be a vehicle for 是表达体现实现什么的工具 机动车也有用于表达体现实现某事的东西  reinvigorate 动 英译 给予新的力量或者是能量  invigorate 动 英译 给予力量或者是能量
 	Story about the problems of tourism have become legion in the last few years. Although tourism inevitably affects the region in which it takes place. Indeed, it can even be a vehicle for reinvigorating local cultures.
 
 
@@ -30,11 +30,11 @@
 	In the Swiss Alps, communities have decided that their future depends on integrating tourism more effectively with the local economy. There has also been a renaissance in communal cheese production in the area, providing the locals with a reliable source of income that does not depend on outside visitors.
 
 
-9. repatriate 动 遣返 遣返回国  accrue 动 累积
+9. repatriate 动 遣返 遣返回国 将东西调回本国特别是钱  accrue 动 累积 英译 钱利益随着时间不断的增加
 	Many of the Arctic tourist destinations have been exploited by outside companies, who employ transient workers and repatriate most of the profits to their home base. But some Arctic communities are now operating tour businesses themselves, thereby ensuring that the benefits accrue locally.
 
 
-10. handicraft 名 手工艺 手工艺品  pottery 名 陶器 制陶  jewellery 名 珠宝
+10. handicraft 名 手工艺 手工艺品  pottery 名 陶器 制陶  jewellery 名 珠宝 集体名词
 	Native people in the desert regions of the American Southwest have followed similar strategies, encouraging tourists to visit their pueblos and reservations to purchase high-quality handicrafts and artwork. The Acoma and San lldefonso pueblos have established highly profitable pottery businesses, while the Navajo and Hopi groups have been similarly successful with jewellery.
 
 

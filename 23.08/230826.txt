@@ -1,0 +1,41 @@
+1. pane 名 窗玻璃 窗或者门上的一格玻璃  toughen 动 使坚固坚韧  bishop 名 主教 国际象棋的象  shatter 动 打碎 使某人深深伤心  frame 名 框架 帧  minute 形 极小的  crystal 名 晶体 水晶  nickel 名 镍  sulphide 名 硫化物  certainty 名 英译 坚定的深信  certainly 副 无疑地 确定地 可惜词根有某些的意思
+	On 2nd August 1999, a particularly hot day in the town of Cirencester in the UK, a large pane of toughened glass in the roof of a shopping centre at Bishops Walk shattered without warning and fell from its frame. They found that minute crystals of nickel sulphide trapped inside the glass had almost certainly caused the failure.
+
+2. association 名 协会社团
+	‘The glass industry is aware of the issue,’ says Brian Waldron, chairman of the standards committee at the Glass and Glazing Federation, a British trade association, and standards development officer at Pilkington. But he insists that cases are few and far between. ‘It’s a very rare phenomenon,’ he says.
+
+
+3. the tip of the iceberg 冰山一角  iceberg 名 冰山
+	Other experts tell of similar experiences. Tony Wilmott of London-based consulting engineers Sandberg, and Simon Armstrong at CladTech Associates in Hampshire both say they know of hundreds of cases. ‘What you hear is only the tip of the iceberg,’ says Trevor Ford, a glass expert at Resolve Engineering in Brisbane, Queensland. He believes the reason is simple: ‘No-one wants bad press.’
+
+
+4. shelter 名 庇护所 动 遮蔽   cube 名 立方体 小方块 动 求立方 切成方块  razor 名动 剃须刀  sharp 形 锋利的 突然的 区别鲜明的  architect 名 建筑师  panel 名 面板 专家组  bolt 动 用螺栓固定 名 螺栓 同另一个螺丝  ceiling 名 天花板 上限
+	Toughened glass is found everywhere, from cars and bus shelters to the windows, walls and roofs of thousands of buildings around the world. It’s easy to see why. This glass has five times the strength of standard glass, and when it does break it shatters into tiny cubes rather than large, razor-sharp shards. Architects love it because large panels can be bolted together to make transparent walls, and turning it into ceilings and floors is almost as easy.
+
+
+5. sheet 名 床单 薄板 表格  a sheet of 一张   jet 名 喷气式飞机 喷射流  contract 动 大小数量范围的缩小  solidify 动 巩固  shrink 名 精神病医生 动 缩小 退缩  exert 动 发挥 运用  compression 名 压缩  crack 名 裂缝 动 裂开 后面加名词后缀就是黑客  compressive 形 压的 压缩的
+	It is made by heating a sheet of ordinary glass to about 620°C to soften it slightly, allowing its structure to expand, and then cooling it rapidly with jets of cold air. This causes the outer layer of the pane to contract and solidify before the interior. When the interior finally solidifies and shrinks, it exerts a pull on the outer layer that leaves it in permanent compression and produces a tensile force inside the glass. As cracks propagate best in materials under tension, the compressive force on the surface must be overcome before the pane will break, making it more resistant to cracking.
+
+
+6. impurity 名 杂质  trace 名 踪迹 痕迹 微量 动 追踪 查出  alloy 名 合金  furnace 名 熔炉 火炉
+	The problem starts when glass contains nickel sulphide impurities. Trace amounts of nickel and sulphur are usually present in the raw materials used to make glass, and nickel can also be introduced by fragments of nickel alloys falling into the molten glass. As the glass is heated, these atoms react to form tiny crystals of nickel sulphide. Just a tenth of a gram of nickel in the furnace can create up to 50,000 crystals.
+
+
+7. dense 形 密度大的  compact 形 紧凑的 动 压缩 利用某物上的力量使之密度大压缩  coil 动 卷 盘绕 名 线圈  spring 名 弹簧
+	These crystals can exist in two forms: a dense form called the alpha phase, which is stable at high temperatures, and a less dense form called the beta phase, which is stable at room temperatures. The high temperatures used in the toughening process convert all the crystals to the dense, compact alpha form. But the subsequent cooling is so rapid that the crystals don’t have time to change back to the beta phase. This leaves unstable alpha crystals in the glass, primed like a coiled spring, ready to revert to the beta phase without warning.
+
+
+8. tensile 形 可拉长的 拉力的 词根张力  unleash 动 解除束缚  elapse 动 流逝 用于时间
+	When this happens, the crystals expand by up to 4%. And if they are within the central, tensile region of the pane, the stresses this unleashes can shatter the whole sheet. The time that elapses before failure occurs is unpredictable.
+
+9. inclusion 名 包括 被包括的东西  tonne 名 公吨 公吨是严格的一千吨在英国和美国不同
+	So even if, on average, there is only one inclusion in 7 tonnes of glass, if you experience one nickel sulphide failure in your building, that probably means you’ve got a problem in more than one pane.
+
+
+10. storey 名 楼层  rash 形 草率的  contamination 名 污染  photographer 名 摄影师 词根照片  cradle 名 摇篮 发源地 动 轻轻抱着  
+	Over the following decade the 40-storey Brisbane block suffered a rash of failures. John Barry, an expert in nickel sulphide contamination at the University of Queensland, analysed every glass pane in the building. Using a studio camera, a photographer went up in a cradle to take photos of every pane. 
+
+
+
+
+
