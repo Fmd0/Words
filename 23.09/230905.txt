@@ -13,15 +13,15 @@
 	‘But these enhancements are not without consequences,’ says Pachidi. ‘If routine cognitive tasks are taken over by AI, how do professions develop their future experts?’ she asks. ‘One way of learning about a job is “legitimate peripheral participation” – a novice stands next to experts and learns by observation. If this isn’t happening, then you need to find new ways to learn.’
 
 
-5. monitor 名 显示器  telecoms 名 电信  salespeople 名 推销员  frequent 形 频繁的
+5. monitor 名 显示器 监视器 班长 动 监视  telecom 名 电信 那啥的缩略形式  salespeople 名 推销员 售货员  frequent 形 频繁的 经常的
 	Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company. ‘The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision. However, the company had started using a[n] … algorithm that defined when account managers should contact certain customers about which kinds of campaigns and what to offer them.’
 
 
-6. keeper 名 守门员  creep into 不知不觉中产生  creep 动 悄悄前进  effectively 形 有成效的
+6. keeper 名 饲养员用于动物园 守门员用于足球  creep into 不知不觉中产生多指消极的东西  creep 名 讨厌的人 动 悄悄前进  effectively 形 有效的 实际上
 	The algorithm – usually build by external designers – often becomes the keeper of knowledge, she explains. In cases like this, Pachidi believes, a short-sighted view begins to creep into working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions. Alternative explorations – where experimentation and human instinct lead to progress and new ideas – are effectively discouraged.
 
 
-7. objective 名 目标  expertise 名 专长  occupational 形 职业的  boundary 名 边界
+7. objective 名 目标 军事的打击目标 物镜 语法中的宾格  expertise 名 专长 词根专家  occupational 形 职业的 唯一意思  boundary 名 边界
 	It’s scenarios like these that many researchers are working to avoid. Their objective is to make AI technologies more trustworthy and transparent, so that organisations and individuals understand how AI decisions are made. In the meantime, says Pachidi, ‘We need to make sure we fully understand the dilemmas that this new world raises regarding expertise, occupational boundaries and control.’
 
 
@@ -47,12 +47,3 @@
 
 13. astounding 动 令人震惊的  astound 动 使震惊  subsistence 名 维持生计 生存   pronounce 动 发音 宣告 宣判
 	The promises of these new technologies are astounding. They deliver humankind the capacity to live in a way that nobody could have once imagined,’ he adds. ‘Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced. But it will not only be one of technology. The next revolution will be social.
-
-
-
-
-
-
-
-
-
