@@ -1,16 +1,16 @@
-1.  geoglyph 名 地画 考古学  hillside 名 山上的倾斜边  scatter 动 分散 名 散点图  majority 名 大多数  downland 名 丘陵地  regimental 形 团的  badge 名 徽章 象征
+1. hillside 名 山上的倾斜边  scatter 动 分散 名 散点图  majority 名 大多数  downland 名 丘陵地  regimental 形 团的 特指军事上的名词  badge 名 徽章 象征
 	The cutting of huge figures or ‘geoglyphs’ into the earth of English hillsides has taken place for more than 3,000 years. There are 56 hill figures scattered around England, with the vast majority on the chalk downlands of the country’s southern counties. The figures include giants, horses, crosses and regimental badges.
 
 
-2. Oxfordshire 名 牛津郡  shire 名 郡  county 名 英郡 美县   controversial 形 有争议的  prehistoric 形 史前的  monk 名 和尚 修道士  priory 名 小修道院  monastery 名 修道院 寺院
+2. Oxfordshire 名 牛津郡  shire 名 郡  county 名 英郡 美县   controversial 形 有争议的  prehistoric 形 史前的  monk 名 和尚 修道士  monastery 名 修道院 寺院
 	The most famous of these figures is perhaps also the most mysterious – the Uffington White Horse in Oxfordshire. More controversial is the date of the enigmatic Long Man of Wilmington in Sussex. While many historians are convinced the figure is prehistoric, others believe that it was the work of an artistic monk from a nearby priory and was created between the 11th and 15th centuries.
 
 
-3. overlying 形 覆于上面的  overlie 动 覆在什么上面  reveal 动 揭露  gleam 名 微光  scour 名动 冲刷  testament 名 遗嘱 证明  stretch 动 拉长 舒展  millennia 名 一千年 复数形式
+3. overlying 形 覆于上面的  overlie 动 覆在什么上面  reveal 动 揭露  gleaming 形 发出光的 通常因为很整洁或者被抛光  scour 名动 擦净 除去表面上的脏东西 水流得很快除去泥沙石头   testament 名 遗嘱 证明  stretch 动 拉长 舒展  millennia 名 一千年 复数形式
 	The method of cutting these huge figures was simply to remove the overlying grass to reveal the gleaming white chalk below. However, the grass would soon grow over the geoglyph again unless it was regularly cleaned or scoured by a fairly large team of people. That fact that any ancient hill figures survive at all in England today is testament to the strength and continuity of local customs and beliefs which, in one case at least, must stretch back over millennia.
 
 
-4. stylise 动 风格化  sleek 形 光滑油亮的  disjointed 形 不连贯的 脱节的  beak 名 鸟嘴 喙  melt into 融入 化为  situate 动 使位于 固定或建造某物在某个位置  steep 形 陡峭的  fort 名 堡垒 要塞
+4. stylise 动 风格化 用一种得体但是不现实的风格描绘  sleek 形 光滑油亮的  disjointed 形 不连贯的 脱节的  beak 名 鸟嘴 喙  melt into 融入 化为  situate 动 使位于 固定或建造某物在某个位置  steep 形 陡峭的  fort 名 堡垒 要塞
 	The Uffington White Horse is a unique, stylised representation of a horse consisting of a long, sleek back, thin disjointed legs, a streaming tail, and a bird-like beaked head. The elegant creature almost melts into the landscape. The horse is situated 2.5 km from Uffington village on a steep slope close to the Late Bronze Age hillfort of Uffington Castle and below the Ridgeway, a long-distance Neolithic track.
 
 
@@ -22,7 +22,7 @@
 	However, the carving is believed to date back much further than that. Due to the similarity of the Uffington White Horse to the stylised depictions of horses on 1st century BCE coins, it had been thought that the creature must also date to that period.
 
 
-7. optically 副 视觉地 光学的 物理学相关  optic 形 眼睛的 视觉的  luminescence 名 发光 特指冷光
+7. optically 副 视觉地 光学的 物理学相关  optic 形 眼睛的 视觉的
 	However, in 1995 Optically Stimulated Luminescence (OSL) testing was carried out by the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body, and from another cut near the base. The result was a date for the horse’s construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age or Early Iron Age origin.
 
 
