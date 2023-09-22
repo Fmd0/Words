@@ -1,48 +1,48 @@
-1. treeline  ancient fields  arrows  skis  artefacts  insights
+1. treeline 名 林木线 山的线以上没有树木生长  arrow 名 箭  ski 名 滑雪板  artefact 名 人工制品  insight 名 洞悉 一种准确且深入理解某人事的能力  artifact 名 人工制品 美式写法
 	Well above the treeline in Norway’s highest mountains, ancient fields of ice are shrinking as Earth’s climate warms. As the ice has vanished, it has been giving up the treasures it has preserved in cold storage for the last 6,000 years – items such as ancient arrows and skis from Viking Age traders. And those artefacts have provided archaeologists with some surprising insights into how ancient Norwegians made their livings.
 
 
-2. textiles  hides  sites  thawed  degradation  swiftly
+2. textile 名 纺织品  hide 名 兽皮  site 名 工地 地点  thaw 动 融化 解冻  degradation 名 屈辱 恶化 分解  swiftly 副 迅速地
 	Organic materials like textiles and hides are relatively rare finds at archaeological sites. This is because unless they’re protected from the microorganisms that cause decay, they tend no to last long. Extreme cold is one reliable way to keep artefacts relatively fresh for a few thousand years, but once thawed out, these materials experience degradation relatively swiftly.
 
 
-3. glacial  race the clock  newly  windblown  be lost to science  systematic  in their approach  fieldwork	
+3. glacial 形 冰川的  race the clock 和时间赛跑 争分夺秒  newly 副 新近 最近 词根自然  systematic 形 系统的 根据定好的计划和系统有条理的  fieldwork 名 实地考察 研究者在自然环境中进行工作而不是实验室
 	With climate change shrinking ice cover around the world, glacial archaeologists need to race the clock to find newly revealed artefacts, preserve them, and study them. If something fragile dries and is windblown it might very soon be lost to science, or an arrow might be exposed and then covered again by the next snow and remain well-preserved. The unpredictability means that glacial archaeologists have to be systematic in their approach to fieldwork.
 
 
-4. Reindeer  congregated  these ice patches  threaded
+4. reindeer 名 驯鹿  congregate 动 聚集 指人群动物群  thread 动 穿过 穿线
 	Reindeer once congregated on these ice patches in the later summer months to escape biting insects, and from the late Stone Age, hunters followed. In addition, trade routes threaded through the mountain passes of Oppland, linking settlements in Norway to the rest of Europe.
 
 
-5. stationary patches  amid  frost  bedrock  
+5. stationary 形 静止的 固定的 变一个字母就是文具  amid 介 在什么中  frost 名 霜冻 霜  bedrock 名 基岩 基础
 	The slow but steady movement of glaciers tends to destroy anything at their bases, so the team focused on stationary patches of ice, mostly above 1,400 metres. That ice is found amid fields of frost-weathered boulders, fallen rocks, and exposed bedrock that for nine months of the year is buried beneath snow.
 
 
-6. permafrost  melting  
+6. permafrost 名 永冻土层  permanent 形 永久的  melt 动 融化
 	‘Fieldwork is hard work – hiking with all our equipment, often camping on permafrost – but very rewarding. You’re rescuing the archaeology, bringing the melting ice to wider attention, discovering a unique environmental history and really connecting with the natural environment,’ says Barrett.
 
 
-7. contracting  misplaced  bows 
+7. contracting 形 缩小的 来自于大小数量范围的缩小动词意思  misplace 动 放错地方 导致暂时地丢了   bow 名 弓 动 鞠躬
 	At the edges of the contracting ice patches, archaeologists found more than 2,000 artefacts, which formed a material record that ran from 4,000 BCE to the beginnings of the Renaissance in the 14th century. Many of the artefacts are associated with hunting. Hunters would have easily misplaced arrows and they often discarded broken bows rather than take them all the way home.
 
 
-8. radiocarbon  
+8. radiocarbon 名 放射性碳  radiate 动 辐射 散发 同根词射线
 	Barrett’s team radiocarbon-dated 153 of the artefacts and compared those dates to the timing of major environmental changes in the region – such as periods of cooling or warming – and major social and economic shifts – such as the growth of farming settlements and the spread of international trade networks leading up to the Viking Age.
 
 
-9. daunting  glaciers  elevations  
+9. daunt 动 使畏惧  glacier 名 冰川  elevation 名 海拔 高度
 	Oppland’s mountains present daunting terrain and in periods of extreme cold, glaciers could block the higher mountain passes and make travel in the upper reaches of the mountains extremely difficult. Archaeologists assumed people would stick to lower elevations during a time like the Late Antique Little Ice Age, a short period of deeper-than-usual cold from about 536-600 CE. But it turned out that hunters kept regularly venturing into the mountains even when the climate turned cold, based on the amount of stuff they had apparently dropped there.
 
 
-10. supplement  
+10. supplement 名动 补充 增加 和供应没有关系
 	‘Remarkably, though, the finds from the ice may have continued through this period, perhaps suggesting that the importance of mountain hunting increased to supplement failing agricultural harvests in times of low temperatures,’ says Barrett. A colder turn in the Scandinavian climate would likely have meant widespread crop failures, so more people would have depended on hunting to make up for those losses.
 
 
-11.  overland  passes  antlers  combs
+11. overland 形 经由陆地的 就是字面的意思  pass 名 山路 通过山的路径   antler 名 鹿角  comb 名 梳子
 	Although we usually think of ships when we think of Scandinavian expansion, these recent discoveries show that plenty of goods travelled on overland routes, like the mountain passes of Oppland. And growing Norwegian towns, along with export markets, would have created a booming demand for hides to fight off the cold, as well as antlers to make useful things like combs. Business must have been good for hunters.
 
 
-12.  ice patches  disintegrated  frozen  retreating
+12. patch 名 还是得解释为小片土地 还有时期的意思 这里解释为冰块  disintegrate 动 瓦解 解体 碎裂  freeze 动 冻结 注意过去式变化  retreat 动 撤退 这里指冰层的消退
 	Norway’s mountains are probably still hiding a lot of history – and prehistory – in remote ice patches. When Barrett’s team looked at the dates for their sample of 153 artefacts, they noticed a gap with almost no artefacts from about 3,800 to 2,200 BCE. In fact, archaeological finds from that period are rare all over Norway. The researchers say that could be because many of those artefacts have already disintegrated or are still frozen in the ice. That means archaeologists could be extracting some of those artefacts from retreating ice in years to come.
 
 

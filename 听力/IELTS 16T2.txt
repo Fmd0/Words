@@ -15,31 +15,30 @@ methodology 方法论
 SUSIE:OK, forget that idea. Then we have to think about our methodology. So we could use observation, but that doesn't seem appropriate.
 
 
-half-asleep
+half-asleep  asleep 睡着的
 SUSIE:But in this case, paper might be better as they'll be doing it straight after they wake up ... in fact while they're still half-asleep.
 
 
-correlation 相关  variables
+correlation 相关  correlate 动 相关联   variable
 SUSIE:Then when we've collected all our data we have to analyse it and calculate the correlation between our two variables, that's time sleeping and number of dreams and then present our results visually in a graph.
 
 
-trigger
+trigger 引发 引起
 We just remember the ones where something in the real world, like a view or an action, happens to trigger a dream memory.
 
 
-segmented  coincidence 巧合
+segmented 形 组成或者分成多个部分  coincidence 巧合
 LUKE:Right. So it's just a coincidence really. Something else I read about is what they call segmented sleeping.
 
 
-have a chat
+have a chat 交谈
 That's a theory that hundreds of years ago, people used to get up in the middle of the night and have a chat or something to eat, then go back to bed. So I tried it myself.
 
 
-methodology  obvious  appropriate
+obvious  appropriate 合适的
 But they didn't really find an answer. They spent a lot of time working out the most appropriate methodology, but the results didn't seem to show any obvious patterns.
 
-
-retain  forces
+retain 保留  force 强迫
 For older people, this kind of activity is especially important because it forces their brain to process things more quickly and to retain more information.
 
 
@@ -51,33 +50,36 @@ isolation
 This helps to develop new relationships and can reduce older people's sense of isolation, which is a huge problem in many countries.
 
 
-moderately  intenseaerobics  aerobics 有氧运动
+moderately 副 适度的 中等的 温和的  aerobics 有氧运动  kickboxing 跆拳道  intense 激烈的 紧张的 强烈的  intensity 强度 强烈
 This is similar to moderately intense exercises like step aerobics or kickboxing.
 
 
-high-intensity  workout 锻炼
+intensity 密集的 集中的  workout 锻炼
 Dance is never going to compete with high-intensity workouts when it comes to physical fitness gains, but its popularity is likely to keep on rising because it's such a fun way to keep fit.
 
 
-hormone 激素  dopamine 多巴胺
+hormone 激素 荷尔蒙  dopamine 多巴胺  激素就是荷尔蒙 多巴胺是激素的一种
 Dancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy.
 
 
-prescribed 动 开药 规定
+prescribe 动 开药 规定
 He thinks dance should be prescribed as therapy to help people overcome issues such as depression.
 
 
-adolescent  
+adolescent 名形 青少年
 It's well established that dance is a good way of encouraging adolescent girls to take exercise but what about older people?
 
 
-enormous  
+enormous  庞大的
 Studies have shown that there are enormous benefits for people in their sixties and beyond.
 
 
-barriers  participation 
+barrier 障碍  participation 参加
 One of the great things about dance is that there are no barriers to participation.
 
 
-beneficial  workouts
+beneficial 有益的 有利的  workout 锻炼
 Dance can be especially beneficial for older adults who can't run or do more intense workouts, or for those who don't want to.
+
+
+intense 和主体的反应相关  intensive 对于客体的客观描述
