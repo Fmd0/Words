@@ -1,32 +1,32 @@
-1. thermometer  molecule  cellular  gauges
+1. thermometer 名 温度计  molecule 名 分子 由原子组成哦  cellular 形 细胞的 蜂窝的 词源细胞 蜂窝通信得名自每个电线杆的辐射就像一个小室细胞也有小室的意思  gauge 名 测量仪器 动 测量 估计
 	An international team of scientists led by the University of Cambridge has discovered that the ‘thermometer’ molecule in plants enables them to develop according to seasonal temperature changes. Researchers have revealed that molecules called phytochromes – used by plants to detect light during the day – actually change their function in darkness to become cellular temperature gauges that measure the heat of the night.
 
 
-2. proportional  proportion  mercury  stimulating
+2. proportional 形 成比例的 大小或者数量和某个其他东西相应  proportion 名 比例 部分  mercury 名 汞 开头字母大写水星  stimulate 动 刺激 激励
 	At night, these molecules change states, and the pace at which they change is ‘directly proportional to temperature’, say scientists, who compare phytochromes to mercury in a thermometer. The warmer it is, the faster the molecular change – stimulating plant growth.
 
 
-3. responsive  bud  harvest  pinpoints  molecular  long to do
+3. responsive 形 反应迅速的热烈的  bud 名 芽 动 发芽  harvest 名动 收获  pinpoint 动 准确找到 精确度极高的找到和确定  molecular 形 分子的  long to do 渴望做
 	Farmers and gardeners have known for hundreds of years how responsive plants are to temperature: warm winters cause many trees and flowers to bud early, something humans have long used to predict weather and harvest times for the coming year. The latest research pinpoints for the first time a molecular mechanism in plants that reacts to temperature – often triggering the buds of spring we long to see at the end of winter.
 
 
-4. functions  cells  breed  crops  Thermal  yields  accelerate resilient
+4. function 动 起作用 运转  cell 名 细胞  breed 名 品种 动 培育 繁育  crop 名 庄稼作物 收成 动 修剪 收获  thermal 形 热的 热学专业词汇  yield 名 产量 农作物或者经济 动 出产  accelerate 动 加速  resilient 形 适应能力强的 有弹性的
 	This light-sensing molecule also functions as the internal thermometer in plant cells could help us breed tougher crops. Thermal stress reduces crop yields by around 10% for every one degree increase in temperature,’ says lead researcher Dr Philip Wigge from Cambridge’s Sainsbury Laboratory. ‘Discovering the molecules that allow plants to sense temperature has the potential to accelerate the breeding of crops resilient to thermal stress and climate change.’
 
 
-5. reversion  revert
+5. reversion 名 回复 词根回复  revert 动 回复 回到一个什么 恢复 所以恢复也是回复的一种
 	At night, however, it’s a different story. Instead of a rapid deactivation following sundown, the molecules gradually change from their active to inactive state. This is called ‘dark reversion’. ‘Just as mercury rises in a thermometer, the rate at which phytochromes revert to their inactive state during the night is a direct measure of temperature,’ says Wigge.
 
 
-6. suppressing  co-opted  
+6. suppress 动 抑制 镇压
 	‘The lower the temperature, the slower the rate at which phytochromes revert to inactivity, so the molecules spend more time in their active, growth-suppressing state.’ Wigge believes phytochrome thermo-sensing evolved at a later stage, and co-opted the biological network already used for light-based growth during the downtime of night.
 
 
-7. indicator  dual  rhyme  plash  soak
+7. indicator 名 指示物  dual 名 双重的 由两个部分元素方面组成  rhyme 名动 押韵 名 押韵的诗歌  soak 动 浸泡 弄湿
 	Some plants mainly use day length as an indicator of the reason. Other species, such as daffodils, have considerable temperature sensitivity, and can flower months in advance during a warm winter. In fact, the discovery of the dual role of phytochromes provides the science behind a well-known rhyme long used to predict the coming season: oak before ash we’ll have a plash, ash before oak we’re in for a soak.
 
 
-8. culmination  mustard  well-positioned  collaborators
+8. culmination 名 终点 结果 巅峰  mustard 名 芥末  well-positioned 形 位置优越有利的   collaborator 名 合作者
 	The new findings are the culmination of twelve years of research involving scientists from Germany, Argentina and the US, as well as the Cambridge team. The work was done in a model system, using a mustard plant called Arabidopsis. ‘Cambridge is uniquely well-positioned to do this kind of research as we have outstanding collaborators nearby who work on more applied aspects of plant biology, and can help us transfer this new knowledge into the field.’
 
 
