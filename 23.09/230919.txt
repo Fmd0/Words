@@ -30,11 +30,11 @@
 	Barrett’s team radiocarbon-dated 153 of the artefacts and compared those dates to the timing of major environmental changes in the region – such as periods of cooling or warming – and major social and economic shifts – such as the growth of farming settlements and the spread of international trade networks leading up to the Viking Age.
 
 
-9. daunt 动 使畏惧  glacier 名 冰川  elevation 名 海拔 高度
+9. daunt 动 使畏惧  glacier 名 冰川  elevation 名 海拔 高度  elevate 动 抬起 物理上的 提升 状态境界上的
 	Oppland’s mountains present daunting terrain and in periods of extreme cold, glaciers could block the higher mountain passes and make travel in the upper reaches of the mountains extremely difficult. Archaeologists assumed people would stick to lower elevations during a time like the Late Antique Little Ice Age, a short period of deeper-than-usual cold from about 536-600 CE. But it turned out that hunters kept regularly venturing into the mountains even when the climate turned cold, based on the amount of stuff they had apparently dropped there.
 
 
-10. supplement 名动 补充 增加 和供应没有关系
+10. supplement 名动 补充 增加 和供应应该有关系
 	‘Remarkably, though, the finds from the ice may have continued through this period, perhaps suggesting that the importance of mountain hunting increased to supplement failing agricultural harvests in times of low temperatures,’ says Barrett. A colder turn in the Scandinavian climate would likely have meant widespread crop failures, so more people would have depended on hunting to make up for those losses.
 
 
