@@ -1,26 +1,24 @@
-1. civilization 名 文明  civil 形 民事的 公民的  post 名 柱  shaft 名 矿井 竖井
+1. civilization 名 文明 文明社会  civil 形 民事的 公民的  post 名 柱子  shaft 名 竖井 多指矿井
 	The Persians, who lived in present-day Iran, were one of the first civilizations to build tunnels that provided a reliable supply of water to human settlements in dry areas. In the early first millennium BCE, they introduced the qanat method of tunnel construction, which consisted of placing posts over a hill in a straight line, to ensure that the tunnel kept to its route, and then digging vertical shafts down into the ground at regular intervals. 
 
 
-2. earth 名 泥土  ventilation 名 通风  canal
+2. earth 名 泥土  ventilation 名 通风 通风设备  canal 名 运河 渠 人工开凿的水道允许船只通行或运水
 	Underground, workers removed the earth from between the ends of the shafts, creating a tunnel. The excavated soil was taken up to the surface using the shafts, which also provided ventilation during the work. Once the tunnel was completed, it allowed water to flow from the top of a hillside down towards a canal, which supplied water for human use. Remarkably, some qanats built by the Persians 2,700 years ago are still in use today.
 
 
-3. handhold 名 可以抓手的地方  foothold 名 立足处  lid 名 盖子  plumb 形 垂直的  rod 名 杆  weight 名 重物  drain
+3. handhold 名 可以抓手的地方  foothold 名 立足处  lid 名 盖子  plumb 形 垂直的 名 铅锤 重物和绳子末端相连为了测深或是看是否垂直 动 测深  rod 名 杆  weight 名 重物 重量  drain 动 排水 消耗 对于物质的 名 下水道
 	The shafts were equipped with handholds and footholds to help those climbing in and out of them and were covered with a wooden or stone lid. To ensure that the shafts were vertical, Romans hung a plumb line from a rod placed across the top of each shaft and made sure that the weight at the end of it hung in the center of the shaft. Plumb lines were also used to measure the depth of the shaft and to determine the slope of the tunnel. The 5.6-kilometer-long Claudius tunnel, built in 41 CE to drain the Fucine Lake in central Italy, had shafts that were up to 122 meters deep, took 11 years to build and involved approximately 30,000 workers.
 
 
-4. deviate 动 偏离  Adjustment 名 调整 适应  deviation 名 偏差 偏离  inscription 名 题名 铭文  corridor 名 走廊
+4. deviate 动 偏离  adjustment 名 调整 适应 调整是为了适应  deviation 名 偏差 偏离  inscription 名 题名 铭文  corridor 名 走廊
 	Adjustments to the direction of the tunnel also had to be made whenever builders encountered geological problems or when it deviated from its set path. Large deviations could happen, and they could result in one end of the tunnel not being usable. An inscription written on the side of a 428-meter tunnel, built by the Romans as part of the Saldae aqueduct system in modern-day Algeria, describes how the two teams of builders missed each other in the mountain and how the later construction of a lateral link between both corridors corrected the initial error.
 
 
-5. obstacle 名 障碍  mineral 名 矿物  vein 名 血管  mine 名 
+5. obstacle 名 障碍  mineral 名 矿物 形 矿物  vein 名 名 血管 叶脉  mineral vein 矿脉  mine 动 采矿 名 矿 矿物和矿还是有区别
 	The Romans dug tunnels for their roads using the counter-excavation method, whenever they encountered obstacles such as hills or mountains that were too high for roads to pass over. Remarkably, a modern road still uses this tunnel today. Tunnels were also built for mineral extraction. Miners would locate a mineral vein and then pursue it with shafts and tunnels underground. Traces of such tunnels used to mine gold can still be found at the Dolaucothi mines in Wales.
 
 
-6. quench 动 止  if not 甚至 如果不是 即字面意思  divert 动 转移 使改道  floodwater 名 洪水  harbor 名 港口
-	When the rock was hard, the Romans employed a technique called fire quenching which consisted of heating the rock with fire, and then suddenly cooling it with cold water so that it would crack. Progress through hard rock could be very slow, and it was not uncommon for tunnels to take years, if not decades, to be built. For example, the 1.4-kilometer Çevlik tunnel in Turkey, built to divert the floodwater threatening the harbor of the ancient city of Seleuceia Pieria, had inscriptions on the entrance, still visible today, that also indicate that the tunnel was started in 69 CE and was completed in 81 CE.
-
-
+6. quench 动 动 止渴 扑灭 如火 抑制 愤怒等情绪 快速使用冷水等冷却烧红的物质  if not 甚至 如果不是 即字面意思  divert 动 转移 使改道  floodwater 名 洪水  harbor 名 港口
+	When the rock was hard, the Romans employed a technique called fire quenching which consisted of heating the rock with fire, and then suddenly cooling it with cold water so that it would crack. Progress through hard rock could be very slow, and it was not uncommon for tunnels to take years, if not decades, to be built. For example, the 1.4-kilometer Çevlik tunnel in Turkey, built to divert the floodwater threatening the harbor of the ancient city of Seleuceia Pieria, had inscriptions on the entrance, still visible today.
 
 
