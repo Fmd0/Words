@@ -22,7 +22,7 @@
 	For this purpose it redefines the meaning of auto, a keyword dating back to C, but one hardly ever used. (Chapter 9 discusses the previous meaning of auto.) 
 
 
-7. linger 动 逗留 留存  practically 副 几乎 实际地  apparatus 名 设备 装置  all this 这一切
+7. linger 动 逗留 留存  practically 副 几乎 实事求是地 以一种实际的方式  apparatus 名 设备 装置  all this 这一切
 	Practically what all this means is that your TCPConnection has a member variable called linger after streams finish, exposed to the testing apparatus through the state() method.
 
 

@@ -1,48 +1,48 @@
-1. pacifier 名 安抚奶嘴  toddler 名 学步儿童  hunch 动 弓身  tablet 名 平板电脑 药片   a flotilla of
+1. pacifier 名 调解人 安抚奶嘴 可以是人或物  pacify 动 安抚 平定  toddler 名 学步儿童 幼儿  toddle 名动 蹒跚行走 形容幼儿  hunch 名 预感直觉 动 弓身  tablet 名 平板电脑 药片   a flotilla of  flotilla 小船队
 	The iPad is the new pacifier for babies and toddlers. Younger school-aged children read stories on smartphones; older kids don’t read at all, but hunch over video games. Parents and other passengers read on tablets or skim a flotilla of email and news feeds. 
 
 
-2. unbeknown 形 某人不知道的是  neuronal 形 和神经元相关的  neurons 名 神经元  circuit 名 电路
+2. unbeknown 形 未知的 不为人知的  beknown 形 已知的 已被告知的  neuronal 形 神经元的 和神经元相关的  neuron 名 神经元  circuit 名 电路
 	Unbeknown to most of us, an invisible, game-changing transformation links everyone in this picture: the neuronal circuit that underlies the brain’s ability to read is subtly, rapidly changing and this has implications for everyone from the pre-reading toddler to the expert adult.
 
 
-3. neurosciences 名 神经科学  literacy 名 读写能力  necessitated 动 使成为必要  herd 名 兽群  elaborated 动 详尽阐述 形 精细的
+3. neuroscience 名 神经科学  literacy 名 读写能力 感觉和文学有些关系  necessitate 动 使成为必要  necessity 名 必要 必需品   herd 名 人群 兽群  elaborate 动 详尽阐述 形 精细的  elaborated 应该是形容词
 	As work in neurosciences indicates, the acquisition of literacy necessitated a new circuit in our species’ brain more than 6,000 years ago. That circuit evolved from a very simple mechanism for decoding basic information, like the number of goats in one’s herd, to the present, highly elaborated reading brain. 
 
 
-4. affective 形 情感的  empathy 名 同感  surfacing  caution 动 警示
+4. affective 形 情感的  affection 名 情感 爱情 两者词根都是名词影响  empathy 名 同理心共鸣 同感  surface 动  caution 动 警示
 	My research depicts how the present reading brain enables the development of some of our most important intellectual and affective processes: internalized knowledge, analogical reasoning, and inference; perspective-taking and empathy; critical analysis and the generation of insight. Research surfacing in many parts of the world now cautions that each of these essential ‘deep reading’ processes may be under threat as we move into digital-based modes of reading.
 
 
-5. binary 形 两部分组成的 二进制的  err 动 犯错误  hinge
+5. binary 形 关于由组成两样东西 二进制的  err 动 犯错误  hinge 名 铰链 枢纽关键
 	This is not a simple, binary issue of print versus digital reading and technological innovations. As MIT scholar Sherry Turkle has written, we do not err as a society when we innovate but when we ignore what we disrupt or diminish while innovating. In this hinge moment between print and digital cultures, society needs to confront what is diminishing in the expert reading circuit, what our children and older students are not developing, and what we can do about it.
 
 
 
-6. characteristics  medium  
+6. characteristic 名 特性 形 典型的 独特的 去掉后缀的那个是角色性格的意思  medium 名 媒介 形 中等的
 	Further, it will adapt to that environment’s requirements – from different writing systems to the characteristics of whatever medium is used. If the dominant medium advantages processes that are fast, multi-task oriented and well-suited for large volumes of information, like the current digital medium, so will the reading circuit. As UCLA psychologist Patricia Greenfield writes, the result is that less attention and time will be allocated to slower, time-demanding deep reading processes.
 
 
 
-7. humanities  bear this out  
+7. humanities 名 人文学科 文学历史艺术之类的 复数形式下的意思  bear out 为什么作证  
 	Increasing reports from educators and from researchers in psychology and the humanities bear this out. English literature scholar and teacher Mark Edmundson describes how many college students actively avoid the classic literature of the 19th and 20th centuries in favour of something simpler as they no longer have the patience to read longer, denser, more difficult texts. We should be less concerned with students’ ‘cognitive impatience’, however, than by what may underlie it: the potential inability of large numbers of students to read with a level of critical analysis sufficient to comprehend the complexity of thought and argument found in more demanding texts.
 
 
 
-8. downstream 形副 向下游
+8. downstream 形副 向下游  paperback 名 平装本  sequence  chronological 形 按照时间先后顺序排列的
 	Multiple studies show that digital screen use may be causing a variety of troubling downstream effects on reading comprehension in older high school and college students. In Stavanger, Norway, psychologist Anne Mangen and colleagues studied how high school students comprehend the same material in different mediums. Mangen’s group asked subjects questions about a short story whose plot had universal student appeal; half of the students read the story on a tablet, the other half in paperback. Results indicated that students who read on print were superior in their comprehension to screen-reading peers, particularly in their ability to sequence detail and reconstruct the plot in chronological order.
 
 
 
-9. sample 动 抽样调查
+9. sample 动 抽样调查 品尝 用于食物葡萄酒
 	Many readers now use a pattern when reading in which they sample the first line and then word-spot through the rest of the text. When the reading brain skims like this, it reduces time allocated to deep reading processes.
 
 
-10. collateral 形 附带的  straightforward 形 简单的 坦率的别忘记  atrophy 名 萎缩  bombardment 名 轰炸  incentivize 动 激励  susceptible 形 形 易受感染的  irrational 形 不合理的
+10. collateral 名 抵押物 形 附带的 抵押的有担保的 抵押指将不动产作为债务的担保 不动产即不能移动的财产  straightforward 形 简单的 坦率的别忘记  atrophy 名动 萎缩 指身体组织或器官  bombardment 名 轰炸 词根炸弹 前后加那啥形成短语一连串  incentivize 动 激励 名词自然  susceptible 形 易受感染的  irrational 形 不合理的 不理性的
 	The possibility that critical analysis, empathy and other deep reading processes could become the unintended ‘collateral damage’ of our digital culture is not a straightforward binary issue about print versus digital reading. The subtle atrophy of critical analysis and empathy affects us all equally. It affects our ability to navigate a constant bombardment of information. It incentivizes a retreat to the most familiar stores of unchecked information, which require and receive no analysis, leaving us susceptible to false information and irrational ideas.
 
 
-11. redress 动 补偿  entrenched 形 确立的
+11. redress 动 纠正 赔偿 名 补偿 为什么不一样  entrenched 形 根深蒂固的 确立的  entrench 动 使根深蒂固
 	We possess both the science and the technology to identify and redress the changes in how we read before they become entrenched. If we work to understand exactly what we will lose, alongside the extraordinary new capacities that the digital world has brought us, there is as much reason for excitement as caution.
 
 
