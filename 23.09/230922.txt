@@ -1,4 +1,4 @@
-1. pacifier 名 调解人 安抚奶嘴 可以是人或物  pacify 动 安抚 平定  toddler 名 学步儿童 幼儿  toddle 名动 蹒跚行走 形容幼儿  hunch 名 预感直觉 动 弓身  tablet 名 平板电脑 药片   a flotilla of  flotilla 小船队
+1. pacifier 名 调解人 安抚奶嘴 可以是人或物  pacify 动 安抚 平定  toddler 名 学步儿童 幼儿  toddle 名动 蹒跚行走 形容幼儿  hunch 名 预感直觉 动 弓身  tablet 名 平板电脑 药片   a flotilla of 小船队伍 小队 数量上的形容词  flotilla 小船队
 	The iPad is the new pacifier for babies and toddlers. Younger school-aged children read stories on smartphones; older kids don’t read at all, but hunch over video games. Parents and other passengers read on tablets or skim a flotilla of email and news feeds. 
 
 
@@ -10,11 +10,11 @@
 	As work in neurosciences indicates, the acquisition of literacy necessitated a new circuit in our species’ brain more than 6,000 years ago. That circuit evolved from a very simple mechanism for decoding basic information, like the number of goats in one’s herd, to the present, highly elaborated reading brain. 
 
 
-4. affective 形 情感的  affection 名 情感 爱情 两者词根都是名词影响  empathy 名 同理心共鸣 同感  surface 动  caution 动 警示
+4. affective 形 情感的  affection 名 情感 爱情 两者词根都是名词影响  empathy 名 同理心共鸣 同感  surface 动 显露出现 浮出水面  caution 动 警示
 	My research depicts how the present reading brain enables the development of some of our most important intellectual and affective processes: internalized knowledge, analogical reasoning, and inference; perspective-taking and empathy; critical analysis and the generation of insight. Research surfacing in many parts of the world now cautions that each of these essential ‘deep reading’ processes may be under threat as we move into digital-based modes of reading.
 
 
-5. binary 形 关于由组成两样东西 二进制的  err 动 犯错误  hinge 名 铰链 枢纽关键
+5. binary 形 关于两样东西或由两样东西组成 二进制的  err 动 犯错误  hinge 名 铰链 枢纽关键
 	This is not a simple, binary issue of print versus digital reading and technological innovations. As MIT scholar Sherry Turkle has written, we do not err as a society when we innovate but when we ignore what we disrupt or diminish while innovating. In this hinge moment between print and digital cultures, society needs to confront what is diminishing in the expert reading circuit, what our children and older students are not developing, and what we can do about it.
 
 
@@ -29,7 +29,7 @@
 
 
 
-8. downstream 形副 向下游  paperback 名 平装本  sequence  chronological 形 按照时间先后顺序排列的
+8. downstream 形副 向下游  paperback 名 平装本  chronological 形 按照时间先后顺序排列的
 	Multiple studies show that digital screen use may be causing a variety of troubling downstream effects on reading comprehension in older high school and college students. In Stavanger, Norway, psychologist Anne Mangen and colleagues studied how high school students comprehend the same material in different mediums. Mangen’s group asked subjects questions about a short story whose plot had universal student appeal; half of the students read the story on a tablet, the other half in paperback. Results indicated that students who read on print were superior in their comprehension to screen-reading peers, particularly in their ability to sequence detail and reconstruct the plot in chronological order.
 
 
@@ -38,7 +38,7 @@
 	Many readers now use a pattern when reading in which they sample the first line and then word-spot through the rest of the text. When the reading brain skims like this, it reduces time allocated to deep reading processes.
 
 
-10. collateral 名 抵押物 形 附带的 抵押的有担保的 抵押指将不动产作为债务的担保 不动产即不能移动的财产  straightforward 形 简单的 坦率的别忘记  atrophy 名动 萎缩 指身体组织或器官  bombardment 名 轰炸 词根炸弹 前后加那啥形成短语一连串  incentivize 动 激励 名词自然  susceptible 形 易受感染的  irrational 形 不合理的 不理性的
+10. collateral 名 抵押物 形 附带的 抵押的有担保的 抵押指将不动产作为债务的担保 不动产即不能移动的财产  straightforward 形 简单的 坦率的别忘记  atrophy 名动 萎缩 指身体组织或器官  bombardment 名 轰炸 词根炸弹 前后加那啥形成短语一连串  incentivize 动 激励 词源刺激  susceptible 形 易受感染的  irrational 形 不合理的 不理性的
 	The possibility that critical analysis, empathy and other deep reading processes could become the unintended ‘collateral damage’ of our digital culture is not a straightforward binary issue about print versus digital reading. The subtle atrophy of critical analysis and empathy affects us all equally. It affects our ability to navigate a constant bombardment of information. It incentivizes a retreat to the most familiar stores of unchecked information, which require and receive no analysis, leaving us susceptible to false information and irrational ideas.
 
 

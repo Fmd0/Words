@@ -1,0 +1,37 @@
+1. satellite 名 卫星 人造卫星 卫星也有天然的  debris 名 残骸 碎片
+	Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet.
+
+
+2. constellation 名 星座 一系列 相似的人或物 前后加那啥短语形式  sharp 形 锋利的 突然的 区别鲜明的
+	Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites to space in the next few years.
+
+
+3. smash 动 击碎 粉碎  stretch 动 拉长 舒展  steer 动 驾驶 引导
+	Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit - the zone stretching up to 2,000 kilometres in altitude. Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces. And satellite operators can't steer away from every potential crash.
+
+
+4. taxonomy 名 分类学
+	Others are developing taxonomies of space debris - working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry about what's coming their way.
+
+
+5. set off 触发 动身 开始  runaway 形 失控的 逃跑的 名 逃跑者  cascade 名 小瀑布  a cascade of 一连串 大量的  render 动 使成为
+	The alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. 'If we go on like this, we will reach a point of no return,'
+
+
+6. inactivate 动 使失活  vent 名 出口 发泄 动 发泄 排放  pressurise 动 加压 逼迫  leftover 名 剩余物 吃剩的饭菜 形 剩余的  intergovernmental 形 政府间的  atmosphere 名 大气层 气氛  abide 动 服从 遵守 忍受  steward 名 乘务员 船飞机火车上的 管家  bankrupt 形 破产的 名 破产者 动 破产
+	Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions. The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate within 25 years. But so far, only about half of all missions have abided by this 25-year goal. Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises in space, but Krag worries that problems could increase, despite their best intentions. 'What happens to those that fail or go bankrupt?'
+
+
+7. vastness 名 大量 数量上的大 辽阔 空间上的大  alleviate 动 缓解 减轻  manoeuvre 动 熟练谨慎移动
+	In theory, given the vastness of space, satellite operators should have plenty of room for all these missions to fly safely without ever nearing another object. So some scientists are tackling the problem of space junk by trying to find out where all the debris is to a high degree of precision. That would alleviate the need for many of the unnecessary manoeuvres that are carried out to avoid potential collisions. 
+
+
+8. line up 排队 排成一行  take off 起飞 特指飞机 脱下衣服啥的 离开模仿  choreograph 动 设计舞蹈动作 安排 即计划和控制一件事情或者一个操作
+	The field is called space traffic management, because it's similar to managing traffic on the roads or in the air. Think about a busy day at an airport, planes line up in the sky, landing and taking off close to one another in a carefully choreographed routine.
+
+
+9. authoritative 形 权威性的 官方的  catalogue 名 目录  catalog 名 目录 美式写法  designate 名 指定 即给具体的地位状态或名字 指派 即任命某人去某个地方  devolve 动 移交 权力的下放  devolve into pass into 两者字面意思同 进入一个不同的状态 前者特指不好的  tragedy 名 悲剧 灾难  spaceflight 名 航天 宇宙飞行
+	An additional problem is that there is no authoritative catalogue that accurately lists the orbits of all known space debris. When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit. Jah describes himself as a space environmentalist: 'I want to make space a place that is safe to operate, that is free and useful for generations to come.' Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.
+
+
+

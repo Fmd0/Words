@@ -6,7 +6,7 @@
 	But since Google announced in 2010 that it had been trialling self-driving cars on the streets of California, progress in this field has quickly gathered pace.
 
 
-3. motive 名 动机 目的  contributory 形 促成的
+3. motive 名 动机 目的 和运动发动机同根  contributory 形 促成的
 	One frequently cited motive is safety; indeed, research at the UK’s Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority.
 
 
@@ -22,7 +22,7 @@
 	Automation may prompt other changes in vehicle manufacture. 
 
 
-7. hurdle 名 障碍 跨栏的栏或者比赛  regulatory 形 监管的 管理的  liability 名 责任 债务 多指法律规定要承担的
+7. hurdle 名 障碍 跨栏的栏或者比赛  regulatory 形 监管的 管理的  liability 名 责任 债务 多指法律规定要承担的 词根有责任的自然是那个
 	There are a number of hurdles to overcome in delivering automated vehicles to our roads. These include the regulatory challenges in understanding how liability and enforcement might change when drivers are no longer essential for vehicle operation.
 
 

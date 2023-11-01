@@ -1,4 +1,4 @@
-1. treeline 名 林木线 山的线以上没有树木生长  arrow 名 箭  ski 名 滑雪板  artefact 名 人工制品  insight 名 洞悉 一种准确且深入理解某人事的能力  artifact 名 人工制品 美式写法
+1. treeline 名 林木线 山的线以上没有树木生长  arrow 名 箭  ski 名 滑雪板  insight 名 洞悉 一种准确且深入理解某人事的能力  artifact 名 人工制品 美式写法  artefact 名 人工制品 英式写法
 	Well above the treeline in Norway’s highest mountains, ancient fields of ice are shrinking as Earth’s climate warms. As the ice has vanished, it has been giving up the treasures it has preserved in cold storage for the last 6,000 years – items such as ancient arrows and skis from Viking Age traders. And those artefacts have provided archaeologists with some surprising insights into how ancient Norwegians made their livings.
 
 
