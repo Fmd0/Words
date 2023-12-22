@@ -1,15 +1,18 @@
 301-350
 
 notepad 名 笔记本 袖珍笔触式电脑
-nuclear 形 核能的 核心的  nucleus 名 核心
+nuclear 形 核能的 核心的  
+nucleus 名 核心
 numb 形 麻木的 失去知觉的
 nylon 名 尼龙 一种合成材料
 observatory 名 天文台
 Oceania 名 大洋洲
-offshore 形 离岸的 向海的  shore 名 海滨
+offshore 形 离岸的 向海的  
+shore 名 海滨
 oilfield 名 油田
 opener 名 开启工具 开场戏
-orderly 形 有序的 整洁的  ordered 形 有序的 
+orderly 形 有序的 整洁的  
+ordered 形 有序的 
 orphan 名 孤儿
 Ottawa 名 渥太华 加拿大首都
 outspoken 形 直言不讳的
@@ -20,19 +23,22 @@ overtime 名 加班时间 加班费 加时赛
 ox 名 牛
 Pacific 形 太平洋
 pail 名 桶
-pan 名 平底锅  pancake 名 薄煎饼
+pan 名 平底锅  
+pancake 名 薄煎饼
 paperwork 名 文书工作
 parachute 名 降落伞 动 跳伞
 Paris 名 巴黎
 parliament 名 英国议会
-passage 名 文章中的段落  passer-by 名 路过者
+passage 名 文章中的段落  
+passer-by 名 路过者
 pat 名 轻拍
 pavement 名 人行道
 pearl 名 珍珠
 peasant 名 农民
 pedal 名 脚蹬子
 penalty 名 处罚
-pence 名 便士  penny的复数
+pence 名 便士  
+penny的复数
 penguin 名 切
 perfection 名 完美
 physician 名 医生
@@ -44,7 +50,8 @@ plateau 名 高原
 playmate 名 游戏伙伴
 plough 名 犁地 耕地
 porridge 名 粥
-postage 名 邮费  postbox 名 邮箱
+postage 名 邮费  
+postbox 名 邮箱
 prairie 名 大草原
 premier 名 总理 首相 形 首要的
 prescription 名 开处方 处方 规定
@@ -54,20 +61,23 @@ sum 49
 
 351-400
 
-prosperity 名 繁荣  prosperous 形 繁荣的
+prosperity 名 繁荣  
+prosperous 形 繁荣的
 protest 动 抗议 反对
 pub 名 酒吧
 pudding 名 甜食 布丁
 punctual 形 准时的
 punctuation 名 标点符号
-purse 名 手提包  pursue 动 追逐
+purse 名 手提包  
+pursue 动 追逐
 pyramid 名 金字塔 棱锥
 quake 动 震动 颤抖
 questionnaire 名 调查表
 quilt 名 被子
 radar 名 雷达
 radioactive 形 有放射性的
-rag 名 破布  ragged 形 衣服破的
+rag 名 破布  
+ragged 形 衣服破的
 ray 名 光线 射线
 receptionist 名 接待员
 recorder 名 录音机
@@ -75,7 +85,8 @@ referee 名 裁判
 refund 动 退还
 relay 名  传递(信息 新闻)  转播 接力赛
 relic 名 文物 遗迹
-religion 名 宗教信仰  religious 形 信教的 虔诚的
+religion 名 宗教信仰  
+religious 形 信教的 虔诚的
 renewable 形 可延期的 可再生的
 reporter 名 记者
 reptile 名 爬行动物
@@ -84,7 +95,9 @@ resume 名 简历
 retell 动 复述
 rewarding 形 有益的 值得...的
 rewind 动 倒回 回到开始 电影或磁带
-rhyme 名动 押韵 rhythm 名 节奏 韵律  rhythmic 形 有节奏的
+rhyme 名动 押韵 
+rhythm 名 节奏 韵律  
+rhythmic 形 有节奏的
 riddle 名 谜语
 ripen 动 使成熟
 roar 动 咆哮 轰鸣 
@@ -98,13 +111,18 @@ sacred 形 神圣的  sacrifice (sacri + fice) 词源 (sacred 神圣的 + fact) 
 saint 名 圣徒
 salute 名动 敬礼
 sandal 名 凉鞋
-sauce 名 调味汁  saucer 名 茶托  sausage 名 香肠
-scarce 形 稀有的 缺乏的  scarcely  勉强 几乎不
+sauce 名 调味汁  
+saucer 名 茶托  
+sausage 名 香肠
+scarce 形 稀有的 缺乏的  
+scarcely  勉强 几乎不
 schoolyard 名 校园操场
-Scotland 名 苏格兰  Scottish 形 名
+Scotland 名 苏格兰  
+Scottish 形 名
 scrape 动 刮  (很复杂的一个词) 
 scratch 动 划破 抓
-seagull 名 海鸥  gull 名 海鸥 动 欺骗
+seagull 名 海鸥  
+gull 名 海鸥 动 欺骗
 seaweed 名 海藻 
 secretary 名 秘书
 self-service 形 自助的 名 自助

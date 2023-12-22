@@ -1,7 +1,8 @@
 201-250
 
 grill 名 烤架
-grocer 名 食品杂货商 杂货商  grocery 名 食品杂货 食品杂货店
+grocer 名 食品杂货商 杂货商  
+grocery 名 食品杂货 食品杂货店
 gruel 名 燕麦粥
 gymnastics 名 体操
 hack 动 劈砍 非法侵入他人电脑
@@ -34,15 +35,18 @@ image 名 印象 图像
 imaginary 名 虚构的 想象的
 indoor 副 室内的
 inject 动 注射 注入
-injury 名 受伤  injure 动 受伤
+injury 名 受伤  
+injure 动 受伤
 ink 名 墨水
 inn 名 小旅店
 innocent 形 无罪的
 insult 动 侮辱 辱骂
 invaluable 名 无法估价的
-Ireland 名 爱尔兰  Irish 形 爱尔兰的  
+Ireland 名 爱尔兰  
+Irish 形 爱尔兰的  
 italics 名 斜体 形 斜体的
-Italy 名 意大利  Italian 名 形
+Italy 名 意大利  
+Italian 名 形
 jealous 形 嫉妒的
 jog 名动 慢跑
 joint 名 接合处 形 联合的
@@ -75,13 +79,17 @@ legacy 名 遗产
 lemonade 名 柠檬饮料
 lens 名 透镜
 leopard 名 豹 
-liberal 形 自由的 名 自由主义者 liberate 动 解放  liberation 名 解放  liberty 名 自由
+liberal 形 自由的 名 自由主义者 
+liberate 动 解放  
+liberation 名 解放  
+liberty 名 自由
 lighter 名 打火机  
 lighting 名 闪电
 likewise 副 同样地 也
 liquid 名 液体
 liter 名 升 
-literally 副 逐字的  literary 形 文学的
+literally 副 逐字的  
+literary 形 文学的
 litter 名 垃圾 动 乱扔
 liver 名 肝脏
 loaf 名 一条 如面包
@@ -99,16 +107,19 @@ melody 名 曲调
 melon 名 瓜
 memorial 形 用于纪念的 名 纪念碑
 mend 动 缝补 改进
-Mexican 名形  Mexico 名 墨西哥
+Mexican 名形  
+Mexico 名 墨西哥
 midday 名 正午
 millionaire 名 百万富翁
 ministry 名 部 多指政府部
-miserable 形 痛苦的 misery 名 痛苦
+miserable 形 痛苦的 
+misery 名 痛苦
 modem 名 调制解调器
 monster 名 怪物
 mop 名 拖把
 Moslem 名形 穆斯林 等于Muslim
-motorbike motorcycle 名 摩托车 均为
+motorbike 
+motorcycle 名 摩托车 均为
 mourn 动 哀悼
 moustache 名 小胡子
 mouthful 名 一满口
@@ -117,7 +128,8 @@ murmur 动 咕哝
 mutual 形 相互的
 nationality 名 国籍
 nationwide 形 全国性的
-necklace 名 项链  necktie 名 领带
+necklace 名 项链  
+necktie 名 领带
 nephew 名 侄子
 newcomer 名 新来的人
 newsletter 名 业务通讯

@@ -1,4 +1,4 @@
-1. /*amortize*/ 分期偿还 平摊  efficient  sufficient  effect
+1. amortize 分期偿还 平摊  efficient  sufficient  effect
 	The array pi allows us to compute the transition function F efficiently (in an amortized sense) “on the fly” as needed. 
 
 

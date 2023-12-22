@@ -1,4 +1,4 @@
-1. retrospective 回顾 回顾的  (词根 retrospect n/v 回顾)
+1. retrospective 形 回顾的 名 回顾展  retrospect 名动 回顾
 	TCP Congestion Control: Retrospective
 
 
@@ -6,7 +6,7 @@
 	Having delved into the details of slow start, congestion avoidance, and fast recovery, it’s worthwhile to now step back and view the forest from the trees. 
 
 
-3. intuition 直觉  (词根 intuit 凭直觉知道)  give rise to 导致
+3. intuition 直觉  intuit 动 凭直觉知道  give rise to 导致
 	AIMD congestion control gives rise to the “saw tooth” behavior shown in Figure 3.53, which also nicely illustrates our earlier intuition of TCP “probing” for bandwidth—TCP linearly increases its congestion window size (and hence its transmission rate) until a triple duplicate-ACK event occurs.
 
 
@@ -109,8 +109,8 @@ sum  40
 
 
 
-
-
+自己积累和
+四级 word list 1  梦开始的地方
 
 
 

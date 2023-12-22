@@ -2,18 +2,21 @@
 
 abortion 名 人 流产 计划失败
 acquaintance 名 相识了解 相识的人
-ad = anno domini 公元 ce bce bc
+# ad = anno domini 公元 ce=common era bce=before common era bc=before christ
 adore 动 敬爱 尊敬且爱如对母亲 非常喜爱
 aeroplane 名 飞机
 air-conditioned 形 装有空调的
 alert 形 警惕的
 alley 名 小巷 胡同
 aluminum 名 铝
-anecdote 名 轶事  anecdotal 形 轶事的 传闻的 不是必然正确可信的基于人们的记录传播
-antarctic 形 南极地区的 前面加the表示名词南极地区  antarctica 名 南极洲
+anecdote 名 轶事  
+anecdotal 形 轶事的 传闻的 不是必然正确可信的基于人们的记录传播
+antarctic 形 南极地区的 前面加the表示名词南极地区  
+antarctica 名 南极洲
 apron 名 围裙
 arch 名 拱形 拱门 动 拱起
 Arab 名 阿拉伯人 形 阿拉伯的
+Arabic
 armchair 名 扶手椅
 ash 名 灰烬
 Atlantic 形 大西洋的 前加the大西洋
@@ -71,7 +74,8 @@ brochure 名 小册子
 broom 名 扫帚
 brotherhood 名 兄弟 般的 关系
 brunch 名 早午饭
-Buddhism 名 佛教  Buddhist 名 佛教徒 形 佛教的
+Buddhism 名 佛教  
+Buddhist 名 佛教徒 形 佛教的
 bulb 名 电灯泡
 bully 名 恶霸
 bump 动 碰撞
@@ -93,7 +97,7 @@ chamber 名 名 大厅大型房间用于正式公共目的 私人房间特别是
 chant 名 赞美诗 动 唱
 cheek 名 脸颊
 cheerleader 名 拉拉队队员
-chest 名 胸部 胸膛
+chest 名 胸部 胸膛 箱子金库
 chewing gum 名 口香糖
 chick 名 小鸡
 chimney 名 烟囱
@@ -106,7 +110,8 @@ claw 名 爪子
 cocoa 名 可可粉 可可茶
 collar 名 领子
 coloring 名 着色 面色
-communism 名 共产主义  communist 名 共产主义者 形 共产主义的
+communism 名 共产主义  
+communist 名 共产主义者 形 共产主义的
 companion 名 伙伴 同伴 伴侣
 compliment 名动 赞扬 
 compulsory 形 义务的 必修的

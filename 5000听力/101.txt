@@ -20,7 +20,8 @@ depth 名 深度
 devotion 名 忠诚 献身
 dial 动 拨电话给
 dignity 名 尊贵 自尊
-diligence 名 勤奋  diligent 形 勤奋的 
+diligence 名 勤奋  
+diligent 形 勤奋的 
 dimension 名 尺寸 维度
 dine 动 进餐 吃饭
 dirt 名 尘垢  dirty的词根
@@ -57,7 +58,8 @@ eyewitness 名 目击者
 faint 名动 昏倒 形 微弱的 形容声音
 famine 名 饥荒
 fantasy 名 幻想
-fare 名 车费  fee 名 服务费
+fare 名 车费  
+fee 名 服务费
 fax 名 传真 传真机 动 用传真联系
 feast 名 盛宴
 fellow 名 伙伴 同辈 男人
@@ -79,7 +81,8 @@ fragrant 形 香的
 franc 名 法郎
 freeway 名 高速公路
 friction 名 摩擦力 摩擦
-fried 形 油煎的  fry 动 油煎
+fried 形 油煎的  
+fry 动 油煎
 frontier 名 边界 边境
 funeral 名 葬礼
 gallon 名 加仑
@@ -89,13 +92,16 @@ generous 名 慷慨的
 genuine 真正的 
 get-together 名 聚会
 glare 动 怒视
-glorious 形 光荣的  glory 名 光荣
+glorious 形 光荣的  
+glory 名 光荣
 goods 名 商品 货物 集合名词
 gossip 名 流言蜚语
 granny 名 外婆 奶奶
 grassland 名 草原
-Greece 名 希腊 Greek 形 希腊的 名 希腊人
-greengrocer 名 果菜商  grocer 名 食品杂货商 杂货商 
+Greece 名 希腊 
+Greek 形 希腊的 名 希腊人
+greengrocer 名 果菜商  
+grocer 名 食品杂货商 杂货商 
 
 
 

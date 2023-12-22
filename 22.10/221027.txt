@@ -11,7 +11,7 @@ horizon  地平线  hostile  敌对的  ignorance 无知 愚昧  ignorant  无�
 immense  巨大的  imperial  帝国的  词源同 empire
 influential  有影响力的  innocent  天真的 无辜 无罪
 inquiry 询问  intact 完好无损的  intangible 无形的  intrude 侵入 侵扰
-knot 结  knock  laboratory 实验室  latter  后者的 limb 肢体 枝干
+knot 结  laboratory 实验室  latter  后者的 limb 肢体 枝干
 gear 用具 工具 齿轮 速度  glimpse 瞥  glance  glow 容光焕发 光亮 发光 喜悦  
 gorgeous  华丽地 绚烂的 令人愉快的  gown 女礼服 长袍
 grave 坟墓 严重的  gut 直觉 内脏  halfway 中途的 在中间  harness 利用 马具  
@@ -67,8 +67,7 @@ drug  draft  knock (不包括)
 
 
 sum  59
-
-
+四级word list 22
 
 
 

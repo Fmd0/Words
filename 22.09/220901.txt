@@ -2,7 +2,7 @@
 	In general, with a d-ary alphabet {0,1,...,d-1} , we choose q so that dq fits within a computer word and adjust the recurrence equation (32.1) to work modulo q, so that it becomes
 
 
-2. /*heuristic*/
+2. heuristic
 	 We can thus use the test ts 同余 p (mod q) as a fast heuristic test to rule out invalid shifts s. 
 
 
