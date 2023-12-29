@@ -1,86 +1,86 @@
-stimulate
-trivial
-tuition
-ethic
-ethical
-infrastructure
-particle
-rational
-ration
-resort
-rival
-shrink
-sophisticate
-sustain
-thrive
-appliance
-breed
-combat
-commission
-corps
-disorder
-dispute
-inflate
-deflate
-inner
-procedure
-span
-tragedy
-diplomat
-dolphin
-crack
-entitle
-entity
-episode
-eclipse
-fascinate
-genius
-gravity
-initiative
-initate
-luxury
-keen
-mechanic
-mill
-nerve
-occasion
-outlet
-plunge
-refugee
-refuge
-renovate
-spite
-steer
-sting
-surgery
-surgeron
-tackle
-transaction
-transact
-tunnel
-venture
-vessel
-bullet
-colony
-compel
-convict
-conviction
-cruise
-devil
-donkey
-emit
-evil
-excel
-fancy
-gamble
-garble
+stimulate                   动 激励兴趣创造性等 促进功能生物学单词
+trivial                     形 不重要的
+tuition                     名 学费 讲授对个人或是小组 强调的重点在于人很少 多数为前者意思
+ethic                       名 道德准则 形 道德准则的 和moral完全一样
+ethical                     形 道德准则的 就是ethic的形容词部分
+infrastructure              名 基础设施 引申自下层建筑
+particle                    名 颗粒如沙子 粒子物理学词语
+rational                    形 理性的 合理的 有理数的 rational number 有理数
+ration                      名 配给量 动 定量供应 都是指食物
+resort                      名 招数 度假胜地 动 诉诸
+rival                       名 竞争对手 形 相互竞争的 动 比得上 不多见
+shrink                      名 精神病医生 动 缩小 退缩
+sophisticate                名 老于世故的人  动 使更精确 使老于世故
+sustain                     动 维持如兴趣友谊生活生态 同miantain
+thrive                      动 茁壮成长如小孩树动物 繁荣如商业工厂
+appliance                   名 家用电器
+breed                       名 品种 动 培育 繁殖如动物发生了繁殖 培育是及物繁殖却是不及物
+combat                      名动 战斗 
+commission                  名 委员会 佣金 最常见的两种意思 和commitment承诺不同
+corps                       名 军事部队
+disorder                    名动混乱 名失调紊乱指疾病
+dispute                     名动 争论 争吵
+inflate                     动 充气如球 夸大 抬高如物价
+deflate                     动 放气 使泄气用于人 紧缩如经济
+inner                       形 里面的 核心的 名 里面
+procedure                   名 程序 步骤
+span                        名 范围 动 跨越 
+tragedy                     名 灾难 悲剧
+diplomat                    名 外交官 人
+dolphin                     名 海豚
+crack                       名 裂缝 动 裂开 后面加er后缀就是黑客 薄脆饼干
+entitle                     动 使享有权利使有权 题名
+entity                      名 实体 明显独立的存在
+episode                     名 一集
+eclipse                     名 日食 月食
+fascinate                   名 迷住 和 fascination 自成一根
+genius                      名 天才 天资 和genuine的区别
+gravity                     名 重力 严肃  grave 名 坟墓 形 严肃的 是重力词根
+initiative                  名 主动性 主动行为 少了个音
+initiate                    动 开始
+luxury                      名 奢华 奢侈 形 奢侈的 奢华的
+keen                        形 渴望的 热心的
+mechanic                    名 技工
+mill                        名 磨坊
+nerve                       名 神经 勇气等于courage
+occasion                    名 场合时机 某次 occasionally 偶然 
+outlet                      名 油气水排放口
+plunge                      名动 跳水 骤降 
+refugee                     名 难民
+refuge                      名 避难所
+renovate                    动 翻新 修补
+spite                       名 恶意 多用于短语尽管
+steer                       动 驾驶 引导
+sting                       动 刺 名 刺痛 刺
+surgery                     名 外科手术
+surgeon                     名 外科医生
+tackle                      名 索具 动 处理
+transaction                 名 交易
+transact                    动 交易 谈判
+tunnel                      名 隧道
+venture                     名 企业 冒险 动 冒险
+vessel                      名 船 容器 管
+bullet                      名 子弹
+colony                      名 殖民地
+compel                      动 强迫
+convict                     名 囚犯 动 判决定罪
+conviction                  名 定罪 深信不疑
+cruise                      名动 乘船游览 
+devil                       名 魔鬼撒旦
+donkey                      名 驴
+emit                        动 散发
+evil                        形 邪恶的 邪恶 名 坏事
+excel                       动 擅长 胜过超过
+fancy                       名动 幻想 想要  和fanciful自成一根
+gamble                      动 赌博
+garble                      动 使...错乱 篡改
 
 
-emission
-diploma
-diplomatic
-reside
-resident
-colonize
-colonist
-compelling
+emission                    名 排放物
+diploma                     名 毕业文凭
+diplomatic                  形 外交的 外交人员的
+reside                      动 居住 属于 
+resident                    名 居民 形 常住的
+colonize                    动 殖民 建殖民地
+colonist                    名 殖民者
+compelling                  形 引人注目的吸引兴趣注意力 令人信服的 和强迫已经关系不大了
