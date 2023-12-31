@@ -1,52 +1,52 @@
-exert  发挥 运用
-exile  流放 背井离乡者
-flee  逃离
-fuss  大惊小怪  fuzzy
-inferior  较差的  
-instinct  本能
-intensive  密集的 集中的
-intimate  亲密的
-invariably  一贯地 总是
-jail 监狱
-landscape 风景
-lane  小路 车道
-leak  泄漏 泄露 漏
-lean  倾斜 靠 瘦的
-lease
-limitation  限制
-loyal  忠实的
-loyalty  忠诚 忠心
-luggage  行李
-melt 融化
-utilize 动 
-merit 优点 价值
-moist 湿润的 潮湿的
-murder 谋杀
-mutual 相互 共同的
-patch 补丁
-pave 铺
-paw 爪 手
-persist 坚持 持续
-pigeon 鸽子
-pint 品脱
-pitch 音高 场地 沥青  
-readily 乐意的 容易的
-refrain 避免 重复的话 副歌
-repay 偿还 报答
-slice 切片 薄片 部分
-spur 激励 马刺
-steep 陡峭的
-suspicion 怀疑
-suspicious
-sympathetic 有同情心的  sympathy 同情  
-tangible 有形的 可触摸的
-tedious 繁琐的 单调乏味的
-thesis 论文
-triumph 伟大胜利 成功 凯旋
-tube 管
-upright 正直的 直立地 垂直的
-utter 完全的 彻底的 极度的 说出
-vacuum 真空
-vigorous 有力的 精力充沛的 强健的
-vigor 等于 vigour 精力 力量
-weapon 武器
+exert               动 施加如压力影响 努力 exert oneself 重音在中
+exile               名 流放 背井离乡者 动 流放及物 和excel有点像但是两个元音以及重音都不同
+flee                动 逃离
+fuss                名 大惊小怪 动 展现出不必要过分的担忧  fuzzy 形 挑剔的 过分装饰的过分担忧的
+inferior            形 下级的 较差的
+instinct            名 本能 直觉
+intensive           形 密集的 加强的如课程研究
+intimate            形 亲密的
+invariably          副 一贯地 总是
+jail                名 监狱 动 监禁 prison 
+landscape           名 一切陆地上的风景 scape后缀表明一种具体类型的风景
+lane                名 小路小巷 lame lamb
+leak                动 漏物理的 泄露如秘密 名 漏物理的 泄露如秘密 
+lean                动 倾斜 靠 形 瘦的
+lease               名 租约 动 租用 出租
+limitation          名 限制 二重
+loyal               形 忠实的 单词内元音连读
+loyalty             名 忠诚 辅音不发生连读
+luggage             名 行李 英式
+melt                名 融化 加热变成液态如蜡 那么金属呢
+utilize             动 利用 utility 
+merit               名 优点 价值 动 值得如奖赏
+moist               形 slightly wet 气候湿润 眼睛湿
+murder              名动 谋杀
+mutual              形 相互的 共同的
+patch               名 补丁 动 安装补丁
+pave                动 铺 用某种东西覆盖满地面如遍地铺满黄金
+paw                 名 爪基本指动物的爪 claw是指足部指头上的角质甲，paw指动物的脚包括claws和爪垫
+persist             动 坚持如行动和信仰 持续存在如症状
+pigeon              名 鸽子 两个元音相同
+pint                名 品脱 一种计量液体的单位 1/8加仑 0.5升左右美英还不同
+pitch               名 场地 沥青 音高
+readily             形 乐意的同willingly 容易的同easily
+refrain             动 忍住节制 即stop sb doing sth 名 重复的内容在诗或歌里 副歌
+repay               动 偿还即pay back money 报答 2v
+slice               动 切片 名 薄片 部分 nv皆有
+spur                名 马刺 动 踢马刺 激励 装在骑手脚跟上的尖状东西强迫马前进的东西
+steep               形 陡峭的
+suspicion           名 怀疑
+suspicious          形 怀疑的 形容人
+sympathetic         形 有同情心的 形容人 两重音 sympathy 同情  ˈsɪmpəθi
+tangible            形 可触摸(感知)的 明显的 名 可触摸(感知)的东西
+tedious             形 单调乏味的 dull
+thesis              名 论文
+triumph             名 伟大胜利成就 动 取得胜利成就
+tube                名 管 金属塑料玻璃等材质的中空的东西 pipe用于传递液体的tube
+upright             形 挺直的如姿势形容人 垂直的形容物 正直的同honest honest就有正直的意思
+utter               形 完全的 彻底的 极度的 complete abstract
+vacuum              名 真空 完全没有某物
+vigorous            形 强壮的 健康的 充满精力的 结论ous发əs音
+vigor               名 精力 力量物理的同strength  等于 vigour
+weapon              名 武器
