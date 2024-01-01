@@ -1,50 +1,50 @@
-gaze  凝视
-horizon  地平线
-hostile  敌对的
-ignorance 无知 愚昧
-ignorant  无知的
-immense  巨大的
-imperial  帝国的  词源同 empire
-influential 有影响力的
-intact 完好无损的
-intangible 无形的
-intrude 侵入 侵扰
-knot 结
-limb 肢体 枝干
-gear 用具 工具 齿轮 速度
-glow 容光焕发 光亮 发光 喜悦  
-gorgeous  华丽地 绚烂的 令人愉快的
-gown 女礼服 长袍
-gut 直觉 内脏
-halfway 中途的 在中间
-harness 利用 马具  
-haste 匆忙
-hasty 草率的 匆忙的
-haunt 萦绕 出没 常去 长期困扰
-haunted 闹鬼的
-headquarters 总部
-hollow 空心的 中空的
-mankind 人类
-mate 名 配偶 伙伴 动 交配
-moderate 适度的 中等的 温和的
-mold 模具 等价于多个优的单词的名词意思
-mould 模具 塑造 霉菌
-modular 形 模块的
-module 模块
-modulo 动 取模
-nasty 令人难受的 严重的 肮脏的 恶意的
-offend 冒犯 得罪
-offense 犯罪 进攻 冒犯
-omit 省略 遗漏 疏忽
-orchestra 管弦乐队
-ornament 装饰 饰品
-overhear 无意中听到 偷听到
-pad 软垫 发射台
-parade 游行 阅兵
-paradox 悖论 矛盾的东西
-peculiar 奇怪的 特别的
-petroleum 石油
-pit 坑 深坑
-pitfall 名 陷阱
-plentiful 充足的
-precaution 预防措施
+gaze                动 凝视 特别是崇拜惊讶思索
+horizon             名 地平线 注意拼写完全和发音一致 同根词horizontal水平的
+hostile             形 表现出反对不喜欢不友善
+ignorance           名 缺少信息或知识 前者不知情后者无知 和igonre后元音不同重音不同
+ignorant            形 缺少信息或知识 前者不知情后者无知
+immense             形 巨大的 规模程度之大
+imperial            形 帝国的 和empire相关的 词源同 empire看不出一点关系
+influential         形 有影响力的 对人或物影响 和influence拼写发音大变双重音
+intact              形 完好无损的
+intangible          形 无形的 摸不到没有物理实体的 发音和tangible
+intrude             动 侵扰 不受欢迎未被邀请地进入 invade
+knot                名 结 knit很像
+limb                名 肢体 人的手臂或者腿 枝干 树的主要枝干 lame lamb lane
+gear                名 齿轮 用具 用于特定目的的装备如露营用具
+glow                名 光亮 动 发光  名动 人脸发红因为温暖健康尴尬
+gorgeous            形 漂亮有吸引力的 令人愉快的
+gown                名 女礼服 长袍
+gut                 名 内脏胃或者肚子 基于直觉的感受反应而非思考后的 勇气非正式
+halfway             副 在中间 路程或者时间的中间
+harness             名 马具 将马和车记牢的东西 动 装备上马具
+haste               名 匆忙
+hasty               形 匆忙的 草率的 过于快导致草率
+haunt               动 经常出没于 形容鬼 人常去某个地方 想法或者不好的问题持续出现
+haunted             形 闹鬼的 多了一个重音
+headquarters        名 总部 headquarter动词设立总部 发音同quarter
+hollow              形 中空的 内部有空的空间
+mankind             名 人类 集合名词
+mate                名 配偶即性伴侣 伙伴 动 交配 指动物鸟
+moderate            形 中等的 如数量密集度程度质量 人政党不激进的不极右或极左
+mold                名 模具 mould一部分意思子集 mould是英式的写法 mold是美式写法
+mould               名 模具 还有些不记了 
+modular             形 模块的 将module作为构建基础
+module              名 模块 每一个部分都是标准单元可以用于构建复杂的接哦股 建筑电子计算机领域
+modulo              动 取模 一种运算方式  
+nasty               形 非常坏让人难受的如气味天气
+offend              动 冒犯 让人伤心恼怒  aggressive
+offense             名 犯罪 冒犯
+omit                动 遗漏 某人某物 可以是有意的删除也可以是无意的疏忽
+orchestra           名 管弦乐队 包括了多种乐器
+ornament            名 装饰 动 装饰品 decorate
+overhear            动 无意中听到 overlook oversee
+pad                 名 软垫
+parade              名动 游行 为了庆祝节日 阅兵
+paradox             名 悖论 通过一系列正常的前提推导出了难以接受自相矛盾的结果 矛盾的人或者事
+peculiar            形 奇怪的 同strange 特殊特别的同particular
+petroleum           名 石油 唯一石油  petrol英式汽油 gasoline
+pit                 名 (深)坑
+pitfall             名 陷阱 盖起来的pit用于trap 隐患 为预料到的危险困难
+plentiful           形 充足的 同abundant plenty
+precaution          名 预防措施

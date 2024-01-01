@@ -1,5 +1,5 @@
 gaze ɡeɪz  ɡeɪz
-horizon ɑː(r)  ɑːr
+horizon həˈraɪz(ə)n  həˈraɪz(ə)n
 hostile ˈhɒstaɪl  ˈhɑːst(ə)l
 ignorance ˈɪɡnərəns  ˈɪɡnərəns
 ignorant ˈɪɡnərənt  ˈɪɡnərənt
@@ -20,7 +20,7 @@ halfway ˌhɑːfˈweɪ  ˌhæfˈweɪ
 harness ˈhɑːnɪs  ˈhɑːrnɪs
 haste heɪst  heɪst
 hasty ˈheɪsti  ˈheɪsti
-haunt ɔːˈtɒməˌtaɪz  ɔːˈtɑːməˌtaɪz
+haunt hɔːnt hɔːnt
 haunted ˈhɔːntɪd  ˈhɔːntɪd
 headquarters ˌhedˈkwɔːtəz  ˈhedkwɔːrtərz
 hollow ˈhɒləʊ  ˈhɑːloʊ
@@ -39,10 +39,10 @@ omit əˈmɪt  əˈmɪt
 orchestra ˈɔːkɪstrə  ˈɔːrkɪstrə
 ornament ˈɔːnəmənt  ˈɔːrnəmənt
 overhear ˌəʊvəˈhɪə(r)  ˌoʊvərˈhɪr
-pad ˌʌpˈdeɪt  ˌʌpˈdeɪt
+pad pæd  pæd
 parade pəˈreɪd  pəˈreɪd
 paradox ˈpærədɒks  ˈpærədɑːks
-peculiar keɪ  keɪ
+peculiar pɪˈkjuːliə(r)  pɪˈkjuːliər
 petroleum pəˈtrəʊliəm  pəˈtroʊliəm
 pit pɪt  pɪt
 pitfall ˈpɪtfɔːl  ˈpɪtfɔːl
