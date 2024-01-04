@@ -4,7 +4,7 @@ broker ˈbrəʊkə(r)  ˈbroʊkər
 bulk bʌlk  bʌlk
 bundle ˈbʌnd(ə)l  ˈbʌnd(ə)l
 cargo ˈkɑːɡəʊ  ˈkɑːrɡoʊ
-centigrade ˈseɪliənt  ˈseɪliənt
+centigrade ˈsentɪɡreɪd  ˈsentɪɡreɪd
 chase tʃeɪs  tʃeɪs
 cherish ˈtʃerɪʃ  ˈtʃerɪʃ
 chest tʃest  tʃest
@@ -12,7 +12,7 @@ cholesterol kəˈlestərɒl  kəˈlestərɔːl
 collective kəˈlektɪv  kəˈlektɪv
 compact kəmˈpækt  kəmˈpækt
 comply kəmˈplaɪ  kəmˈplaɪ
-confine ˈhelət  ˈhelət
+confine kənˈfaɪn  kənˈfaɪn
 consent kənˈsent  kənˈsent
 contend kənˈtend  kənˈtend
 contention kənˈtenʃ(ə)n  kənˈtenʃ(ə)n
@@ -23,12 +23,12 @@ controversial ˌkɒntrəˈvɜːʃ(ə)l  ˌkɑːntrəˈvɜːrʃ(ə)l
 cracker ˈkrækə(r)  ˈkrækər
 criterion kraɪˈtɪəriən  kraɪˈtɪriən
 criteria kraɪˈtɪəriə  kraɪˈtɪriə
-curb juː  juː
+curb kɜːb  kɜːrb
 curl kɜːl  kɜːrl
 curve kɜːv  kɜːrv
 deceive dɪˈsiːv  dɪˈsiːv
 deceit dɪˈsiːt  dɪˈsiːt
-decisive ˌhetərəʊˈθælɪk  ˌhetərˌoʊˈθælɪk; ˌhetərəˈθælɪk
+decisive dɪˈsaɪsɪv  dɪˈsaɪsɪv
 defy dɪˈfaɪ  dɪˈfaɪ
 descend dɪˈsend  dɪˈsend
 ascend əˈsend  əˈsend
@@ -37,15 +37,15 @@ developmental dɪˌveləpˈment(ə)l  dɪˌveləpˈmentl
 dew djuː  duː
 diagnose ˈdaɪəɡnəʊz  ˌdaɪəɡˈnoʊs
 snore snɔː(r)  snɔːr
-dialect An error occurred: 'ukphone'
+dialect ˈdaɪəlekt ˈdaɪəlekt
 dioxide daɪˈɒksaɪd  daɪˈɑːksaɪd
 discharge dɪsˈtʃɑːdʒ  dɪsˈtʃɑːrdʒ
 disguise dɪsˈɡaɪz  dɪsˈɡaɪz
 guise ɡaɪz  ɡaɪz
 disintegrate dɪsˈɪntɪɡreɪt  dɪsˈɪntɪɡreɪt
-integral ˌen dʌbəl ˌeɪ siː ˈpiː  ˌen dʌbəl ˌeɪ siː ˈpiː
+integral ˈɪntɪɡrəl  ˈɪntɪɡrəl
 integrate ˈɪntɪɡreɪt  ˈɪntɪɡreɪt
-integrity An error occurred: 'ukphone'
+integrity ɪnˈteɡrəti  ɪnˈteɡrəti
 integer ˈɪntɪdʒə(r)  ˈɪntɪdʒər
 dissolve dɪˈzɒlv  dɪˈzɑːlv
 ditch dɪtʃ  dɪtʃ

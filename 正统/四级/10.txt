@@ -1,51 +1,51 @@
-booth 电话亭 售货棚 投票间
-bracket 支架 括号
-broker 名 经纪人 掮客
-bulk 名 大量 大部分
-bundle 捆 一大笔钱  
-cargo 货物
-centigrade 摄氏的
-chase 追逐
-cherish 珍视 珍爱
-chest 胸部 胸膛
-cholesterol 胆固醇
-collective 集体的 共同的
-compact 紧凑的
-comply 遵守 服从
-confine 限制 界限
-consent 同意
-contend 动 斗争
-contention 名 争论 论点
-consolidate 巩固 加固
-constitution 宪法 构成 体质
-contempt 动 蔑视 轻蔑
-controversial 有争议的  controversy 争议
-cracker 名 薄脆饼干 黑客
-criterion 标准
-criteria 名 标准 标准的复数
-curb 名动 控制 抑制
-curl 动 弄卷 名 卷发  curly 形 卷曲的
-curve 名 曲线 动 弯曲
-deceive 欺骗
-deceit 名 欺骗 谎言 动词欺骗的词源
-decisive 决定性的 果断的 词根决定就是那个简单的单词
-defy 违抗 倒要看看 挑战
-descend 下降
-ascend 动 攀登 升高 和下降比较着记
-despair 名动 绝望
-developmental 发展的 发育的
-dew 露水
-diagnose 诊断 判断
-snore 动 打鼾 名 鼾声
-dialect 方言
-dioxide 二氧化物
-discharge 放电 排放 出院
-disguise 名动 伪装 掩饰
-guise 外表 伪装
-disintegrate 瓦解 解体 碎裂  
-integral 名 积分 形 必需的 完整的
-integrate 动 整合 融入 求积分
-integrity 名 完整性
-integer 名 整数
-dissolve 使溶解 解散
-ditch 沟 抛弃
+booth               名 电话亭 售货棚 投票间 临时帐篷或者结构 3n
+bracket             名 括号 各种括号()[]{}<> 托架墙壁上的直角用于支撑
+broker              名 经纪人 掮客 为他人买卖货物或者资产的人 重点为他人
+bulk                名 大量 in bulk 相似bump bang bulb
+bundle              名 捆 系或者包装起来的大量东西的集合 a bundle of  a bundle非正式 一大笔钱  
+cargo               名 货物
+centigrade          形 摄氏的
+chase               名动 追逐
+cherish             动 珍爱 保护在意一些爱的东西
+chest               名 胸膛 大箱子 木做的用于存储运输 金库 英式说法
+cholesterol         名 胆固醇
+collective          形 集体的 共同的 被一群人做如决定行为
+compact             形 紧凑的 将一切必要之物放入很小的空间 注意首个元音
+comply              动 服从如命令 遵守如规定 同obey compliance
+confine             动 限制 某人某物时间空间 名 界限 即限制的边界
+consent             名动 同意 同agree 是consensus词根
+contend             动 斗争同struggle 竞争同compete
+contention          名 争论同disagreement 论点同assertion
+consolidate         动 加固物理上的 巩固如权力地位 solid solidify
+constitution        名 宪法 构成
+contempt            动 蔑视 即看不起
+controversial       形 有争议的  controversy 争议重音不同
+cracker             名 薄脆饼干 黑客 crack裂缝
+criterion           名 标准 复数criteria
+criteria            名 标准 标准的复数 少了个音
+curb                名动 控制同control 限制 如脾气情绪
+curl                动 弄卷 名 卷发  curly 形 卷曲的l跟元音就是大变
+curve               名 曲线 动 弯曲如路直线
+deceive             动 欺骗 故意的那种 词源deceit 读音一个方向
+deceit              名 欺骗 
+decisive            形 决定性的 解决问题产生明确结果的 果断的 做决定快的 词根decide
+defy                动 违抗反抗 对某人而言是挑战性的 defy somebody to do
+descend             动 下降 如飞机路
+ascend              动 攀登 升高如路电梯声音 和descend挺像
+despair             名动 绝望 就是pair发音但是加了个重音
+developmental       形 发展的 两个重音
+dew                 名 露水 夜晚产生的 due同音
+diagnose            动 诊断 确定疾病 发音比我预想的多了一个音
+snore               动 打鼾 名 打鼾 打鼾声 又添一员 yawn sneeze
+dialect             名 方言 重音在头
+dioxide             名 二氧化物 carbon dioxide二氧化碳
+discharge           动 官方声明某人离开位置 退伍出院 排放入污染物 放电物理学单词
+disguise            名动 伪装同camouflage 使外观不同 掩盖同hide 掩盖自然存在的东西如情绪
+guise               名 外表 通常这个外表是伪装 伪装
+disintegrate        动 瓦解 解体 碎裂 因为某些原因变成很小的部分 注意那个元音
+integral            名 积分 形 必需的 完整的 即拥有一切完整的部分
+integrate           动 融入 将一个物与另一物结合成一个整体 求积分
+integrity           名 完整 正直 一种品质honest且有强的道德原则
+integer             名 整数
+dissolve            动 溶解 解散如官方组织 resolve
+ditch               名 沟 动 抛弃如朋友伙伴 pitch pit pitfall
