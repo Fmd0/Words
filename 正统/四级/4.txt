@@ -50,7 +50,7 @@ gadget              名 小机械 小装置
 grace               名 优雅
 harsh               形 严厉的如惩罚 恶劣的如气候
 hijack              名动 劫持 读音就是hi+jack
-idle                形 空闲的 懒惰的 2a
+idle                形 空闲的 懒惰的 2a 和idol偶像同音
 impulse             名 冲动 脉冲 后者是电子专业术语
 inevitable          形 必然发生的 不可避免的
 invade              动 侵略 重音在后
