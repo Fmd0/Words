@@ -1,50 +1,50 @@
-dock 码头 船坞
-doctoral 博士的
-doom 厄运 末日 毁灭
-earnest 认真的 诚挚的
-expressway 高速公路
-factual 事实的
-faithful 名 信徒 支持者 形 忠诚的
-fearful 可怕的 害怕的 词根自然是那个
-ferry 渡船
-float 动 浮动 漂浮
-fluctuate 波动
-forge 伪造 打造
-fraction 分数 部分
-freight 货运 运费 货物
-geology 地质学
-germ 名 微生物 胚芽  
-handicap 障碍 不利条件 生理或智力上的障碍
-harmony 和谐
-haul 拖 拉
-haze 雾 雾霭
-hectare 公顷
-herd 人群 兽群
-hospitable 好客的 友好的
-humble 卑微的 谦恭的 谦逊的
-hut 小屋
-indispensable 不可或缺的
-inhabitant 居民
-integration 整合一体化 积分法
-irrational 不合理的 不理性的
-jungle 热带丛林  
-landlord 房东 地主 老板
-liable 负法律责任的
-lily 百合
-lodge 小屋 旅馆 寄宿
-loop 环 回路 电路术语 循环 计算机术语
-lord 君主 主
-lump 块 肿块
-manipulate 操作
-misfortune 不幸
-molecule 分子
-monetary 货币的 词根是钱
-motive 动机  motivation 名 动机
-nightmare 噩梦
-noticeable 明显的 值得注意的
-nuisance 麻烦事 讨厌的人
-orderly 有序的
-organ 器官 机关 管风琴  organic 有机的 器官的
-organism 有机体 生物体
-ounce 盎司
-oversee 监视
+dock                名 码头 船坞 上下货修船
+doctoral            名 博士的 读音继承自doctor
+doom                名 死亡 毁灭 等糟糕的命运
+earnest             形 认真的 诚挚的
+expressway          名 高速公路 美式
+factual             形 事实的 如信息
+faithful            名 信徒 支持者 对宗教政党忠实 形 忠诚的同loyal
+fearful             形 害怕担忧的 词根fear
+ferry               名 渡船 运人运货短距离经常性 动 用渡船运送
+float               动 浮如浮到水面 漂浮 移动地浮
+fluctuate           动 波动 上下无常 注意有个辅音
+forge               动 伪造 锻造 建立如强壮持久成功的东西 forgo放弃
+fraction            名 分数 一部分 a fraction of
+freight             名 货物 运费 banquet feast
+geology             名 地质学
+germ                名 微生物 胚芽  2n
+handicap            名 障碍 阻止成功的比赛中的 生理或智力上的障碍
+harmony             名 和声音乐术语吧 和谐
+haul                动 拖 拉 名 大笔赃物 旅程
+haze                名 雾 极简主义
+hectare             名 公顷 10000平方米
+herd                名 人群 兽群 a herd of herb
+hospitable          形 友好好客的 环境宜人的 重音变
+humble              形 谦逊的 卑微低下的
+hut                 名 小屋 小简单单层的
+indispensable       形 不可或缺的 即绝对必要的 dispensable 可有可无的 词源 dispense 分发 可分发出去的 即可有可无的
+inhabitant          名 居民 栖息动物
+integration         名 整合一体化 积分法 integrate的名词
+irrational          形 不合理的
+jungle              名 热带丛林 
+landlord            名 房东地主 实际上是一个意思
+liable              名 负法律责任的 如父母对孩子行为负责 可能的同likely 2a
+lily                名 百合
+lodge               名 小屋 给看门人园丁用的 寄宿
+loop                名 环物理上的 循环开始与结尾相连抽象的
+lord                名 君主同ruler
+lump                名 块如石头冰淇淋 a lump of ice  肿块身体上的
+manipulate          动 操作 如工具机械 控制影响人们不道德的
+misfortune          名 不幸 不幸之事
+molecule            名 分子
+monetary            形 金钱的 货币的 词根money 读音也继承自money
+motive              名 动机 具体而微观强调动机的具体内容  motivation 名 动机 倾向于行为的驱动力不强调动机的具体内容笼统而宏观
+nightmare           名 噩梦 引申可怕的经历 尾音同hectare
+noticeable          名 明显的即容易察觉的 值得注意的 清晰的2a
+nuisance            名 麻烦事 讨厌人 人或事让人头疼为难的
+orderly             形 有序的 感觉同ordered
+organ               名 管风琴 器官 2n差的挺远  organic 有机的 器官的
+organism            名 有机体 
+ounce               名 盎司 28克
+oversee             动 监视是为了监督
