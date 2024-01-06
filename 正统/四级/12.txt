@@ -1,52 +1,50 @@
-pat 轻拍
-pea 豌豆
-persevere 坚持不懈 
-pessimism 悲观情绪  pessimistic 悲观的
-pillar 支柱 柱子
-pinch 捏 掐
-pledge 诺言 保证 抵押
-plural 名 复数 形 复数的 指的是英语名词的复数
-portrait 肖像
-priest 祭司 牧师
-profile 侧面 轮廓
-publication 出版 出版物
-rack 支架
-realm 领域 王国
-rear 后部
-recreation 娱乐 消遣 再创造
-removal 消除 搬迁  remove 动 删除 移除
-reservoir 水库 储备
-residence 住所  resident 名 居民  reside 动 居住 属于
-restrain 抑制 控制 阻止
-revolve 旋转
-rib 肋骨
-rub 按摩  
-saddle 鞍 马鞍 车座
-scar 疤 创伤
-scent 气味 香味 嗅
-segment 部分 段
-shield 盾牌
-shiver 颤抖 寒战
-sin 罪过  
-sketch 素描 概述
-skim 掠过 浏览 撇去
-slide 滑行 幻灯片
-smash 击碎 粉碎
-snap 快照 啪的一声
-sphere 领域 球形 球体 球面
-startle 吃惊 惊吓
-stripe 条纹 词根剥夺  strip 名 条 动 剥夺
-succession 连续 继承
-summit 峰会 顶峰 山顶  
-tame 驯服 平淡的 乏味的
-thrust 猛推 刺 挤  trust 动 信任
-timber 木材
-toll 通行费 伤亡人数
-torture 折磨 拷问
-toss 扔 抛硬币
-trim 修剪装饰 削减
-uncover 发现 揭示 揭露
-utmost 形 最大的 名 极限
-veteran 老手 老兵
-
-
+pat             动 轻拍 kitty小猫 pup puppy小狗
+pea             名 豌豆 和p同音
+persevere       动 坚持不懈  和preserve不同 severe拼写同首个元音不同
+pessimism       名 悲观情绪  pessimistic 悲观的双重音在m 和 optimistic
+pillar          名 柱子 引申到 支柱 pillow
+pinch           名动 捏 如脸颊
+pledge          名动 承诺 保证 同promise commit 名 抵押物 动 抵押 为了安全保证的物品
+plural          名 复数 形 复数的 指的是英语名词的复数
+portrait        名 肖像  发音同trait
+priest          名 祭司 牧师 poet
+profile         名 某物的轮廓 特别是人的侧面 使用短文的概述人或组织 社交媒体上用户个人信息的总结
+publication     名 出版 出版物 二重
+rack            名 支架 如衣架信架 和bracket的墙壁上的托架不同 rag
+realm           名 王国 领域 如活动知识
+rear            名 后部 形 后部的 动 抚养 如儿童
+recreation      名 娱乐活动 再创造少见 双重音起手还是i:
+removal         名 消除 搬迁  remove 动 删除 移除
+reservoir       名 水库 储备即大量供应 如资金人才 同large supply
+residence       名 住所  resident 名 居民  reside 动 居住 属于
+restrain        动 防止某人做某事 控制之下 strain压力
+revolve         动 旋转 如地球绕太阳转 同rotate
+rib             名 肋骨 rid
+rub             动 按摩  
+saddle          名 马鞍其他动物也可 车座其他车也可以如自行车和摩托车
+scar            名 疤身体上的 创伤持续的内心的影响即内心的疤
+scent           名 气味 特别是让人开心的 香味 动 发出香味 be scented with 嗅到 如鲨鱼嗅到血的味道
+segment         名 部分 动 分成部分
+shield          名 盾牌 priest ie对i:
+shiver          名动 颤抖 因为寒冷恐惧兴奋 tremble 
+sin             名 罪过 动 犯罪 特别指宗教的规定  
+sketch          名动 素描 名 概述 即brief account
+skim            动 浏览 掠过如鸟船 撇去如从液体表面remove
+slide           名动 滑行 名 幻灯片 slip唯二滑
+smash           动 击碎 即击成碎片
+snap            名 快照 啪的一声断了 动 拍快照 啪的一声断了
+sphere          名 球形体面 领域 如活动知识
+startle         动 使吃惊受惊
+stripe          名 条纹 元音变了而且就变了元音 词根strip 名 条 动 剥夺如衣服权利
+succession      名 一连串 a succession of 继承 in succession连续地 词根succeed
+summit          名 山顶 顶峰即最高可获得成就 首脑会议 peak submit
+tame            形 驯化的 平淡乏味的 动 训话如动物
+thrust          名 猛推 刺 动 猛推 没有刺  trust thrive
+timber          名 木材 注意元音 原来和time区别挺大
+toll            名 通行费如桥或者路 伤亡人数 toss fare fee
+torture         名动 酷刑折磨
+toss            名动 扔 轻且随意 如书包扔到沙发 抛硬币
+trim            动 修剪 到要求的大小 削减 reduce the cost of
+uncover         动 揭露即发现 一些秘密的先前未知的东西
+utmost          形 最大的 名 最大的程度量 如极限
+veteran         名 老手 特定领域有经验 老兵 军队有经验
