@@ -1,37 +1,37 @@
-federation 名 联邦
-lass 名 少女
-kin 名 亲属
-dispatch 动 派遣
-naked 形 裸体的
-pistol 名 手枪
-subtract 动 减去
-concede 动 承认
-chin 动 下巴
-webcast 名 网络直播
-bribe 动 贿赂
-drunk 形 醉的
-fulfil 动 实现 fulfill
-clash 动 冲突
-dual 形 双重的
-axe 名 斧子 ax
-horsepower 名 马力
-cohesion 名 凝聚力
-amongst 介 在什么之中
-synthetic 形 综合的
-erect 动 建造
-payroll 名 工资表
-bowel 名 肠
-stool 名 凳子
-hedge 名 篱笆
-confess 动 坦白
-pronoun 名 代词
-kneel 动 跪下
-overdue 形 到期未付的
-podcast 名 播客
-coil 名 线圈
-regarding 介 关于
-municipal 形 市政的
-brow 名 额头
-prose 名 散文
-briefcase 名 公文包
-grin 动 咧嘴笑
+federation              名 联邦 federal 联邦制的
+lass                    名 少女 girl 或 young woman 正好是lad的反义词 maiden
+kin                     名 亲属
+dispatch                名动 发送到某地或是为了某个目的 人即派遣 目极发送 动 迅速处理如任务对手 前者完成 后者击败
+naked                   形 裸体的 无遮盖的不仅仅是身体 nude
+pistol                  名 手枪 handgun
+subtract                动 减去 minus用于口头 subtract和from搭配 从什么中减去
+concede                 动 承认 带有不情愿的情绪
+chin                    名 下巴 chin是嘴下长胡子的部分 而jaw是说话时整个会动的下巴
+webcast                 名 网络直播 词源非来自cast 而是broadcast
+bribe                   名动 贿赂 唯一贿赂
+drunk                   形 喝醉的 名 酒鬼 就是drink的过去形式
+fulfil                  动 实现 履行即按照要求执行职责 realize 还有使成真的意思fulfill
+clash                   名动 冲突 royal clash
+dual                    形 双重的 由两个部分方面组成 如双重目的
+axe                     名 斧头 ax美式写法 前者英式 axe和x发音大小元音之差
+horsepower              名 马力 英制功率单位
+cohesion                名 组成一个统一整体的行动或事实 前者团结 后者一致性 coherent coherence coherence是指上下文内容和逻辑的连贯。如前因后果，铺垫等等。 cohesion则是通过一些代词、连接词
+amongst                 介 在什么之中 和among用法和词意上没任何区别 amongst可能更加正式 同amid
+synthetic               形 合成的人造的 综合的纯属是字面意思
+erect                   动 建立 如建筑理论 形 直立的竖直的 如姿势
+payroll                 名 工资名单 上面既有雇员也有工资 工资总支出
+bowel                   名 肠
+stool                   名 凳子 同seat
+hedge                   名 数篱 bushes fence 防护措施如防止经济减少 动 用树篱围住
+confess                 动 认罪承认坦白 admit 罪或错事
+pronoun                 名 代词 如I she noun名词
+kneel                   动 跪下  唯一跪下
+overdue                 形 到期未付的 due到期的
+podcast                 名 播客节目
+coil                    动 卷盘绕成coil 名 卷 a coil of 线圈电子方面单词 wire cable
+regarding               介 关于 in respect of
+municipal               形 市政的 城市政府
+brow                    名 额头 眉毛eyebrow frown
+prose                   名 散文 白话文 原始形式没有韵律结构 即非诗歌
+briefcase               名 公文包 皮质长方形容器又把手用于携带书文档
+grin                    名动 咧嘴笑 咧嘴会露齿
