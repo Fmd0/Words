@@ -1,37 +1,37 @@
-bystander 名 旁观者
-nourish 动 滋养
-odour 名 气味 odor
-preposition 名 介词
-cane 名 茎
-stoop 动 俯身
-veto 动 否决
-coinage 名 金属货币
-whilst 连 当什么的时候 whilst和while意思一致 while更加常见whilst则更正式
-forestry 名 林业
-celsius 名 摄氏度
-diameter 名 直径
-electron 形 电子
-narrate 动 叙述
-dime 名 十分硬币
-slender 形 苗条的
-metric 形 公制的
-lens 名 透镜
-installment 名 分期付款
-raid 动 袭击
-clown 名 小丑
-commune 名 群体
-waken 动 弄醒
-heave 动 举起 heaven
-eternal 形 永久的
-procession 名 队伍
-modernization 名 现代化
-furnace 名 炉子
-heartfelt 形 衷心的
-conjunction 名 连词
-preceding 形 在前的
-preface 名 序言
-trolly 名 手推车
-conceal 动 掩盖
-plumbing 名 管路系统
-proclaim 动 宣告
-engineering 名 工程
+bystander               名 旁观者 event incident
+nourish                 动 养育如baby 为土壤增加肥力  breed nurture 
+odour                   名 气味 odour英式odor美式 smell是中性词odor则是异味贬义词如尾气 scent 
+preposition             名 介词 注意元音重音
+cane                    名 中空的有节的茎特别是甘蔗和竹子 长棍子用于行走或是惩罚stem
+stoop                   动 俯身 屈尊降低身份做一些应受谴责的事 stool
+veto                    名动 否决 vote
+coinage                 名 coin的集合名词 coin有发明词语的意思coinage也有相应的名词形式
+whilst                  连 当什么的时候 whilst和while意思一致 while更加常见whilst则更正式
+forestry                名 林学 种植林及相关事情的科学 词根forest
+celsius                 名 摄氏度 同centigrade another term of celsius
+diameter                名 直径 radius
+electron                名 电子 物理学的电子 electronic elect
+narrate                 动 叙述 不管是口头还是书面
+dime                    名 十分硬币 美加的 一小笔钱
+slender                 形 苗条的
+metric                  形 公制的 公制也叫做米制按照米为单位 英制是一英寸为计算 名 测量标准 matrix
+lens                    名 透镜 凸透镜凹透镜 周边弯曲用于聚光
+installment             名 分期付款 怎么可能是一期付款 词根install install是美式instal英 美英互换
+raid                    名动 突袭 袭击加上突然性的 而且是军事上的
+clown                   名 小丑 即一种喜剧演员 joker代表小丑时等同jester与court jester，并非是马戏团中的，弄臣是古代宫廷中以插科打诨来为君王消烦解闷的人物也就是宫廷中的弄臣，专指说笑话的人。而clown在代表小丑时，等同于喜剧演员或谐星，马戏团中的
+commune                 名 公社一群人一起生活共享东西和责任
+waken                   动 弄醒 醒来 等于wake部分意思 怪不得疑惑
+heave                   名动 举起拉动用很大的力 有节奏的起伏如肩膀大海 heaven heavy
+eternal                 形 永远的永恒的持续和存在 everlasting 形 永恒的即永远持续的 internal
+procession              名 队伍 如参与庆典的人车 词根process   procedure
+modernization           名 现代化 modern 加重音
+furnace                 名 熔炉 围起来的结构里面的材料能被加热到很高的温度
+heartfelt               形 衷心的即发自内心的 诚挚地同sincerely
+conjunction             名 连词 结合同时发生 如两件事情 词根conjunct
+preceding               形 在前的如前一页前一天 词根precede动 先于地位高于  regarding
+preface                 名 序言 注意发音
+trolly                  名 手推车  同音词trolley 名 手推车英式 有轨电车美式 可能是同一个词
+conceal                 动 掩藏 隐瞒 即防止被看到被知道 hide and keep secret
+plumbing                名 管道系统 如水暖 管道系统的安装和维护 尾部b不发音 词根plumb有动词安装需要连接水管的家电 形 垂直的 名 铅锤 动 测深
+proclaim                动 宣布 即announce officially or publicly 清晰地表明 claim 声称索赔
+engineering             名 工程学 engineer工程师
