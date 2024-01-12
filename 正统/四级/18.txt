@@ -1,8 +1,8 @@
-continual 形 连续的
-bait 名 鱼饵
-loophole 名 漏洞
-authorize 动 批准
-withstand 动 抵挡 withdraw
+continual               形 持续的 同continuous continuity元音变了
+bait                    名 饵如鱼饵 动 放饵 鱼钩或是陷阱中用于捕捉猎物 同debate后半部分
+loophole                名 漏洞 法律和制度中的 同 let-out
+authorize               动 批准 官方的允许和同意 同sanction authority
+withstand               动 经受住承受住 withdraw
 colon 名 冒号
 aptitude 名 才能 使用aptitude安装包
 slam 动 砰地关上
