@@ -1,40 +1,40 @@
-continual               形 持续的 同continuous continuity元音变了
+continual               形 持续的 同continuous 只有continuity元音变了还加了个重音
 bait                    名 饵如鱼饵 动 放饵 鱼钩或是陷阱中用于捕捉猎物 同debate后半部分
 loophole                名 漏洞 法律和制度中的 同 let-out
 authorize               动 批准 官方的允许和同意 同sanction authority
-withstand               动 经受住承受住 withdraw
-colon 名 冒号
-aptitude 名 才能 使用aptitude安装包
-slam 动 砰地关上
-Marxist 形 马克思主义的
-marsh 名 沼泽
-learned 形 有学问的
-fable 名 寓言
-nickel 名 镍 同nickle
-republican 形 共和党的
-deficient 形 不足的 deficit
-wax 名 蜡
-lavatory 名 盥洗室guanxi
-siege 名 包围
-hyphen 名 连字号
-accordance 名 一致
-customs 名 关税
-ore 名 矿石
-allege 动 断言
-clear-cut 形 明确的
-petty 形 小的
-provided 连 假如
-bloody 形 流血的
-crane 名 起重机
-considering 介连 鉴于
-charter 名 宪章
-zoology 名 动物学
-naughty 形 淘气的
-socialism 名 社会主义 communism
-coarse 形 粗糙的
-watertight 形 防水的
-commence 动 开始
-spontaneous 形 自发的
-absentee 名 旷课者
-afloat 形 漂浮的
-asymmetric 形 不对称的
+withstand               动 经受住承受住如地震压力 保持未受伤未受影响同resist withdraw
+colon                   名 冒号 结肠解剖学专业位于盲肠和直肠之间
+aptitude                名 天资 做某事的自然能力 使用aptitude安装包
+slam                    动 用力大声的关如门窗 名 用力关如门窗得到的大声 同bang突然的巨响
+Marxist                 名 马克思主义者 形 马克思主义的 marble garble
+marsh                   名 沼泽 发音同上
+learned                 形 博学的 当然是learn的过去式了
+fable                   名 寓言 短故事动物做角色传播道理
+nickel                  名 镍 同nickle
+republican              形 共和国党的 名 共和国支持者 共和党党员 民主原则不仅被用在权力的来源上，还用在权力的分配上时，民主更侧重于体现多数人的意志。 而共和，更侧重于不同人群和力量的平衡。
+deficient               形 缺乏的即不充足的 词根deficit 元音重音都变
+wax                     名 蜡 蜂蜡蜜蜂分泌的蜂巢的材料 对蜂蜡进行处理得到蜡烛的蜡
+lavatory                名 有马桶的房间 抽水马桶 不适合盥洗室guanxi这个意思 盥洗是洗手或者洗脸的意思 词根lav等于lavatory
+siege                   名 包围 军事上或警察的为了强迫头像的目的
+hyphen                  名 连字符 即-用于连接单词 表示他们有混合在一起的含义 怪不得用-
+accordance              名 一致  in accordance with 依照如习俗规定 词根accord
+customs                 名 海关 关税 词源custom惯例
+ore                     名 矿石 天然存在的 和awe同音多了尾音r
+allege                  动 声称 声称断言某人做了非法错误的事 通常没证据 声称是自信且强力地陈述
+clear-cut               形 明确清晰容易理解的 树被砍完的
+petty                   形 不重要无关紧要的如琐碎的小事 kitty小猫 pup puppy小狗
+provided                连 假如 即在这个条件下 曾经的疑惑一扫而空
+bloody                  形 流血沾血的 流血残忍为特征的事件即血腥残暴的
+crane                   名 起重机涉及到悬挂重物实际上是吊车 而不是那种起重车？ 鹤 动 伸长身体或脖子为了看某物
+considering             介连副 考虑到 即taking (something) into consideration 比provided还多
+charter                 名 国家的书面授予城市机构有权力同grant 宪章 组织的功能的书面描述章程 自是词根 和chart挺像的
+zoology                 名 动物学 包括行为结构分布 zoo的是u: zoology是u细节 加元音变重音
+naughty                 形 顽皮淘气的 特别是孩子表现不好不遵守规定 daughter神似 augh发哦音
+socialism               名 社会主义 communism 政治经济理论，主张生产、分配和交换手段应由整个社会拥有或管理
+coarse                  形 粗糙的指手感 粗的指由大的颗粒组成的如粗盐粗沙 粗鲁的如人 course同音
+watertight              形 不漏水的 和防水的雨衣还是有区别的 无懈可击的如言论观点
+commence                动 开始 同begin 正式用语 commerce ˈkɒmɜːs
+spontaneous             形 自发主动的 即非因为外部的刺激而是内部原因导致
+absentee                名 缺席者 双重音大重音在末尾 词根absent
+afloat                  形 漂浮的 即浮在水面上没有沉的 在海上即在船上  没有债务或困难的 即能应付的如经济
+asymmetric              形 不对称的 symmetric发音同 metric昨天刚学发音也同 symmetry对称性
