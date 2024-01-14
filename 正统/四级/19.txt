@@ -1,30 +1,30 @@
-bizarre 形 奇异的
-bulky 形 庞大占地的
-census 名 人口普查
-chlorophyll 名 叶绿素
-clinical 形 临床的
-colonize 动 建立殖民地
-counterproductive 形 适得其反的
-craze 名 狂热
-cripple 名 瘸子
-cyclical 形 循环的
-divine 形 神的
-donor 名 捐赠者
-earthy 形 泥土味的
-empower 动 授权于
-epidemic 形 流行性的
-fundraising 名 募捐
-gravitate 动 吸引
-incidence 名 发生率
-internship 名 实习期
-limp 形 柔软的
-lobbyist 名 说客
-manifest 动 证明
-marital 形 婚姻的
-medication 名 药物
-methodology 名 方法论
-misconception 名 误解
-nomination 名 提名 推荐
-notably 副 显著地
-nutritious 形 有营养的
-obsolescence 名 过时
+bizarre                 形 古怪的 如衣着行为 非常奇怪不寻常
+bulky                   形 占据很大空间大且笨重形容物 人高大魁梧的
+census                  名 人口普查 官方的统计调查特别是人口 consensus后部同音
+chlorophyll             名 叶绿素
+clinical                形 临床的 对于真实病人的观察与治疗与理论学术研究的形成对比 其他还有几个意思不计 词根clinic诊所
+colonize                动 建立殖民地 殖民即将人依据到哪里 colony colonist
+counterproductive       形 适得其反的 即产生和希望相反的结果 发音同productive
+craze                   名 狂热 一种针对于快速风靡但是短暂寿命之物的热情 动 发狂即某人失去理智和控制 物体表面出现裂纹网如湖面
+cripple                 名 跛子 行动不便还是能走瘸子是走不了 有特殊缺陷的人 动 对什么造成严重危害剥夺正常功能 使成跛子
+cyclical                形 循环的 即循环发生的 词根cycle
+divine                  形 上帝的神的 动 凭借直觉或者猜测发现 预言即有超能力看到未来
+donor                   名 捐赠者 如捐钱给慈善机构 捐献者即捐出身体器官或血 词源同donate
+earthy                  形 泥土泥土味的 即像或者让人想到土的
+empower                 动 授权即给某人权力做某事 使自主即使人更强壮自信特别是掌控自己生活主张自己权利 就是empower字面意思
+epidemic                名 传染病 蔓延指不好的现象突然广泛传播如犯罪 形 流行的特指传染病 泛滥的指一些不好的事 pandemic
+fundraising             名动形 资金筹集 即寻求金钱支持为了慈善或事业前者即募捐 raise some money raise本身就有筹集的意思
+gravitate               动 移向某人物或是被某人物吸引 如话题某地互相吸引 移向重心物理学单词
+incidence               名 发生发生率 特别是疾病犯罪不好的事 词根incident
+internship              名 实习职位 没有报酬为了经验 实习期作为实习生的一段时间 词根是intern实习生
+limp                    名动 跛行即行走有困难因为脚腿不便 形 无力的即缺乏内部力量 无精力活力的
+lobbyist                名 说客 如政治说客 词根lobby 名 门厅 大堂 动 游说使通过
+manifest                形 清晰明显的 不管是眼睛看还是脑子感受到 动 表现显示 即通过外在形式表现出品质或情绪 证明同prove
+marital                 形 婚姻的 和婚姻或夫妻关系相关的 词源自marry
+medication              名 药物 药物治疗 同根词medical medicine 冥想meditation发音一个辅音之差 medicine : 普通用词，可指药物的总称，也指一切有利于健康的东西medication : 指医生开给病人用的一切药物，从最简单的阿斯匹林到最复杂的药物
+methodology             名 方法论 在特定研究领域活动中使用的系统方法 词根method发音就多了个重音
+misconception           名 错误观念 因为错误的思考或者理解 conception concept
+nomination              名 nominate的名词 以及被nominate的人或物 任命提名被提名者 词根 nominate 动 提名 提出某人作为选举奖项的候选人 任命如工作职位 指定即正式地指定(某事)通常是大事的日期或地点 发音就多了个重音
+notably                 副 尤其及其同especially，in particular 显眼的即以一种引人注目的方式 词根得是note
+nutritious              形 有营养的 词根nutrition
+obsolescence            名 淘汰过时 变得过时不再使用的过程 obsolescent 关系不明obsolete过时的 
