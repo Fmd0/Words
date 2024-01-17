@@ -3,21 +3,21 @@
 co-worker 名 同事
 crayon 名 蜡笔 彩铅
 cream 名 奶油 护肤霜
-crisp 名 炸薯片
+crisp 名 炸薯片 形 脆的
 crossroads 名 十字路口
 crosstalk 名 相声
 crown 名 王冠 冠军
 cupboard 名 橱柜
 CV 简历  curriculum vitae
 cybercrime 名 网络犯罪
-damn 动 诅咒
-damp 动 潮湿的 名 潮湿
+damn 语气词 该死
+damp 动 潮湿的 名 潮湿 moist
 darling 名 亲爱的人 形 亲爱的 词源dear
 daylight 名 日光 黎明
 daytime 名 白天 通常和the连用 in the daytime
 delicate 形 精致的 易碎的
 depth 名 深度
-devotion 名 忠诚 献身
+devotion 名 忠诚
 dial 动 拨电话给
 dignity 名 尊贵 自尊
 diligence 名 勤奋  
@@ -29,14 +29,14 @@ disgusting 形 令人作呕的 讨厌的
 doorway 名 门口
 downtown 形副名 市中心
 drawer 名 抽屉
-drier 名 
+drier 名 吹风机干衣机 同dryer
 drought 名 旱灾 干旱 词根干的
 drown 动 淹死
 drum 名 鼓
 duckling 名 小鸭
 dumb 形 哑的
 dustbin 名 垃圾箱
-dye 名 染料 动 染色
+dye 名 染料 动 染色 die同音
 earnings 名 收入
 earplug 名 耳塞
 earring 名 耳环
@@ -47,7 +47,7 @@ empire 名 帝国 大企业
 enquiry 名 询问 等于 inquiry
 equator 名 赤道
 erase 动 擦掉  eraser 名 橡皮擦
-ethnic 形 种族的
+ethnic 形 种族的  ethic
 eve 名 前夕
 
 
@@ -77,7 +77,7 @@ forehead 名 额
 formation 名 形成
 fortnight 名 两星期
 fountain 名 喷水池
-fragrant 形 香的
+fragrant 形 香的 perfume
 franc 名 法郎
 freeway 名 高速公路
 friction 名 摩擦力 摩擦
@@ -86,12 +86,12 @@ fry 动 油煎
 frontier 名 边界 边境
 funeral 名 葬礼
 gallon 名 加仑
-gang 名 一群
+gang 名 一帮犯罪分子
 garlic 名 大蒜
 generous 名 慷慨的
 genuine 真正的 
 get-together 名 聚会
-glare 动 怒视
+glare 动 怒视 gaze
 glorious 形 光荣的  
 glory 名 光荣
 goods 名 商品 货物 集合名词
@@ -101,7 +101,7 @@ grassland 名 草原
 Greece 名 希腊 
 Greek 形 希腊的 名 希腊人
 greengrocer 名 果菜商  
-grocer 名 食品杂货商 杂货商 
+grocer 名 食品杂货商 杂货商 sauce
 
 
 

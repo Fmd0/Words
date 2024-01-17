@@ -4,16 +4,16 @@ abortion 名 人 流产 计划失败
 acquaintance 名 相识了解 相识的人
 # ad = anno domini 公元 ce=common era bce=before common era bc=before christ
 adore 动 敬爱 尊敬且爱如对母亲 非常喜爱
-aeroplane 名 飞机
+aeroplane 名 飞机 英式说法
 air-conditioned 形 装有空调的
-alert 形 警惕的
+alert 形 警惕的 名 警惕 动 警告
 alley 名 小巷 胡同
 aluminum 名 铝
 anecdote 名 轶事  
 anecdotal 形 轶事的 传闻的 不是必然正确可信的基于人们的记录传播
 antarctic 形 南极地区的 前面加the表示名词南极地区  
 antarctica 名 南极洲
-apron 名 围裙
+apron 名 围裙 停机坪
 arch 名 拱形 拱门 动 拱起
 Arab 名 阿拉伯人 形 阿拉伯的
 Arabic
@@ -28,17 +28,17 @@ backache 名 背痛
 bakery 名 面包店
 balcony 名 阳台
 ballpoint 名 圆珠笔
-bankrupt 形 破产的
-bang 名动 猛击
+bankrupt 形 破产的 动名 都有
+bang 名 突然的巨响 引起巨响的爆炸 猛击如对额头的 动 类似于名词
 barn 名 谷仓
 bath 名 洗澡 浴缸
 bathtub 名 浴缸 澡盆
-bead 名 珠子 小滴
-beam 名 梁 光柱 束 用于物理学粒子射线等
+bead 名 珠子 小滴如汗
+beam 名 光柱 梁支撑屋顶的木头或金属 束 用于物理学粒子射线等
 bedding 名 寝具 用于睡觉的东西
 Belgian 名 比利时人 形 比利时的
 belly 名 肚子 腹部
-belt 名 地带 皮带
+belt 名 皮带 地带
 bench 名 长凳 工作台
 bestseller 名 畅销书产品
 billboard 名 广告牌 告示牌 大型室外板子
@@ -59,8 +59,8 @@ sum 47
 blossom 名 花 动 开花
 blouse 名 女衬衫
 boast 动 吹嘘 自夸
-bold 形 大胆的 勇敢的 名  粗体
-bonus 名 奖金 红利
+bold 形 大胆勇敢的 黑体的 名 黑体 bald 秃顶的
+bonus 名 奖金即因为好的表现而增加的工资 股息分红 额外的好处
 booklet 名 小册子
 bookworm 名 书呆子
 botanical 形 植物学的
@@ -86,9 +86,9 @@ burglar 名 夜贼
 butcher 名 屠夫 肉贩
 cab 名 出租车
 calf 名 牛犊
-carnival 名 狂欢节 嘉年华
-cart 名 大车
-cashier 名 出纳员
+carnival 名 狂欢节通常在罗马天主教国家的大斋节前一周举行 嘉年华竟然是音译 游艺团巡回游乐场或马戏团
+cart 名 大车 2或4轮用于拉货有马
+cashier 名 出纳员 人
 cattle 名 牛 集合名词
 celebrity 名 名人
 cellar 名 地窖
@@ -116,10 +116,10 @@ companion 名 伙伴 同伴 伴侣
 compliment 名动 赞扬 
 compulsory 形 义务的 必修的
 comrade 名 朋友 同事
-condemn 名 谴责
+condemn 名 谴责 即表现完全的不同意 insult 侮辱 denounce 告发谴责
 continent 名 大陆
 coral 名 珊瑚
-cosy 形 温暖舒服的
+cosy 形 温暖舒服放松的
 
 sum 62
 
