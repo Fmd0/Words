@@ -42,7 +42,7 @@ insult ɪnˈsʌlt; ˈɪnsʌlt  ɪnˈsʌlt; ˈɪnsʌlt
 invaluable ɪnˈvæljuəb(ə)l  ɪnˈvæljuəb(ə)l
 Ireland ˈaɪələnd  ˈaɪərlənd
 Irish ˈaɪrɪʃ  ˈaɪrɪʃ
-italics dʒeɪ  dʒeɪ
+italics ɪˈtælɪks  ɪˈtælɪks
 Italy ˈɪtəli  ˈɪtəli
 Italian ɪˈtæliən  ɪˈtæliən
 jealous ˈdʒeləs  ˈdʒeləs
@@ -71,9 +71,9 @@ legacy ˈleɡəsi  ˈleɡəsi
 lemonade ˌleməˈneɪd  ˌleməˈneɪd
 lens lenz  lenz
 leopard ˈlepəd  ˈlepərd
-liberal ˈdʌbljuː  ˈdʌbljuː
+liberal ˈlɪbərəl  ˈlɪbərəl
 liberate ˈlɪbəreɪt  ˈlɪbəreɪt
-liberation An error occurred: 'ukphone'
+liberation ˌlɪbəˈreɪʃ(ə)n  ˌlɪbəˈreɪʃ(ə)n
 liberty ˈlɪbəti  ˈlɪbərti
 lighter ˈlaɪtə(r)  ˈlaɪtər
 lighting ˈbʌlkɪŋ  ˈbʌlkɪŋ
@@ -83,7 +83,7 @@ liter ˈliːtə(r)  ˈliːtər
 literally ˈlɪtərəli  ˈlɪtərəli
 literary ˈlɪtərəri  ˈlɪtəreri
 litter ˈlɪtə(r)  ˈlɪtər
-liver An error occurred: 'ukphone'
+liver ˈlɪvə(r)  ˈlɪvər
 loaf ləʊf  loʊf
 lookout ˈlʊkaʊt  ˈlʊkaʊt
 lorry ˈlɒri  ˈlɔːri

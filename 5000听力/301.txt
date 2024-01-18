@@ -2,8 +2,8 @@
 
 notepad 名 笔记本 袖珍笔触式电脑
 nuclear 形 核能的 核心的  
-nucleus 名 核心
-numb 形 麻木的 失去知觉的
+nucleus 名 核心即center part 物理上的原子核
+numb 形 麻木的 失去知觉的 dumb哑的
 nylon 名 尼龙 一种合成材料
 observatory 名 天文台
 Oceania 名 大洋洲
@@ -22,24 +22,24 @@ overthrow 动 推翻
 overtime 名 加班时间 加班费 加时赛
 ox 名 牛
 Pacific 形 太平洋
-pail 名 桶
+pail 名 桶 bucket a pail of
 pan 名 平底锅  
 pancake 名 薄煎饼
 paperwork 名 文书工作
 parachute 名 降落伞 动 跳伞
 Paris 名 巴黎
 parliament 名 英国议会
-passage 名 文章中的段落  
+passage 名 过道 文章中的段落  
 passer-by 名 路过者
 pat 名 轻拍
 pavement 名 人行道
 pearl 名 珍珠
 peasant 名 农民
-pedal 名 脚蹬子
+pedal 名 脚蹬子 如自行车的踏板
 penalty 名 处罚
 pence 名 便士  
 penny的复数
-penguin 名 切
+penguin 名 企鹅
 perfection 名 完美
 physician 名 医生
 pickpocket 名 扒手
@@ -53,7 +53,7 @@ porridge 名 粥
 postage 名 邮费  
 postbox 名 邮箱
 prairie 名 大草原
-premier 名 总理 首相 形 首要的
+premier 名 总理 首相 形 首要的即最重要的
 prescription 名 开处方 处方 规定
 priceless 形 无价的 宝贵的
 
@@ -68,7 +68,7 @@ pub 名 酒吧
 pudding 名 甜食 布丁
 punctual 形 准时的
 punctuation 名 标点符号
-purse 名 手提包  
+purse 名 手提包  钱包
 pursue 动 追逐
 pyramid 名 金字塔 棱锥
 quake 动 震动 颤抖
@@ -91,7 +91,7 @@ renewable 形 可延期的 可再生的
 reporter 名 记者
 reptile 名 爬行动物
 resign 动 辞职
-resume 名 简历
+resume 动 恢复继续 rescue救援
 retell 动 复述
 rewarding 形 有益的 值得...的
 rewind 动 倒回 回到开始 电影或磁带
@@ -100,13 +100,13 @@ rhythm 名 节奏 韵律
 rhythmic 形 有节奏的
 riddle 名 谜语
 ripen 动 使成熟
-roar 动 咆哮 轰鸣 
+roar 动 咆哮 指大型动物 轰鸣 有点像howl
 roast 动 烤
 rooster 名 公鸡
 rot 动 腐烂
-roundabout 形 说话不直截了当的绕圈子的 迂回的 名 环岛 旋转木马
+roundabout 形 说话不直截了当的绕圈子的 迂回的 即两种迂回 名 环岛 旋转木马
 rugby 名 橄榄球运动
-sack 名 大袋
+sack 名 大袋 名动 解雇
 sacred 形 神圣的  sacrifice (sacri + fice) 词源 (sacred 神圣的 + fact) 献祭 祭品
 saint 名 圣徒
 salute 名动 敬礼
@@ -115,7 +115,7 @@ sauce 名 调味汁
 saucer 名 茶托  
 sausage 名 香肠
 scarce 形 稀有的 缺乏的  
-scarcely  勉强 几乎不
+scarcely 副 勉强 几乎不
 schoolyard 名 校园操场
 Scotland 名 苏格兰  
 Scottish 形 名

@@ -4,13 +4,13 @@ grill 名 烤架
 grocer 名 食品杂货商 杂货商  
 grocery 名 食品杂货 食品杂货店
 gruel 名 燕麦粥
-gymnastics 名 体操
-hack 动 劈砍 非法侵入他人电脑
+gymnastics 名 体操 gymnasium
+hack 动 劈砍同chop 非法侵入他人电脑
 ham 名 火腿
 handbag 名 手提包 
 handkerchief 名 手帕
 hatch 动 孵化 名 舱口
-hatred 名 仇恨
+hatred 名 仇恨 词根hate
 hawk 名 鹰
 hay 名 干草
 headmistress 名 女校长
@@ -25,7 +25,7 @@ holy 形 神圣的
 hooked 形 入迷的 钩状的
 hostess 名 女主人
 housing 名 住房 房屋
-howl 动 长嚎
+howl 动 长嚎 比how多了一个l音
 humanity 名 人类 人性
 hurrah 名 喝彩声 好哇
 hurricane 名 飓风
@@ -38,11 +38,11 @@ inject 动 注射 注入
 injury 名 受伤  
 injure 动 受伤
 ink 名 墨水
-inn 名 小旅店
-innocent 形 无罪的
+inn 名 小旅店 in同音
+innocent 形 无罪的 天真无邪的同naive
 insult 动 侮辱 辱骂
 invaluable 名 无法估价的
-Ireland 名 爱尔兰  
+Ireland 名 爱尔兰  island一音之差
 Irish 形 爱尔兰的  
 italics 名 斜体 形 斜体的
 Italy 名 意大利  
@@ -74,7 +74,7 @@ sum 63
 251-300
 
 left-handed 形 惯用左手的
-leftover 名 剩余物
+leftover 名 剩余物 特别是食物
 legacy 名 遗产
 lemonade 名 柠檬饮料
 lens 名 透镜
@@ -97,7 +97,7 @@ lookout 名 留神观察 观察员
 lorry 名 卡车
 lounge 名 客厅 休息室 动 懒洋洋地躺
 luggage 名 行李
-mall 名 购物中心
+mall 名 购物中心 和mail区别
 maple 名 枫树
 marathon 名 马拉松赛跑
 mat 名 垫子
@@ -111,7 +111,7 @@ Mexican 名形
 Mexico 名 墨西哥
 midday 名 正午
 millionaire 名 百万富翁
-ministry 名 部 多指政府部
+ministry 名 部 多指政府部 minister部长
 miserable 形 痛苦的 
 misery 名 痛苦
 modem 名 调制解调器
@@ -120,7 +120,7 @@ mop 名 拖把
 Moslem 名形 穆斯林 等于Muslim
 motorbike 
 motorcycle 名 摩托车 均为
-mourn 动 哀悼
+mourn 动 哀悼 funeral
 moustache 名 小胡子
 mouthful 名 一满口
 mug 名 有柄大杯
@@ -128,7 +128,7 @@ murmur 动 咕哝
 mutual 形 相互的
 nationality 名 国籍
 nationwide 形 全国性的
-necklace 名 项链  
+necklace 名 项链  lace 花边
 necktie 名 领带
 nephew 名 侄子
 newcomer 名 新来的人
