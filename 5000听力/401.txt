@@ -1,7 +1,7 @@
 401-450
 
 settler 名 移民 重点在民
-shabby 形 破破烂烂的
+shabby 形 破破烂烂的 ragged
 sharpener 名 磨具 卷笔刀  
 shave 动 剃毛 刮脸 刮胡子
 shaver 名 电动剃须刀
@@ -10,56 +10,56 @@ shore 名 海滨 岸
 shrimp 名 虾
 sideroad 名 旁路 会汇入主路的  
 sidewalk等于 pavement 名 人行道  
-sideways 副 向旁边的
+sideways 副 向旁边的 sideway等于 sideways加sidewalk
 sightseeing 名 观光
 singular 形 单数的 名 单数形式
 skateboard 名 滑板   
 skate 动 溜冰
-skull 名 颅骨
-skyscraper 名 摩天大楼
-slip 名 滑倒  
-slipper 名 拖鞋
-slogan 名 广告口号 口号
-sneaker 名 运动鞋
-sneeze 动 打喷嚏
+skull 名 颅骨 包住大脑的骨头
+skyscraper 名 摩天大楼 摩擦天空说是
+slip 名 滑倒  slipper的词根
+slipper 名 拖鞋 室内穿的 sandal凉鞋 scandal 丑闻
+slogan 名 广告口号 口号相当于motto
+sneaker 名 运动鞋 sneak 动 溜 偷偷做
+sneeze 动 打喷嚏 唯一的打喷嚏 yawn nap白天小睡 nod除了点头同意 也有打瞌睡的意思。。。
 sob 动 啜泣
-socket 名 插座 莫忘本意
-solo 名 独唱奏 形 独唱奏的
-sore 形 易疼痛的
-sow 动 播种 名 母猪
-spade 名 锹子
+socket 名 插座 莫忘拿个意思
+solo 名动 独唱奏 形 独唱奏的
+sore 形 痛的 名 痛处
+sow 动 播种 名 母猪 so同音 sole多了个l
+spade 名 锹子 黑桃
 sparrow 名 麻雀
 spear 名 矛
 spicy 形 加香料的 辛辣的  
 spice
-spit 动 吐口水
-splash 动 泼溅
-spoil 名 毁掉
-spray 名 水花
-stadium 名 体育场
-stain 动 弄脏  
+spit 动 吐口水 split
+splash 名动 飞溅泼溅 如水花
+spoil 名 溺爱 毁掉
+spray 名 喷雾 水花不多见
+stadium 名 体育场 studio
+stain 名 污点 动 弄脏  
 stainless 形 无污点的
-stall 名 货摊
-staple 名 主食 主要的东西 订书钉 形 主要的
+stall 名 货摊 vendor 名 小摊
+staple 名 主食 主要东西 形 主要的  名 订书钉 动 用钉书钉钉 
 statesman 名 政治家  
 stateswoman 名 女政治家
 steak 名 牛排
 steamer 名 汽船
 steward 名 乘务员  
 stewardess 名 女乘务员
-stiff 形 硬的
+stiff 形 硬的如物体 僵硬的如人的身体 rigid 僵硬的物体无法弯曲不灵活 人因为害怕无法移动 同stiff的那个意思 死板的
 stopwatch 名 秒表
 storey 也作story 名 楼层  读音和故事相同 story
 strain 名 压力 紧张
 strait 名 海峡
-stroke 名 一击  
-strike 过去式 struck 过去分词struck
-stubborn 形 执拗的 倔强的
-submarine 名 潜艇 形 海底的
+stroke 名 一击 动 击  多了中风医学用语
+strike 动 击打 过去式 struck 过去分词struck
+stubborn 形 执拗固执的 倔强的
+submarine 名 潜艇 形 海底的 marine submerge
 suburb 名 郊区
 suicide 动 自杀
-suitcase 名 手提箱
-sunburnt 名 晒伤
+suitcase 名 手提箱 fitness suite
+sunburnt 名 晒伤 动词变化 burn burnt burnt
 sunrise 名 日出  
 sunset 名 日落
 superb 形 极好的
@@ -72,9 +72,9 @@ tablet 名 药片
 tailor 名 裁缝
 taxpayer 名 纳税人
 teamwork 名 协同工作
-teapot 名 茶壶
-telegram 名 电报  
-telegraph 名 电报
+teapot 名 茶壶 pot锅罐
+telegram 名 电报  指信息本身
+telegraph 名 电报 指通信方式 
 tentative 形 暂定的 犹豫不决的  
 tentatively
 
@@ -83,24 +83,24 @@ sum 74
 
 451-500
 
-terrific 形 巨大的 极度的
+terrific 形 巨大的 极度的 superb terrify terrible
 terror 名 恐惧
-thermos 名 热水瓶
+thermos 名 热水瓶 thermal
 thriller 名 惊险电影
 # Tibet 名 西藏  Tibetan 名 形
 tin 名 锡 罐头
-toast 名 烤面包片
+toast 名 烤面包片 动 烤 roast也是烤 boast
 tobacco 名 烟草
 toe 名 脚趾
-toll 名 通行费
+toll 名 通行费 和前者一l之差 fare fee
 toothpaste 名 牙膏
-torch 名 手电筒
+torch 名 手电筒 火把 touch
 tournament 名 锦标赛
 towel 名 手巾
 trademark 名 商标
-tram 名 有轨电车
+tram 名 有轨电车 还有trolley
 tremendous 形 极大的
-trial 名 试验 审判
+trial 名 试验 审判 trait
 tricycle 名 三轮脚踏车  
 trilogy 名 三部曲
 trolleybus 名 无轨电车
@@ -108,37 +108,37 @@ trousers 名 裤子
 trumpet 名 小号
 typewriter 名 打字机
 tyre 名 轮胎
-unrest 名 动乱
+unrest 名 动乱 如公众示威游行引起的
 up-to-date 形 最新的
-vain 形 自负的
-vapor vapour 名 蒸汽
+vain 形 自负的 贬义词 徒劳的 
+vapor vapour 名 蒸汽 evaporation
 vase 名 花瓶
 vet 名 兽医
-vice 名 罪恶 形 副
-vigorous 形 有力的
+vice 名 罪恶
+vigorous 形 有力的 vibrant vibrate
 vinegar 名 醋
-wag 动 摇摆
-wagon 名 马车
+wag 动 摇摆 狗摇尾巴
+wagon 名 马车 用于运货 cart
 walnut 名 核桃
-wardrobe 名 衣柜
+wardrobe 名 衣柜  词源 ward保管 robe衣服 bathrobe
 warrior 名 武士
 washroom 名 盥洗室 厕所
 watchtower 名 瞭望塔
 waterproof 形 防水的
 weatherman 名 男天气播报员
 weed 名 野草
-weird 形 怪异的
+weird 形 怪异的 bizarre wire
 wheelchair 名 轮椅
 whip 名 鞭子 
-whistle 名 哨声
+whistle 名 哨声 动 吹口哨 castle
 wicked 形 邪恶的
-widow 名 寡妇
+widow 名 寡妇 和wife很近
 wine 名 葡萄酒
 wizard 名 男巫 行家
-worm 名 蠕虫
-worship 动 敬神 做礼拜 崇拜  
+worm 名 蠕虫 bookworm
+worship 动 敬神 做礼拜 崇拜  warship 元音之差 bishop主教象 cardinal 形 基本的 最主要的 名 红衣主教 carnival
 yawn 动 打哈欠
-zoom 动 疾行 急速上升
+zoom 动 疾行 急速上升如数字 zoom in/out 拉近远镜头	
 
 sum 55
 
