@@ -1,25 +1,25 @@
 1-50
 
-abortion 名 人 流产 计划失败
+abortion 名 人 流产 计划失败  abort动
 acquaintance 名 相识了解 相识的人
 # ad = anno domini 公元 ce=common era bce=before common era bc=before christ
 adore 动 敬爱 尊敬且爱如对母亲 非常喜爱
-aeroplane 名 飞机 英式说法
+aeroplane 名 飞机 英式说法 等于airplane美式
 air-conditioned 形 装有空调的
-alert 形 警惕的 名 警惕 动 警告
+alert 形 警惕的 名 警惕 动 警告 alarm 名 担忧 警报 动 
 alley 名 小巷 胡同
 aluminum 名 铝
 anecdote 名 轶事  
 anecdotal 形 轶事的 传闻的 不是必然正确可信的基于人们的记录传播
 antarctic 形 南极地区的 前面加the表示名词南极地区  
 antarctica 名 南极洲
-apron 名 围裙 停机坪
+apron 名 围裙 停机坪 2n
 arch 名 拱形 拱门 动 拱起
 Arab 名 阿拉伯人 形 阿拉伯的
 Arabic
-armchair 名 扶手椅
+armchair 名 扶手椅 就是字面的意思
 ash 名 灰烬
-Atlantic 形 大西洋的 前加the大西洋
+Atlantic 形 大西洋的 前加the大西洋 Atlantis亚特兰蒂斯
 atlas 名 地图册
 attentive 形 专心的 关心的
 attic 名 阁楼
@@ -31,7 +31,7 @@ ballpoint 名 圆珠笔
 bankrupt 形 破产的 动名 都有
 bang 名 突然的巨响 引起巨响的爆炸 猛击如对额头的 动 类似于名词
 barn 名 谷仓
-bath 名 洗澡 浴缸
+bath 名 洗澡 浴缸 bath bathe n/v皆有 前者多n后者多v
 bathtub 名 浴缸 澡盆
 bead 名 珠子 小滴如汗
 beam 名 光柱 梁支撑屋顶的木头或金属 束 用于物理学粒子射线等
@@ -47,16 +47,16 @@ birdcage 名 鸟笼
 biscuit 名 饼干
 blackmail 名动 敲诈 勒索
 bleed 动 流血 出血
-blend 动 混合 融合 可以指物质陌生群体
+blend 动 混合 融合 可以指物质陌生群体 bend弯曲 combine结合合作
 bless 动 祈神保佑 祝福
-blister 名 水疱 可以理解为水泡
+blister 名 水疱 可以理解为水泡 overlook oversee outlook agency agenda agent
 
 sum 47
 
 
 51-100
 
-blossom 名 花 动 开花
+blossom 名 花 动 开花 特指树上的灌木丛上的花 字面同bloom单独种植的花 broom bud芽 发芽
 blouse 名 女衬衫
 boast 动 吹嘘 自夸
 bold 形 大胆勇敢的 黑体的 名 黑体 bald 秃顶的
@@ -65,9 +65,9 @@ booklet 名 小册子
 bookworm 名 书呆子
 botanical 形 植物学的
 bounce 动 反弹 多指球 蹦跳
-bound 形 准备前往的 (be) bound to do sth 一定做某事
+bound 形 准备前往的 (be) bound to do sth 一定做某事 更多的是bind捆绑过去式
 boxing 名 拳击
-boycott 名 抵制
+boycott 名动 抵制
 brewery 名 啤酒厂
 bridegroom 名 新郎
 brochure 名 小册子
@@ -78,8 +78,8 @@ Buddhism 名 佛教
 Buddhist 名 佛教徒 形 佛教的
 bulb 名 电灯泡
 bully 名 恶霸
-bump 动 碰撞
-bun 名 圆面包
+bump 动 碰撞 词源拟声词
+bun 名 圆面包 和bang的区别还是挺大的 注意 bang没有重音 所以发音就是标准的ae
 bungalow 名 平房
 bureaucratic 形 官僚主义的
 burglar 名 夜贼
@@ -90,14 +90,14 @@ carnival 名 狂欢节通常在罗马天主教国家的大斋节前一周举行 
 cart 名 大车 2或4轮用于拉货有马
 cashier 名 出纳员 人
 cattle 名 牛 集合名词
-celebrity 名 名人
+celebrity 名 名人 名声
 cellar 名 地窖
 cement 动 巩固 名 水泥
 chamber 名 名 大厅大型房间用于正式公共目的 私人房间特别是卧室
 chant 名 赞美诗 动 唱
 cheek 名 脸颊
 cheerleader 名 拉拉队队员
-chest 名 胸部 胸膛 箱子金库
+chest 名 胸膛 大箱子 木做的用于存储运输 金库是英式说法 几乎3n breast beast
 chewing gum 名 口香糖
 chick 名 小鸡
 chimney 名 烟囱
@@ -108,18 +108,18 @@ circus 名 马戏
 clause 名 条款 分句
 claw 名 爪子
 cocoa 名 可可粉 可可茶
-collar 名 领子
+collar 名 领子 cola 元音之差
 coloring 名 着色 面色
 communism 名 共产主义  
 communist 名 共产主义者 形 共产主义的
 companion 名 伙伴 同伴 伴侣
 compliment 名动 赞扬 
 compulsory 形 义务的 必修的
-comrade 名 朋友 同事
+comrade 名 朋友同事 colleague
 condemn 名 谴责 即表现完全的不同意 insult 侮辱 denounce 告发谴责
 continent 名 大陆
 coral 名 珊瑚
-cosy 形 温暖舒服放松的
+cosy 形 温暖舒服放松的 carry carriage cathedral 大教堂 catholic a/n 天主教 天主教徒 cardinal
 
 sum 62
 

@@ -39,7 +39,7 @@ spray 名 喷雾 水花不多见
 stadium 名 体育场 studio
 stain 名 污点 动 弄脏  
 stainless 形 无污点的
-stall 名 货摊 vendor 名 小摊
+stall 名 货摊 和store就差一个l听起来几乎一致 vendor 名 小摊 
 staple 名 主食 主要东西 形 主要的  名 订书钉 动 用钉书钉钉 
 statesman 名 政治家  
 stateswoman 名 女政治家
@@ -83,23 +83,22 @@ sum 74
 
 451-500
 
-terrific 形 巨大的 极度的 superb terrify terrible
+terrific 形 巨大的如外形量程度 极好的同superb terrify terrible
 terror 名 恐惧
 thermos 名 热水瓶 thermal
 thriller 名 惊险电影
-# Tibet 名 西藏  Tibetan 名 形
 tin 名 锡 罐头
 toast 名 烤面包片 动 烤 roast也是烤 boast
 tobacco 名 烟草
 toe 名 脚趾
-toll 名 通行费 和前者一l之差 fare fee
+toll 名 通行费过桥过路 和前者一l之差 fare票价一次旅行的费用 fee
 toothpaste 名 牙膏
 torch 名 手电筒 火把 touch
 tournament 名 锦标赛
 towel 名 手巾
 trademark 名 商标
 tram 名 有轨电车 还有trolley
-tremendous 形 极大的
+tremendous 形 极大的 极好的 同terrific
 trial 名 试验 审判 trait
 tricycle 名 三轮脚踏车  
 trilogy 名 三部曲
@@ -115,7 +114,7 @@ vapor vapour 名 蒸汽 evaporation
 vase 名 花瓶
 vet 名 兽医
 vice 名 罪恶
-vigorous 形 有力的 vibrant vibrate
+vigorous 形 有力的 vigour vibrant vibrate
 vinegar 名 醋
 wag 动 摇摆 狗摇尾巴
 wagon 名 马车 用于运货 cart
@@ -124,7 +123,7 @@ wardrobe 名 衣柜  词源 ward保管 robe衣服 bathrobe
 warrior 名 武士
 washroom 名 盥洗室 厕所
 watchtower 名 瞭望塔
-waterproof 形 防水的
+waterproof 形 防水的 名 雨衣
 weatherman 名 男天气播报员
 weed 名 野草
 weird 形 怪异的 bizarre wire
