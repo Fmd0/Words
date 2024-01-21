@@ -1,68 +1,68 @@
 201-250
 
 grill 名 烤架
-grocer 名 食品杂货商 杂货商  
-grocery 名 食品杂货 食品杂货店
+grocer 名 食品杂货商 杂货商  指的是人
+grocery 名 食品杂货 食品杂货店 指的是店铺
 gruel 名 燕麦粥
 gymnastics 名 体操 gymnasium
 hack 动 劈砍同chop 非法侵入他人电脑
-ham 名 火腿
+ham 名 火腿 hambat 火腿棒
 handbag 名 手提包 
 handkerchief 名 手帕
-hatch 动 孵化 名 舱口
+hatch 动 孵化如蛋 名 舱口 小的开口允许一边到另一边 cabin
 hatred 名 仇恨 词根hate
 hawk 名 鹰
 hay 名 干草
 headmistress 名 女校长
 headteacher 名 校长 班主任
 heaven 名 天堂
-heel 名 脚后跟
+heel 名 脚后跟 注意后
 helmet 名 头盔
-high-rise 名 高层建筑 形 高层的
+high-rise 名 高层建筑 形 高层的 指建筑有很多层 数量而非程度
 hillside 名 小山坡 山上的倾斜边
 hilly 形 多丘陵的
-holy 形 神圣的
-hooked 形 入迷的 钩状的
+holy 形 神圣的 sacred
+hooked 形 入迷的 钩状的 注意注意
 hostess 名 女主人
 housing 名 住房 房屋
 howl 动 长嚎 比how多了一个l音
-humanity 名 人类 人性
+humanity 名 人类 人性 人文
 hurrah 名 喝彩声 好哇
 hurricane 名 飓风
-hut 名 简陋小屋 棚屋
+hut 名 简陋小屋 棚屋 小简单单层的房或庇护所
 idiom 名 成语
 image 名 印象 图像
-imaginary 名 虚构的 想象的
+imaginary 名 虚构的 想象的 imagine genuine有点像
 indoor 副 室内的
-inject 动 注射 注入
+inject 动 注射注入即使用注射器注入液体 引入如一些新的不同的东西
 injury 名 受伤  
 injure 动 受伤
 ink 名 墨水
-inn 名 小旅店 in同音
+inn 名 小旅店 in同音 pub
 innocent 形 无罪的 天真无邪的同naive
-insult 动 侮辱 辱骂
+insult 名动 侮辱辱骂 即待人不尊重轻蔑
 invaluable 名 无法估价的
 Ireland 名 爱尔兰  island一音之差
 Irish 形 爱尔兰的  
 italics 名 斜体 形 斜体的
 Italy 名 意大利  
 Italian 名 形
-jealous 形 嫉妒的
+jealous 形 嫉妒的 envy
 jog 名动 慢跑
-joint 名 接合处 形 联合的
+joint 名 关节 接合处 形 联合的共同的
 junction 名 会合处 交叉路口
 keen 形 渴望的 热心的
-kidney 名 肾 腰子 后者多指动物的肾
+kidney 名 肾 腰子 后者多指动物的肾 liver
 kindhearted 形 善良的
 lace 名 花边
 ladder 名 梯子
 lame 形 跛的 瘸的
 landlady 名 女房东
-lane 名 小路 小巷
+lane 名 小路 小巷 alley
 laser 名 激光
 laundry 名 洗衣店 需洗的衣物
-lavatory 名 抽水马桶
-lawn 名 草坪
+lavatory 名 洗手间 washroom toilet
+lawn 名 草坪 grassland草原
 leaflet 名 传单
 league 名 联盟
 lean 动 倾斜 靠 形 瘦的
@@ -77,22 +77,22 @@ left-handed 形 惯用左手的
 leftover 名 剩余物 特别是食物
 legacy 名 遗产
 lemonade 名 柠檬饮料
-lens 名 透镜
+lens 名 透镜 lenses 所以s是自带的
 leopard 名 豹 
 liberal 形 自由的 名 自由主义者 
 liberate 动 解放  
 liberation 名 解放  
 liberty 名 自由
-lighter 名 打火机  
-lighting 名 闪电
-likewise 副 同样地 也
+lighter 名 打火机 match
+lighting 名 光亮 lightning闪电 大有不同
+likewise 副 同样地 也 同likely
 liquid 名 液体
 liter 名 升 
 literally 副 逐字的  
 literary 形 文学的
 litter 名 垃圾 动 乱扔
 liver 名 肝脏
-loaf 名 一条 如面包
+loaf 名 一条 如面包 a loaf of
 lookout 名 留神观察 观察员
 lorry 名 卡车
 lounge 名 客厅 休息室 动 懒洋洋地躺
@@ -100,13 +100,13 @@ luggage 名 行李
 mall 名 购物中心 和mail区别
 maple 名 枫树
 marathon 名 马拉松赛跑
-mat 名 垫子
+mat 名 垫子 cushion pad mattress
 mayor 名 市长
 medal 名 勋章
 melody 名 曲调
 melon 名 瓜
 memorial 形 用于纪念的 名 纪念碑
-mend 动 缝补 改进
+mend 动 缝补修理 改进 saw stitch seam
 Mexican 名形  
 Mexico 名 墨西哥
 midday 名 正午
@@ -116,7 +116,7 @@ miserable 形 痛苦的
 misery 名 痛苦
 modem 名 调制解调器
 monster 名 怪物
-mop 名 拖把
+mop 名 拖把 broom
 Moslem 名形 穆斯林 等于Muslim
 motorbike 
 motorcycle 名 摩托车 均为
@@ -124,13 +124,13 @@ mourn 动 哀悼 funeral
 moustache 名 小胡子
 mouthful 名 一满口
 mug 名 有柄大杯
-murmur 动 咕哝
+murmur 动 咕哝 低语
 mutual 形 相互的
 nationality 名 国籍
 nationwide 形 全国性的
 necklace 名 项链  lace 花边
 necktie 名 领带
-nephew 名 侄子
+nephew 名 侄子 别说和steward一致
 newcomer 名 新来的人
 newsletter 名 业务通讯
 niece 名 侄女
