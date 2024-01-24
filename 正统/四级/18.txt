@@ -20,7 +20,7 @@ hyphen                  名 连字符 即-用于连接单词 表示他们有混�
 accordance              名 一致  in accordance with 依照如习俗规定 词根accord
 customs                 名 海关 关税 词源custom惯例
 ore                     名 矿石 天然存在的 和awe同音多了尾音r
-allege                  动 声称 声称断言某人做了非法错误的事 通常没证据 声称是自信且强力地陈述
+allege                  动 声称 声称断言某人做了非法错误的事 通常没证据 断言是自信且强力地陈述
 clear-cut               形 明确清晰容易理解的 树被砍完的
 petty                   形 不重要无关紧要的如琐碎的小事 kitty小猫 pup puppy小狗
 provided                连 假如 即在这个条件下 曾经的疑惑一扫而空
@@ -30,10 +30,10 @@ considering             介连副 考虑到 即taking (something) into considera
 charter                 名 国家的书面授予城市机构有权力同grant 宪章 组织的功能的书面描述章程 自是词根 和chart挺像的
 zoology                 名 动物学 包括行为结构分布 zoo的是u: zoology是u细节 加元音变重音
 naughty                 形 顽皮淘气的 特别是孩子表现不好不遵守规定 daughter神似 augh发哦音
-socialism               名 社会主义 communism 政治经济理论，主张生产、分配和交换手段应由整个社会拥有或管理
+socialism               名 社会主义 communism 政治经济理论，主张生产、分配和交换手段应由整个社会拥有或管理 社会主义是共产主义的必经之路
 coarse                  形 粗糙的指手感 粗的指由大的颗粒组成的如粗盐粗沙 粗鲁的如人 course同音
 watertight              形 不漏水的 和防水的雨衣还是有区别的 无懈可击的如言论观点
-commence                动 开始 同begin 正式用语 commerce ˈkɒmɜːs
+commence                动 开始 同begin 正式用语 commerce ˈkɒmɜːs  还有comment 
 spontaneous             形 自发主动的 即非因为外部的刺激而是内部原因导致
 absentee                名 缺席者 双重音大重音在末尾 词根absent
 afloat                  形 漂浮的 即浮在水面上没有沉的 在海上即在船上  没有债务或困难的 即能应付的如经济

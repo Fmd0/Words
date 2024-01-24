@@ -1,6 +1,6 @@
-bystander               名 旁观者 event incident
-nourish                 动 养育如baby 为土壤增加肥力  breed nurture 
-odour                   名 气味 odour英式odor美式 smell是中性词odor则是异味贬义词如尾气 和order就元音之差 scent 
+bystander               名 旁观者 在event incident但是没有参与 passer-by路过者
+nourish                 动 养育如baby 为土壤增加肥力  breed nurture foster
+odour                   名 气味 odour英式odor美式 smell是中性词odor则是异味贬义词如尾气 和order就元音之差 scent older就比他多了个中间的l
 preposition             名 介词 注意元音重音
 cane                    名 中空的有节的茎特别是甘蔗和竹子 长棍子用于行走或是惩罚stem
 stoop                   动 俯身 屈尊降低身份做一些应受谴责的事 stool
@@ -8,7 +8,7 @@ veto                    名动 否决 vote
 coinage                 名 coin的集合名词 coin有发明词语的意思coinage也有相应的名词形式
 whilst                  连 当什么的时候 whilst和while意思一致 while更加常见whilst则更正式
 forestry                名 林学 种植林及相关事情的科学 词根forest
-celsius                 名 摄氏度 同centigrade another term of celsius
+celsius                 名 摄氏度 形 摄氏的 同centigrade another term of celsius
 diameter                名 直径 radius
 electron                名 电子 物理学的电子 electronic elect
 narrate                 动 叙述 不管是口头还是书面
@@ -33,5 +33,5 @@ preface                 名 序言 注意发音
 trolly                  名 手推车  同音词trolley 名 手推车英式 有轨电车美式 可能是同一个词
 conceal                 动 掩藏 隐瞒 即防止被看到被知道 hide and keep secret
 plumbing                名 管道系统 如水暖 管道系统的安装和维护 尾部b不发音 词根plumb有动词安装需要连接水管的家电 形 垂直的 名 铅锤 动 测深
-proclaim                动 宣布 即announce officially or publicly 清晰地表明 claim 声称索赔
+proclaim                动 宣布 即announce officially or publicly 清晰地表明 claim 声称索赔 allege
 engineering             名 工程学 engineer工程师

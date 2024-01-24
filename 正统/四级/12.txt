@@ -5,7 +5,7 @@ pessimism       名 悲观情绪  pessimistic 悲观的双重音在m 和 optimis
 pillar          名 柱子 引申到 支柱 pillow
 pinch           名动 捏 如脸颊
 pledge          名动 承诺 保证 同promise commit 名 抵押物 动 抵押 为了安全保证的物品
-plural          名 复数 形 复数的 指的是英语名词的复数
+plural          名 复数 形 复数的 指的是英语名词的复数 反义词singular
 portrait        名 肖像  发音同trait
 priest          名 祭司 牧师 poet
 profile         名 某物的轮廓 特别是人的侧面 使用短文的概述人或组织 社交媒体上用户个人信息的总结

@@ -2,7 +2,7 @@ dock                名 码头 船坞 上下货修船
 doctoral            名 博士的 读音继承自doctor
 doom                名 死亡 毁灭 等糟糕的命运
 earnest             形 认真的 诚挚的
-expressway          名 高速公路 美式
+expressway          名 高速公路 expressway是美国叫法高速公路，expressway按收不收费又分成freeway和tollway。美国只有约4%里程的高速是收费公路，且集中在东部。所以绝大部分的高速公路就是freeway
 factual             形 事实的 如信息
 faithful            名 信徒 支持者 对宗教政党忠实 形 忠诚的同loyal
 fearful             形 害怕担忧的 词根fear
@@ -11,18 +11,18 @@ float               动 浮如浮到水面 漂浮 移动地浮
 fluctuate           动 波动 上下无常 注意有个辅音
 forge               动 伪造 锻造 建立如强壮持久成功的东西 forgo放弃
 fraction            名 分数 一部分 a fraction of
-freight             名 货物 运费 banquet feast
+freight             名 货物 运费 banquet feast ferry 还得是height比较像
 geology             名 地质学
 germ                名 微生物 胚芽  2n
 handicap            名 障碍 阻止成功的比赛中的 生理或智力上的障碍
 harmony             名 和声音乐术语吧 和谐
-haul                动 拖 拉 名 大笔赃物 旅程
+haul                动 拖 拉 名 大笔赃物 旅程 类似于heave
 haze                名 雾 极简主义
 hectare             名 公顷 10000平方米
 herd                名 人群 兽群 a herd of herb
 hospitable          形 友好好客的 环境宜人的 重音变
 humble              形 谦逊的 卑微低下的
-hut                 名 小屋 小简单单层的
+hut                 名 小屋 小简单单层的 就是5000词中的 简陋小屋 棚屋 小简单单层的房或庇护所
 indispensable       形 不可或缺的 即绝对必要的 dispensable 可有可无的 词源 dispense 分发 可分发出去的 即可有可无的
 inhabitant          名 居民 栖息动物
 integration         名 整合一体化 积分法 integrate的名词
@@ -31,11 +31,11 @@ jungle              名 热带丛林
 landlord            名 房东地主 实际上是一个意思
 liable              名 负法律责任的 如父母对孩子行为负责 可能的同likely 2a
 lily                名 百合
-lodge               名 小屋 给看门人园丁用的 寄宿
+lodge               名 小屋 给看门人园丁用的 寄宿 hut意思类似
 loop                名 环物理上的 循环开始与结尾相连抽象的
 lord                名 君主同ruler
 lump                名 块如石头冰淇淋 a lump of ice  肿块身体上的
-manipulate          动 操作 如工具机械 控制影响人们不道德的
+manipulate          动 操作 如工具机械 控制影响人们不道德的 municipal长得像重音也一样
 misfortune          名 不幸 不幸之事
 molecule            名 分子
 monetary            形 金钱的 货币的 词根money 读音也继承自money

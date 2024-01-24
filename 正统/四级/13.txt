@@ -1,8 +1,8 @@
 ward                名 病房 意思很多县级一个吧
-ware                名 陶器 具体类型的艺术品即制品 木制品  warehouse 仓库
+ware                名 陶器 具体类型的艺术品即制品 木制品  warehouse 仓库 和wear同音
 waterproof          形 防水的 名 雨衣 动 使防水 nb
 wholly              副 完全地 全面地 词根whole 即副词形式 怪不得发音这么像
-wit                 名 智力 如发明式的想法和理解快 风趣 wise wisdom
+wit                 名 智力 如发明式的想法和理解快 风趣 和wise wisdom像 但是无关
 ridge               名 山脊 屋脊 长的窄的各种顶部 rigid
 dental              形 牙齿的 牙科的 dentist同根
 quota               名 定额 固定的量给出或者收入 限额 限制的量 如官方限制 如进出口
@@ -10,7 +10,7 @@ democracy           名 民主 可以是政体制度国家
 submerge            动 淹没 即沉入水下 可以被动也可以主动 即潜入水下 (完全)掩盖
 restless            形 躁动焦躁的 因焦虑无聊而无法放松休息 词根rest
 splendid            形 壮丽的 壮观极好 同magnificent一模一样 如景观衣服
-buck                名 雄鹿 有角雄兽
+buck                名 雄鹿 有角雄兽 和buckle几乎同根
 sip                 名动 小口喝
 copper              名 铜 铜币 就是铜英文官方说法
 Confucian           名 儒家学者 形 儒家的 来自汉语孔夫子 和confusion倒数第二个相似辅音之差几乎一致
@@ -24,7 +24,7 @@ preach              动 讲道 宗教相关一般在教堂
 grind               动 磨 磨碎 powder
 scatter             动 撒 如撒玉米 分散 两个动词都是到不同方向 名 散点图
 apparatus           名 设备成套的那种 如实验室摄影设备 gadget才是小装置
-drip                动 滴下
+drip                动 滴下 名 液滴
 contradiction       名 矛盾 言论内部冲突 反驳 发表反对眼泪 controversy
 gaol                名 监狱 英式说法 jail是美式说法 这个英美差异太大了 等于jail 发音也一样 不是poison是prison
 cosmos              名 宇宙
@@ -35,9 +35,9 @@ dumb                形 哑的 numb
 extinguish          动 熄灭即火或者光不亮不燃烧 毁灭如希望 偿清如欠款
 jury                名 陪审团
 heroic              形 英雄的 拥有英雄品质的如勇敢和坚决 heroine
-oversight           名 忽略 监管即oversee但是名词 supervision
+oversight           名 忽略 监管即oversee但是名词 supervision  字面是oversee overlook结合体
 Christ              名 基督 Christmas的词源 
-jetlag              名 时差反应 如极度疲惫或其他的生体感受
+jetlag              名 时差反应 如极度疲惫或其他的生体感受 谁曾想词源jet和lag
 sanction            动 批准官方的那种permission approval 处罚 用于威慑的处罚关于违法 自是词根
 foresight           名 先见之明 预测未来的能力
 auxiliary           形 辅助的 额外帮助支持 如能源

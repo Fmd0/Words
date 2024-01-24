@@ -29,7 +29,7 @@ bakery 名 面包店
 balcony 名 阳台
 ballpoint 名 圆珠笔
 bankrupt 形 破产的 动名 都有
-bang 名 突然的巨响 引起巨响的爆炸 猛击如对额头的 动 类似于名词
+bang 名 突然的巨响 引起巨响的爆炸 猛击如对额头的 动 类似于名词 和barn的相似性不必多说
 barn 名 谷仓
 bath 名 洗澡 浴缸 bath bathe n/v皆有 前者多n后者多v
 bathtub 名 浴缸 澡盆
@@ -79,7 +79,7 @@ Buddhist 名 佛教徒 形 佛教的
 bulb 名 电灯泡
 bully 名 恶霸
 bump 动 碰撞 词源拟声词
-bun 名 圆面包 和bang的区别还是挺大的 注意 bang没有重音 所以发音就是标准的ae
+bun 名 圆面包 和bang的区别还是挺大的 注意 bang没有重音 所以发音就是标准的ae 
 bungalow 名 平房
 bureaucratic 形 官僚主义的
 burglar 名 夜贼
