@@ -41,7 +41,7 @@ molecule            名 分子
 monetary            形 金钱的 货币的 词根money 读音也继承自money
 motive              名 动机 具体而微观强调动机的具体内容  motivation 名 动机 倾向于行为的驱动力不强调动机的具体内容笼统而宏观
 nightmare           名 噩梦 引申可怕的经历 尾音同hectare
-noticeable          名 明显的即容易察觉的 值得注意的 清晰的2a
+noticeable          名 明显的即容易察觉的 值得注意的 清晰的2a 和notably有一个相同的意思明显的显然的
 nuisance            名 麻烦事 讨厌人 人或事让人头疼为难的
 orderly             形 有序的 感觉同ordered
 organ               名 管风琴 器官 2n差的挺远  organic 有机的 器官的

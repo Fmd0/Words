@@ -1,23 +1,23 @@
 gaze                动 凝视 特别是崇拜惊讶思索
-horizon             名 地平线 注意拼写完全和发音一致 同根词horizontal水平的
+horizon             名 地平线 注意拼写完全和发音一致 同根词horizontal水平的 元音全变重音变
 hostile             形 表现出反对不喜欢不友善
 ignorance           名 缺少信息或知识 前者不知情后者无知 和igonre后元音不同重音不同
 ignorant            形 缺少信息或知识 前者不知情后者无知
-immense             形 巨大的 规模程度之大
+immense             形 巨大的 规模程度之大 和tremendous同意思 但后者多一个意思
 imperial            形 帝国的 和empire相关的 词源同 empire看不出一点关系
 influential         形 有影响力的 对人或物影响 和influence拼写发音大变双重音
 intact              形 完好无损的
 intangible          形 无形的 摸不到没有物理实体的 发音和tangible
 intrude             动 侵扰 不受欢迎未被邀请地进入 invade
 knot                名 结 knit很像
-limb                名 肢体 人的手臂或者腿 枝干 树的主要枝干 lame lamb lane
-gear                名 齿轮 用具 用于特定目的的装备如露营用具
+limb                名 肢体 人的手臂或者腿 枝干 树的主要枝干 lame lamb lane limp
+gear                名 齿轮 用具 用于特定目的的装备如露营用具 唯二齿轮
 glow                名 光亮 动 发光  名动 人脸发红因为温暖健康尴尬
 gorgeous            形 漂亮有吸引力的 令人愉快的
-gown                名 女礼服 长袍
-gut                 名 内脏胃或者肚子 基于直觉的感受反应而非思考后的 勇气非正式
+gown                名 女礼服 长袍 robe几乎字面一致 后者松垮一些倾向于非正式浴袍 前者紧且正式如婚礼袍
+gut                 名 内脏胃或者肚子 基于直觉的感受反应而非思考后的 勇气非正式 bowel belly
 halfway             副 在中间 路程或者时间的中间
-harness             名 马具 将马和车记牢的东西 动 装备上马具
+harness             名 马具 将马和车记牢的东西 动 装备上马具 saddle spur
 haste               名 匆忙
 hasty               形 匆忙的 草率的 过于快导致草率
 haunt               动 经常出没于 形容鬼 人常去某个地方 想法或者不好的问题持续出现
@@ -44,7 +44,7 @@ parade              名动 游行 为了庆祝节日 阅兵
 paradox             名 悖论 通过一系列正常的前提推导出了难以接受自相矛盾的结果 矛盾的人或者事
 peculiar            形 奇怪的 同strange 特殊特别的同particular
 petroleum           名 石油 唯一石油  petrol英式汽油 gasoline
-pit                 名 (深)坑
+pit                 名 (深)坑 pitch ditch
 pitfall             名 陷阱 盖起来的pit用于trap 隐患 为预料到的危险困难
 plentiful           形 充足的 同abundant plenty
 precaution          名 预防措施
