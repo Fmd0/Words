@@ -1,17 +1,17 @@
-financial           形 财政的 金融的
-finance             名 资金 金融 动 为提供资金 注意和形容词重音变化
-engage              动 吸引如注意力兴趣人 使参加常用engage in  短语
-emergency           名 紧急情况 emerge 动 出现 兴起
+financial           形 金融的 即finance相关的
+finance             名 管理大量钱即金融 商业上金钱的支持即资金 但倾向于抽象概念 动 为提供资金 注意和形容词重音变化
+engage              动 吸引如注意力兴趣人 参加参与 出现于engage in  短语
+emergency           名 紧急情况 emerge 动 出现 兴起 
 emergence           名 出现 和前者不管是音标还是拼写都是一字之差
 bacteria            名 细菌复数
 bacterium           名 细菌单数 音标多了一个音
-political           形 政治的 政党的
+political           形 政治的
 politics            名 政治 似乎来自politic 但这是个形容词明智的 重音发生了变化
-polity              名 政体 政府的形式 是词根
-knit                动 编织 k省音
+polity              名 政体 是词根 政党 还是 political party合适
+knit                动 编织 k省音 knot
 weave               动 织
 promote             动 促进 晋升 推销 3v
-prompt              名 提示符 动 导致 形副 及时准时的 注意后面全是辅音发音一带而过
+prompt              名 提示符 动 导致 形副 及时准时的 注意后面全是辅音发音一带而过 punctual
 panel               名 板 专家组
 solar               形 太阳的
 lunar               形 月亮的
@@ -22,37 +22,37 @@ property            名 财产 特性
 mission             名 任务
 missile             名 导弹
 expense             名 费用 代价 昂贵的词根
-recession           名 衰退
-recess              名 课间休息 休息暂停如暑假休会
-boost               动 增加 促进
+recession           名 衰退 特指经济
+recess              名 暂停如暑假法庭的休会 课间休息 美式英语中
+boost               动 促进增加提升
 immigrant           名 移民 migrant本国内迁移的人比如工人immigrant外国迁移进来的人emigrant本国迁出的人
 migrant             名 移民
 migrate             动 移居 首元音发音同migrant 不同于immigrant 重音在后 前两者在首部
 claim               动 声称 索赔
 cancer              名 癌症
 career              名 职业 生涯 重音位置不同于cancer
-loan                名 借款即贷款 此时出现复数 名动 借出同lend 而borrow则是借入
+loan                名 借出去的东西特别是借款 借款行为 名动 借出特别是钱 同lend 而borrow则是借入
 peer                动 仔细看 名 同等地位的人
-variety             名 多样化 种类
+variety             名 多样化 种类 variation variable
 various             形 各式各样的 重音元音都发生变化
 chief               名 领袖如政党的部落的 形 首要的 主要的
 crisis              名 危机  
 crises              名 危机复数 I变i:尾音变浊化
 discipline          名 纪律 学科特指大学学科
-enhance             动 提高 增加如工资退休金
-fund                名 资金 动 提供资金
-funding             名 提供资金 拨款
+enhance             动 提高增加 如工资退休金
+fund                名 资金 倾向于money本身 动 提供资金
+funding             名 资金 此时和fund区别不大 提供资金
 vehicle             名 机动车 手段工具
 bet                 名动 赌 gamble
 fossil              名 化石 老顽固
 imply               动 暗示 意味着
-dishearten          动 使沮丧 伤了心失去决心和信心 读音来自heart
+dishearten          动 使沮丧 失去determination confidence 读音来自heart
 military            形 军用的  the military 名 军人 军队
 trap                名 陷阱 动 困住
 immune              形 免疫的 不受影响的 并非是疫苗音译
 induce              动 诱导 劝说 成功劝说导致某人做某事 导致
-revenue             名 收入
+revenue             名 收入 特别是一年的收入
 avenue              名 大街 林荫道 读音就差了首个元音
 whale               名 鲸
-council             名 议会 地方议会
-pupil               名 学生 瞳孔 尾音一致
+council             名 议会 地方议会 counsel attorney
+pupil               名 学生 瞳孔

@@ -3,19 +3,19 @@ executable          形 可执行的 计算机专业单词
 execute             动 执行 表演 处决
 mass                名 大量 形 大量的 massive也有大量的意思
 nap                 名动 小睡 特别指白天
-domestic 国内的 家庭的  
-mule 骡子
-collapse 动 倒塌 崩溃
-collision 动 碰撞 冲突
-collide 动 碰撞 冲突
-diabetes 名 糖尿病
-federal 联邦制的
-poll 投票
-prospect            名 希望 前景 动 勘探
+domestic            国内的 家庭的  
+mule                名 骡子
+collapse            动 倒塌 崩溃
+collision           动 碰撞 冲突
+collide             动 碰撞 冲突
+diabetes            名 糖尿病
+federal             名 联邦制的
+poll                名 投票
+prospect            名 希望 前景 动 勘探 注意和 prosperity区别
 prospective         形 预期的 未来可能发生的如预期潜在的客户
-prosperity 名 繁荣
-prosperous 形 繁荣的
-qualify 使有资格 限定
+prosperity          名 繁荣
+prosperous          形 繁荣的
+qualify             动 使有资格 限定
 qualified           形 合格的日常生活中常见 有资格的获得证书 胜任的competent
 spouse              名 配偶
 automate            动 使自动化 确实只有一个意思 automatic

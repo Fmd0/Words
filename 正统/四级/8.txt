@@ -33,7 +33,7 @@ modular             形 模块的 将module作为构建基础
 module              名 模块 每一个部分都是标准单元可以用于构建复杂的接哦股 建筑电子计算机领域
 modulo              动 取模 一种运算方式  
 nasty               形 非常坏让人难受的如气味天气
-offend              动 冒犯 让人伤心恼怒  aggressive
+offend              动 冒犯 让人伤心恼怒  aggressive 发现和defend 名动的变法相同
 offense             名 犯罪 冒犯
 omit                动 遗漏 某人某物 可以是有意的删除也可以是无意的疏忽
 orchestra           名 管弦乐队 包括了多种乐器
@@ -46,5 +46,5 @@ peculiar            形 奇怪的 同strange 特殊特别的同particular
 petroleum           名 石油 唯一石油  petrol英式汽油 gasoline
 pit                 名 (深)坑 pitch ditch
 pitfall             名 陷阱 盖起来的pit用于trap 隐患 为预料到的危险困难
-plentiful           形 充足的 同abundant plenty
+plentiful           形 充足的 同abundant plenty 代词大量 lot they都是代词 名词 充裕
 precaution          名 预防措施
