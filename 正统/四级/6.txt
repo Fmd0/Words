@@ -19,7 +19,7 @@ loyalty             名 忠诚 辅音不发生连读
 luggage             名 行李 英式
 melt                名 融化 加热变成液态如蜡 那么金属呢
 utilize             动 利用 utility 
-merit               名 优点 价值 动 值得如奖赏
+merit               名 优点 价值 动 值得如奖赏 asset 资产优势
 moist               形 slightly wet 气候湿润 眼睛湿 damp tropical
 murder              名动 谋杀
 mutual              形 相互的 共同的

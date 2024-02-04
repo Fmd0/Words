@@ -1,4 +1,4 @@
-incentive               名 刺激 注意是名词
+incentive               名 刺激 注意是名词 stimulate stimulus
 leap                    名动 跳跃
 legislation             名 立法 法律
 legislate               动 立法 重音不同
@@ -11,9 +11,9 @@ opponent                名 对手 反对者 指人 2n 单打独斗虽然和oppo
 pierce                  动 穿孔 
 principal               名 校长 形 最重要的 和principle原则无关系但是发音和principle一模一样
 profound                形 深邃的 巨大的
-quote                   动 引用 报价 名 引文 cite
+quote                   动 引用 报价 名 引文 cite quota 名 定额 固定的量给出或者收入 限额 限制的量 如官方限制 如进出口
 rural                   形 农村的
-spill                   名动 溢出
+spill                   名动 溢出 spilt是过去式 split spray spit splash
 suburb                  名 郊区 同源词城市的urban
 arise                   动 产生 上升 arise from 源于某事
 arouse                  动 引起同cause 如感受情绪反应兴奋愤怒以及性欲 唤醒wake 都是动词 rise rose risen
@@ -22,7 +22,7 @@ beverage                名 饮料 连读有些妙
 cabin                   名 小木屋 舱如飞机上的头等舱
 pursuit                 名 追求爱好 词根pursue动词追求 发音重音都在中间purse则是没有重音
 cart                    名 大车 动 用大车运送  
-commute                 动 通勤 减刑 名 上下班路程即通勤 注意和communicate完全没关系
+commute                 动 通勤 减刑 名 上下班路程即通勤 注意和communicate完全没关系 commune
 converse                名 相反之物 形 相反的 动 交谈 conversation 重音不同
 crew                    名 全体船员 全体工作人员  
 dean                    名 院长学院头 系主任部门头
@@ -35,16 +35,16 @@ echo                    名 回声
 excessive               形 过高的 过度的
 excess                  名 过度 重音都在中间
 expertise               名 专长 词根专家expert完美继承了expert的所有音
-fade                    动 褪色 逐渐消失 花枯萎 2v够了 decay
+fade                    动 褪色 逐渐消失 花枯萎 2v够了 decay dye单纯觉得像
 fate                    名 命运  
 fatal                   形 致命的即导致死的 导致失败灾难的 词根命运 这也是和命相关的
 fragment                名 碎片指物质 片段指言语 动 分散如力量 破碎如物质
 gasoline                名 汽油 美式  gas 气体 燃气 汽油  
-hazard                  名 危险 动 冒风险 从掷骰子游戏引申到冒险
+hazard                  名 危险 动 冒风险 从掷骰子游戏引申到冒险 hatred
 horror                  名 恐惧 horrify 使恐惧 horrible terror 恐惧  fright惊吓
 insult                  动 侮辱 辱骂
 journalism              名 新闻业 journal词根期刊日记 journalist人
-literate       形 有文化的 识字的  是literary文学的 literature文学的词根literature有一种省音读法
+literate                形 有文化的 识字的  是literary文学的 literature文学的词根literature有一种省音读法 literally literal
 lobby                   名 门厅 大堂 动 游说使通过
 marvelous               形 令人惊奇的 极好的同excellent
 marvel                  名 奇迹 动 感到惊讶 marvelous词根

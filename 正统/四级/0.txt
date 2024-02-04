@@ -17,7 +17,7 @@ solar               形 太阳的
 lunar               形 月亮的
 calorie             名 大卡 小卡 1000小卡路里=1大卡路里 多指大卡
 muscle              名 肌肉 发音类似castle
-poverty             名 贫穷 贫乏缺乏 2n
+poverty             名 贫穷 贫乏缺乏 2n deprivation 名 剥夺 缺乏 贫困同poverty 后两者都同poverty
 property            名 财产 特性
 mission             名 任务
 missile             名 导弹
@@ -50,7 +50,7 @@ dishearten          动 使沮丧 失去determination confidence 读音来自hea
 military            形 军用的  the military 名 军人 军队
 trap                名 陷阱 动 困住
 immune              形 免疫的 不受影响的 并非是疫苗音译
-induce              动 诱导 劝说 成功劝说导致某人做某事 导致
+induce              动 劝说 详细是成功劝说导致某人做某事 导致 deduce动 推断 1个够了
 revenue             名 收入 特别是一年的收入
 avenue              名 大街 林荫道 读音就差了首个元音
 whale               名 鲸
