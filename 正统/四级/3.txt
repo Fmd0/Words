@@ -44,8 +44,8 @@ hazard                  名 危险 动 冒风险 从掷骰子游戏引申到冒�
 horror                  名 恐惧 horrify 使恐惧 horrible terror 恐惧  fright惊吓
 insult                  动 侮辱 辱骂
 journalism              名 新闻业 journal词根期刊日记 journalist人
-literate                形 有文化的 识字的  是literary文学的 literature文学的词根literature有一种省音读法 literally literal
-lobby                   名 门厅 大堂 动 游说使通过
+literate                形 有文化的 识字的  是literary文学的 literature文学的词根literature有一种省音读法 literally逐字地 literal字面的逐字的
+lobby                   名 门厅 大堂 动 游说使通过 lorry
 marvelous               形 令人惊奇的 极好的同excellent
 marvel                  名 奇迹 动 感到惊讶 marvelous词根
 miracle                 名 奇迹
@@ -54,4 +54,4 @@ neutral                 形 中立的
 obligation              名 义务 责任 双重音起次中大
 oblige                  动 强迫同compel 帮助 读音大变
 palm                    名 手掌 棕榈
-plague                  名 瘟疫 特别是鼠疫 动 困扰 colleague结尾同
+plague                  名 瘟疫 特别是鼠疫 动 困扰 colleague结尾同 plateau

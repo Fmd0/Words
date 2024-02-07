@@ -1,7 +1,7 @@
-refine              动 提炼原料啥的 改进如系统 2v
+refine              动 提炼原料啥的 改进如系统 2v confine
 refrigerator        名 冰箱 部分音和fridge完全一致但是少了个字母
 reluctant           形 不情愿的
-reproduce           动 繁殖 复制 2v 开头长音 两个重音
+reproduce           动 繁殖 复制 2v 开头长音 两个重音 replicate
 rod                 名 杆 lid盖子 lip嘴唇 rope robe rub rib
 scandal             名 丑事 流言蜚语 sandal 名 凉鞋 slipper 名 拖鞋
 secondary           形 次要的  
@@ -20,7 +20,7 @@ brake               名动 刹车 同音break
 bump                名动 碰撞 尾音被省了就不好分辨 bang bulb slam slap
 cable               名 电缆 wire
 champion            名 冠军
-civilize            动 使开化 教化 civil
+civilize            动 使开化 教化 civil cultivate
 conscience          名 良心 和conscious区别少了n音
 controversy         名 争论 重音在头 controverse 而controversial就有两个重音了
 counsel             名动 建议 劝告 名 律师 应该和council同音
@@ -51,7 +51,7 @@ grace               名 优雅
 harsh               形 严厉的如惩罚 恶劣的如气候
 hijack              名动 劫持 读音就是hi+jack
 idle                形 空闲的 懒惰的 2a 和idol偶像同音
-impulse             名 冲动 脉冲 后者是电子专业术语
+impulse             名 冲动 脉冲 后者是电子专业术语 impose
 inevitable          形 必然发生的 不可避免的
 invade              动 侵略 重音在后
 invasive            形 侵略性的 肆意蔓延的 2a 后者倾向于引申

@@ -7,7 +7,7 @@ infrastructure              名 基础设施 引申自下层建筑
 particle                    名 颗粒如沙子 粒子物理学词语
 rational                    形 理性的 合理的 有理数的 rational number 有理数
 ration                      名 配给量 动 定量供应 都是指食物
-resort                      名 招数 度假胜地 动 诉诸
+resort                      名 招数即动词诉诸的名词形式极端不受欢迎的行动 度假胜地 动 诉诸 为了解决困境采取的行动通常极端不受欢迎 用法为resort to
 rival                       名 竞争对手 形 相互竞争的 动 比得上 不多见
 shrink                      名 精神病医生 动 缩小 退缩
 sophisticate                名 老于世故的人  动 使更精确 使老于世故
@@ -20,19 +20,19 @@ commission                  名 委员会 佣金 最常见的两种意思 和com
 corps                       名 军事部队
 disorder                    名动混乱 名失调紊乱指疾病
 dispute                     名动 争论 争吵
-inflate                     动 充气如球 夸大 抬高如物价
-deflate                     动 放气 使泄气用于人 紧缩如经济
+inflate                     动 充气如球 过分增加量 如夸大 经济学造成通货膨胀
+deflate                     动 放气 使泄气即失去信心热情 经济学造成通货紧缩
 inner                       形 里面的 核心的 名 里面
 procedure                   名 程序 步骤
 span                        名 范围 动 跨越 
 tragedy                     名 灾难 悲剧
-diplomat                    名 外交官 人
+diplomat                    名 外交官 人 diploma diplomatic
 dolphin                     名 海豚
 crack                       名 裂缝 动 裂开 后面加er后缀就是黑客 薄脆饼干
 entitle                     动 使享有权利使有权 题名
 entity                      名 实体 明显独立的存在
-episode                     名 一集
-eclipse                     名 日食 月食
+episode                     名 一集 series serial
+eclipse                     名 日食 月食 glimpse尾音一致
 fascinate                   名 迷住 和 fascination 自成一根
 genius                      名 天才 天资 和genuine的区别
 gravity                     名 重力 严肃  grave 名 坟墓 形 严肃的 是重力词根
@@ -41,14 +41,14 @@ initiate                    动 开始
 luxury                      名 奢华 奢侈 形 奢侈的 奢华的
 keen                        形 渴望的 热心的
 mechanic                    名 技工
-mill                        名 磨坊
-nerve                       名 神经 勇气等于courage
+mill                        名 磨坊 grind powder
+nerve                       名 神经 勇气等于courage gut
 occasion                    名 场合时机 某次 occasionally 偶然 
-outlet                      名 油气水排放口
-plunge                      名动 跳水 骤降 
+outlet                      名 油气水排放口 drain discharge
+plunge                      名动 跳水 骤降 plumb plough dive
 refugee                     名 难民
 refuge                      名 避难所
-renovate                    动 翻新 修补
+renovate                    动 翻新 修补 innovative relative
 spite                       名 恶意 多用于短语尽管
 steer                       动 驾驶 引导
 sting                       动 刺 名 刺痛 刺
@@ -56,11 +56,11 @@ surgery                     名 外科手术
 surgeon                     名 外科医生
 tackle                      名 索具 动 处理
 transaction                 名 交易
-transact                    动 交易 谈判
+transact                    动 交易 谈判 negotiate
 tunnel                      名 隧道
 venture                     名 企业 冒险 动 冒险
 vessel                      名 船 容器 管
-bullet                      名 子弹
+bullet                      名 子弹 ballot battalion bail
 colony                      名 殖民地
 compel                      动 强迫
 convict                     名 囚犯 动 判决定罪
@@ -71,7 +71,7 @@ donkey                      名 驴
 emit                        动 散发
 evil                        形 邪恶的 邪恶 名 坏事
 excel                       动 擅长 胜过超过
-fancy                       名动 幻想 想要  和fanciful自成一根
+fancy                       名动 幻想 想要  和fanciful自成一根 favor fascinate fantastic
 gamble                      动 赌博
 garble                      动 使...错乱 篡改
 
