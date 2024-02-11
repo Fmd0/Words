@@ -3,7 +3,7 @@ bait                    名 饵如鱼饵 动 放饵 鱼钩或是陷阱中用于�
 loophole                名 漏洞 法律和制度中的 同 let-out
 authorize               动 批准 官方的允许和同意 同sanction authority
 withstand               动 经受住承受住如地震压力 保持未受伤未受影响同resist withdraw
-colon                   名 冒号 结肠解剖学专业位于盲肠和直肠之间
+colon                   名 冒号 结肠解剖学专业位于盲肠和直肠之间 形似colony
 aptitude                名 天资 做某事的自然能力 使用aptitude安装包
 slam                    动 用力大声的关如门窗 名 用力关如门窗得到的大声 同bang突然的巨响
 Marxist                 名 马克思主义者 形 马克思主义的 marble garble
@@ -22,7 +22,7 @@ customs                 名 海关 关税 词源custom惯例
 ore                     名 矿石 天然存在的 和awe同音多了尾音r
 allege                  动 声称 声称断言某人做了非法错误的事 通常没证据 断言是自信且强力地陈述
 clear-cut               形 明确清晰容易理解的 树被砍完的
-petty                   形 不重要无关紧要的如琐碎的小事 kitty小猫 pup puppy小狗
+petty                   形 不重要无关紧要的如琐碎的小事 kitty小猫 pup puppy小狗 意
 provided                连 假如 即在这个条件下 曾经的疑惑一扫而空
 bloody                  形 流血沾血的 流血残忍为特征的事件即血腥残暴的
 crane                   名 起重机涉及到悬挂重物实际上是吊车 而不是那种起重车？ 鹤 动 伸长身体或脖子为了看某物
@@ -37,4 +37,4 @@ commence                动 开始 同begin 正式用语 commerce ˈkɒmɜːs  �
 spontaneous             形 自发主动的 即非因为外部的刺激而是内部原因导致
 absentee                名 缺席者 双重音大重音在末尾 词根absent
 afloat                  形 漂浮的 即浮在水面上没有沉的 在海上即在船上  没有债务或困难的 即能应付的如经济
-asymmetric              形 不对称的 symmetric发音同 metric昨天刚学发音也同 symmetry对称性
+asymmetric              形 不对称的 symmetric发音同 metric昨天刚学发音也同 symmetry对称性 后形同metric

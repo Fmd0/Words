@@ -12,7 +12,7 @@ celsius                 名 摄氏度 形 摄氏的 同centigrade another term o
 diameter                名 直径 radius
 electron                名 电子 物理学的电子 electronic elect
 narrate                 动 叙述 不管是口头还是书面
-dime                    名 十分硬币 美加的 一小笔钱
+dime                    名 十分硬币 美加的 一小笔钱 形似dim
 slender                 形 苗条的
 metric                  形 公制的 公制也叫做米制按照米为单位 英制是一英寸为计算 名 测量标准 matrix
 lens                    名 透镜 凸透镜凹透镜 周边弯曲用于聚光
