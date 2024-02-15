@@ -8,7 +8,7 @@ storage             名 贮藏 存储
 strip               名 条 动 剥夺如衣服权利
 suicide             名 自杀
 trigger             名动 引发 名 板机 特定事件的诱因  注意名动皆有
-troop               名 部队
+troop               名 部队 是军事的 意似corps
 utility             名 实用性 形 实用的 计算机名词实用程序  与utilize非同根  
 verity              名 真理
 visible             形 看得见的 able to be seen
@@ -18,7 +18,7 @@ workshop            名 车间在工厂里 研讨会 2n seminar 也是研讨会 
 accustom            动 使习惯 to accustom sb to do
 aisle               名 过道 走道 alley ally lane
 amid                介 在其中加背景人文或自然环境 在...中
-assemble            动 组装 召集集合如人 2v
+assemble            动 组装 召集集合如人 2v 形似resemble
 auditorium          名 观众席是剧院的一部分地方  同根词 auditory 听觉的
 beforehand          副 提前 事先 ahead of time 注意重音位置
 brutal              名 残酷的如人或制度 不留情面的即directly
@@ -41,7 +41,7 @@ disposal            名 处理如污染物 出售如自己财产
 dispose             动 处理如污染物垃圾 使倾向于 布置同arrange 3v 重音同
 dominant            形 支配的 主导的 对其他有权力或者影响 
 dominate            动 统治 支配 对什么有权力和影响
-dose                名 一次的剂量 a dose of 药
+dose                名 一次的剂量 a dose of 药  形似dozen
 drain               动 排水要排光的那种 耗尽精力活力 名 排水管下水道 2v
 dropout             名 退学者 单词内连读
 dull                形 缺乏兴趣兴奋即无赖 缺乏光亮鲜艳即暗淡 理解慢的笨的即迟钝 3v

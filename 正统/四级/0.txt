@@ -46,7 +46,7 @@ vehicle             名 机动车 手段工具
 bet                 名动 赌 gamble
 fossil              名 化石 老顽固
 imply               动 暗示 意味着
-dishearten          动 使沮丧 失去determination confidence 读音来自heart
+dishearten          动 使沮丧 即失去determination confidence 音同heart 意似deflate
 military            形 军用的  the military 名 军人 军队
 trap                名 陷阱 动 困住
 immune              形 免疫的 不受影响的 并非是疫苗音译

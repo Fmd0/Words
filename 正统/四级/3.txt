@@ -34,7 +34,7 @@ dump                    名 垃圾场 动 倾倒
 echo                    名 回声
 excessive               形 过高的 过度的
 excess                  名 过度 重音都在中间
-expertise               名 专长 词根专家expert完美继承了expert的所有音
+expertise               名 专长 词根专家expert完美继承了expert的所有音 形似expense 开头元音不同
 fade                    动 褪色 逐渐消失 花枯萎 2v够了 decay dye单纯觉得像
 fate                    名 命运  
 fatal                   形 致命的即导致死的 导致失败灾难的 词根命运 这也是和命相关的

@@ -1,6 +1,6 @@
 executive           名 经理 形 决策的 有执行权的
 executable          形 可执行的 计算机专业单词
-execute             动 执行 表演 处决 这一根读音e开头而非I
+execute             动 执行 表演 处决 这一根读音有e也有I
 mass                名 大量 形 大量的 massive也有大量的意思
 nap                 名动 小睡 特别指白天 nod
 domestic            形 国内的 家庭的  
@@ -21,7 +21,7 @@ spouse              名 配偶
 automate            动 使自动化 确实只有一个意思 automatic
 heritage            名 遗产 特别和文化遗产有关 legacy
 perception          名 感觉如听看通过人体感觉感知事情 看法 2n
-perceive            动 感知察觉become aware of 把...看作regard 2v prescription prescribe
+perceive            动 感知察觉become aware of 把...看作regard 2v prescription prescribe 变法同receive reception
 physic              名 医学即治疗的艺术 药品 动 给服药 2n1v physician
 asset               名 资产如钱 优势指人的 有用有价值的人或物
 cope                动 应付
@@ -47,7 +47,7 @@ faculty             名 才能 学院 全体教师 faulty dean facility
 garbage             名 垃圾 废话 garage 
 justice             名 公平 公正 
 proverb             名 谚语 idiom
-resolve             动 决定下决心 解决 分解 名 决定 决心
+resolve             动 决定下决心 解决 分解 名 决定 决心 意似dissolve
 resolution          名 决心 分辨率 读音变化和reside和resident一样
 romantic            形 浪漫的 自然和名词浪漫同根 名 浪漫的人
 romance             名 浪漫   
