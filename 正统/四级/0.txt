@@ -20,9 +20,9 @@ muscle              名 肌肉 发音类似castle
 poverty             名 贫穷 贫乏缺乏 2n deprivation 名 剥夺 缺乏 贫困 后两者都同poverty
 property            名 财产 特性
 mission             名 任务
-missile             名 导弹
+missile             名 导弹 形似exile
 expense             名 费用 代价 昂贵的词根
-recession           名 衰退 特指经济
+recession           名 衰退 特指经济 意似depression recession强调衰退过程，而depression侧重衰退过后经济不景气的萧条局面。当然更为书面的定义是GDP连续两个季度出现负增长称为recession，而该年GDP较前一年萎缩10%以上则称为depression。
 recess              名 暂停如暑假法庭的休会 课间休息 美式英语中
 boost               动 促进增加提升
 immigrant           名 移民 migrant本国内迁移的人比如工人immigrant外国迁移进来的人emigrant本国迁出的人

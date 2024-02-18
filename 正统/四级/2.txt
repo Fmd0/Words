@@ -34,7 +34,7 @@ entity                      名 实体 明显独立的存在
 episode                     名 一集 series serial
 eclipse                     名 日食 月食 glimpse尾音一致
 fascinate                   名 迷住 和 fascination 自成一根
-genius                      名 天才 天资 和genuine的区别
+genius                      名 天才 天资 形似genuine
 gravity                     名 重力 严肃  grave 名 坟墓 形 严肃的 是重力词根
 initiative                  名 主动性 主动行为 少了个音
 initiate                    动 开始
@@ -48,7 +48,7 @@ outlet                      名 油气水排放口 drain discharge
 plunge                      名动 跳水 骤降 plumb plough dive
 refugee                     名 难民
 refuge                      名 避难所
-renovate                    动 翻新 修补 innovative relative
+renovate                    动 翻新 修补 形似innovative 形似音似relative
 spite                       名 恶意 多用于短语尽管
 steer                       动 驾驶 引导
 sting                       动 刺 名 刺痛 刺

@@ -12,7 +12,7 @@ landscape           名 一切陆地上的风景 scape后缀表明一种具体�
 lane                名 小路小巷 lame lamb
 leak                动 漏物理的 泄露如秘密 名 漏物理的 泄露如秘密 
 lean                动 倾斜 靠 形 瘦的
-lease               名 租约 动 租用 出租
+lease               名 租约 动 租用 出租 意形似loan
 limitation          名 限制 二重 来自于规则或者是环境
 loyal               形 忠实的 单词内元音连读
 loyalty             名 忠诚 辅音不发生连读
