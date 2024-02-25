@@ -101,12 +101,12 @@ chest 名 胸膛 大箱子 木做的用于存储运输 金库是英式说法 几
 chewing gum 名 口香糖
 chick 名 小鸡
 chimney 名 烟囱
-chorus 动 合唱队
+chorus 动 合唱队 形似chaos
 chop 名 排骨 名动 砍 劈
 cigar 名 雪茄烟
 circus 名 马戏
 clause 名 条款 分句
-claw 名 爪子
+claw 名 爪子 形似clause
 cocoa 名 可可粉 可可茶
 collar 名 领子 cola 元音之差
 coloring 名 着色 面色

@@ -10,7 +10,7 @@ crown 名 王冠 冠军
 cupboard 名 橱柜
 CV 简历  curriculum vitae
 cybercrime 名 网络犯罪
-damn 语气词 该死
+damn 语气词 该死 音同dam 水坝
 damp 动 潮湿的 名 潮湿 moist
 darling 名 亲爱的人 形 亲爱的 词源dear
 daylight 名 日光 黎明
@@ -30,7 +30,7 @@ doorway 名 门口
 downtown 形副名 市中心
 drawer 名 抽屉
 drier 名 吹风机干衣机 同dryer
-drought 名 旱灾 干旱 词根dry
+drought 名 旱灾 干旱 词根dry 形似 drain drought drown 特别是drown要重记
 drown 动 淹死 submerge drain 动 排水要排光的那种 耗尽精力活力 名 排水管下水道 2v
 drum 名 鼓
 duckling 名 小鸭
@@ -72,7 +72,7 @@ flame 名 火焰 动 燃烧 指火焰
 flameing 形 燃烧着的 火红的
 flashlight 名 手电筒 闪光灯照相机上的
 flee 动 逃离  fleet
-flour 名 面粉 flourish
+flour 名 面粉 音同flower ！！  同根词 flourish  意似thrive
 forehead 名 额
 formation 名 形成
 fortnight 名 两星期
@@ -95,7 +95,7 @@ glare 动 怒视 gaze glimpse glance
 glorious 形 光荣的  
 glory 名 光荣
 goods 名 商品 货物 集合名词
-gossip 名 流言蜚语 动
+gossip 名 流言蜚语 动 说长道短  意似scandal
 granny 名 外婆 奶奶
 grassland 名 草原 prairie premier
 Greece 名 希腊 

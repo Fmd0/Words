@@ -12,7 +12,7 @@ handkerchief 名 手帕
 hatch 动 孵化如蛋 名 舱口 小的开口允许一边到另一边 cabin
 hatred 名 仇恨 词根hate
 hawk 名 鹰
-hay 名 干草
+hay 名 干草 音同hey 语气词嗨
 headmistress 名 女校长
 headteacher 名 校长 班主任
 heaven 名 天堂
@@ -56,7 +56,7 @@ kidney 名 肾 腰子 后者多指动物的肾 liver
 kindhearted 形 善良的
 lace 名 花边
 ladder 名 梯子
-lame 形 跛的 瘸的
+lame 形 跛的 瘸的 意似limp limb cripple dumb
 landlady 名 女房东
 lane 名 小路 小巷 alley
 laser 名 激光
@@ -87,7 +87,7 @@ lighter 名 打火机 match
 lighting 名 光亮 lightning闪电 大有不同
 likewise 副 同样地 也 同likely
 liquid 名 液体
-liter 名 升 
+liter 名 升  形同litter
 literally 副 逐字的  
 literary 形 文学的
 litter 名 垃圾 动 乱扔
@@ -100,7 +100,7 @@ luggage 名 行李
 mall 名 购物中心 和mail区别
 maple 名 枫树
 marathon 名 马拉松赛跑
-mat 名 垫子 cushion pad mattress
+mat 名 垫子 意同cushion pad mattress
 mayor 名 市长
 medal 名 勋章
 melody 名 曲调

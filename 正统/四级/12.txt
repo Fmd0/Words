@@ -35,7 +35,7 @@ smash           动 击碎 即击成碎片
 snap            名 快照 啪的一声断了 动 拍快照 啪的一声断了
 sphere          名 球形体面 领域 如活动知识
 startle         动 使吃惊受惊
-stripe          名 条纹 元音变了而且就变了元音 词根strip 名 条 动 剥夺如衣服权利
+stripe          名 条纹 元音变了而且就变了元音 词根strip 名 条 动 剥夺如衣服权利 形似意似strap
 succession      名 一连串 a succession of 继承 in succession连续地 词根succeed
 summit          名 山顶 顶峰即最高可获得成就 首脑会议 peak submit
 tame            形 驯化的 平淡乏味的 动 训话如动物

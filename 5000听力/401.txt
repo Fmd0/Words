@@ -50,7 +50,7 @@ stewardess 名 女乘务员
 stiff 形 硬的如物体 僵硬的如人的身体 rigid 僵硬的物体无法弯曲不灵活 人因为害怕无法移动 同stiff的那个意思 死板的
 stopwatch 名 秒表
 storey 也作story 名 楼层  读音和故事相同 story
-strain 名 压力 紧张
+strain 名 压力 紧张  意同 stress  形似 restrain restrict confine  restrain restrict还是有区别 前者倾向于防止 控制 后者倾向于 控制
 strait 名 海峡
 stroke 名 一击 动 击  多了中风医学用语
 strike 动 击打 过去式 struck 过去分词struck
@@ -67,7 +67,7 @@ supper 名 晚饭
 surplus 名 剩余
 swallow 名 燕子 还有这个意思哦
 Swiss 名 形 瑞士的
-Switzerland 名 瑞士
+Switzerland 名 瑞士  形似 Netherlands 注意多了末尾的s
 tablet 名 药片
 tailor 名 裁缝
 taxpayer 名 纳税人
@@ -90,7 +90,7 @@ thriller 名 惊险电影
 tin 名 锡 罐头
 toast 名 烤面包片 动 烤 roast也是烤 boast
 tobacco 名 烟草
-toe 名 脚趾
+toe 名 脚趾  意似 claw paw  claw是指足部指头上的角质甲，paw指动物的脚包括claws和爪垫
 toll 名 通行费过桥过路 和前者一l之差 fare票价一次旅行的费用 fee
 toothpaste 名 牙膏
 torch 名 手电筒 火把 touch
@@ -107,13 +107,13 @@ trousers 名 裤子
 trumpet 名 小号
 typewriter 名 打字机
 tyre 名 轮胎
-unrest 名 动乱 如公众示威游行引起的
+unrest 名 动乱 如公众示威游行引起的 意似 chaos riot 形似 uneasy restless  uneasy和unrest词性不同
 up-to-date 形 最新的
 vain 形 自负的 贬义词 徒劳的 
 vapor vapour 名 蒸汽 evaporation
 vase 名 花瓶
 vet 名 兽医
-vice 名 罪恶
+vice 名 罪恶  意似 spite
 vigorous 形 有力的 vigour vibrant vibrate
 vinegar 名 醋
 wag 动 摇摆 狗摇尾巴
@@ -128,7 +128,7 @@ weatherman 名 男天气播报员
 weed 名 野草
 weird 形 怪异的 bizarre wire
 wheelchair 名 轮椅
-whip 名 鞭子 
+whip 名 鞭子 动 抽打
 whistle 名 哨声 动 吹口哨 castle
 wicked 形 邪恶的
 widow 名 寡妇 和wife很近

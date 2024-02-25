@@ -32,7 +32,7 @@ parliament 名 英国议会
 passage 名 过道走廊 文章中的段落  paragraph
 passer-by 名 路过者
 pat 名 轻拍 tap轻拍水龙头
-pavement 名 人行道
+pavement 名 人行道  形同pave 动 铺
 pearl 名 珍珠 贝壳生产的
 peasant 名 农民
 pedal 名 脚蹬子 如自行车的踏板
@@ -46,14 +46,14 @@ pickpocket 名 扒手
 pine 名 松树
 pineapple 名 菠萝
 pint 名 品脱
-plateau 名 高原 唯二高原highland altitude attitude
+plateau 名 高原 唯二高原highland 意似altitude attitude 形似 plague
 playmate 名 游戏伙伴
 plough 名 犁地 耕地 plumb plunge
 porridge 名 粥
 postage 名 邮费  
 postbox 名 邮箱
 prairie 名 大草原
-premier 名 总理 首相 形 首要的即最重要的
+premier 名 总理 首相 形 首要的即最重要的 意似 chief
 prescription 名 开处方 处方 规定 2n
 priceless 形 无价的 宝贵的
 
@@ -82,13 +82,13 @@ ray 名 光线 射线
 receptionist 名 接待员
 recorder 名 录音机
 referee 名 裁判
-refund 动 退还
+refund 动 退还 唯三r且长i refund relay rewind
 relay 名  传递(信息 新闻)  转播 接力赛
 relic 名 文物 遗迹
 religion 名 宗教信仰  
 religious 形 信教的 虔诚的
 renewable 形 可延期的 可再生的
-reporter 名 记者
+reporter 名 记者 意同journalist
 reptile 名 爬行动物
 resign 动 辞职
 resume 动 恢复继续 rescue救援注意相同点两个单词英文字数相同 cue queue
@@ -97,7 +97,7 @@ rewarding 形 有益的有益的  reward报偿值得
 rewind 动 倒回 回到开始 电影或磁带
 rhyme 名动 押韵 
 rhythm 名 节奏 韵律  
-rhythmic 形 有节奏的
+rhythmic 形 有节奏的  形似 rhyme rhythm rhythmic
 riddle 名 谜语 written永远是个坑 write同right
 ripen 动 使成熟
 roar 动 咆哮 指大型动物 轰鸣 有点像howl
@@ -111,7 +111,7 @@ sacred 形 神圣的  sacrifice (sacri + fice) 词源 (sacred 神圣的 + fact) 
 saint 名 圣徒
 salute 名动 敬礼
 sandal 名 凉鞋 slipper sneaker sandal
-sauce 名 调味汁  
+sauce 名 调味汁 音同 source
 saucer 名 茶托  
 sausage 名 香肠
 scarce 形 稀有的 缺乏的  
