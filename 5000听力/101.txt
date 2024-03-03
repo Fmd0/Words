@@ -55,7 +55,7 @@ eve 名 前夕
 
 eyesight 名 视力
 eyewitness 名 目击者
-faint 名动 昏倒 形 微弱的 形容声音
+faint 名动 昏倒 形 微弱的 形容声音 意似 collapse fatigue 形似 colleague league plague gue结尾
 famine 名 饥荒
 fantasy 名 幻想 同根词fantastic fancy和fan则是另一根
 fare 名 车费 旅行公共交通的票价 
