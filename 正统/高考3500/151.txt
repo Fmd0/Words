@@ -1,110 +1,110 @@
-own 
-ox 
-Pacific speific
-paddle puddle
-pair 同音pear
-pale 
-pancake 
-panic 
-parallel 
-parcel 
-parrot 
-particular 
-passive 
-patent 
-pattern 
-pause 
-pavement 
-pea 
-peace 
-peach 
-penny pence 
-pension 1停
-pepper 
-percent 
-perfume perfumed 
-permanent 
-personneel 
-pest 
-petrol 
-photography
-photographyer 
-phrase 
-physician 
-physical 
-physicist 
-physics 
-pie 
-pile 
-pill 
-pilot 
-pin 
-pine 
-pint 
-pipe 
-planet 
-plot 
-pocket 
-poem 
-poet 2停
-poisonous 
-pole 
-policewoman 
-polite 
-political 
-politics 
-pond puddle 
-pool 
-pop pop icon 
-pork 
-porter 
-positive 
-postcode postage postcard 
-postman 
-postpone 
-pot 
-pound 
-pour 
-powder 
-practical 
-prairie 
-pray 
-prayer 
-prefer 
-pregnant permanent
-prejudice 
-president 3停
-previous 
-primitive 
-prison 
-privilege 
-procedure 
-profit 
-program programme 
-prohibit 
-promote 
-properly 
-province 
-publicly 
-pulse 
-pump 
-punctual 
-purchase 
-purse 
-puzzle 
-pyramid egyptian 4停
-quarrel
-quilt 
-racial 
-radiation 
-radium 
-railway 
-rare 
-raw 
-razor 
-react 
-realise 
-receipt 5停
+own 形 自己的 动 拥有
+ox 名 牛的统称 阉割公牛用于干农活 bull是为阉割
+Pacific 名 太平洋  形似speific
+paddle 名 桨 动 划桨 puddle 名 水洼
+pair 名 一双 同音pear
+pale 形 苍白的 动 变得苍白
+pancake 名 薄煎饼
+panic 名 恐慌 动 感到恐慌
+parallel 形 平行的
+parcel 名 包裹
+parrot 名 鹦鹉
+particular 形 特别的 peculiar 形 奇怪的 同strange 特殊特别的
+passive 形 被动的
+patent 动 获得专利 形 明显的 名 专利 
+pattern 名 图案 模式
+pause 名动 暂停
+pavement 名 人行道
+pea 名 豌豆
+peace 名 和平
+peach 名 桃子
+penny 名 便士 pence 
+pension 1停 名 养老金
+pepper 名 胡椒粉
+percent 副 百分之
+perfume 名 香水 动 使香味弥漫  形似 pregnant permanent fragrant perfumed 
+permanent 形 永久的
+personnel 名 员工 人事部门 
+pest 名 害虫 讨厌人或事即nuisance 非正式
+petrol 名 汽油 英式 gasoline 美式汽油
+photography 名 摄影术
+photographer 名 摄影师
+phrase 名 短语 即一组词构成句子的一个组成部分 习语 一种习惯的或短小精悍的表达
+physician 名 医生 doctor
+physical 形 物质的 身体的
+physicist 名 物理学家
+physics 名 物理学
+pie 名 馅饼 音译派
+pile 名 堆
+pill 名 药丸 dose
+pilot 名 飞行员
+pin 名 大头针  needle
+pine 名 松树
+pint 名 品脱
+pipe 名 管子
+planet 名 行星
+plot 名 情节 名动 密谋阴谋 一群人秘密制定的做非法或有害的事情的计划 动 绘制 以前经常用到的函数
+pocket 名 口袋 衣服上的东西用于放小东西 Pocket Monsters 口袋妖怪
+poem 名 诗
+poet 2停 名 诗人
+poisonous 形 有毒的  poison
+pole 名 hole 洞
+policewoman 名 女警察
+polite 形 有礼貌的
+political 形 政治的
+politics 名 政治
+pond 名 池塘 puddle 名 水洼 
+pool 名 池塘  pond和pool都是池塘
+pop 形 流行音乐的 名 流行音乐 动 砰 pop icon 流行偶像
+pork 名 猪肉
+porter 名 行李员
+positive 形 积极的
+postcode 名 邮政编码 postage邮费 postcard明信片
+postman 名 邮递员
+postpone 动 推迟
+pot 名 锅 罐
+pound 名 磅
+pour 动 倾倒
+powder 名 粉末
+practical 形 实际的 
+prairie 名 大草原
+pray 动 祈祷
+prayer 名 祷告 祈祷
+prefer 动 较喜欢
+pregnant 形 怀孕的 permanent
+prejudice 名 偏见 discrimination
+president 3停 名 总统
+previous 形 先前的
+primitive 形 原始的
+prison 名 监狱
+privilege 名 特权
+procedure 名 程序 步骤
+profit 名 利润
+program 名 程序 programme 
+prohibit 动 禁止 意同forbid
+promote 动 推销 促进 晋升
+properly 副 正确的 合适地
+province 名 省
+publicly 副 公开地 
+pulse 名 脉冲 动脉搏动 impulse 冲动 脉冲  两者的区别在通信专业方面可惜我不懂
+pump 名 泵
+punctual 形 准时的
+purchase 名 购物
+purse 名 手提包 钱包
+puzzle 动 使困惑 名 谜
+pyramid 名 金字塔 棱锥 egyptian 4停
+quarrel 名动 争吵
+quilt 名 被子
+racial 形 种族的
+radiation 名 辐射 表现为人能够感知的发热发光 同根词radiate
+radium 名 镭 一种化学元素
+railway 名 铁路
+rare 形 罕见的 珍稀的
+raw 形 生的 如食物 为加工处理的 如材料物质以及照片
+razor 名 剃须刀
+react 动 作出反应
+realise 动 认识到
+receipt 5停 名 收据 收到 recipient 名 接受者 接受奖项或救济
 recipe 
 recite 
 recognize

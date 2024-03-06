@@ -44,7 +44,7 @@ allowance 名 补贴 零花钱
 alphabet 名 字母表
 alternative 名 选择 形 可供替代的
 altitude 名 海拔
-aluminium 名 铝 2停
+aluminium 2停 名 铝 注意到 aluminum也是铝 只有北美（美国和加拿大）写Aluminum 吐了 原来自己熟悉的不是正统的
 amateur 名 业余爱好者
 ambassador 名 大使
 ambassadress 名 女大使 大使夫人
