@@ -1,232 +1,231 @@
-skip 
-skyscraper 
-slavery slave savage 
-sleeve 
-slice 
-slide 
-slight 
-slim 
-slip 
-smelly 
-snack 
-snatch 重要 
-sneaker 
-sniff 
-soap 
-sock stocking 
-softball 
-solar 
-soldier 
-solid 
-somehow 
-sorrow 
-sort 
-sour 
-sounthern 
-souvenir 
-spear 1停
-spin 
-spiritual 
-spit 
-spledid 
-split 
-spokesman 
-spokeswoman 
-sponsor 
-spoon
-spray 
-squeeze 
-squild 
-squirrel 
-stain 
-stainless 
-standard 
-stare 
-starvation 
-starve 
-statesman 
-stateswoman 
-statistics 
-statue 
-status 
-steady 
-steak 
-steal 
-steep 
-steward 
-stewaedess 
-stocking 
-storage 
-stout 
-stove 
-strait 2停
-straw 
-street 
-strength 
-strengthen 
-strike 
-string 
-stubborn 
-subjectibe 
-subscribe 
-suck 
-suite 
-sunburnt 
-superb 
-superior 
-supreme 
-surgeon surgery 
-surplus 
-survial 
-suspect 
-suspension suspend 
-swear curse 3停
-sweat 
-swell 
-swing 
-sword 
-sympathy 
-symphony harmony 
-symptom 
-tablet 
-tap 
-tape casette
-target 
-taxpayer 
-tear 
-tease 
-temporary 
-temptation 
-tense 
-tension 
-tentative 
-terror horror 
-text 
-theater 
-theft thief 4停
-theoretical 
-thermos 
-thief 
-thirst 
-thorough 
-thought 
-thread 
-thrill 
-thriller 
-throat 
-thus 
-tie 
-tight 
-tiresome 
-toast 
-tobacoo 
-toilet 
-tolerate 
-tomb 
-ton tonne 
-tool 
-toothache 
-toothpaste 
-tortoise 
-towel 
-tower 5停
-track 
-tractor 
-transparent 
-trap 
-traveler 
-treasure 
-tremble 
-trend 
-trial 
-triangle rectangle trilogy tricycle 
-troop 
-trousers 
-truck trunk lorry 
-trunk 重要
-tube 
-tune 重要 
-turkey 
-turning 
-twist 
-typhoon 
-typist 
-tyre 
-unbearable
-unconditional 
-unconscious 
-underwear 6停
-unemployment 
-unfair 
-unfortunately 
-update 
-urge 
-urgent 
-vacant 
-vague 
-vain 重要 
-valid 重要 
-valley 
-vanilla 重要 
-vase 
-vase 
-veal 重要 
-vest 
-via 
-vice 
-videophone 
-vinegar 重要 
-violence 
-virtue 
-virus 
-visa 
-vital 
-vivid 
-volcano 7停 
-voyage 
-wag 
-wage 
-waist waste 
-wall 
-walnut 
-wander wonder 
-war 
-ward 
-warephouse 
-washroom 
-wax 
-wayside 
-wealthy 
-weed 
-weep 
-welfare 
-westward 
-whale 8停 
-wheat 
-wheel 
-whisper murmur 
-whistle 
-widom 重要 
-wild 
-wildlife 
-windbreaker 
-wine 
-wipe 
-wire 
-withdraw 
-wolf 
-wool 
-wollen 
-workforce 
-worm 
-worn 
-wound 
-wounded 
-wrestle 
-wrinkle 
-wrist 9停
-yell 
-yoghurt 
-youth 
-zebra 
-zone 
+skip 动 跳过即omit 蹦蹦跳跳地走
+skyscraper 名 摩天大楼
+slavery 名 奴隶身份状态 the state of being a slave slave 名 奴隶 savage 
+sleeve 名 袖子
+slice 动 切片 名 薄片 部分 nv皆有
+slide 动 滑行
+slight 形 细微的
+slim 形 苗条的 渺茫的 抽象的东西非常小如机会余地
+slip 动 滑倒  slip : 指不自觉地、偶然地滑动。slide : 通常多指与光滑表面保持接触并且迅速地连续滑动。
+smelly 形 发臭的 即有强烈难闻味道的
+snack 名 小食
+snatch 名动 快速抓住 粗鲁或急切的方式
+sneaker 名 运动鞋 美式  sneak 动 溜 溜就是偷偷移动的意思 偷偷做
+sniff 名动 嗅 为了检测味道
+soap 名 肥皂
+sock 名 短袜 stocking 名 长筒女袜
+softball 名 垒球
+solar 形 太阳的
+soldier 名 士兵
+solid 形 固体的 立体的即三维的 实心的 名 固体 相对于液体和流体而言
+somehow 副 以某种方式 出于某种原因 somewhat 副 有点
+sorrow 名 悲伤 伤心事 动 感到悲伤
+sort 名 种类 动 分类 sort of 有点儿 大约 和kind of很像
+sour 形 酸的
+southern 形 南方的
+souvenir 名 纪念品
+spear 1停 名 矛
+spin 动 快速旋转 纺织
+spiritual 形 精神的
+spit 动 吐口水
+splendid 形 壮丽的 壮观极好 同magnificent一模一样 如景观衣服
+split 动 切开劈开 即强制性的分开
+spokesman 名 发言人
+spokeswoman 名 发言人
+sponsor 名 赞助者
+spoon 名 匙 瓢羹
+spray 名 喷雾 水花
+squeeze 动 榨
+squid 名 鱿鱼
+squirrel 名 松鼠
+stain  名 污点 动 弄脏  
+stainless 形 无污点的 没有不锈钢的意思
+standard 名 标准  criterion
+stare 动 凝视 注视
+starvation 名 挨饿 starve
+starve 动 挨饿
+statesman 名 政治家
+stateswoman 名 政治家
+statistics 名 统计学 statistic的复数形式 statistic 名 统计数字
+statue 名 雕像
+status 名 地位
+steady 形 稳定的
+steak 名 牛排
+steal 动 偷
+steep 形 陡峭的
+steward 名 乘务员
+stewardess 名 女乘务员
+stocking 名 女士长袜
+storage 名 存储
+stout 形 人肥胖的 物体粗壮的 勇敢有决心的
+stove 名 炉子 oven烤箱 furnace熔炉暖气炉 fireplace壁炉
+strait 2停 名 海峡
+straw 名 禾秆 干的谷秆，尤指用作饲料或盖茅草、包装或编织的材料:
+street 名 街道
+strength 名 体力 优点
+strengthen 动 加固增强 make or become stronger reinforce
+strike 动 击打
+string 名 细绳 一连串 a string of 
+stubborn 形 固执的
+subjective 形 主观的
+subscribe 动 订阅
+suck 动 吸食 吮吸
+suite 名 一套家具 fitness suite健身房
+sunburnt 形 晒伤的
+superb 形 极好的 如表现
+superior 名 上司 形 上级的 比较的上 higher in rank, status, or quality 级别地位质量的更高
+supreme 形 至上的
+surgeon 名 外科医生 surgery 
+surplus 名 剩余
+survival 名 存留 the state or fact of continuing to live or exist, typically in spite of an accident, ordeal, or difficult circumstances
+suspect 动 推测 推测是没有确定证据下的想法 怀疑 怀疑是质疑真实性 suspicion suspicious
+suspension 名 暂停 suspend 
+swear 3停 动 发誓  curse 动 诅咒 名 咒语
+sweat 名 汗
+swell 动 肿胀 膨胀
+swing 动 摆动
+sword 名 剑
+sympathy 名 同情
+symphony 名 交响乐 harmony 
+symptom 名 症状
+tablet 名 平板电脑 药片
+tap 名 水龙头 动 利用 轻拍 pat
+tape 名 带子 各种物质的窄条用于固定系紧 如胶带  磁带 casette
+target 名 靶 目标
+taxpayer 名 纳税人
+tear 名 眼泪 动 撕破
+tease 动 取笑 make fun of or attempt to provoke (a person or animal) in a playful way
+temporary 形 临时的
+temptation 名 诱惑
+tense 形 紧张的 如肌肉 也可以是因为担心焦虑刺激而无法放松 名 时态 语法学用语
+tension 名 紧张  tense的名词形式
+tentative 形 暂定的
+terror 名 恐惧  horror 
+text 名 文本
+theater 名 剧场
+theft 4停 名 偷窃  thief 名 小偷 burglar
+theoretical 形 理论的  theory
+thermos 名 保温瓶
+thief 名 小偷
+thirst 名动 口渴 渴求 have a strong desire for something  thirsty
+thorough 形 彻底的
+thought 名 想法
+thread 名 线  一直都是线程啊  string 细绳 一直都是字符串
+thrill 动 感到兴奋
+thriller 名 惊险电影
+throat 名 咽喉
+thus 副 因此 这样 即in this way  词组thus far 迄今为止 即to this point
+tie 动 系 名 领带
+tight 形 紧的 固定系紧关上难以移动解开打开的
+tiresome 形 令人厌倦的
+toast 动 烤 名 烤面包
+tobacco 名 烟草
+toilet 名 抽水马桶 厕所
+tolerate 动 容忍
+tomb 名 坟墓 墓碑
+ton 名 吨 tonne 是metric ton 公制的吨
+tool 名 工具
+toothache 名 牙痛
+toothpaste 名 牙膏
+tortoise 名 陆龟
+towel 名 毛巾
+tower 5停 名 塔
+track 名 足迹 路径 动 跟踪
+tractor 名 拖拉机 自是词根和track没关系
+transparent 形 透明的
+trap 名 陷阱 动 困住
+traveler 名 旅行者
+treasure 名 珍宝
+tremble 名动 颤抖 因为寒冷恐惧兴奋 意似vibrate tremble
+trend 名 趋势  
+trial 名 审判 试验
+triangle 名 三角形 rectangle trilogy tricycle 
+troop 名 部队
+trousers 名 裤子
+truck 名 卡车  trunk lorry 
+trunk 名 树干 树的主干不是branch 躯干 象鼻
+tube 名 管 金属塑料玻璃等材质的中空的东西 pipe用于传递液体的tube
+tune 名 	曲调 
+turkey 名 火鸡 t大写土耳其 但是话说已经不用了
+turning 名 转弯处
+twist 动 转动 弯曲 form into a bent, curling, or distorted shape  tweak 轻微调整 改进 扭 拧
+typhoon 名 台风 印度西太平洋附近
+typist 名 打字员
+tyre 名 轮胎
+unbearable 形 难以忍受的
+unconditional 形 无条件的
+unconscious 形 失去知觉的 conscious 神志清醒 有意识的
+underwear 6停 名 内衣 衬衣 其他衣服之下一般紧挨着皮肤
+unemployment 名 失业
+unfair 形 不公平的
+unfortunately 副 不幸地
+update 动 更新
+urge 名 强烈欲望 动 力劝竭力主张 诚挚持续地说服某人做某事 induce 动 劝说 导致
+urgent 形 紧急迫切的
+vacant 形 空的 物理上的空如位子 空缺的 抽象的空 如职位
+vague 形 模糊的 抽象的模糊 of uncertain, indefinite, or unclear character or meaning
+vain 形 自负的 徒劳的
+valid 形 有效的
+valley 名 山谷
+vanilla 名 香草
+vase 名 花瓶
+veal 名 小牛肉  the flesh of a young calf
+vest 名 背心 vet 名 兽医 jet
+via 介 经由
+vice 名 恶习 不道德邪恶的行为  vice city vice versa 副 反之亦然
+videophone 名 可视电话
+vinegar 名 醋 
+violence 名 暴力
+virtue 名 美德 优点 贞操 特指女人
+virus 名 病毒
+visa 名 签证
+vital 形 必不可少必要的 充满生机的痛lively
+vivid 形 鲜艳的 指颜色深且亮 清晰生动的 产生强烈情感清晰图像在脑子中
+volcano 7停 名 火山
+voyage 名动 航行
+wag 动 摇摆
+wage 名 工资
+waist 名 腰 同音waste 
+wall 名 墙壁
+walnut 名 核桃
+wander 动 游荡闲逛 wonder 
+war 名 战争
+ward 名 病房
+warehouse 名 仓库
+washroom 名 洗手间 洗澡和厕所设施的房间
+wax 名 蜡 蜂蜡蜜蜂分泌的蜂巢的材料 对蜂蜡进行处理得到蜡烛的蜡
+wayside 名 路边 路的边缘
+wealthy 形 富裕的 the wealthy有钱人
+weed 名 野草
+weep 动 哭泣 意同cry
+welfare 名 幸福 个人或团体的健康、幸福和好运 同well-being 福利 社会提供的
+westward 形 向西的  形似 downward 形 向下的
+whale 8停 名 鲸
+wheat 名 小麦
+wheel 名 车轮
+whisper 动 低语 murmur 
+whistle 名 哨声 动 吹口哨
+widow 名 寡妇
+wild 形 野生动
+wildlife 名 野生动物
+windbreaker 名 风衣 抵抗风的夹克 同windcheater
+wine 名 葡萄酒
+wipe 动 擦
+wire 名 电线
+withdraw 动 取回 撤回 即离开某地
+wolf 名 狼
+wool 名 羊毛
+woollen 形 羊毛制的
+workforce 名 全体员工 劳动力 国家的全体员工就是劳动力
+worm 名 蠕虫
+worn 形 用坏的 用破旧的
+wound 名 伤口
+wounded 形 受伤的
+wrestle 动 扭打 摔跤 不管是运动还是认真的把目的是对方摔倒在地
+wrinkle 名 皱纹
+wrist 9停 名 腕关节 连接手和前臂的关节
+yell 名 叫喊
+yoghurt 名 酸奶
+youth 名 青年时期
+zebra 名 斑马
+zone 名 地带 belt region area

@@ -105,97 +105,97 @@ razor 名 剃须刀
 react 动 作出反应
 realise 动 认识到
 receipt 5停 名 收据 收到 recipient 名 接受者 接受奖项或救济
-recipe 
-recite 
-recognize
-recommend 
-record 
-recreation 
-rectangle 
-redirect 
-referee 
-refrigerator 
-refusal 
-register 
-relay 
-remark 
-represent 
-reputation 6停
-resemble 
-resign 
-retell 
-reviewer 
+recipe 名 食谱诀窍
+recite 动 背诵
+recognize 动 认出
+recommend 动 推荐
+record 动 记录
+recreation 名 娱乐
+rectangle 名 长方形
+redirect 动 改道 改寄 direct (something) to a new or different place or purpose
+referee 名 裁判
+refrigerator 名 冰箱
+refusal 名 拒绝
+register 动 注册
+relay 名  传递(信息 新闻)  转播 接力赛
+remark 名动 评论 注意
+represent 动 代表 相当于
+reputation 6停 名 名声
+resemble 动 像 类似
+resign 动 辞职
+retell 动 复述
+reviewer 名 评论者  review 动 评论 复习
 revision 
-rewind 
-rhyme rhythm rhythmic
-rid 动 所以过去分词也是rid？
-ridiculous 
-roast 
-rob 
-role 
-roller 
-rooster 7停
-rope 
-rose 
-rough 
-roundabout 
-royal 
-rubber 
-rugby 
-sacred 
-salad 
-salary 
-salasgirl 
-salaswoman 
-salt 
-salute 
-satellite 
-sauce 
-saucer 
-sausage
+rewind 动 倒回 如film或tape cassette
+rhyme 名 押韵 rhythm 节奏  rhythmic 有节奏的
+rid 动 使摆脱 过去式和过去分词也是rid
+ridiculous 形 荒唐的
+roast 动 烤
+rob 动 抢劫
+role 名 角色 作用
+roller 名 滚筒
+rooster 7停 名 公鸡 cock
+rope 名 绳索
+rose 名 玫瑰
+rough 形 粗糙的 粗鲁的 粗劣的 即不够精确的 意似rude crude coarse
+roundabout 形 说话不直截了当的绕圈子的 迂回的 即两种迂回 名 环岛 旋转木马
+royal 形 王室的
+rubber 名 橡胶
+rugby 名 橄榄球运动
+sacred 形 神圣的 holy
+salad 名 色拉
+salary 名 薪水
+salesgirl 名 女售货员
+saleswoman 名 女售货员 售货员有推销的意思在
+salt 名 食盐
+salute 名动 敬礼
+satellite 名 卫星 人造卫星
+sauce 名 调味汁
+saucer 名 托盘 茶托这种
+sausage 名 香肠
 savage 名 野蛮人
-scene 
-scenery 
-sceptical 
-scholar 
-scissors 
-scream 8停
-screen 
-seaman 
-seashell 
-secretary 
-secure 
-security 
-seize 
-seldom 
-semicircle 
-seminar 
-sensitive 
-sentence 
-session 
-severe 
-sew sow so saw see过去式
-shabby 
-shade 
-shadow 
-shallow 
-shark 
-sharpener 
-shaver 9停
-sheet 
-shelf self 
-shelter 
-shirt 
-show 
-shorts 
-shoulder 
-shout 
-shower 
-shrink 
-shuttle 
-sigh sign
-silent 
-silk 
-silver 
-sink 
-ski 
+scene 名 场景 特别是戏剧场景 景色
+scenery 名 风景
+sceptical 形 怀疑的
+scholar 名 学者 奖学金获得者 scholarship 学问 奖学金
+scissors 名 剪刀 scissor 动 用剪刀剪
+scream 8停 动 尖叫
+screen 名 屏幕 银幕 形似scene scenery
+seaman 名 水手
+seashell 名 海贝壳
+secretary 名 秘书
+secure 形 安全的 牢固的 即系牢固定好的不容易松的
+security 名 安全
+seize 动 抓住 理解
+seldom 副 很少的
+semicircle 名 半圆
+seminar 名 研讨会
+sensitive 形 敏感的
+sentence 名 句子 判决 hang
+session 名 集会 官方形式的会议比如和法律相关 [进行某活动的] 一段时间
+severe 形 严重的 坏的事very great; intense 严肃的 严厉的
+sew 动 缝 sow 撒 母猪 so saw see过去式
+shabby 形 破烂的
+shade 名 阴影
+shadow 名 阴影 Shade 通常指太阳晒不到的地方，一般没有具体的轮廓，而 shadow 一般指各种光源造成的影子或黑暗的地方，也就是我们中文常说的“阴”和“影”的区别。
+shallow 名 浅的 可以是物理距离 或者思考的深度不行 肤浅的 关于浅色似乎用light更多
+shark 名 鲨鱼
+sharpener 名 卷笔刀 磨刀石 人或设备 makes something sharp
+shaver 9停 名 电动剃须刀 an electric razor
+sheet 名 床单 薄板 表格 长方形纸
+shelf 名 架子 self 
+shelter 名 庇护所
+shirt 名 衬衫
+show 动 展示
+shorts 名 短裤
+shoulder 名 肩
+shout  动 大喊
+shower 名 淋浴
+shrink 名 精神病医生 动 缩小 退缩
+shuttle 名 航天飞机 名动 往返两地
+sigh 动 叹气  sign
+silent 形 寂静的
+silk 名 丝绸
+silver 名 银
+sink 动 下沉
+ski 名 滑雪板 skate是滑冰  skateboard 滑板 是一个滑雪板是一双且细长的
