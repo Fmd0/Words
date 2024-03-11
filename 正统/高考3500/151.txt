@@ -124,8 +124,8 @@ reputation 6停 名 名声
 resemble 动 像 类似
 resign 动 辞职
 retell 动 复述
-reviewer 名 评论者  review 动 评论 复习
-revision 
+reviewer 名 评论者 检查审核的人 必要的时候修改  review 名动 检查审核 评论 复习 名词形式少了个复习
+revision 名 修改修订 复习 revise的名词形式 “Review” means to look at something, with the possibility of changing it. “Revise” means to actually change things.
 rewind 动 倒回 如film或tape cassette
 rhyme 名 押韵 rhythm 节奏  rhythmic 有节奏的
 rid 动 使摆脱 过去式和过去分词也是rid

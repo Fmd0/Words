@@ -1,40 +1,40 @@
-cognitive 形 认知的
-protein 名 蛋白质
-scale 名 规模
-electronic 形 电子的 electronic
-security 名 安全
-employment 名 雇用
-productivity 名 生产力
-estimate 名 估计
-yield 动 产出
-demonstrate 动 示范
-manufacture 名动 制造
-recognition 名 认出
-destructive 形 破坏性的
-virtual 形 实际上的 虚拟的
-hazard 动 冒险 名 危险
-tenant 名 房客
-strategy 名 策略
-formula 名 公式
-indifferent 形 冷漠的
-snail 名 蜗牛
-portray 动 描写 depict
-primarily 副 主要的
-crucial 形 至关重要的
-autonomy 名 自治 autonomic
-privacy 名 隐私
-collaboration 名 合作
-neglect 动 忽视
-exotic 形 异国的
-irrigation 名 灌溉
-multiple 名 倍数 形 多样的
-assert 动 断言
-texture 名 质地 纹理
-intimate 形 亲密的
-guarantee 名 保证
-household 名 家庭 形 家庭的
-tribe 名 部落
-existence 名 存在
-whereas 连 然而
-drill 名动 钻头 训练
-institute 名 学院
+cognitive           形 认知的 词根cognize 和认知相关的 认知是获得知识并且通过思考经历来理解
+protein             名 蛋白质
+scale               名 规模 即大小程度 等级 即grading system 倾向于一种系统
+electronic          形 电子的 不仅是物理学电子还是电子设备的 多了个重音 词根electron
+security            名 安全 词根secure 形 安全的 牢固的 即系牢固定好的不容易松的
+employment          名 雇用受雇 作用于被雇佣的人 词根employ 读音同的
+productivity        名 生产力 生产率 通过输出比上输入
+estimate            名动 估计 粗略地计算判断价值数量程度 reckon assess evaluate 动 评价 估值
+yield               名动 产出产生 如天然结果或result或经济回报
+demonstrate         动 示范操作 即实际的展示解释机器技能手艺怎么做 证明 给出证据说明真
+manufacture         名动 大量生产 通过机械设备 
+recognition         名 认出 通过先前知识遇到辨认出某人某物 认识到承认 对某物的存在、有效性或合法性的承认 词根recognize
+destructive         形 破坏性的 词根destruct 动 毁坏
+virtual             形 实际上的几乎的 几乎如所描述的，但不完全或根据严格的定义，就是差了个严格定义 如交通几乎停滞实际上就是停滞了 虚拟的 计算机领域非物理存在软件生成的如vr
+hazard              名 危险 动 冒风险 试着说出 自是词根 形似horror hatred
+tenant              名 房客租户 从房东租房的人 动 租赁 即从房东租房的动作
+strategy            名 策略 行动的计划达到一个长期目标 战略 在战争中计划和指挥整体军事行动的艺术 strategy 战略，用于全局性策划与指挥大规模作战的军事指挥的科学与艺术 tactic 战术，为达到一个目标所采取的一项应急措施；一种策略
+formula             名 公式 数学用语 配方 做某物的原料列表 方案 实现某事的步骤方法 同根词formulate
+indifferent         形 冷漠的漠不关心的 没有兴趣或同情 一般的平庸的 不好也不坏，mediocre
+snail               名 蜗牛 用于指很慢
+portray             动 画描绘 通过艺术或文学的形式 意似depict 形似 portrait
+primarily           副 主要的 同mainly 第二个元音变音 同根词primary prime
+crucial             形 至关重要的 对某事的成败决定性关键性 意似critical
+autonomy            名 自治 self-government 自主 不受外部控制独立 如法院经济 autonomous
+privacy             名 不受干扰 不被其他人观察打扰 隐私 不受公众注意
+collaboration       名 合作 合作成果 通敌 词根collaborate 意似teamwork
+neglect             名动 忽视不重视 如外表工作 形似negotiate
+exotic              形 异国风情的 起源于遥远外国或具有遥远外国特征的 异常迷人的 因为五颜六色不同寻常而吸引人 如少年的发型 名 exotic动植物
+irrigation          名 灌溉 词根irrigate
+multiple            名 倍数 形 多部分组成的 如连环撞车事故多项选择 multiply 动 乘 大量/成倍增加
+assert              动 断言 自信而有力地陈述事实或信念 意似allege proclaim 形似asset assess
+texture             名 手感质地纹理 物质或表面的感觉和外观
+intimate            形 亲密的 私密个人的 有性关系的
+guarantee           名动 保证 如产品质量或者很确定地保证 
+household           名 一家人家庭 房子及其居住者被视为一个整体
+tribe               名 部落 tribal 形 部落的
+existence           名 存在 生存 词根exist
+whereas             连 然而 与…形成对比或比较的
+drill               名动 钻头 训练 训练特指军事上的
+institute           名 机构 具有特定目的的组织，尤指与科学、教育或特定职业有关的组织 如协会学院 Institute- an organization that is usually based in the sciences, education. Institution- an establishment founded on religious or social ideology.

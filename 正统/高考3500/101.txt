@@ -149,7 +149,7 @@ male 名 男性
 mankind 名 人类 集合名词
 marathon 名 马拉松
 marble 名 大理石
-march March 
+march 动 齐步走行军 步伐匀称地以军队的方式走路 名 齐步走的名词 如行军 名动 游行示威 parade 首字母大写自然是三月March 
 marriage 名 婚姻 marry 
 mask 名 面罩
 mat 名 垫子
@@ -197,7 +197,7 @@ motto 名 座右铭  某人信念理想的短句
 mourn 动 哀悼  bury burial funeral
 moustache 名 小胡子
 much 形 很多的
-multiply 动  multiple 
+multiply 动 乘 大量/成倍增加  multiple 名 倍数 形 多部分组成的
 mushroom 名 蘑菇
 mustard 名 芥末
 mutton 8停 名 羊肉
@@ -232,7 +232,7 @@ onion 名 洋葱
 opener 名 开启工具 开场戏
 opera 名 歌剧
 oppose 动 反对 抵制
-opposite 名 对立的人或物 形 对立的
+opposite 名 对立的人或物 形 对立的 词根oppose opponent单打独斗无关 前者倾向于对立后者倾向于对手敌对 带有倾向前者是中性词？
 oral 形 口头的
 ordinary 形 普通的
 organ 名 管风琴 器官
