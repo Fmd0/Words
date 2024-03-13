@@ -1,5 +1,5 @@
 indulge             动 享受 允许自己享受快乐 被动时翻译为纵容即spoil 满足 允许某人享受想要的东西
-haven               名 避难所 提供安全庇护地方 避风港 船只避风 形似heaven 意似refuge
+haven               名 避难所 提供安全庇护地方 避风港 船只避风 形似heaven 意似refuge sanctuary
 rigorous            形 严格的严苛的 极度的全面彻底小心 如规则系统测试人坚持某件事
 minimize            动 最小化 减小到最小程度
 drought             名 干旱 词根dry
@@ -19,7 +19,7 @@ hypothesis          名 假设 在有限证据基础上提出，作为进一步�
 barely              副 仅仅只是刚刚 即only just 几乎不 即almost not  merely 副 仅仅 只不过 just/only
 navigate            动 导航 在网站间走来走去 计算机中用语
 persistent          形 坚持不懈的 形容人 持续存在的 形容物
-ultimate            形 最终的终极的 即一个过程的最后final 基本根本的 最好的 这一类中最好的 如汽车 名 最好的东西
+ultimate            形 最终的终极的 即一个过程的最后final 基本根本的 最好的 这一类中最好的 如汽车 名 最好的东西 意似prime
 lever               名 杠杆 一根固定在枢轴上的刚性杆一端受力 施压手段 为了让某人做事 动 使用lever移动举起 施压让某人做事 形似litter liter
 sanctuary           名 避难所 躲避追捕、迫害或其他危险的避难所 自然保护区 
 antibiotic          名 抗生素 抑制微生物生长或消灭微生物 形 抗生素的 形似symbiotic
