@@ -1,0 +1,7 @@
+bypass 动 绕过
+rating 名 等级 
+practitioner 名 从业者 
+specification 名 规格 
+submarine 名 潜水艇 形 海底的 
+strain 名 紧张 
+primitive 名 原始的

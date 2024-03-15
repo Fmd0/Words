@@ -1,2 +1,41 @@
-electric 形 电的
-criminal 名 犯人 
+electric            形 用电的 用充产生电的 同根词electricity电 自是词根 重音和electron同
+criminal            名 罪犯 形 犯罪的 就是crime的标准形容词变法 词根crime
+quantitive          形 数量的量化的 如量化分析 注意数量和质量是某种意义下的反义词和qualitative相对 同quantitative多了tɪ这个音 同根词quantity
+stereo              名 立体声 通过两个或多个扬声器发出的声音，使听者听起来像是被包围了 立体声音响 形似stereotype
+disable             动 使丧失能力限制活动 疾病受伤事故限制了某人的活动 主语就是疾病受伤事故
+indigenous          形 当地的土生的 如某种植物 自然起源发生于某个地方同native 土著的 最早就存在在殖民者来之前就存在
+endurance           名 忍耐能力 忍受不开心困难不放弃能力 耐用能力 某物持久经得起穿用 词根endure 发音同
+domain              名 领土 统治者控制的地 领域 特定知识活动的领域 注意发音
+fraud               名 诈骗 通过欺骗完成的获益 骗子 通常通过说自己有多好
+converge            动 相交 指线交出点 汇集会和 人的相交 数列的收敛 数学术语 形似courage
+agreeable           形 亲切和善宜人令人愉快的 如人天气旅途 将会同意的 如欣然同意某事 意思是同意的可预测 可接受的 如进程行为
+propel              动 推进 具象和抽象都有 如船被桨推进 人被恐惧推进到一个情境
+jury                名 陪审团 根据证据给出裁决的人 辅助用的吧 通常12人
+conductive          形 有传导性的 如热量电 传导的 和conduction相关 conduction 名 传导 热和电因为温度差电位差发生传递  conduct 动 指挥 传导 名 行为
+plausible           形 看似合理的 如观点解释 花言巧语的 形容人善于说服但多是欺骗 形似plague plateau
+assignment          名 任务 分配的东西 分配给某人的工作学习上的任务 分配 分配的行为 配到某一特定群体或类别 如社会位置 所以说赋值就是分配了
+extinct             形 灭绝的 火山不活跃的 记录上没有爆发历史  注意是形容词 形似extinguish 动 熄灭即火或者光不亮不燃烧 毁灭如希望 偿清如欠款
+distort             动 扭曲变形 指外形因拉扯或扭曲发生变形 歪曲曲解 给出误导的错误的描述或印象 如一些因素会歪曲结果 失真畸变 电信号声波传输中失去原来形式
+ideology            名 意识形态 思想体系组成了经济或政治理论基础 思维体系 如人的一群人的
+exclusive           形 不包括的排他的 独有的 对人团体地区有限制的 如商品 高档的 只为一小部分高等人提供饮食的 如俱乐部 exclude 动 排除即不包括 拒绝...参加
+visualize           动 想象 如想象未来 词根vision 同根词visual visible
+intrinsic           形 本质的 天然的属于必要的 如艺术是高质量生活的本质
+dictate             动 命令 口述 大声说出内容被记录下 形似indicate 
+feminist            名 女权主义者 拥护提倡女性权利平等 形 女权主义的
+handicraft          名 手工艺 用手制作装饰性品的活动 手工艺品 用手做出来的装饰性东西
+aristocrat          名 贵族  aristocracy一员
+multitude           名 大量 人或物数量上的大 意同numerous
+electrical          形 电的 关于使用产生电的 electric用电的，带电的，电动的 【强调与电有直接的关系，被修饰的这个物体本身可带电】，electrical 电气的，电力的 【强调与电的关系是间接的，电气性质的】
+peninsula           名 半岛 几乎被水包围的地 唯一半岛
+assault             名动 袭击 进行物理身体上的攻击
+poisonous           形 有毒的
+oppress             动 压迫欺压 使(某人)处于服从和困难中，尤指通过不公正的权力行使
+graze               动 吃草 如牛吃草 动物主语 放牧 即把牛放出去吃草 人主语 形似gaze 
+flip                动 快速翻动 突然快速的动作翻身 如翻煎饼 突然快速移动实现移动推抛 如轻抛硬币 发火 突然失去控制生气特别指突然
+discern             动 分辨出 recognize or find out 艰难地通过视觉其他感觉进行分辨 如分辨出头骨的形状 
+orientation         名 定位 根据指南针确定位置 态度取向 某人对特定主题问题的基本态度看法感觉 词根orient
+aggressive          形 好斗的 准备去攻击和对抗由于aggression导致
+minimal             形 最小的 最小量质量程度 如最小成本 同根词minimum minimize
+finite              形 有限的 大小程度有限制 反义词infinite
+skeptical           形 怀疑的 同sceptical英式写法 前者是美式写法 意似suspect suspicion suspicious speculate
+
