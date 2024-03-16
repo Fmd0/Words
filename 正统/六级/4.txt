@@ -1,7 +1,33 @@
-bypass 动 绕过
-rating 名 等级 
-practitioner 名 从业者 
-specification 名 规格 
-submarine 名 潜水艇 形 海底的 
-strain 名 紧张 
-primitive 名 原始的
+bypass              动 越过 如某地农场 绕过避免 如障碍麻烦 建设旁路 名 旁路 绕过城镇或城镇中心的道路，为来往车辆提供另一条道路 bystander 名 旁观者 在event incident但是没有参与 passer-by 名 路过者 某人碰巧路过 特别是行走经过 两者不同 后者更加倾向人的经过 by辅助 前者更加倾向by
+rating              名 等级评分 如五星等级评分 所以倾向于值而不是scale的体系
+practitioner        名 从业人员 积极从事某一艺术、学科或职业的人，尤指医学 词源practice 没有practition这个词
+specification       名 精确说明或要求 如招聘具体要求目标具体要求 规格 对用于制造某物的设计和材料的详细描述 如望远镜镜片规格
+submarine           名 潜水艇 形 海底的 marine 形 海洋的 关于海洋或在海洋中找到的 航海的
+strain              名 力作用 倾向于将某物拉到极端或破坏程度的力量 如绳子在力作用下断了 压力 对人物力量资源能力的严格或过分的要求 如施加压力在什么上承担着很大压力 动 尽力 迫使身体做出非同寻常巨大努力
+primitive           形 原始的 简陋的 在舒适、方便或效率方面非常基本的或简单的 如营地的住宿环境简陋
+mow                 动 割草 用机器割草
+unprecedented       形 空前的 以前从未做过或不知道的前所未有的 如空前的时代 词源precedent 名 先例 preceded
+prestige            名 威望 对人物成就或品质的认识而对其产生的广泛的尊敬和钦佩 如公司获得威望
+acceptance          名 接受 即接受的行为 赞成
+stun                动 打昏 通过击打使失去知觉或进入迷糊或半清醒状态 使震惊 使某人惊讶到暂时无法做出反应
+compassion          名 同情 对他人痛苦或不幸的同情和关心 自是词根 意同sympathy
+phase               名 阶段 月相 如新月上弦月 形似parse
+kit                 名 成套物品工具装备 为某一特定目的所需的一套物品或设备 如急救工具 tookit 名 成套工具 一套用于特定目的的tool
+signify             动 表示表明 be an indication of及物动词 如表明改变表示观点 词根sign
+elementary          形 基本的 与某一学科的基本要素有关的basic 如基本课程 简单的 如简单锻炼 词根element元音同重音变
+dazzle              动 使目眩 强光使(人或他们的眼睛)暂时失明 使倾倒 特定印象深刻的品质震惊压倒某人 名 强光 会使人临时失明的强光
+likelihood          名 可能性 
+quest               名 追寻 对某物的长时间或艰苦的寻找 动 寻找 search for something
+evade               动 逃避 逃避或躲避(某人或某物)，尤指用诡计或诡计 形似erupt 动 爆发 如火山冲突
+provision           名 提供 提供这个动作 准备 为将来可能发生的事作出的财务或其他安排 用法provision for/against 供应量 着重量 规定 法律文档中的要求 同根词provide
+milestone           名 里程碑 既指路上用于标记距离的石头也指某物发展中的重要阶段时刻
+contest             名 比赛 如体育比赛也有政治职位的竞争 动 参与竞争去获得某物 如竞选总统
+endure              动 忍受 耐心地忍受(痛苦或困难的事) 持续 一直存在下去 确实一个指人一个指物
+feasible            形 可行的 possible or practical to do; practical 可能的 likely; probable
+insulate            动 使隔绝 通过插入材料防止热量散失或声音侵入 使绝缘 用不导电的材料把(某物)覆盖起来，以防止电流进出
+entail              动 须要导致 把某物作为必要的或不可避免的部分或结果 重点必要不可避免
+disgust             名动 厌恶 感到厌恶或强烈反对 disgusting 形 令人厌恶的 如烂牙令人厌恶 形似disguise 
+eagle               名 鹰 
+recruit             名 新兵 形成员 动 征募 招募人参军 招聘 普通的招募进组织单位
+ingenious           形 人聪明有创意的 独创性 形似genius 天才
+owl                 名 猫头鹰 
