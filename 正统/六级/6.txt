@@ -1,0 +1,7 @@
+pasture 名 牧场
+historian 名 历史学家 
+fraction 名 部分 分数 
+morality 名 道德 
+deficiency 名 缺乏 
+slum 名 贫民窟 
+liable 名 负法律责任的 如父母对孩子行为负责 可能的同likely 2a

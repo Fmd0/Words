@@ -1,32 +1,33 @@
-specialty 名 特产 
-orthodox 形 传统的 
-consequently 副 因此 
-pesticide 名 杀虫剂 
-clarity 名 清楚 
-sake 名 缘故 
-consecutive 形 连续的 
-coincide 动 同时发生 形似coincident 
-margin 名 边距 
-satire 名 讽刺文学 
-gross 形 总的 即收入不计算税 粗俗的 名 总量 如利润或收入
-conversion 名 转变
-strive 动 努力 
-sue 动 起诉 
-hop 名 跳 
-moan 名 呻吟声 
-tempt 动 吸引 
-vaccine 名 疫苗 
-crow 名 乌鸦 
-rein 名 缰绳 
-kidnap 动 绑架 
-elicit 动 诱出 
-poetry 名 诗 
-migrant 名 移居者 
-enlighten 动 启发 
-devastate 动 破坏 
-turbulent 形 动荡 
-strand 名 股 
-implication 名 含义 
-glamour 名 魅力 
-embark 动 开始工作 上船
-layer 名 层 形似lawyer
+specialty               名 专业专长 人投入精力且专业的爱好学习领域或技能 特产特色菜 某人某地因某个产品好而出名 特别是食物 前者是美式写法这个是英式speciality两者之间重音变元音也变
+orthodox                形 传统的普遍接受的 遵循或符合传统的或普遍接受的宗教、哲学或实践的规则或信仰的 如传统医疗
+consequently            副 因此 as a result  consequent 形 作为结果的 随之发生的 following as a result or effect
+pesticide               名 杀虫剂  形似suicide 用于消灭对培养动植物有害的昆虫或其他有机体的物质
+clarity                 名 清晰容易理解  coherent and intelligible 明确 certain or definite的品质 清楚 看和听的容易图像声音看得清楚听得清楚  词根clarify 动 澄清阐明 让声明状态更少困惑容易理解
+sake                    名 目的利益 用法for the sake of 日本清酒
+consecutive             形 连续的 如连续的月 也可以是逻辑上的连续 意似continuity succession
+coincide                动 同时发生 时间同 也可以指两人同时同地出现 也可以指物体位置上的相接 本质相符 如职员和老板利益不相符  形似coincident 
+margin                  名 边缘 页边缘的空白
+satire                  名 讽刺 采用幽默反语夸大来批判 讽刺作品 如演出小说电影等
+gross                   形 总的 即收入不计算税 非常粗鲁的 名 总利润或收入 不计算税
+conversion              名 转变 某物从一种形式到另一种的改变 如食物到身体组织  词根convert
+strive                  动 努力 为了达成获得某物努力 斗争 强有力地斗争 如strive against bias
+sue                     动 起诉 通常为了补偿
+hop                     名动 单足移动跳 名 短途旅行或短距离 动 跳一次而且是短距离 意似leap skip
+moan                    名动 呻吟 长低声表达肉体或精神上的痛苦或性快感 物体发出和呻吟相似的声音 抱怨不重要的事情 形似mow
+tempt                   动 引诱 引诱某人做一些吸引人但是错误的事情
+vaccine                 名 疫苗 用于刺激对特定传染病或病原体的免疫力的物质，通过灭活的病原体 计算机的防毒软件 自是词根 意似immune 形 免疫的 不受影响的 并非是疫苗音译
+crow                    名 乌鸦 动 啼叫 (指公鸡)发出它特有的大声叫声 自鸣得意 (指人)表达极大的骄傲或胜利，尤指以得意洋洋的满意语气
+rein                    名 缰绳 用于控制马 名 控制的权力 动 控制 同音rain
+kidnap                  动 绑架 绑架(某人)并将其囚禁，尤指为获得赎金 名 绑架这一行为 意似rob
+elicit                  动 引出 引起或引出某人的(反应、回答或事实) 如笑容兴趣 
+poetry                  名 诗歌 一种文学作品格式 poetry是抽象，poem是具体的。poetry是一个大类，poem是具体的可以加冠词，可以有复数
+migrant                 名 移民 为了工作或更好的生活条件 迁徙动物 migrant本国内迁移的人比如工人immigrant外国迁移进来的人emigrant本国迁出的人
+enlighten               动 启迪 让某人对某物有更深入知识和理解 给予某人精神知识或洞察力 阐明 同clarify
+devastate               动 破坏摧毁 如地震摧毁城市 使极为悲痛 使某人极度震惊或悲伤 如某人离世导致
+turbulent               形 动荡混乱的 conflict, disorder, or confusion具有的特征 猛烈汹涌的 形容空气或水不稳定地或猛烈地移动的 如暴风雨
+strand                  动 使搁浅 搁浅是指船在浅水无法航行 使受困 没有移动的方法 如被困在某处被暴风雪困住 名 股 一根细的东西，如线、纤维或金属丝，尤指与其它东西绞在一起 
+implication             名 暗示 从某事中得出的结论，尽管没有明确说明 可能的结果 a likely consequence of something 卷入牵连 涉及到某事物的状态 整个跟都是暗示 没有意味着意思 意似indicate 动 指出说明 point out, show imply 动 暗示 意味着
+glamour                 名 魅力 有吸引力的或令人兴奋的品质
+embark                  动 上船 开始某事
+layer                   名 层 形似lawyer
+neutral                 形 中立的 平淡的 没有明显特征的 如音调 中性的 化学非酸非碱 不带电的 没有正电荷负电荷 形似nephew steward
