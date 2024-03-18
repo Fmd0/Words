@@ -1,7 +1,33 @@
-pasture 名 牧场
-historian 名 历史学家 
-fraction 名 部分 分数 
-morality 名 道德 
-deficiency 名 缺乏 
-slum 名 贫民窟 
-liable 名 负法律责任的 如父母对孩子行为负责 可能的同likely 2a
+pasture             名 牧场 一块适合放牧的地 动 放牧 让动物在牧场上吃草
+historian           名 历史学家 专家或学生特别是某一历史时期地理区域社会现象 词根history
+fraction            名 分数 一部分 a fraction of 意似aspect segment
+morality            名 道德规范 关于好坏行为区分的原则 词根moral
+deficiency          名 缺乏 同lack shortage 缺点 同failing or shortcoming 缺乏的量 同根词deficient 形 缺乏的即不充足的 词根deficit 元音重音都变
+slum                名 贫民窟 破旧房屋 即不适合居住的房子 动 体验穷日子 出于好奇或慈善目的 形似stun
+liable              名 负法律责任的 如父母对孩子行为负责 受法律约束的  subject by law 可能的同likely 2a
+incidentally        副 附带地顺便说一句 用于补充与当前主题无关的进一步评论或评论;顺便说一下 偶然地 同根词 incident 名 发生的事 incidence 发生发生率 特别是疾病犯罪不好的事 
+privilege           名 特权 动 授予特权
+impair              动 削弱损害 削弱程度大了就是损害 weaken or damage某种能力功能 如削弱听力
+epic                名 史诗 长诗特别是源自古代口述叙述英雄传奇人物的事迹和冒险经历或一个民族过去的历史 形 史诗的 和史诗有关或具有史诗特征的 规模宏伟性格英勇的
+consultant          名 顾问 提供专业专家级建议的人  consult 动 咨询 采取行动之前的讨论 查阅信息
+duplicate           形 复制的 动 复制 乘以2翻倍 重复 如做某事 名 复印件 复制后得到的东西
+cater               动 提供饮食  cater for something考虑某事 cater to something 试着满足需求 cater for/to someone 提供某人需要的
+refresh             动 恢复活力 修改更新 如技能知识 刷新 计算机用语 意似revitalize reinvigorate  reinvigorate某人可能意味着激励他们或提高他们的士气，特别是在一段时间的停滞或下降之后。然而，Revitalize通常指的是为整个团队、项目或组织恢复能量或热情的行动，旨在全面改善。
+extensive           形 大范围的广阔的 覆盖或影响很大一片区域 量或规模上的大 
+justification       名 辩解 证明某事正确或合理的行为 理由 存在某事或做某事的原因 justify 动 辩解 即说什么是有道理的 是什么的理由 一一对应
+stabilize           动 使稳定 不容易崩溃倾覆不容易改变
+mature              形 成熟的 人身体的成熟过程到了成熟阶段 动 成熟
+olive               名 橄榄 果实树绿色
+testify             动 作证 在法庭上给出作为目击者的证据 证明 作为证据证明存在 自是词根
+turnover            名 营业额 某个时期内的 人员流动率
+clip                名 夹子 用于固定的灵活的或装有弹簧的装置 名 修剪 用剪刀 电影的片段 动 用clip弄紧 修剪行为
+reference           名 提及 进一步就是引用 参考 为了确定某事
+vocational          形 职业的 词根vocation 不同于vacation
+terrify             动 使恐惧 极度害怕 词根terror
+depot               名 仓库 存储大量东西 车库 用于放车的仓库 公交车火车被存放维护
+marginal            形 边缘的 微不足道的 同根词margin
+format              名 样式格式 安排或布置某物的方式 动 格式化 使用format安排或布置
+slack               形 松弛的 在位置上不紧绷或紧握的或业务比较松弛 如绳子嘴巴 松懈懒散的 有或表现出懒惰或疏忽的 名 松弛部分 松懈懒散 动 松弛 松懈懒散
+violent             形 暴力残暴的 涉及到暴力为了伤害、破坏或杀死某人或某物 猛烈的 形容情绪或自然力量
+pant                动 气喘 通常是由于劳累或兴奋 渴望 名 气喘
+viable              形 有望成功切实可行的 后者同feasible 形似liable valid 形 有效的 vivid 形 鲜艳的 指颜色深且亮 清晰生动的 产生强烈情感清晰图像在脑子中
