@@ -1,0 +1,3 @@
+deny 动 否定 
+displace 动 取代
+verify 动 证实

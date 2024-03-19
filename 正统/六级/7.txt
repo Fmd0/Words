@@ -1,25 +1,33 @@
-forum 名 论坛 
-enthusiasm 名 热情 
-bug 名 虫子 
-warrant 名 授权令 
-offspring 名 子女 
-nonetheless 副 尽管如此 
-hierarchy 名 等级制度 
-swamp 名 沼泽 
-revelation 名 揭示 
-endorse 动 赞同 
-decorate 动 装饰 
-solidarity 名 团结 
-compromise 名动 妥协 
-intensity 动 增强 
-frequency 名 频率 
-butt 名 烟头
-loom 名 织布机 
-verity 动 证实 
-complication 名 使复杂化因素
-outline 名 大纲 
-logistics 名 后勤 
-bust 名 胸像 
-equity 名 公平 
-tissue 名 组织 
-carbohydrate 名 碳水化合物
+forum               名 专题讨论会 对特定问题交换意和观点的会议或媒介 论坛 一种网站
+enthusiasm          名 热情 同根词enthusiastic 加个重音
+bug                 名 虫子 程序错误
+warrant             名 授权令 由官方签发的文件授权警察等进行逮捕、搜查房屋等司法行动 正当理由同justification 动 证明是正当的 使行动过程合理化 担保 官方的确认或保证 形似warrior
+offspring           名 子女 幼崽 人或者动物的孩子
+nonetheless         副 尽管如此 带有然而转折的意思 in spite of that 同nevertheless
+hierarchy           名 等级制度 根据地位权威对成员进行排名的制度 等级体系 根据相对重要性对事物进行的排列或分类 一个是人一个是物
+swamp               名 沼泽 动 淹没 被水或是过量的某物淹没 意同marsh Swamp 一种以饱和土壤但不是泥炭的树木为主的湿地。 Marsh 一种以挺水草本植物为主的湿地，但不属于泥炭。
+revelation          名 披露揭示 告诉某人令人惊讶以前不知道的事实还有秘密 上帝的启示 向人类揭示与人类存在有关的事物的神圣的或超自然的启示  和reveal没关系
+endorse             动 赞同支持 公开表示对…的赞同或支持 意似advocate proclaim
+decorate            动 装饰 意似decoration furnish furnish
+solidarity          名 团结 感情行动一致，尤指具有共同利益的个人之间 或是团体内的相互支持 词根solid 唯二团结unity
+compromise          名 双方的让步 斗争双方靠相互的让步达成的中间状态或协议或解决争端 自身的妥协 为了权宜而接受低于理想的标准 动 双方的让步 自身的妥协
+intensity           名 强烈 如疼痛更加强烈 强度 一种可测量的量如力磁场 同根词 intensive 形 密集的 加强的如课程研究 形似intense 强烈激烈紧张的
+frequency           名 发生率 频率 即f属于更加专业的名词
+butt                动 人或动物用头撞 名 批评嘲弄对象 某物较粗的一端，尤指工具或武器 如枪托 烟头
+loom                名 织布机 用纱线或线织成织物的装置
+verity              名 真理 真正的原则或信仰，尤指最重要 这里的真正的指真 nobody uses the word verity. It's very formal, a bit uppity, and perhaps most native speakers wouldn't immediately know what it means
+complication        名 复杂难题 某物复杂化的情况;一个困难 并发症 加重已存在疾病的继发性疾病 词根complicate 动 使变复杂
+outline             名 轮廓 在草图或图表中包围或指示物体形状的一条线或一组线 大纲 显示某物的基本特征但不包括细节的总体描述或计划 动 画出轮廓 概述即给出大纲
+logistics           名 后勤 复杂操作的详细组织和实施 中的组织部队的行动、装备和住宿的活动 物流 把货物运送给顾客的商业活动 形似logic
+bust                名 半身雕像 一个人的头、肩膀和胸部的雕塑 胸围 围在乳房周围测量的女人的胸围 动 弄坏弄碎裂 break, split, or burst 
+equity              名 公正 一种品质 词源equal
+tissue              名 组织 纸巾
+carbohydrate        名 碳水化合物 含有大量碳水的食物 hydrate水合物
+manuscript          名 手抄本 如书文档音乐手写而非打字 手稿 尚未出版的作者手写或打印的文本
+ingenuity           名 聪明独创力 clever, original, and inventive的品质 词根ingenious
+abundance           名 大量
+triple              形 三部分的三人的 三倍的 动 变成三倍 名 三倍  意似multiple double 
+imitation           名 模仿 以某人或某物为model的行为 仿制品 为了模仿复制别的东西的东西  imitate intimate 
+transmit            动 传播 如知识性病情绪 播送 广播或发出(电子信号、广播或电视节目) 物理上的传播 允许(热、光、声、电或其它能量)通过介质
+quantify            动 量化 表示…的数量或测量…的数量:
+subsistence         名 维持生计 维持或支持自己，尤指最低限度的 法律上的有效 保持效力或效果的状态 如权力
