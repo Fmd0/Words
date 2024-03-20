@@ -1,3 +1,33 @@
-deny 动 否定 
-displace 动 取代
-verify 动 证实
+deny                动 否认 拒绝承认事实或某事存在 拒绝给予 别人需要想要的某物
+displace            动 取代 可以是place, position, or role 使脱位脱臼 把(某物)从它适当的或通常的位置移开 如骨头脊椎 使背井离乡 强迫(某人)离开家，通常是由于战争、迫害或自然灾害
+verify              动 证实核实 确定或证明(某事)是真实的、准确的或合理的: 意似testify
+expedition          名 远征 一群人为了特定目的而进行的旅程，尤指探险、研究或战争 远征队 参加远征的人 短途出行 非正式用语 如a shopping expedition
+outset              名 开始 形似sunset
+conservative        形 保守的 反对改变或创新，坚持传统价值观的 衣着的保守 估值的保守 估值为了小心而故意放低的 医学治疗的保守 旨在控制而不是消除疾病，尽可能保留现有组织 保守党的 赞成自由企业、私有制和社会传统观念的 名 保守的人 保守党支持者
+instruct            动 吩咐 告诉或命令某人做某事，尤指以正式或官方的方式 教导 教(某人)一门学科或技能
+overlook            动 看漏忽略 fail to notice 俯瞰 从上面看
+exception           名 例外 被排除在一般陈述之外或不遵守规则的人或物
+conserve            动 保护 保护某物免受伤害或破坏防止过度浪费 尤指对环境或文化有重要意义的事物 conservation 名 保护 防止资源的过度浪费 如自然资源
+edible              形 可食用的 
+aspiration          名 志向 实现某事的希望或雄心壮志 
+straightforward     形 简单的 不难或容易做理解的 坦率的 人honest and frank
+erupt               动 喷发 如火山 爆发 如打架噪音 形似evade
+destruction         名 破坏摧毁 对某物造成如此大的损害以致于它不再存在或无法修复的行为或过程 重点不再存在无法修复 同根词destructive
+oxide               名 氧化物 氧与另一元素或基团的二元化合物 形似dioxide
+bureaucracy         名 官僚制度 一种政府制度大多数重要的决定都是由州政府官员而不是选举出来的代表做出的 采用官僚制度的组织 官僚制度中的官员
+spy                 名 间谍密探 政府或者组织雇佣从军方或者竞争对手那里获取信息的 暗中监视者 动 从事间谍密探工作 暗中观察 认出 辨别或辨认，尤指通过仔细观察 根本没有看见好吗 
+retrieve            动 取回 某物 检索 计算机用语 find or extract 都是找到然后拿回来 形似retreat
+inertia             名 不活动惰性 啥也不做或保持不变的趋势 如官僚主义的惰性 惯性 物质保持其静止状态或作直线匀速运动的特性 物理学单词
+vocal               形 嗓音的 和human voice有关的 发声的 解剖学用语 如发声组织 歌唱的 指音乐由歌唱组成的或者包括歌唱 直言不讳的 表达感受观点freely or loudly 同根词vocalist 歌手
+definitely          副 无疑地 用于强调 明确地  in a definite manner; clearly: 如明确地收到了来信
+metabolism          名 新陈代谢 
+designate           动 指派 任命(某人)到指定的职位 命名 官方正式的地位或名字 词根designer  意似appoint delegate 动 委托 通常比自己低级的人 名 代表 js Event delegation 辨析appoint：通常指不经过选择的官方委任 两个关键词 designate：书面用语，侧重当权者或机构的选拔或任命，有时含强行指定的意味 可能非官方
+assure              动 保证 告诉别人一些积极的事情来消除任何疑虑 确保 使某事确定发生 
+successive          形 连续的 词根succeed 同根词succession 名 一连串 a succession of 继承 连续地 用法是in succession successive侧重描述事情一件接一件的发生，从未有过任何间断 如5连冠 consecutive侧重指活动、数字的连续性，并且强调结果 如失业率下降了5个月 continuous强调一件事情在不断地进行着，没有一刻停顿 如雨下了10天
+stance              名 站姿姿势 某人站立的方式，尤指故意采用的(如板球、高尔夫球和其他运动)或者就是a person's posture 态度 一个人或组织对某事的态度 词根stand
+occasional          形 偶尔的 不定期地发生、出现或完成的 occasion 名 场合时机 某次
+install             动 安装 可以是装备或者机器也可以是软件 放在位置上等待使用 正式任命 将(某人)放在新的权威地位，尤指有仪式的
+attain              动 实现获得 成功地实现获得(某人努力争取的某物) 达到 达到(特定的年龄、大小或数量)
+solitary            形 独自的单独的 独自做或者存在 唯一的single; only 名 隐士 同recluse or hermit 形似solo 无关系 
+erode               动 侵蚀 (指风、水或其他自然因素)逐渐磨损(土壤、岩石或土地) 逐渐的破坏摧毁 可以是某种东西也可以是疾病渐尖摧毁身体组织
+bolster             动 支持增强鼓舞 support or strengthen: 名 长枕 一种长而厚的枕头，放在其他枕头下面以作支撑

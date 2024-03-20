@@ -25,7 +25,7 @@ tissue              名 组织 纸巾
 carbohydrate        名 碳水化合物 含有大量碳水的食物 hydrate水合物
 manuscript          名 手抄本 如书文档音乐手写而非打字 手稿 尚未出版的作者手写或打印的文本
 ingenuity           名 聪明独创力 clever, original, and inventive的品质 词根ingenious
-abundance           名 大量
+abundance           名 大量 充足丰富 繁荣 即好的东西充足丰富
 triple              形 三部分的三人的 三倍的 动 变成三倍 名 三倍  意似multiple double 
 imitation           名 模仿 以某人或某物为model的行为 仿制品 为了模仿复制别的东西的东西  imitate intimate 
 transmit            动 传播 如知识性病情绪 播送 广播或发出(电子信号、广播或电视节目) 物理上的传播 允许(热、光、声、电或其它能量)通过介质
