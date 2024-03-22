@@ -1,31 +1,33 @@
-transmission 名 传播 
-inherit 动 继承 
-testimony 名 证词 
-provoke 动 激怒 
-conform 动 遵守 
-miniature 名 微小模型 
-temper 名 脾气 
-ape 名 类人猿 
-incredible 形 难以置信的 
-evident 形 明显的 
-incur 动 招致 
-residential 形 居住的 
-paradise 名 天堂 意似haven 
-patrol 名 巡逻 
-resistant 形 抵抗的 
-verge 名 边缘 
-legitimate 形 合法的 
-convey 动 传达 传送 
-depress 动 使沮丧 意似dishearten 
-casual 形 偶然的 意似occasional 
-overstate 动 夸张 
-presume 动 推测 
-imminent 形 即将来临的 
-originate 动 起源 
-robust 形 强壮的 
-dedicate 动 奉献 
-alleviate 动 减轻缓和 
-midst 名 中间 
-colonial 形 殖民地 
-transcend 动 超出 
-linger 动 逗留
+transmission            名 transmit行为transmit的状态 transmit 动 传播 如知识性病情绪 播送 广播或发出(电子信号、广播或电视节目) 物理上的传播 允许(热、光、声、电或其它能量)通过介质
+inherit                 动 继承 在先前的持有者死亡时作为继承人接受(金钱、财产或头衔) 遗传 从父母或祖先遗传而来的(品质、特征或倾向) 接手 从前任或前主人那里接受或留下(某种情况、物品等)  同根词inherent 名 内在固有的 如性格危险 似乎来自于inherit第二个意思 作为永久的、本质的或特有的属性存在于某物中的:
+testimony               名 证词 正式的书面或口头陈述，尤指在法庭上的陈述 证据证明 某事的证据或证明 意似testify 可惜没关系
+provoke                 动 激怒激起 刺激或引起某人的反应或情绪，通常是强烈的或不受欢迎的
+conform                 动 遵守 遵守规则、标准或法律 符合 (指人)按照社会公认的惯例或标准行事 如符合标准符合生活方式 相一致 外形上的遵守 在形式或类型上相似的 如合脚的鞋子
+miniature               名 小型模型 比正常小得多的东西，尤指小复制品或模型 形 小型的 very small of its kind 词根mini
+temper                  名 脾气情绪 一个人的精神状态，表现为生气或平静 易怒脾气 容易生气的倾向 怒气  an angry state of mind
+ape                     名 猿 笨拙的人 笨手笨脚的人
+incredible              形 难以置信的 
+evident                 形 明显的 清楚地看到或理解的
+incur                   动 招致引起 因自己个人行为导致变得受制于(不受欢迎或不愉快的事情) 三个关键词 如引起的费用
+residential             形 居住的 为人们居住而设计的 用于形容物 如私人居住的房子 residence 名 住所  resident 名 居民  reside 动 居住 属于
+paradise                名 天堂 伊甸园 极乐 理想快乐的地方或状态 意似haven “paradise”原意为“亚当和夏娃居住的地方”，即伊甸园。因此，它通常带有浪漫、乐观的色彩，表示一个完美、快乐的地方。“heaven”原意为“上帝和天使居住的地方”。它通常被视为一个庄重、严肃的地方，与上帝和神圣的事物相关联。
+patrol                  名 巡逻 监视某一地区的行动，尤指警卫或警察每隔一定的时间走动或开车 巡逻队 动 巡逻
+resistant               形 抵抗...的 对某事或某人提供抵抗力的 如抗病毒抗创新 be resistant to
+verge                   名 边缘 如湖边 临界点 抽象的边缘 一种极端的限制，超过了它，特定的事情就会发生 如哭泣边缘 动 接近于做某事 verge on 如绝望到了自杀的边缘 意似margin
+legitimate              形 合法的 合理的 能够用逻辑或理由来辩护的; 动 使...合法合理 形似legislation
+convey                  动 传送运送 transport or carry to a place: 传达 使(想法、印象或感觉)为人所知或可理解 传达信息
+depress                 动 使沮丧 使(某人)感到极度沮丧 抑制降低使萧条 降低活动的水平或强度如经济或生物系统 把(某物)推或拉到较低的位置 如按下按钮压下杠杆 意似dishearten 动 使沮丧 即失去determination confidence
+casual                  形 放松且不担心 如随意漫不经心 不定期的或不永久的 偶然的 意似occasional 
+overstate               动 夸大 state too strongly 同exaggerate
+presume                 动 推测假定 都是假 基于概率假设发生某件事 同根词presumably 副 大概 很可能和perhaps像 很可能要更强
+imminent                形 将要发生的迫近的 about to happen 自是词根
+originate               动 起源 非及物动词后要跟介词 创造开始某事  词根origin 名 产地起源 point或place 出身 一个人的社会背景或祖先
+robust                  形 强壮健康有力的 strong and healthy vigorous 醇厚浓郁的 (指酒或食物)味道或气味浓烈的  vigorous 形 强壮的 健康的 充满精力的
+dedicate                动 献出 奉献(时间或精力)于某一特定任务或目的 一本书为纪念某人而出版 正式开放或揭幕(建筑物或纪念碑)
+alleviate               动 减轻缓解 使(痛苦、缺陷或问题)不那么严重  意似soothe
+midst                   名 中间  两者同amidst amid 介 在...中 在背景人文或自然环境中 
+colonial                形 殖民地的 colony相关的 如殖民地规则
+transcend               动 超出 超出范围或界限如活动领域概念范围 超越胜过 如人或成就 如超越莎士比亚
+linger                  动 逗留 因为不愿意离开，所以在一个地方停留的时间超过了必要的时间 如在院子逗留眼睛逗留在某人上 linger over 花很长时间在(某事)上 如做饭
+violate                 动 违反 违反物 违反或不遵守规则或正式协议 侵犯 违反人 不尊重(他人的安宁、隐私或权利) 亵渎 不敬地或不尊重地对待神圣的东西
+calcium                 名 钙
