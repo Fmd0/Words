@@ -1,37 +1,37 @@
 bystander               名 旁观者 在事件中出现但不参与的人 passer-by路过者
-nourish                 动 养育如baby 为土壤增加肥力  breed nurture foster
-odour                   名 气味 odour英式odor美式 smell是中性词odor则是异味贬义词如尾气 和order就元音之差 scent older就比他多了个中间的l
+nourish                 动 养育 提供生长、健康和良好状态所必需的食物或其他物质 如baby 增加土壤的肥力 enhance the fertility of (soil) 怀有 把(一种感觉或信念)记在心里，尤指很长时间  意似breed nurture foster
+odour                   名 气味 独特的气味，尤指令人不快的气味 意味风气 附着于某物的持久的特性或印象 注意odour英式odor美式 意似smell是中性词odor则是异味贬义词如尾气 scent 音似和order就元音之差 older就比他多了个中间的l
 preposition             名 介词 注意元音重音
-cane                    名 中空的有节的茎特别是甘蔗和竹子 长棍子用于行走或是惩罚stem 形似crane craze
-stoop                   动 俯身 屈尊降低身份做一些应受谴责的事 stool
-veto                    名动 否决 vote
-coinage                 名 coin的集合名词 coin有发明词语的意思coinage也有相应的名词形式
+cane                    名 中空的有节的茎 特别是甘蔗和竹子 长棍子 用于行走或是惩罚的stem 动 用cane击打来惩罚  形似crane craze
+stoop                   动 俯身 头或身体向前和向下弯曲 驼背 头和肩膀习惯性地前倾 屈尊 降低自己的道德标准，以致做一些应受谴责的事 猛扑 (指猛禽)猛扑向猎物 名 驼背 猛扑  形似stool
+veto                    名动 否决 vote 否决立法机构的决定或提议的宪法权利
+coinage                 名 硬币 coin的集合名词 新创词语短语 新词或短语的发明 来自coin有发明新词语的意思
 whilst                  连 当什么的时候 whilst和while意思一致 while更加常见whilst则更正式
 forestry                名 林学 种植林及相关事情的科学 词根forest
 celsius                 名 摄氏度 形 摄氏的 同centigrade another term of celsius
 diameter                名 直径 radius
-electron                名 电子 物理学的电子 electronic elect
-narrate                 动 叙述 不管是口头还是书面
-dime                    名 十分硬币 美加的 一小笔钱 形似dim
-slender                 形 苗条的
-metric                  形 公制的 公制也叫做米制按照米为单位 英制是一英寸为计算 名 测量标准 matrix
-lens                    名 透镜 凸透镜凹透镜 周边弯曲用于聚光
-installment             名 分期付款 怎么可能是一期付款 词根install install是美式instal英 美英互换
-raid                    名动 突袭 袭击加上突然性的 而且是军事上的 意近scout
-clown                   名 小丑 即一种喜剧演员 joker代表小丑时等同jester与court jester，并非是马戏团中的，弄臣是古代宫廷中以插科打诨来为君王消烦解闷的人物也就是宫廷中的弄臣，专指说笑话的人。而clown在代表小丑时，等同于喜剧演员或谐星，马戏团中的
-commune                 名 公社一群人一起生活共享东西和责任
+electron                名 电子 物理学的电子 形似electronic elect
+narrate                 动 叙述 对…作口头或书面的叙述 为...做解说 为(电影、广播、音乐等)解说
+dime                    名 十分硬币 美加用语 一小笔钱 形似dim
+slender                 形 苗条的 (指人或身体的一部分)gracefully thin 细长的 (特别是杆或茎）的腰围或宽度较小 微薄的微小的 (指抽象的东西)在数量或基础上勉强够用的 如希望收入 意似slight
+metric                  形 公制的 使用米作为长度单位的，英制是以英寸作为单位 名 测量标准 一种测量系统或标准 公制系统 matrix
+lens                    名 透镜镜头 一面弯曲的玻璃或其他透明材料，用于集中或分散光线，单独使用(如在放大镜中)或与其他透镜一起使用(如在望远镜中)和相机上的镜头
+installment             名 分期付款 在一段约定的时间内为某物支付的几笔相等款项中的一笔 一集一期 每隔一段时间按顺序公布、广播或公开的某物的几个部分之一 安装 安装某物的过程 同installation 词根install 注意install是美式instal是英式
+raid                    名动 突袭空袭 由军队、飞机或其他武装力量对敌人的迅速突然袭击 军事上的 抢劫洗劫 迅速而非法地从(某地)拿走某物 犯罪分子的 突击搜查 警察的突然造访，以逮捕嫌疑犯或没收非法物品 警察的 动 恶意收购 带有敌意的收购企图购买公司的主要股份或控制股份。 意似scout
+clown                   名 小丑 喜剧演员，尤指马戏团中的喜剧演员，穿着传统服装，化着夸张的妆 爱开玩笑外向的人 蠢货 动 扮滑稽相 以滑稽或开玩笑的方式行事 用法clown around 意似joker代表小丑时等同jester与court jester，并非是马戏团中的，弄臣是古代宫廷中以插科打诨来为君王消烦解闷的人物也就是宫廷中的弄臣，专指说笑话的人。而clown在代表小丑时，等同于喜剧演员或谐星，马戏团中的。
+commune                 名 公社 一群人一起生活共享东西和责任 动 交流谈心 与(某人)分享某人的私密想法或感受，尤指在精神层面上
 waken                   动 弄醒 醒来 等于wake部分意思 怪不得疑惑
-heave                   名动 举起拉动用很大的力 有节奏的起伏如肩膀大海 heaven heavy
-eternal                 形 永远的永恒的持续和存在 everlasting 形 永恒的即永远持续的 internal
-procession              名 队伍 如参与庆典的人车 词根process   procedure
+heave                   名动 举起拉动用很大的力 发出(叹气) produce (a sigh) 如如释重负地叹了一口气 有节奏的起伏 如肩膀大海 名 heave的行为 形似heaven heavy
+eternal                 形 永远永恒的持续和存在 意似everlasting 形似internal
+procession              名 队伍 以有序的方式前进的一群人或车辆，尤指作为仪式的一部分 列队前进 以有序的方式前进的动作 词根process 形似procedure
 modernization           名 现代化 modern 加重音
-furnace                 名 熔炉 围起来的结构里面的材料能被加热到很高的温度
-heartfelt               形 衷心的即发自内心的 诚挚地同sincerely
-conjunction             名 连词 结合同时发生 如两件事情 词根conjunct
-preceding               形 在前的如前一页前一天 词根precede动 先于地位高于  regarding
-preface                 名 序言 注意发音 形似premature
-trolly                  名 手推车  同音词trolley 名 手推车英式 有轨电车美式 可能是同一个词
-conceal                 动 掩藏 隐瞒 即防止被看到被知道 hide and keep secret
-plumbing                名 管道系统 如水暖 管道系统的安装和维护 尾部b不发音 词根plumb有动词安装需要连接水管的家电 形 垂直的 名 铅锤 动 测深
-proclaim                动 宣布 即announce officially or publicly 清晰地表明 claim 声称索赔 allege
-engineering             名 工程学 engineer工程师
+furnace                 名 熔炉 一种可以将材料加热到很高温度的封闭结构，例如用于冶炼金属 暖气炉 用煤气或油燃烧的器具，在加热系统中加热空气或水，使之在建筑物内循环 极热的地方 used to describe a very hot place
+heartfelt               形 衷心的诚挚的 (指感情或表达)深切而强烈的 同sincere 衷心指发自内心的真心的
+conjunction             名 连词 语法学用语 同时发生结合 在时间或空间的同一点上发生的两个或两个以上的事件或事物的动作或实例  词根conjunct 形似junction
+preceding               形 在前的 时间地位顺序上在前coming before something in order, position, or time 词根precede动 在前先于 在时间上来得比某事早 地位高于 顺序位置来得早 形似regarding
+preface                 名 序言 一本书的导言，通常说明书的主题、范围或目的 动 为书提供序言 音似premature
+trolly                  名 手推车 同音词trolley 名 手推车英式 有轨电车美式 可能是同一个词
+conceal                 动 隐藏 不允许被看到 隐瞒 防止被知道保持秘密 
+plumbing                名 管道系统 如水暖系统 管道施工管道维修 管道系统的安装和维护 注意尾部b不发音 词根plumb有动词安装需要连接水管的家电 形 垂直的 名 铅锤 动 测深
+proclaim                动 宣布 announce officially or publicly 表明 indicate clearly 意似allege signify denote
+engineering             名 工程学 同根词engineer工程师
