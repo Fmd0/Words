@@ -1,51 +1,51 @@
-booth               名 电话亭 售货棚 投票间 临时帐篷或者结构 3n
-bracket             名 括号 各种括号()[]{}<> 托架墙壁上的直角用于支撑 rack衣架放地上的
-broker              名 经纪人 掮客 为他人买卖货物或者资产的人 重点为他人
-bulk                名 大量 in bulk 相似bump bang bulb  是bulky的词根 形 占据很大空间大且笨重形容物 人高大魁梧的
-bundle              名 捆 系或者包装起来的大量东西的集合 a bundle of  a bundle非正式 一大笔钱  
-cargo               名 货物
-centigrade          形 摄氏的
-chase               名动 追逐 quest 名动 追寻 长且艰辛地寻找某物 pursue purse wallet
-cherish             动 珍爱 保护在意一些爱的东西
-chest               名 胸膛 大箱子 木做的用于存储运输 金库 英式说法
+booth               名 售货棚摊位 市场、集市或展览会上的小型临时帐篷或建筑物，用于出售商品、提供信息或举行表演 小隔间电话亭投票间 允许隐私或隔离的围墙或隔间，如用于投票、广播、录音或打电话
+bracket             名 括号 一对()[]{}< >中的任何一种，用于将单词或数字围起来，以便将它们与上下文分开 等级类别 一类人或事物相似或处于特定界限之间 托架 附在墙上的直角支架，用来放架子、灯或其他物体 动 用括号包围 把...归位一类 将(一个或多个人或物)放在同一类别或组中 用托架支起 用直角的支撑物抓住或附着某物 意似rack
+broker              名 经纪人掮客 为他人买卖货物或资产的人 动 协商安排 安排或协商(协议) 如协商停火
+bulk                名 大量大块 大东西的体积或大小 大部分 the greater part of something 如大部分车辆通过了 用法the bulk of 动 使(产品)数量显得很大 处理(产品)使其数量看起来比实际大 如面粉肌肉 用法bulk up  同根词bulky 形 笨重的 占据很大空间大且笨重形容物 高大魁梧的高大肥胖的 heavily built 形容人 形似bump bang bulb
+bundle              名 捆 捆绑或包裹在一起的东西或材料的集合 用法a bundle of 动 捆扎 把(许多东西)绑在一起或卷起来，仿佛成一个包裹 用法多是bundle up  短语a bundle 一大笔钱 非正式
+cargo               名 货物 船、飞机或机动车辆运载的货物
+centigrade          形 摄氏的 名 摄氏度
+chase               动 追逐追赶 pursue in order to catch or catch up with 努力实现 seek to attain 追女生 试着与(潜在的性伴侣)建立关系 名 追逐追赶 pursuing someone or something的行为 意似quest pursue
+cherish             动 珍爱爱护 爱护和关心(某人)或珍惜(某物) 怀有 把(希望或抱负)记在心里 意似nourish
+chest               名 胸膛 人或动物身体的前表面，在脖子和胃之间 大箱子木箱 一种大而结实的箱子，通常由木头制成，用于储存或运输 引申到金库资金 某些机构的库务局或财政资源 英式说法 动 用胸部停住 用胸部推动(球) 用于足球
 cholesterol         名 胆固醇
-collective          形 集体的 共同的 被一群人做如决定行为
-compact             形 紧凑的 将一切必要之物放入很小的空间 注意首个元音
-comply              动 服从如命令 遵守如规定 同obey compliance
-confine             动 限制 某人某物时间空间如关押 引申到学科或活动领域 名 界限 即限制的边界 限制的名词 restrict restrain
-consent             名动 同意 同agree 是consensus词根 形似contend 注意区分
-contend             动 斗争同struggle 竞争同compete
-contention          名 争论同disagreement 论点同assertion
-consolidate         动 加固物理上的 巩固如权力地位 solidify  巩固  solid 固体 坚硬的 还有cement
-constitution        名 宪法 构成
-contempt            动 蔑视 即看不起
-controversial       形 有争议的  controversy 争议重音不同只有一个 contradiction contention
-cracker             名 薄脆饼干 黑客 crack裂缝
-criterion           名 标准 复数criteria
-criteria            名 标准 标准的复数 少了个音
-curb                名动 控制同control 限制 如脾气情绪
-curl                动 弄卷 名 卷发  curly 形 卷曲的l跟元音就是大变 和curb像
-curve               名 曲线 动 弯曲如路直线
-deceive             动 欺骗 故意的那种 词源deceit 读音一个方向
-deceit              名 欺骗 
-decisive            形 决定性的 解决问题产生明确结果的 果断的 做决定快的 词根decide
-defy                动 违抗反抗 对某人而言是挑战性的 defy somebody to do
-descend             动 下降 如飞机路
-ascend              动 攀登 升高如路电梯声音 和descend挺像
-despair             名动 绝望 就是pair发音但是加了个重音
-developmental       形 发展的 两个重音
-dew                 名 露水 夜晚产生的 due同音
-diagnose            动 诊断 确定疾病 发音比我预想的多了一个音 和dialect前三个音同
-snore               动 打鼾 名 打鼾 打鼾声 又添一员 yawn sneeze
-dialect             名 方言 重音在头
-dioxide             名 二氧化物 carbon dioxide二氧化碳
-discharge           动 官方声明某人离开位置 退伍出院解雇 排放入污染物 放电物理学单词
-disguise            名动 伪装同camouflage 使外观不同 掩盖同hide 掩盖自然存在的东西如情绪 和conceal很像 但他是 不被看到知道
-guise               名 外表 通常这个外表是伪装 伪装
-disintegrate        动 瓦解 解体 碎裂 因为某些原因变成很小的部分 注意那个元音
-integral            名 积分 形 必需的 完整的 即拥有一切完整的部分
-integrate           动 融入 将一个物与另一物结合成一个整体 求积分
-integrity           名 完整 正直 一种品质honest且有强的道德原则 发音上的叛徒
+collective          形 集体的共同的 由集体行动的人们完成或者与一个团体的全体成员有关的或由全体成员共有的 如集体的愿景共同的责任 总的 taken as a whole; aggregate 如总劳动力
+compact             形 紧凑的 closely and neatly packed together;dense: 动 压实 对(某物)施加力使其更紧密压缩 名 协议合同 两方或多方之间的正式协议或合同 意似concise
+comply              动 服从 按照愿望或命令行事 形容人 遵守 (指物品)符合规定的标准 形容物 意似obey compliance conform
+confine             动 限制 把某人或某物限制在一定范围内(空间、范围或时间) 名 界限 一个地方的边界或边界，尤指它们限制了行动自由 限制 抽象事物的界限，尤指活动范围 如法律道德 restrict restrain
+consent             名 同意 允许某事发生或同意做某事 同意性行为 有法律自由和能力作出这种选择的人自愿同意的性行为 同意书 个人同意参与或允许某事的官方文件 动 同意 允许某事发生 同意性行为 同根词consensus 意似agree 形似contend
+contend             动 斗争 努力克服(困难) 同struggle 竞争 为达到(某物)而与他人竞争 同compete 主张断言 在论证中断言某物 用法contend that 同根词contention 
+contention          名 争论 激烈的争执heated disagreement 论点看法观点 an assertion, especially one maintained in argument
+consolidate         动 加固 使(某物)更坚固 加固物理的东西 巩固 巩固(地位或权力) 加固抽象的东西 整合合并 将(许多事物)组合成一个更有效或更连贯的整体 如生产活动资金  意似solid cement condense
+constitution        名 宪法 一个国家或其他组织被公认为受统治的基本原则或既定先例的集合 构成 the composition of something或者构成的行为
+contempt            名 蔑视 认为某人或某物毫无价值或不值得考虑的感觉或相应的行为 用法with contempt/a contempt for  藐视法律 违法乱纪对法庭及其官员不服从或不尊重的罪行 也作contempt of court 注意词性是名词
+controversial       形 有争议的引起争议的 引起或可能引起争议或公众分歧的  词根controversy 重音不同 形似contradiction contention
+cracker             名 薄脆饼干 一种薄而干的饼干，通常和奶酪一起吃 黑客 词根crack
+criterion           名 标准 判断或决定事物的原则或标准 复数criteria
+criteria            名 标准 criterion的复数 少了个音
+curb                名 控制限制 对某物的控制或限制 马嚼子 一种带有皮带或链条的嚼子，从马的下颚下穿过，为了控制 动 控制限制 restrain or keep in check 通过马嚼子控制马 注意check有控制意思
+curl                动 弄卷 形成或使形成弯曲或螺旋形 名 卷发 螺旋状或卷状的东西，尤指一绺头发 同根词curly 形 卷曲的 发音变
+curve               名 曲线弯曲部分 逐渐偏离直线的部分或全部长度的线或轮廓 动 弯曲形成曲线 form or cause to form a curve 意似linear
+deceive             动 欺骗 故意使(某人)相信不真实的事情，尤指为了个人利益 引申到物体给了人错误印象性生活上对(固定伴侣)不忠 词源deceit 读音一个方向
+deceit              名 欺骗 通过隐瞒或歪曲事实来欺骗某人的行为或做法
+decisive            形 决定性的 解决问题的;产生明确的结果 果断的 具有或表现出迅速而有效地作出决定的能力的 词根decide
+defy                动 违抗反抗 公然抵抗或拒绝服从 激 表现出挑战(某人)做某事或证明某事的样子 defy somebody to do
+descend             动 下降 move or fall downwards 下斜 (指道路、小路或台阶)向下倾斜或引导 引申到堕落 举止可耻，远远低于自己的标准 用法descend to 突然攻击 make a sudden attack on 用法descend on/upon 是...的后裔 be a blood relative of 用法be descended from
+ascend              动 攀登 go up or climb 升高 在空中上升或向上移动 如电梯 前者形容人后者形容物
+despair             名 绝望 完全丧失或没有希望 动 绝望 lose or be without hope 形似pair
+developmental       形 发展的 关心某人或某事发展的 如发展性的问题 发育的 与个体发育有关的，尤指动物的胚胎发育 如发育生物学 两个重音
+dew                 名 露水 夜晚，当大气蒸汽凝结时，在凉爽的表面上形成的小水滴 动 用水珠润湿 moisten with drops of liquid 文学用语 同音due
+diagnose            动 诊断判断 通过检查症状来确定(疾病或其他问题)的性质 注意发音多的辅音 音似dialect
+snore               动 打鼾 睡觉时发出鼻息或呼噜声 名 鼾声 人在睡觉时发出的鼻息或呼噜声 极其无聊的东西 a thing that is extremely boring 非正式用法 意似 yawn sneeze
+dialect             名 方言 一种特定地区或社会群体特有的特殊语言形式 计算机编程方言
+dioxide             名 二氧化物 一种在分子或实验式中含有两个氧原子的氧化物 短语carbon dioxide二氧化碳
+discharge           动 出院退伍解雇释放 正式地告诉(某人)他们可以或必须离开某地或某地 如允许(病人)出院因为他们被判定健康从武装部队或警察中开除从法律的监护或约束中释放出来 排出 允许(液体、气体或其它物质)从被限制的地方流出 引申到放电 履行 履行(义务)或履行(责任)所必需的一切 放电物理学单词 名 出院退伍解雇释放 排出 放电 履行 形似charge
+disguise            动 伪装 为了隐藏某人而给(某人或自己)一个不同的外表 如伪装外表声音 掩盖 隐瞒(感觉或情况)的本质或存在 如厌恶情绪 此时意似conceal第二个意思 因为不是直接看到的东西 名 伪装 掩盖 辨析 掩盖就是隐瞒同conceal第二个意思 至于伪装则是实现隐藏的一种手段具体的隐藏
+guise               名 外表伪装 一种外在的形式、外观或呈现方式，通常用来掩盖事物的本质
+disintegrate        动 碎裂破碎瓦解解体 由于撞击或腐烂而破碎成小块的或者失去力量或凝聚力并逐渐衰弱 物理的和抽象的都是 注意发音
+integral            名 积分 如有限积分无限积分 形 必需的 使整体完整的必要的基本的或根本的 完整的 具有完整的所有必要部分的 整数的 是integer的
+integrate           动 使成为一体 将(一物)与另一物结合成整体 使融入 使(有特殊特点或需要的人或团体)平等地参与或成为一个社会团体或机构的成员 本质都是一体化不过是物质的一体化还是人的一体化 求积分 find the integral of 同根词integration
+integrity           名 正直 诚实和有强烈道德原则的品质 完整 整体和不分裂的状态 发音上的叛徒
 integer             名 整数
-dissolve            动 溶解 解散如官方组织 resolve
-ditch               名 沟 动 抛弃如朋友伙伴 pitch pit pitfall
+dissolve            动 溶解 (指固体)变成或使变成液体以形成溶液 引申到消失不受控制地陷入(强烈感情的表达)情绪的变化(指电影中的画面或场景)逐渐转变为(另一种) 用法dissolve into/in 解散 关闭或解散(议会或官方机构) 名 叠化淡入淡出 从电影中的一个画面或场景逐渐移动到另一个画面或场景的动作或实例 形似resolve
+ditch               名 沟 在道路或田地边上挖的狭窄的沟渠，用来蓄水或排水 动 放弃 get rid of or give up 如计划 引申到抛弃 断然结束与(某人)的关系 如朋友伙伴 做水上迫降 在紧急情况下使(飞机)降落在水面上 形似pitch pit pitfall
