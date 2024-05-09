@@ -1,10 +1,10 @@
-executive           名 经理 形 决策的 有执行权的
-executable          形 可执行的 计算机专业单词
-execute             动 执行 表演 处决 这一根读音有e也有I
-mass                名 大量 形 大量的 massive也有大量的意思
+executive           形 有执行权的 关于或有能力实施计划或行动的 名 经理主管 在企业中负有高级管理责任的人
+executable          形 可执行的 (指文件或程序)可以由计算机运行的 名 可执行文件程序 an executable file or program
+execute             动 执行 执行(计划、命令或行动过程) 引申到表演表演(熟练的动作)计算机执行指令程序 处死 对(依法被判死刑的人)执行死刑 
+mass                名 大块 没有确定形状的大块物质 大量 大量的人或物体挤在一起 大多数 the majority of 用法多是a/the mass of 形 大量的 涉及或影响大量的人或事物的 意非常似bulk
 nap                 名动 小睡 特别指白天 nod
-domestic            形 国内的 家庭的  
-mule                名 骡子
+domestic            形 家庭的 和家庭或家庭关系运行有关的 国内的 存在于或发生于某一特定国家的;非外国的或国际的:
+mule                名 骡子 驴和马(严格地说，是公驴和母马)的后代，通常是不育的，用作驮畜
 collapse            动 倒塌如建筑物 晕倒即人倒下无意识因为受伤生病 折叠
 collision           动 碰撞 冲突
 collide             动 碰撞 冲突

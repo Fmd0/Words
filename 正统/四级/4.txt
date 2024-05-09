@@ -47,27 +47,26 @@ favorable           形 赞同的肯定的 expressing approval 有利的 to the 
 fierce              形 凶猛的 具有或表现出强烈的或凶猛的攻击性的 如老虎 天气狂暴的 (指天气或温度)强大的和破坏性的 情感强烈的 表现出真诚而有力的强度 后两者都是凶猛的的引申义 意似severe 
 fleet               名 舰队船队 一起航行、从事同一活动或在同一所有权下的一组船只 海军 a country's navy 车队 一组车辆或飞机一起或在同一所有权下运行 用法多是a fleet of 形似flee
 gadget              名 小机械小装置 小型机械或电子装置或工具，尤指精巧的或新颖的 意似apparatus novelty
-grace               名 优雅
-harsh               形 严厉的如惩罚 恶劣的如气候
-hijack              名动 劫持 读音就是hi+jack
-idle                形 空闲的 懒惰的 2a 和idol偶像同音
-impulse             名 冲动 脉冲 后者是电子专业术语 impose
-inevitable          形 必然发生的 不可避免的
-invade              动 侵略 重音在后
-invasive            形 侵略性的 肆意蔓延的 2a 后者倾向于引申
-justify             动 辩解 即说什么是有道理的 从没遇到过的被他做甚
-machinery    名 机器 总称名词没什么问题 不趋近于单一具体的一个机器而是范畴的概念 machine发音就是前半部分要注意
-mortgage            名动 抵押贷款 作动词后面加名词表示抵押东西 loan
-negotiate           动 谈判
-nonsense            名 无意义的话即废话 胡说胡闹 重音在头 意似garbage
-oblige              动 强迫 昨天刚见过啊
-petrol              名 汽油英式 gasoline就是美式了 gas 名 气体 燃气 fuel 名 燃料 petroleum 名 石油
-prevail             动 流行 占优势
-prominent           形 突出的 显著的 重要的  
-quiz                名 小测验
-reap                动 收获如作物 获得如努力获得回报
-reinforce           动 增加 强化 如通过材料提供物理加固增加兵力 i: 和 I相连倒是少见
-remark              名动 评论 注意 2种
-remedy              名 治疗药物用于疾病或受伤 抵制消除不想要事物的手段翻译为改进措施不合适吧 补偿是法律上的 realm
-scratch             动 划破 抓挠 from scratch
-
+grace               名 优雅 动作的流畅和优雅 大度风度 礼貌的善意 动 给…带来荣耀使...增色 通过出席或参与给(某人或某事)带来荣誉或荣誉 装饰 (指人或物)出现使得引人注目
+harsh               形 刺眼刺耳的 令人不愉快的粗糙的或对感官刺激的 残酷严厉的 cruel or severe 如军队纪律 引申到(指气候或条件)难以生存的(指现实或事实)令人不快的
+hijack              名动 劫持 非法扣押在运输途中的(飞机、船只或车辆)并强迫其前往另一个目的地或为自己的目的而使用
+idle                形 懒惰的 (指人)逃避工作;懒惰的 引申到(指人)不工作的;失业的(尤指机器或工厂)不活跃的(指时间)以不作为或缺乏重要活动为特征的就是空闲的(指钱)以现金或不支付利息的账户持有 人空闲两种原因到时间机器金钱的空闲 无意义的 没有目的或效果的;没有意义的 如无意义闲聊 动 游手好闲 花时间无所事事 音同idol
+impulse             名 冲动 突然强烈而不加思索的行动冲动或欲望 推动力 导致某事发生或发生得更快的事物;一个动力 脉冲 脉冲 电能的脉冲;短暂的电流 电器用语 形似impose pulse 意似impetus
+inevitable          形 必然发生的不可避免的 certain to happen; unavoidable 名 必然发生的事 a situation that is unavoidable 用法the inevitable 形似indispensable
+invade              动 侵略武力入侵 (指武装部队)进入(一个国家或地区)以征服或占领它 大批涌入 大量进入(一个地方、情况或活动范围)，尤指具有侵入性的效果 扩散渗入 (指寄生虫或疾病)传播到(有机体或身体部位) 侵扰 encroach or intrude on 如隐私 辨析invade intrude invade “侵入”、“侵犯”、“侵袭”，语气较重，可指武装入侵（by force）蜂拥而入 (in large numbers) 或强势进入 (in forceful or noticeable way) 也可指其他方面的入侵或侵犯，如侵犯隐私、权利等。名词是 invasion。 intrude “侵扰”、“闯入”，指未受邀请、未得到允许或不适时宜地进入、侵入或闯入某地方或某种状况（to go into a ​place or ​situation in which you are not ​wanted or not ​expected to be）。这种侵入和闯入可能是有意的，也可能是无意的。可与介词 in/into、on/upon 连用。 两者使用场景不同 且intrude 程度较轻 invade 程度较重
+invasive            形 侵入的肆意蔓延的 倾向于迅速地、不受欢迎地或有害地蔓延的 侵扰的 倾向于侵犯某人思想或隐私的 开刀的 (指医疗程序)涉及将器械或其他物体引入身体或体腔的
+justify             动 为...辩解 显示或证明是正确的或合理的 是...的正当理由 be a good reason for 两者意思同前者人做主语后者物做主语
+machinery           名 机器 集合名词 machines collectively
+mortgage            名 抵押贷款 银行、房屋互助协会等借贷有利息以换取债务人财产所有权的法律协议，条件是所有权的转让在债务得到支付后失效 动 抵押 把(财产)作为贷款的担保转让给债权人 意似loan pledge
+negotiate           动 谈判 通过讨论获得或带来 解决通过 找到越过或穿过(障碍或困难路线)的方法
+nonsense            名 无意义的话 没有意义的口头或书面的话 也可用于表示强烈反对 胡闹荒唐举动 愚蠢的或不可接受的行为 意似garbage
+oblige              动 强迫 使(某人)在法律上或道德上受约束做某事 帮助 按(某人)的要求或愿望去做，以帮助或取悦他们 感激 be indebted or grateful 用法be obliged 非常奇怪的单词 意似impose compel
+petrol              名 汽油英式 美式是gasoline 形似gas 名 气体 燃气 fuel 名 燃料 petroleum 名 石油
+prevail             动 占优势 prove more powerful or superior 如逻辑比情绪占优势难 引申到流行 在特定地区或特定时间广泛或流行的 劝说 persuade (someone) to do something 用法prevail on/upon
+prominent           形 重要著名的 important;famous 形容人 凸出的 从某物突出的;招人注意的 物理上的凸出 如龅牙金鱼眼 显眼的显著的 为了引起注意而放置的;明显的 如物体
+quiz                名 知识竞赛 对知识的测试，尤指个人或团队之间的竞赛，作为一种娱乐形式 小测验 给学生的非正式的笔试或考试 美式说法 询问盘问 an act of questioning someone 特别是警方调查 英式非正式说法 动 询问盘问 进行小测验
+reap                动 收割 cut or gather (a crop or harvest) 收获获得 因自己或他人的行为而得到(某物，尤指有益的东西)
+reinforce           动 加固 加固或支撑(物体或物质)，尤指用额外的材料 非常物理的说法 强化 加强(现有的感觉、想法或习惯) 形容抽象内容 增加增援 用额外的人员或装备加强(军事力量) 形容军事力量 注意有i:和I连音 意似strengthen
+remark              名动 言论评论 说点什么作为评论 注意 regard with attention;notice
+remedy              名 治疗药物疗法 治疗疾病或损伤的药物或治疗方法 这是本意 改进补救措施 抵制或消除不受欢迎事物的手段 法律补偿 法律赔偿的手段 形似realm
+scratch             动 划 用锋利或尖的物体在(某物)表面划下或标记 引申到划破在…的皮肤上留下又长又窄的浅表伤口挠用指甲摩擦(身体的某一部分)以止痒 划掉 用钢笔或铅笔取消或划掉(书写) 引申到让(竞争者)退出比赛可以主动也可以被动取消或放弃(一项事业或计划) 名 划痕划伤 因划伤而留下的痕迹或伤口
