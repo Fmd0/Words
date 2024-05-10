@@ -1,58 +1,58 @@
-financial           形 金融的 即finance相关的
-finance             名 管理大量钱即金融 商业上金钱的支持即资金 但倾向于抽象概念 动 为提供资金 注意和形容词重音变化
-engage              动 吸引如注意力兴趣人 参加参与 出现于engage in  短语
-emergency           名 紧急情况 emerge 动 出现 兴起 
-emergence           名 出现 和前者不管是音标还是拼写都是一字之差
-bacteria            名 细菌复数
-bacterium           名 细菌单数 音标多了一个音
-political           形 政治的
-politics            名 政治 似乎来自politic 但这是个形容词明智的 重音发生了变化
-polity              名 政体 是词根 政党 还是 political party合适
-knit                动 编织 k省音 knot
-weave               动 织
-promote             动 促进 晋升 推销 3v
-prompt              名 提示符 动 导致 形副 及时准时的 注意后面全是辅音发音一带而过 punctual
-panel               名 板 专家组
-solar               形 太阳的
-lunar               形 月亮的
-calorie             名 大卡 小卡 1000小卡路里=1大卡路里 多指大卡
-muscle              名 肌肉 发音类似castle
-poverty             名 贫穷 贫乏缺乏 2n deprivation 名 剥夺 缺乏 贫困 后两者都同poverty
-property            名 财产 特性
-mission             名 任务
-missile             名 导弹 形似exile
-expense             名 费用 代价 昂贵的词根
-recession           名 衰退 特指经济 意似depression recession强调衰退过程，而depression侧重衰退过后经济不景气的萧条局面。当然更为书面的定义是GDP连续两个季度出现负增长称为recession，而该年GDP较前一年萎缩10%以上则称为depression。
-recess              名 暂停如暑假法庭的休会 课间休息 美式英语中
-boost               动 促进增加提升
-immigrant           名 移民 migrant本国内迁移的人比如工人immigrant外国迁移进来的人emigrant本国迁出的人
-migrant             名 移民
-migrate             动 移居 首元音发音同migrant 不同于immigrant 重音在后 前两者在首部
-claim               动 声称 索赔
-cancer              名 癌症
-career              名 职业 生涯 重音位置不同于cancer
-loan                名 借出去的东西特别是借款 借款行为 名动 借出特别是钱 同lend 而borrow则是借入
-peer                动 仔细看 名 同等地位的人
-variety             名 多样化 种类 variation variable
-various             形 各式各样的 重音元音都发生变化
-chief               名 领袖如政党的部落的 形 首要的 主要的
-crisis              名 危机  
-crises              名 危机复数 I变i:尾音变浊化
-discipline          名 纪律 学科特指大学学科
-enhance             动 提高增加 如工资退休金
-fund                名 资金 倾向于money本身 动 提供资金
-funding             名 资金 此时和fund区别不大 提供资金
-vehicle             名 机动车 手段工具
-bet                 名动 赌 gamble
-fossil              名 化石 老顽固
-imply               动 暗示 意味着
-dishearten          动 使沮丧 即失去determination confidence 音同heart 意似deflate
-military            形 军用的  the military 名 军人 军队
-trap                名 陷阱 动 困住
-immune              形 免疫的 不受影响的 并非是疫苗音译
-induce              动 劝说 详细是成功劝说导致某人做某事 导致 deduce动 推断 1个够了
-revenue             名 收入 特别是一年的收入
-avenue              名 大街 林荫道 读音就差了首个元音
-whale               名 鲸
-council             名 议会 地方议会 counsel attorney
-pupil               名 学生 瞳孔
+financial           形 金融的 relating to finance
+finance             名 金融财政 对大量资金的管理，尤指政府或大公司 资金 对企业的资金支持 动 为...提供资金 为(个人或企业)提供资金
+engage              动 吸引 吸引(某人的兴趣或注意) 使参加 使某人参与(谈话或讨论) 用法engage someone in 从事参与 participate or become involved in 用法engage in或be engaged in 与……有密切关系 建立有意义的联系 如社区人们 用法engage with 雇用 安排雇用(某人)
+emergency           名 紧急情况 需要立即采取行动的严重的、意想不到的、通常是危险的情况 词根emerge 动 出现 兴起 
+emergence           名 出现 隐藏后暴露的过程 形成 出现或突出的过程 倾向于是过程吧 形似音似emergency
+bacteria            名 细菌复数 单细胞微生物有细胞壁但缺乏细胞器和有组织的细胞核的一大群单细胞微生物的成员，包括一些能引起疾病的微生物
+bacterium           名 细菌单数 注意比bacteria多了个音
+political           形 政治的 与一个国家的政府或公共事务有关的 
+politics            名 政治 与国家或地区的治理有关的活动，尤指有权力的政党之间的辩论 勾心斗角 在一个组织中旨在提高某人地位或增加权力的活动 如办公室政治 词根polity 同根词political
+polity              名 政体 公民政府或宪法的形式或程序 没有政党意思 政党是political party
+knit                动 编织 用编织针或在机器上用羊毛或其它纱线环环相扣制成(衣服、毛毯等) 使紧密结合 unite or cause to unite 如家庭一群人 用法多是knit together 注意k省音 音似knot
+weave               动 织 将沿一个方向穿过的长线与其他长线成直角相互交错，形成(织物或织物制品) 编造编排 由许多相互联系的元素构成(一个复杂的故事或模式) 重点是编不是编
+promote             动 促进 支持或积极鼓励(事业、事业等);进一步推动 引申到推销 宣传(产品、组织或企业)以增加销售或公众意识 晋升 把(某人)提升到更高的位置或等级
+prompt              动 导致 (指事件或事实)引起(行动或感觉) 鼓励...说下去 鼓励(犹豫不决的说话者)说点什么 引申到给...提词 在戏剧表演中给(演员)补上忘记的单词或台词 提示符提示 (指计算机)请求(用户)输入 名 鼓励说下去 提词 提示符 形 及时的 done without delay;immediate 如及时的回复 形似punctual
+panel               名 板 一种扁平或弯曲的部件，通常为矩形，形成或安装在门、墙或天花板的表面上 有很多种板 专家组 聚集在一起调查或决定某一特定问题的一小群人
+solar               形 太阳的 relating to or determined by the sun:
+lunar               形 月亮的 of, determined by, or resembling the moon
+calorie             名 小卡 能量单位，相当于使1克水的温度升高1°C所需的热能(现在通常定义为等于4.1868焦耳) 也作small calorie缩写cal 大卡 能量单位，常用于表示食物的营养价值，相当于使1公斤水的温度升高1℃所需的热能，等于一千小卡;一个千卡 也作large calorie缩写cal or Cal 奇怪单词差了一千倍啊
+muscle              名 肌肉 人体或动物体内具有收缩能力的纤维组织带或束，能使身体各部分运动或保持其位置 体力 physical power;strength 音似castle
+poverty             名 贫穷 极度贫穷的状态 贫乏低劣 质量低劣或数量不足的状态 如想象力 意似deprivation
+property            名 财产 属于某人的一件或多件物品;集体的所有物 特性 某物的属性、品质或特征
+mission             名 任务 给一个人或一群人的重要任务，通常包括出国旅行
+missile             名 导弹投掷物 用手或机械武器向目标强行推进的物体 形似exile
+expense             名 费用 为某物所引起或需要的费用 是expensive的词根
+recession           名 衰退 经济暂时衰退的时期，在此期间贸易和工业活动减少，通常表现为连续两个季度的本地生产总值下降 形似depress distress  辨析depression recession recession强调衰退过程，而depression侧重衰退过后经济不景气的萧条局面。当然更为书面的定义是GDP连续两个季度出现负增长称为recession，而该年GDP较前一年萎缩10%以上则称为depression。 所以单就事件而言recession 发生事件跨度更小了
+recess              名 凹进处 将墙的一部分建得比其他部分靠后而形成的小空间 如嵌入凹处 暂停 议会、委员会、法院或其他官方机构的议事暂时停止的一段时间 如暑假法庭的休会 引申到课间休息 a break between school classes 美式英语说法
+boost               动 促进促进增加 帮助或鼓励(某物)增加或提升 放大 放大(电信号)
+immigrant           名 (外来)移民 在外国永久居住的人 辨析migrant本国内迁移的人比如工人immigrant外国迁移进来的人emigrant本国迁出的人
+migrant             名 移民 从一个地方搬到另一个地方的人，尤指为了找工作或更好的生活条件 候鸟 an animal that migrates
+migrate             动 迁徙 (指动物，尤指鸟或鱼)根据季节从一个地区或栖息地迁移到另一个地区或栖息地 移居 (指人)为了找工作或更好的生活条件移居到一个新的地区或国家
+claim               动 声称 陈述或断言某事属实，通常不提供证据或证明 要求...的所有权认领 正式请求或要求;说某人拥有或赚到了(某物) 引申到凭保险单索取  根据保险单的条款要求(钱) 造成...的死亡 造成(某人生命)的损失
+cancer              名 癌症 由身体某一部分的异常细胞不受控制地分裂而引起的疾病 社会恶习 难以控制或根除的邪恶或破坏性的行为或现象 注意C大写得到的Cancer是巨蟹座
+career              名 职业 在一个人的一生中有重要时期从事的职业，并有进步的机会 生涯 一个人在职业生涯中所花费的时间
+loan                名 借款 借来的东西，尤指一笔预计要带利息偿还的钱 借出 an act of lending something to someone 动 借出 lend (a sum of money or item of property) 意似borrow lend
+peer                动 仔细看 吃力地或专注地看着某人或某事 名 同等地位的人 与另一个特定的人年龄、地位或能力相同的人
+variety             名 多样化 不同或多样的性质或状态;不一致:不一致或单调 一系列种类 在性质或质量上不同的具有相同一般类别的若干或一系列事物 用法a variety of 种类 在某些方面不同于同一一般类别或种类的其它事物的事物 同根词variation variable
+various             形 各式各样的 彼此不同的;不同种类的 这是种类的形容词形式 多样化的 具有或表现出不同的特性或品质的 这是多样化的形容词形式 多样化倾向于是特性品质不同
+chief               名 部落首领领袖 一个民族或氏族的领袖或统治者或者一个组织的首脑 形 首要的最重要的 most important 形容物 最高级别的 having or denoting the highest rank 形容人
+crisis              名 危机 极度困难或危险的时期
+crises              名 危机复数 注意发音I变i:尾音s变z浊化
+discipline          名 纪律 训练人们遵守规则或行为准则的做法，用惩罚来纠正不服从 学科 一门知识的分支，尤指在高等教育中所学的 动 训导 训练(某人)遵守规则或行为准则，用惩罚来纠正不服从
+enhance             动 提高增加 加强、增加或进一步提高…的质量、价值或程度 如工资退休金 意似boost
+fund                名 资金 为某一特定目的而储蓄或可用的一笔钱 动 为...提供资金 为某一特定目的提供资金:
+funding             名 资金 尤指由组织或政府为特定目的而提供的钱 提供资金 the action or practice of providing funding
+vehicle             名 机动车 用于运送人或货物的东西，尤指在陆地上，如汽车、卡车或手推车 手段工具 用来表达、体现或完成某事的东西 用法多是a vehicle for 意似weapon
+bet                 动 赌 根据比赛或游戏等不可预测的事件的结果，拿一笔钱或有价值的物品与他人的进行赌注 敢说 used to express certainty 非正式说法 名 赌 形似gamble defy
+fossil              名 化石 埋藏在岩石中的史前植物或动物的遗迹或印记，并以石化的形式保存下来 老顽固 过时的或抗拒改变的人或物 具有贬低倾向
+imply               动 暗示 通过暗示而不是明确的参考来表明(某事)的真实性或存在性 意味着 (指事实或事件)表明(某事)是合乎逻辑的结果 形似implication indicate denote 
+dishearten          动 使沮丧 使(某人)失去决心或信心 音同heart 意似deflate distress depress
+military            形 军用的 与士兵或武装部队有关的或有其特点的 名 军队 一个国家的武装力量 用法多the military
+trap                名 陷阱 设计用来捕捉和留住动物的装置或围栏，通常是允许进入但不允许离开或抓住身体的一部分  圈套 人们埋伏等待突然袭击的情况 形容人之间的事 动 用陷阱捕捉 catch (an animal) in a trap 引申到困住 防止(某人)从某地逃跑或者(某物，尤指身体的一部分)被某物紧紧抓住而无法释放 诱骗 欺骗或欺骗(某人)做与他们的兴趣或意图相反的事
+immune              形 免疫的不受影响的 完全或部分抵抗某种传染病或病原体的 豁免的 受保护或免除的，尤指免除义务或某物的影响 注意并非是疫苗音译
+induce              动 劝说 成功地说服或引导(某人)做某事 导致 bring about or give rise to 形似deduce incur prevail
+revenue             名 总收入 收入，尤指组织的和实质性的收入 岁入 国家用于支付公共开支的年收入
+avenue              名 大街林荫道 城镇或城市中的宽阔道路，通常在其两侧有固定间隔的树木 途径 解决问题或在某事上取得进展的方法
+whale               名 鲸 一种非常大的海洋哺乳动物，有流线型的无毛身体，水平的尾鳍，头顶上有一个用于呼吸的气孔
+council             名 议会理事会 正式组成并定期开会的咨询、审议或管理机构 形似counsel attorney
+pupil               名 学生 被另一个人教导的人，尤指与老师有关的学童或学生 瞳孔 虹膜中央的黑色圆形开口，其大小变化以调节到达视网膜的光线量
