@@ -1,48 +1,48 @@
 executive           形 有执行权的 关于或有能力实施计划或行动的 名 经理主管 在企业中负有高级管理责任的人
 executable          形 可执行的 (指文件或程序)可以由计算机运行的 名 可执行文件程序 an executable file or program
 execute             动 执行 执行(计划、命令或行动过程) 引申到表演表演(熟练的动作)计算机执行指令程序 处死 对(依法被判死刑的人)执行死刑 
-mass                名 大块 没有确定形状的大块物质 大量 大量的人或物体挤在一起 大多数 the majority of 用法多是a/the mass of 形 大量的 涉及或影响大量的人或事物的 意非常似bulk
-nap                 名动 小睡 特别指白天 nod
+mass                名 大块 没有确定形状的大块物质 大量 大量的人或物体挤在一起 大多数 the majority of 用法多是a/the mass of 形 大量的 涉及或影响大量的人或事物的 动 聚集集中 聚集或使聚集成一个整体 意非常似bulk
+nap                 名动 小睡 睡得浅或短，尤指在白天 特别指白天 形似nod 意似yawn sneeze
 domestic            形 家庭的 和家庭或家庭关系运行有关的 国内的 存在于或发生于某一特定国家的;非外国的或国际的:
 mule                名 骡子 驴和马(严格地说，是公驴和母马)的后代，通常是不育的，用作驮畜
-collapse            动 倒塌如建筑物 晕倒即人倒下无意识因为受伤生病 折叠
-collision           动 碰撞 冲突
-collide             动 碰撞 冲突
-diabetes            名 糖尿病 diagnose
-federal             名 联邦制的
-poll                名 投票 ballot
-prospect            名 希望 前景 动 勘探 注意和 prosperity区别
-prospective         形 预期的 未来可能发生的如预期潜在的客户
-prosperity          名 繁荣
-prosperous          形 繁荣的
-qualify             动 使有资格权力 限定即添加条件 修饰如形容词修饰名词 quality 名 质量
+collapse            动 倒塌 (指建筑物)突然倒塌 晕倒 (指人)由于生病或受伤而跌倒并失去知觉 垮掉倒闭 fail suddenly and completely 引申到价格暴跌 折叠 折叠或被折叠成一个小空间 名 倒塌 晕倒 垮掉倒闭
+collision           动 碰撞 一个移动的物体或人猛烈撞击另一个物体或人的实例 程度比动词形式描述的要强 冲突 对立的思想、利益或派别之间的冲突
+collide             动 碰撞 移动时意外撞到 这是本意形容物理的行为 冲突 come into conflict or opposition 形容抽象的行为
+diabetes            名 糖尿病 一种身体产生胰岛素或对胰岛素产生反应的能力受损的疾病，导致碳水化合物代谢异常和血液中葡萄糖水平升高 形似diagnose
+federal             名 联邦制的 具有或关于几个国家组成一个统一体但在内部事务上保持独立的政府体系的 联邦政府的 关于或表示中央政府的，有别于组成联邦的各个独立单位的 同根词federation
+poll                名 投票 在选举中投票的过程 多作the polls 引申到投票数 意似ballot
+prospect            名 希望前景 未来事件发生的可能性或可能性 潜在客户 被认为有可能成功或成为潜在顾客、客户等的人 景色 广阔的风景视野 动 勘探 寻找矿藏，尤指通过钻探和挖掘 引申到寻找 search for; seek 用法prospect for
+prospective         形 预期的 期望或期待将来成为特定的事物 未来可能发生的 likely to happen at a future date 如改变
+prosperity          名 繁荣 the state of being prosperous
+prosperous          形 繁荣的富有的 物质上成功的;繁荣的经济
+qualify             动 使有权 通过满足一个必要的条件而有资格获得特殊的利益或特权 使具有资格 成为某一特定职业或活动的正式从业者，通常通过参加课程和通过考试 限定 使(陈述或断言)不那么绝对;添加保留条件 修饰 (指一个词或短语)赋予(另一个词，尤指前面的名词)某种性质 语法学用语 形似quality但无关
 qualified           形 合格的如食物有资格的如证书 都是官方认证的 胜任的即能力方面competent 有限定条件的不是绝对的如成功
-spouse              名 配偶
-automate            动 使自动化 确实只有一个意思 automatic
-heritage            名 遗产 特别和文化遗产有关 legacy
-perception          名 感觉如听看通过人体感觉感知事情 看法 2n
-perceive            动 感知察觉become aware of 把...看作regard 2v prescription prescribe 变法同receive reception
-physic              名 医学即治疗的艺术 药品 动 给服药 2n1v physician
-asset               名 资产如钱 优势指人的 有用有价值的人或物
-cope                动 应付
-crash               名动 碰撞如车 坠毁如飞机  形似 crack crush crust
-cultivate           动 耕作 培养即教育 形同civilize
-estate              名 房地产英式英语 财产尤指遗产 2n elite
-vulnerable          形 脆弱的 易受伤害的
-appetite            名 食欲 欲望
-appetizer           名 开胃菜
-appetizing          形 引起食欲的
-chore               名 家务活 单调且必做的任务
-conventional        名 传统的 墨守成规的指人 convention 名 习俗 惯例 大会 多了一个大会而已 
-counterpart         名 相当的人如地位相当 对应物
-counterproductive   形 适得其反的
-hinder              动 妨碍
-humanity            名 人类 人性 人文 3n
-myth                动 神话故事
-tutor               名 导师特指大学里的 家庭教师 2种老师 mentor 名 导师 动 指导
-commitment          名 承诺 责任感用于人
-contaminate         动 染
-contamination       名 污染
+spouse              名 配偶 丈夫或妻子:与他们的伴侣有关的丈夫或妻子
+automate            动 使自动化 使(一个过程或设施)基本上由自动化设备操作 同根词automatic
+heritage            名 遗产 可以继承的财产 引申到文化遗产 有价值的物品和品质，如历史建筑和文化传统，已经从前几代传下来 意似legacy
+perception          名 感觉 通过感官看到、听到或意识到某事的能力 看法 看待、理解或解释某事的方式 引申到洞察 直觉的理解和洞察力
+perceive            动 察觉 意识到(某事);意识到或理解 把...看作 以特殊的方式解释或关注(某人或某物) 形似prescription prescribe receive reception
+physic              名 药品 medicinal drugs 引申到治愈 the art of healing 动 给服药治愈 treat with a medicine 是physician的词源
+asset               名 资产优势有价值的人 有用的或有价值的东西或人 有价值的金钱是资产有价值的抽象东西是优势 如美貌
+cope                动 应付处理 (指人)有效地处理困难的事情或(指机器或系统)有能力成功地处理
+crash               动 碰撞 (指车辆)与障碍物或其他车辆猛烈相撞 专门指的是机动车 引申到(指飞机)从天上掉下来撞到陆地或海上 声响很大地猛冲 以力量、速度和突然的巨响移动或使其移动 暴跌 (指股票、生意等)价值突然下降或失败 非正式说法 死机 (指计算机、计算系统或软件)突然失灵 动 碰撞 飞机坠落撞地 声响很大地猛冲 暴跌 死机  形似crack crush crust
+cultivate           动 耕作 准备和使用(土地)种植庄稼或园艺 培养 努力获得或发展(某种品质或技能) 主语是获得者 形同civilize
+estate              名 庄园 乡间的大片土地，通常有大房子，由一个人、一个家庭或一个组织所有 引申到房地产 为住宅、工业或商业目的而开发的土地和现代建筑 英式说法 财产尤指遗产 某一特定的人所拥有的全部金钱和财产，尤指死后 形似elite
+vulnerable          形 易受伤害的 暴露于身体上或精神上可能受到攻击或伤害的 引申到人脆弱的 (指人)由于年龄、残疾或受到虐待或忽视的危险而需要特别照顾、支持或保护的
+appetite            名 食欲 满足身体需要的自然欲望，尤指对食物的需求 欲望 对某物的强烈渴望或喜爱
+appetizer           名 开胃菜 餐前或餐前主菜前吃的一小盘食物或饮料，以刺激食欲 也可以不是吃饭的兴趣其他事情的兴趣的东西
+appetizing          形 引起食欲的 stimulating one's appetite
+chore               名 例行工作特别是家务活 a routine task, especially a household one 引申到单调且必做的任务讨厌的工作 a tedious but necessary task
+conventional        名 符合习俗惯例的 基于或按照一般所做或相信的 如人墨守成规的艺术文学作品传统的武器非核武器的 词根convention
+counterpart         名 相当的人对应物 与另一个人或物在不同地点或情况下相对应或具有相同功能的人或物 如职位相当法国总统和美国总统
+counterproductive   形 适得其反的 having the opposite of the desired effect:
+hinder              动 妨碍 使(某人)做某事或使(某事)发生困难 辨析hamper hinder 两者几乎一致很多人不知道确切的区别"hinder" 是常说的 创造了困难阻碍障碍啥的 "hamper"是说阻碍了某件事 在这件事发展的过程中 不能在进程的开始时说hamper
+humanity            名 人类集合名词 human beings collectively 人道 the quality of being humane; benevolence 人文学科 与人类文化有关的学问，尤指文学、历史、艺术、音乐和哲学 多做humanities
+myth                动 神话故事 一种传统的故事，尤指关于一个民族的早期历史或解释自然或社会现象的故事，通常涉及超自然的存在或事件 普遍的错误观念 广泛持有但错误的信念或观念
+tutor               名 家庭教师 私人教师，通常只教一个学生或一小群学生 引申到导师 大学或学院负责教学和监督指定学生的老师 英式说法 意似mentor
+commitment          名 献身忠诚 献身于某一事业、活动等的状态或性质 引申到承诺 a pledge or undertaking 责任感 限制行动自由的约定或义务
+contaminate         动 污染 通过接触或添加有毒或污染物质使(某物)不纯净
+contamination       名 污染 因污染或中毒而使或被玷污的行为或状态
 faculty             名 才能 学院 全体教师 faulty dean facility
 garbage             名 垃圾 废话 garage 
 justice             名 公平 公正 
