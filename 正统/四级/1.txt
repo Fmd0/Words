@@ -43,25 +43,25 @@ tutor               名 家庭教师 私人教师，通常只教一个学生或�
 commitment          名 献身忠诚 献身于某一事业、活动等的状态或性质 引申到承诺 a pledge or undertaking 责任感 限制行动自由的约定或义务
 contaminate         动 污染 通过接触或添加有毒或污染物质使(某物)不纯净
 contamination       名 污染 因污染或中毒而使或被玷污的行为或状态
-faculty             名 才能 学院 全体教师 faulty dean facility
-garbage             名 垃圾 废话 garage 
-justice             名 公平 公正 
-proverb             名 谚语 idiom
-resolve             动 决定下决心 解决 分解 名 决定 决心 意似dissolve
-resolution          名 决心 分辨率 读音变化和reside和resident一样 意同determination
-romantic            形 浪漫的 自然和名词浪漫同根 名 浪漫的人
-romance             名 浪漫   
-shed                名 棚 动 摆脱
-shuttle             名 航天飞机 名动 往返两地
-shuffle             名 洗牌
-therapy             名 治疗
-artistic            形 艺术的
-cereal              名 谷物 
-serial              名 连续剧 形 一连串的 真的同音 series 名 一系列 连续剧 词性微小区别
-era                 名 时代
-infant              名 婴儿 初期如某个政党
-liberal             形 自由的 名 自由主义者
-liberty             名 自由 和自由的同源但不同根  
-oven                名 烤箱
-librarian           名 图书管理员
-weep                动 哭泣 weed 海草
+faculty             名 机能 内在的精神或身体的力量 引申到天赋才能 an aptitude for doing something 学院 与某一主要知识部门有关的一组院系 引申到全体教师 作为一个整体的一组大学院系的教学或研究人 形似faulty facility 意似dean
+garbage             名 垃圾 垃圾或废物，尤指家庭垃圾 引申到废物废话无用的或无意义的材料或想法或者计算机中的垃圾计算机内存中不需要的数据 引申义的废物指的是无用的东西 形似garage 
+justice             名 公正 just behaviour or treatment 形容行为对待方式 引申到公平 the quality of being fair and reasonable 是一种品质 或司法 法律或权力机构的管理以维持这一点
+proverb             名 谚语 短小精悍的名言，陈述普遍的真理或建议 意似idiom
+resolve             动 解决 解决或找到解决(问题或有争议的事情)的办法 下决心 坚定地决定一个行动方针 分解 分离或使分离成组成部分或组成部分 化学用语 名 决定决心 firm determination to do something 意似dissolve
+resolution          名 决心 做或不做某事的坚定决定 坚定 坚定或坚决的品质 一种品质 解决 解决问题或有争议的事情的行动 分解 将某物还原或分离成组成部分或成分的过程 还是化学用语 分辨率清晰度 用望远镜或其他科学仪器测量到的最小间隔;分辨能力 形似reside resident一 意同determination
+romantic            形 浪漫的 有利于或以爱的表达为特征的 名 浪漫的人 有浪漫信仰或态度的人 同根词romance
+romance             名 浪漫 与爱情有关的兴奋和神秘的感觉 
+shed                名 棚 一种简单的有顶的结构，用于花园储藏、动物收容所或作为工作间 动 把车停在放车的仓库 park (a vehicle) in a depot 使脱落 (指树或其它植物)让(叶子或果实)落在地上 摆脱消减 丢弃(不受欢迎的、多余的或过时的东西) 如多余的职位体重
+shuttle             名 往返两地的运输工具 定期往返于两地之间的一种交通工具 航天飞机 一种火箭发射的航天器，能像无动力飞机一样着陆，用于在地球和太空之间重复飞行 同space shuttle 动 往返旅行 travel regularly between two or more places 往返运送 transport in a shuttle 如乘客
+shuffle             动 拖着脚走 拖着脚走路或不把脚完全抬离地面 洗牌 重新排列(一副纸牌):快速地将它们相互滑动 名 拖着脚走行为声音 洗牌行为 
+therapy             名 治疗 旨在减轻或治愈疾病的治疗 引申到心理治疗 通过言语交流和互动来治疗精神疾病
+artistic            形 艺术天赋的 具有或显示出自然的创造能力的 引申到艺术的relating to or characteristic of art or artists或精美的aesthetically pleasing:
+cereal              名 谷物 用作食物的谷物，如小麦、玉米或黑麦 
+serial              形 一连串的连载的 由系列组成、构成系列的一部分或发生系列的 连环的 反复犯下同样的罪行，并典型地遵循一种典型的、可预测的行为模式 名 连续剧连载小说 在电视、广播或杂志上定期出现的故事或戏剧 音同cereal 音似series
+era                 名 时代 a long and distinct period of history
+infant              名 婴儿幼儿 a very young child or baby 引申到学童 年龄在四到八岁之间的学童 英式说法 或初期 指处于发展初期的某物的 
+liberal             形 思想开明的 愿意尊重或接受与自己不同的行为或意见的;接受新想法的 引申到支持变革的 (在政治语境中)支持社会进步和促进社会福利的政策 自由主义的 关于或表示促进个人权利、公民自由、民主和自由企业的政治和社会哲学的 名 思想开明支持变革的人 支持社会进步和促进社会福利的政策的人 自由主义者 提倡个人权利、公民自由、民主和自由企业的政治和社会哲学的支持者 自是词根
+liberty             名 自由 社会中不受权威对一个人的生活方式、行为或政治观点施加的压迫性限制的自由状态 自是词根 词源同liberal
+oven                名 烤箱 一个封闭的隔间，通常是炊具的一部分，用于烹饪和加热食物 引申到极热的地方 used to describe a very hot place 意似furnace
+librarian           名 图书管理员 a person in charge of or assisting in a library
+weep                动 哭泣 shed tears 流脓渗出液体 exude liquid 形似weed 海草
