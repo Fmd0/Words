@@ -1,47 +1,47 @@
-stimulate                   动 激励兴趣创造性等 促进功能生物学单词
-trivial                     形 不重要的
-tuition                     名 学费 讲授对个人或是小组 强调的重点在于人很少 多数为前者意思
-ethic                       名 道德准则 形 道德准则的 和moral完全一样
-ethical                     形 道德准则的 就是ethic的形容词部分
-infrastructure              名 基础设施 引申自下层建筑
-particle                    名 颗粒如沙子 粒子物理学词语
-rational                    形 理性的 合理的 有理数的 rational number 有理数
-ration                      名 配给量 动 定量供应 都是指食物
-resort                      名 招数即动词诉诸的名词形式极端不受欢迎的行动 度假胜地 动 诉诸 为了解决困境采取的行动通常极端不受欢迎 用法为resort to
-rival                       名 竞争对手 形 相互竞争的 动 比得上 不多见
-shrink                      名 精神病医生 动 缩小 退缩
-sophisticate                名 老于世故的人  动 使更精确 使老于世故
-sustain                     动 维持如兴趣友谊生活生态 同miantain
-thrive                      动 茁壮成长如小孩树动物 繁荣如商业工厂
-appliance                   名 家用电器
-breed                       名 品种 动 培育 繁殖如动物发生了繁殖 培育是及物繁殖却是不及物
-combat                      名动 战斗 
-commission                  名 委员会 佣金 最常见的两种意思 和commitment承诺不同
-corps                       名 军事部队
-disorder                    名动混乱 名失调紊乱指疾病
-dispute                     名动 争论 争吵
-inflate                     动 充气如球 过分增加量 如夸大 经济学造成通货膨胀
-deflate                     动 放气 使泄气即失去信心热情 经济学造成通货紧缩
-inner                       形 里面的 核心的 名 里面
-procedure                   名 程序 步骤
-span                        名 范围 动 跨越 
-tragedy                     名 灾难 悲剧
-diplomat                    名 外交官 人 diploma diplomatic
-dolphin                     名 海豚
-crack                       名 裂缝 动 裂开 后面加er后缀就是黑客 薄脆饼干
-entitle                     动 使享有权利使有权 题名
-entity                      名 实体 明显独立的存在
-episode                     名 一集 series serial
-eclipse                     名 日食 月食 glimpse尾音一致
-fascinate                   名 迷住 和 fascination 自成一根
-genius                      名 天才 天资 形似genuine
-gravity                     名 重力 严肃  grave 名 坟墓 形 严肃的 是重力词根
-initiative                  名 主动性 主动行为 少了个音
-initiate                    动 开始
-luxury                      名 奢华 奢侈 形 奢侈的 奢华的
-keen                        形 渴望的 热心的
-mechanic                    名 技工
-mill                        名 磨坊 grind powder
+stimulate                   动 刺激 提高(身体或任何生物系统的)生理或神经活动水平 生理学上的刺激 引申到激励 鼓励或激起兴趣或热情 或促进 鼓励(某一状态或过程)活动的发展或增加 词根stimulus
+trivial                     形 不重要的 of little value or importance 引申到人浅薄的 (指人)只关心琐碎的事情 
+tuition                     名 教学指导讲授 教学或指导，尤指对个别学生或小团体的 关键点是人少 引申到学费 学院或大学收取的一笔教学费用 北美说法
+ethic                       名 道德准则 一套道德原则，尤指与某一特定群体、领域或行为形式有关或肯定的道德原则 形 道德准则的 与道德原则或与道德原则有关的知识分支的 使用较少说是 意同moral
+ethical                     形 道德准则的 与道德原则或与道德原则有关的知识分支的 就是ethic的形容词部分 引申到合乎道德的 morally good or correct (药品)凭处方出售的 (指药物)只能凭医生的处方合法获得，通常不对公众做广告
+infrastructure              名 基础设施 一个社会或企业运作所需的基本物质和组织结构和设施(如建筑物、道路、电力供应) 词源infra+structure下层建筑
+particle                    名 颗粒 a minute(微小的) portion of matter 形容物理的东西 引申到粒子 物理世界中相互作用的亚原子成分，包括原子、分子、电子、质子、中子和光子 物理学用语 最小可能量 the least possible amount 形容抽象的东西 如证据 用法the least particle of evidence
+rational                    形 合理的 基于或符合理性或逻辑的 引申到理性的 able to think sensibly or logically 一种形容人的品质 有理数的 rational number 有理数的 可表达的或包含可表达的量的(数字、量或表达式)，如整数的比例 数学用语 意似irrational 意思一一对应
+ration                      名 配给量定量 在短缺时期(如战时)官方允许每人获得的固定数量的商品 引申到定量食物口粮 定期供应的食物数量，尤指在战争期间提供给武装部队成员的食物 用法rations 动 定量供应 允许每个人只拥有固定数量的(一种商品) 
+resort                      名 度假胜地 经常为度假、娱乐或特殊目的而去的地方 诉诸 在困难的情况下采取行动的行为 引申到手段  a course of action that is resorted to 即诉诸的内容 动 诉诸 转向并采取(一种行动，尤指极端的或不受欢迎的行动)以解决困境 用法resort to (诉诸的东西)
+rival                       名 竞争对手 在同一活动领域为同一目标或优势与另一个人或物竞争 引申到可与之相比的人(或物) 在质量上与另一个人或物相等的人或物 动 与...不相上下 be or seem to be equal or comparable to 同根词rivalry 名 竞争
+shrink                      动 缩小 在尺寸或数量上变小 如缩水(指衣服或材料)由于浸没在水中而变小 退缩回避 后退或离开，尤指因为害怕或厌恶 名 精神病医生 a psychiatrist 非正式说法
+sophisticate                名 老于世故的人 具有丰富的世俗经验和时尚文化知识的人 动 使物体更精确使人更老于世故 make (someone or something) more sophisticated
+sustain                     动 支持支撑 身体上或精神上的加强或支持 遭受 遭受(不愉快的事，尤指受伤) 使...持续维持 使持续一段时间或不间断地继续下去 认可确认 支持、确认或确认…的公正或有效性 形似maintain
+thrive                      动 茁壮成长 (指儿童、动物或植物)茁壮成长 引申到繁荣 prosper; flourish
+appliance                   名 器具 为执行特定任务而设计的装置或设备 短语an electrical appliance 电器 所以本身不是电器的意思 应用 the action or process of bringing something into operation 强调的是应用的行为 如应用科学手段
+breed                       动 交配繁殖 (指动物)交配然后生育后代 名 品种 一个物种中具有独特外观的动物或植物的种群，通常是经过有意的选择而发展起来的 形容动植物 引申到类型种类 a sort or kind of person or thing 形容人物品
+combat                      名 战斗 武装部队之间的战斗 引申到非暴力的冲突或对抗 如选举战斗 动 与...斗争防止 采取行动减少或防止(坏的或不受欢迎的事情)
+commission                  名 委托命令授权 给予某人或一群人的指示、命令或角色 委员会 受政府或其他官方机构授权做某事的一群人 佣金 在商业交易中付给代理人的一笔款项，通常为所涉价值的一定百分比 委任状 授予陆军、海军或空军军官军衔的授权令 犯罪行为 the action of committing a crime or offence 动 委托命令授权 命令或授权生产(某物) 将...投入生产 使(新生产的东西)进入工作状态 委任 任命(某人)为陆军、海军或空军的军官 词根commit 同根词commitment
+corps                       名 军 部队的主要分支，由两个或两个以上的师组成 就是军队大小的衡量单位 注意 集团军：Army  军：Corps  师：Division  旅：Brigade  团：Regiment
+disorder                    名 混乱 a state of confusion 引申到骚乱 和平及守法公众行为的崩溃 或紊乱 破坏正常身体或精神功能的疾病或状况 动 使混乱 破坏系统的功能或整洁的安排
+dispute                     名 争论争议 a disagreement or argument 动 争论就...发生争论 argue about (something) 争夺竞争 compete for; strive to win:
+inflate                     动 给...充气使...膨胀 给(气球、轮胎或其它可膨胀的结构)充气使其膨胀 物理的且是原意 过分增加 大量或过量地增加(某物) 引申到夸大 exaggerate 开始形容抽象的东西了 使通货膨胀 造成(货币)或(经济)的通货膨胀 具体的某个方面的意思
+deflate                     动 放气 放出空气或气体(轮胎、气球或类似物体) 使泄气 使(某人)突然失去信心或感到沮丧 使通货紧缩 使(经济)价格水平普遍下降 意似inflate 一一对应都是物理抽象最后到经济学
+inner                       形 里面的 位于内部或很里面的;内部的 引申到靠近(权力)中心的核心的 内心的 mental or spiritual 名 内部里面  the inner part of something
+procedure                   名 程序步骤 做某事的既定的或官方的方式或按一定顺序或方式进行的一系列行动 计算机程序 此时同subroutine 名 子程序 一组指令，用于执行程序中经常使用的操作
+span                        名 范围宽度 某物从一端到另一端的全部范围;空间:某物所覆盖的空间 形容物理的 持续时间段 某物持续的时间长度 动 跨越 (指桥、拱等)从一侧延伸到另一侧 优美的说法了 持续涵盖(跨越时间主题) 跨越(一段时间或一系列主题)
+tragedy                     名 灾难 造成巨大痛苦、破坏和痛苦的事件，如严重事故、犯罪或自然灾害 悲剧 处理悲剧事件并有不幸结局的戏剧，尤指关于主角堕落的戏剧 
+diplomat                    名 外交官 an official representing a country abroad 有手腕的人 能以sensitive and tactful的方式与他人打交道的人 形似diploma diplomatic
+dolphin                     名 海豚 一种群居的小齿鲸，通常有喙状的嘴和背部弯曲的鳍。海豚因其善于交际的天性和高智商而闻名
+crack                       名 裂缝 某物表面的一条线，沿着这条线分裂而不破裂 引申到漏洞缺陷 噼啪声 突然的尖锐的或爆炸性的声音 挖苦嘲笑玩笑 笑话，尤指批评的或不友好的 非正式说法 尝试 an attempt to achieve something 动 非正式 裂开 在没有完全分离的情况下折断或导致断裂 噼啪作响 破解 找到解决办法;破译或解释 非正式 讲笑话 形 技艺高超的 very good or skilful 同根词cracker
+entitle                     动 使享有权利 授予(某人)接受或做某事的合法权利或正当要求 用法多是be entitled to 给...题名 give (something) a particular title
+entity                      名 实体 具有独特和独立存在的事物
+episode                     名 一个事件一组事件 作为一个序列的一部分而发生的事件或一组事件;孤立考虑的事件或时期 一集 连载故事或广播或电视节目被分成的每一部分 意似series serial
+eclipse                     名 日食月食 由于另一天体在其与观测者之间或在其与光源之间通过而使来自一天体的光变得模糊 音似glimpse
+fascinate                   名 迷住 attract the strong attention and interest of (someone) 同根词fascination 名 吸引力 吸引某人的力量;迷人的品质 迷住 the state of being fascinated 两者自成一根
+genius                      名 天资天赋 非凡的智力、创造力或其他天生的才能 天才 特别聪明的人或在某一特定活动领域具有特殊技能的人 形 天才的 very clever or ingenious 非正式 形似genuine genre
+gravity                     名 重力 把一个物体吸引到地心或其他有质量的物体的力 物理学用语 严重 extreme importance; seriousness 严肃 solemnity of manner  grave 名 坟墓 形 严肃的 是重力词根
+initiative                  名 主动性 独立评估和启动工作的能力 主动权 在别人之前行动或掌权的权力或机会 注意相比initiate少了个音
+initiate                    动 开始 cause (a process or action) to begin 使...加入 接纳(某人)进入一个秘密的或不知名的社会或团体，通常是通过仪式 引申到传授 介绍某人认识(一项特别的活动或技能，尤指困难的或晦涩的) 用法initiate (someone) in/into 名 新加入组织的人 a person who has been initiated into an organization or activity
+luxury                      名 奢华奢侈 非常舒适或优雅的状态，尤指花费巨大 引申到奢侈品昂贵或难以获得的不重要的、令人渴望的物品 形 奢侈奢华的 luxurious or of the nature of a luxury
+keen                        形 渴望热情的 具有或表现出渴望或热情的 引申到着迷的喜欢的 对(某人或某事)感兴趣或被吸引 用法keen on 灵敏敏锐的 (指某种生理感觉)高度发达的 锋利的 (指刀片的边缘或尖端)锋利的
+mechanic                    名 技工 修理和保养汽车发动机和其他机械的熟练工人 自是词根 词源同machine
+mill                        名 磨坊 装有将谷物磨成面粉的机器的建筑物 动 磨 grind (something) in a mill 意似grind powder
 nerve                       名 神经 勇气等于courage gut
 occasion                    名 场合时机 某次 occasionally 偶然 
 outlet                      名 油气水排放口 drain discharge
@@ -74,8 +74,6 @@ excel                       动 擅长 胜过超过
 fancy                       名动 幻想 想要  和fanciful自成一根 favor fascinate fantastic
 gamble                      动 赌博
 garble                      动 使...错乱 篡改
-
-
 emission                    名 排放物
 diploma                     名 毕业文凭
 diplomatic                  形 外交的 外交人员的
