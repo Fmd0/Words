@@ -26,8 +26,8 @@ antibiotic          名 抗生素 抑制微生物生长或消灭微生物 形 �
 exhaust             动 使筋疲力竭 用于人 耗尽 如资源 意似drain 动 排水要排光的那种 耗尽精力活力 名 排水管下水道
 engine              名 引擎发动机 将能量转化为运动
 chronic             形 慢性的长期的 形容疾病持续很长时间或不断复发 所以这种疾病通常不致命 反义词acute 疾病严重但是短期
-facilitate          动 使容易 如资源共享 make (an action or process) easy or easier 词根facility 意似expedite 动 促进 加快 使动作或进程更快
-irritate            动 使恼怒 刺激 引起身体的不适 如刺激皮肤
+facilitate          动 促进使容易 如资源共享 make (an action or process) easy or easier 词根facility 意似expedite 动 促进 加快 使动作或进程更快
+irritate            动 使恼怒 刺激 引起身体的不适 如刺激皮肤 意似provoke 差不多是子集
 pasta               名 意大利面食 pasta是意大利面的统称，spaghetti是其中一种，叫细面，但现在几乎就等同于意大利面的代称。
 prime               形 首要的 即最重要的 最好的 指质量 如肉 名 盛年 人一生中最有活力或最成功的时期 质数
 underestimate       名动 低估 估计的值小了
